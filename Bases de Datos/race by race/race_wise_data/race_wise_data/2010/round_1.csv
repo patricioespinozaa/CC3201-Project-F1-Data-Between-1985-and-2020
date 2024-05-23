@@ -1,0 +1,23 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+10303,2010,1,bahrain,True,False,False,False,False,vettel,German,red_bull,1,4,0,0,0,0,0,0,0.0,22
+10301,2010,1,bahrain,True,False,False,False,False,massa,Brazilian,ferrari,2,2,0,0,0,0,0,0,0.1000000000000085,28
+10300,2010,1,bahrain,True,False,False,False,False,alonso,Spanish,ferrari,3,1,0,0,0,0,0,0,0.5,28
+10302,2010,1,bahrain,True,False,False,False,False,hamilton,British,mclaren,4,3,0,0,0,0,0,0,1.1000000000000083,25
+10304,2010,1,bahrain,True,False,False,False,False,rosberg,German,mercedes,5,5,0,0,0,0,0,0,1.1000000000000083,24
+10307,2010,1,bahrain,True,False,False,False,False,webber,Australian,red_bull,6,8,0,0,0,0,0,0,1.2000000000000028,33
+10305,2010,1,bahrain,True,False,False,False,False,michael_schumacher,German,mercedes,7,6,0,0,0,0,0,0,1.4000000000000057,41
+10306,2010,1,bahrain,True,False,False,False,False,button,British,mclaren,8,7,0,0,0,0,0,0,1.6000000000000083,30
+10310,2010,1,bahrain,True,False,False,False,False,kubica,Polish,renault,9,11,0,0,0,0,0,0,1.8000000000000114,25
+10311,2010,1,bahrain,True,False,False,False,False,sutil,German,force_india,10,12,0,0,0,0,0,0,2.200000000000003,27
+10309,2010,1,bahrain,True,False,False,False,False,barrichello,Brazilian,williams,11,10,0,0,0,0,0,0,1.2000000000000028,37
+10308,2010,1,bahrain,True,False,False,False,False,liuzzi,Italian,force_india,12,9,0,0,0,0,0,0,1.6000000000000083,29
+10313,2010,1,bahrain,True,False,False,False,False,hulkenberg,German,williams,13,14,0,0,0,0,0,0,1.8000000000000114,22
+10317,2010,1,bahrain,True,False,False,False,False,rosa,Spanish,sauber,14,18,0,0,0,0,0,0,2.1000000000000085,39
+10315,2010,1,bahrain,True,False,False,False,False,buemi,Swiss,toro_rosso,15,16,0,0,0,0,0,0,2.200000000000003,21
+10320,2010,1,bahrain,True,False,False,False,False,kobayashi,Japanese,sauber,16,22,0,0,0,0,0,0,2.200000000000003,23
+10319,2010,1,bahrain,True,False,False,False,False,petrov,Russian,renault,17,21,0,0,0,0,0,0,2.5,25
+10312,2010,1,bahrain,True,False,False,False,False,alguersuari,Spanish,toro_rosso,18,13,0,0,0,0,0,0,3.0,19
+10318,2010,1,bahrain,True,False,False,False,False,glock,German,virgin,19,20,0,0,0,0,0,0,5.6000000000000085,27
+10316,2010,1,bahrain,True,False,False,False,False,trulli,Italian,lotus_racing,20,17,0,0,0,0,0,0,5.800000000000011,35
+10314,2010,1,bahrain,True,False,False,False,False,kovalainen,Finnish,lotus_racing,21,15,0,0,0,0,0,0,6.200000000000003,28
+10321,2010,1,bahrain,True,False,False,False,False,grassi,Brazilian,virgin,22,23,0,0,0,0,0,0,6.5,25

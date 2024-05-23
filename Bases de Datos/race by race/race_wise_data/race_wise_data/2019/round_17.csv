@@ -1,0 +1,19 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+14439,2019,17,suzuka,True,False,False,False,False,vettel,German,ferrari,1,2,194,1,5,409,3,2,0.0,32
+14443,2019,17,suzuka,True,False,False,False,False,leclerc,Monegasque,ferrari,2,6,215,2,3,409,3,2,0.2000000000000028,21
+14438,2019,17,suzuka,True,False,False,False,False,bottas,Finnish,mercedes,3,1,249,2,2,571,11,1,0.2000000000000028,30
+14440,2019,17,suzuka,True,False,False,False,False,hamilton,British,mercedes,4,3,322,9,1,571,11,1,0.2000000000000028,34
+14454,2019,17,suzuka,True,False,False,False,False,max_verstappen,Dutch,red_bull,5,18,212,2,4,311,2,3,0.8000000000000114,22
+14441,2019,17,suzuka,True,False,False,False,False,albon,Thai,red_bull,6,4,52,0,8,311,2,3,0.8000000000000114,23
+14442,2019,17,suzuka,True,False,False,False,False,sainz,Spanish,mclaren,7,5,66,0,7,101,0,4,1.2000000000000028,25
+14448,2019,17,suzuka,True,False,False,False,False,norris,British,mclaren,8,11,35,0,9,101,0,4,1.4000000000000057,19
+14444,2019,17,suzuka,True,False,False,False,False,gasly,French,toro_rosso,9,7,69,0,6,55,0,6,1.7000000000000028,23
+14450,2019,17,suzuka,True,False,False,False,False,grosjean,French,haas,10,13,8,0,17,28,0,9,2.200000000000003,33
+14451,2019,17,suzuka,True,False,False,False,False,giovinazzi,Italian,alfa,11,14,4,0,18,35,0,8,2.200000000000003,25
+14446,2019,17,suzuka,True,False,False,False,False,stroll,Canadian,racing_point,12,9,19,0,16,52,0,7,2.200000000000003,20
+14449,2019,17,suzuka,True,False,False,False,False,raikkonen,Finnish,alfa,13,12,31,0,14,35,0,8,2.300000000000012,39
+14447,2019,17,suzuka,True,False,False,False,False,kvyat,Russian,toro_rosso,14,10,33,0,12,55,0,6,2.5,25
+14456,2019,17,suzuka,True,False,False,False,False,hulkenberg,German,renault,15,20,34,0,11,68,0,5,3.0,32
+14455,2019,17,suzuka,True,False,False,False,False,ricciardo,Australian,renault,16,19,34,0,10,68,0,5,2.700000000000003,30
+14445,2019,17,suzuka,True,False,False,False,False,perez,Mexican,racing_point,17,8,33,0,13,52,0,7,3.200000000000003,29
+14453,2019,17,suzuka,True,False,False,False,False,russell,British,williams,18,16,0,0,20,1,0,10,3.300000000000012,21

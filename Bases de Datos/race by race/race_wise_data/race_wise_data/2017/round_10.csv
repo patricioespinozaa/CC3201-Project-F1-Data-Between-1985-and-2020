@@ -1,0 +1,21 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+13493,2017,10,silverstone,False,False,False,False,True,hamilton,British,mercedes,1,1,151,3,2,287,5,1,0.0,32
+13495,2017,10,silverstone,False,False,False,False,True,raikkonen,Finnish,ferrari,2,3,83,0,5,254,3,2,0.5,37
+13499,2017,10,silverstone,False,False,False,False,True,vettel,German,ferrari,3,7,171,3,1,254,3,2,0.8000000000000114,30
+13496,2017,10,silverstone,False,False,False,False,True,max_verstappen,Dutch,red_bull,4,4,45,0,7,152,1,3,1.5,19
+13498,2017,10,silverstone,False,False,False,False,True,hulkenberg,German,renault,5,6,18,0,12,18,0,8,2.300000000000012,29
+13501,2017,10,silverstone,False,False,False,False,True,perez,Mexican,force_india,6,9,50,0,6,89,0,4,2.300000000000012,27
+13500,2017,10,silverstone,False,False,False,False,True,ocon,French,force_india,7,8,39,0,8,89,0,4,2.5,20
+13503,2017,10,silverstone,False,False,False,False,True,vandoorne,Belgian,mclaren,8,11,0,0,20,2,0,10,2.800000000000012,25
+13494,2017,10,silverstone,False,False,False,False,True,bottas,Finnish,mercedes,9,2,136,2,3,287,5,1,0.8000000000000114,27
+13505,2017,10,silverstone,False,False,False,False,True,grosjean,French,haas,10,13,18,0,13,29,0,7,2.9000000000000057,31
+13512,2017,10,silverstone,False,False,False,False,True,jolyon_palmer,British,renault,11,20,0,0,18,18,0,8,3.6000000000000085,26
+13507,2017,10,silverstone,False,False,False,False,True,kvyat,Russian,toro_rosso,12,15,4,0,16,33,0,6,3.8000000000000114,23
+13511,2017,10,silverstone,False,False,False,False,True,sainz,Spanish,toro_rosso,13,19,29,0,9,33,0,6,4.800000000000011,22
+13502,2017,10,silverstone,False,False,False,False,True,massa,Brazilian,williams,14,10,22,0,10,40,0,5,4.900000000000006,36
+13508,2017,10,silverstone,False,False,False,False,True,stroll,Canadian,williams,15,16,18,0,11,40,0,5,16.0,18
+13504,2017,10,silverstone,False,False,False,False,True,kevin_magnussen,Danish,haas,16,12,11,0,14,29,0,7,16.0,24
+13509,2017,10,silverstone,False,False,False,False,True,wehrlein,German,sauber,17,17,5,0,15,5,0,9,16.0,22
+13506,2017,10,silverstone,False,False,False,False,True,ericsson,Swedish,sauber,18,14,0,0,19,5,0,9,16.0,26
+13497,2017,10,silverstone,False,False,False,False,True,ricciardo,Australian,red_bull,19,5,107,1,4,152,1,3,16.400000000000006,28
+13510,2017,10,silverstone,False,False,False,False,True,alonso,Spanish,mclaren,20,18,2,0,17,2,0,10,4.0,35

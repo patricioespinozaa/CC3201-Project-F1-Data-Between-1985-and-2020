@@ -1,0 +1,18 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+8108,2004,1,albert_park,False,False,True,False,False,michael_schumacher,German,ferrari,1,1,0,0,0,0,0,0,0.0,35
+8109,2004,1,albert_park,False,False,True,False,False,barrichello,Brazilian,ferrari,2,2,0,0,0,0,0,0,0.0999999999999943,31
+8112,2004,1,albert_park,False,False,True,False,False,montoya,Colombian,williams,3,5,0,0,0,0,0,0,0.5999999999999943,28
+8113,2004,1,albert_park,False,False,True,False,False,button,British,bar,4,6,0,0,0,0,0,0,0.5999999999999943,24
+8110,2004,1,albert_park,False,False,True,False,False,alonso,Spanish,renault,5,3,0,0,0,0,0,0,1.2999999999999972,22
+8125,2004,1,albert_park,False,False,True,False,False,webber,Australian,jaguar,6,18,0,0,0,0,0,0,1.3999999999999917,27
+8116,2004,1,albert_park,False,False,True,False,False,sato,Japanese,bar,7,9,0,0,0,0,0,0,1.5,27
+8111,2004,1,albert_park,False,False,True,False,False,ralf_schumacher,German,williams,8,4,0,0,0,0,0,0,1.5,28
+8114,2004,1,albert_park,False,False,True,False,False,trulli,Italian,renault,9,7,0,0,0,0,0,0,1.8999999999999917,29
+8127,2004,1,albert_park,False,False,True,False,False,raikkonen,Finnish,mclaren,10,20,0,0,0,0,0,0,1.8999999999999917,24
+8122,2004,1,albert_park,False,False,True,False,False,massa,Brazilian,sauber,11,15,0,0,0,0,0,0,2.6999999999999886,22
+8115,2004,1,albert_park,False,False,True,False,False,coulthard,British,mclaren,12,8,0,0,0,0,0,0,2.8999999999999915,32
+8119,2004,1,albert_park,False,False,True,False,False,matta,Brazilian,toyota,13,12,0,0,0,0,0,0,3.3999999999999915,30
+8117,2004,1,albert_park,False,False,True,False,False,fisichella,Italian,sauber,14,10,0,0,0,0,0,0,3.3999999999999915,31
+8123,2004,1,albert_park,False,False,True,False,False,heidfeld,German,jordan,15,16,0,0,0,0,0,0,3.799999999999997,26
+8121,2004,1,albert_park,False,False,True,False,False,pantano,Italian,jordan,16,14,0,0,0,0,0,0,5.699999999999989,25
+8126,2004,1,albert_park,False,False,True,False,False,baumgartner,Hungarian,minardi,17,19,0,0,0,0,0,0,6.299999999999997,23

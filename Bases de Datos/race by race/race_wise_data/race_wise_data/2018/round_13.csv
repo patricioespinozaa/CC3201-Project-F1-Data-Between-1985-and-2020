@@ -1,0 +1,19 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+13949,2018,13,spa,False,False,False,False,False,hamilton,British,mercedes,1,2,213,5,1,345,5,1,0.0,33
+13948,2018,13,spa,False,False,False,False,False,vettel,German,ferrari,2,1,189,4,2,335,4,2,0.7000000000000028,31
+13953,2018,13,spa,False,False,False,False,False,ocon,French,force_india,3,6,29,0,12,59,0,6,3.700000000000003,21
+13952,2018,13,spa,False,False,False,False,False,perez,Mexican,force_india,4,5,30,0,10,59,0,6,3.700000000000003,28
+13954,2018,13,spa,False,False,False,False,False,grosjean,French,haas,5,7,21,0,14,66,0,5,3.899999999999992,32
+13964,2018,13,spa,False,False,False,False,False,raikkonen,Finnish,ferrari,6,17,146,0,3,335,4,2,4.5,38
+13950,2018,13,spa,False,False,False,False,False,max_verstappen,Dutch,red_bull,7,3,105,1,6,223,3,3,4.599999999999994,20
+13963,2018,13,spa,False,False,False,False,False,ricciardo,Australian,red_bull,8,16,118,2,5,223,3,3,4.700000000000003,29
+13955,2018,13,spa,False,False,False,False,False,kevin_magnussen,Danish,haas,9,8,45,0,8,66,0,5,6.700000000000003,25
+13956,2018,13,spa,False,False,False,False,False,gasly,French,toro_rosso,10,9,26,0,13,28,0,8,-14.400000000000006,22
+13961,2018,13,spa,False,False,False,False,False,brendon_hartley,New Zealander,toro_rosso,11,14,2,0,19,28,0,8,-14.299999999999995,28
+13965,2018,13,spa,False,False,False,False,False,leclerc,Monegasque,sauber,12,18,13,0,15,18,0,9,-14.100000000000009,20
+13957,2018,13,spa,False,False,False,False,False,ericsson,Swedish,sauber,13,10,5,0,17,18,0,9,-13.900000000000006,27
+13958,2018,13,spa,False,False,False,False,False,sainz,Spanish,renault,14,11,30,0,11,82,0,4,-13.299999999999995,23
+13966,2018,13,spa,False,False,False,False,False,alonso,Spanish,mclaren,15,19,44,0,9,52,0,7,-13.200000000000005,37
+13959,2018,13,spa,False,False,False,False,False,sirotkin,Russian,williams,16,12,0,0,20,4,0,10,-13.100000000000009,22
+13951,2018,13,spa,False,False,False,False,False,bottas,Finnish,mercedes,19,4,132,0,4,345,5,1,-13.700000000000005,28
+13967,2018,13,spa,False,False,False,False,False,hulkenberg,German,renault,20,20,52,0,7,82,0,4,-12.900000000000006,31

@@ -1,0 +1,23 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+9261,2007,2,sepang,False,False,False,False,False,massa,Brazilian,ferrari,1,5,3,0,6,13,1,1,0.0,25
+9257,2007,2,sepang,False,False,False,False,False,alonso,Spanish,mclaren,2,1,8,0,2,14,0,11,0.2999999999999971,25
+9259,2007,2,sepang,False,False,False,False,False,raikkonen,Finnish,ferrari,3,3,10,1,1,13,1,1,0.5,27
+9258,2007,2,sepang,False,False,False,False,False,hamilton,British,mclaren,4,2,6,0,3,14,0,11,1.0,22
+9260,2007,2,sepang,False,False,False,False,False,heidfeld,German,bmw_sauber,5,4,5,0,4,5,0,2,1.5,29
+9275,2007,2,sepang,False,False,False,False,False,rosberg,German,williams,6,19,2,0,7,2,0,4,1.7999999999999972,21
+9274,2007,2,sepang,False,False,False,False,False,kubica,Polish,bmw_sauber,7,18,0,0,0,5,0,2,1.9000000000000057,22
+9263,2007,2,sepang,False,False,False,False,False,trulli,Italian,toyota,8,7,0,0,9,1,0,5,1.9000000000000057,32
+9271,2007,2,sepang,False,False,False,False,False,ralf_schumacher,German,toyota,9,15,1,0,8,1,0,5,2.0999999999999943,31
+9266,2007,2,sepang,False,False,False,False,False,webber,Australian,red_bull,10,10,0,0,13,0,0,8,2.299999999999997,30
+9264,2007,2,sepang,False,False,False,False,False,kovalainen,Finnish,renault,11,8,0,0,10,4,0,3,0.5999999999999943,25
+9262,2007,2,sepang,False,False,False,False,False,fisichella,Italian,renault,12,6,4,0,5,4,0,3,0.7000000000000028,34
+9276,2007,2,sepang,False,False,False,False,False,coulthard,British,red_bull,13,20,0,0,0,0,0,8,0.7999999999999972,36
+9269,2007,2,sepang,False,False,False,False,False,sato,Japanese,super_aguri,14,13,0,0,12,0,0,7,0.9000000000000057,30
+9268,2007,2,sepang,False,False,False,False,False,button,British,honda,15,12,0,0,15,0,0,6,1.0999999999999943,27
+9273,2007,2,sepang,False,False,False,False,False,liuzzi,Italian,toro_rosso,16,17,0,0,14,0,0,9,1.0999999999999943,26
+9270,2007,2,sepang,False,False,False,False,False,speed,American,toro_rosso,17,14,0,0,0,0,0,9,1.5999999999999943,24
+9272,2007,2,sepang,False,False,False,False,False,davidson,British,super_aguri,18,16,0,0,16,0,0,7,1.7999999999999972,27
+9265,2007,2,sepang,False,False,False,False,False,wurz,Austrian,williams,19,9,0,0,0,2,0,4,2.299999999999997,33
+9277,2007,2,sepang,False,False,False,False,False,albers,Dutch,spyker,20,21,0,0,0,0,0,10,3.299999999999997,27
+9278,2007,2,sepang,False,False,False,False,False,sutil,German,spyker,21,22,0,0,17,0,0,10,3.4000000000000057,24
+9267,2007,2,sepang,False,False,False,False,False,barrichello,Brazilian,honda,22,11,0,0,11,0,0,6,1.7999999999999972,34

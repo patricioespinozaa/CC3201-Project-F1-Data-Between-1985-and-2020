@@ -1,0 +1,22 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+12030,2013,17,yas_marina,True,False,False,False,False,webber,Australian,red_bull,1,2,148,0,5,470,10,1,0.0,37
+12029,2013,17,yas_marina,True,False,False,False,False,vettel,German,red_bull,2,1,322,10,1,470,10,1,0.0999999999999943,26
+12031,2013,17,yas_marina,True,False,False,False,False,rosberg,German,mercedes,3,3,144,2,6,313,3,2,0.4000000000000057,28
+12035,2013,17,yas_marina,True,False,False,False,False,hamilton,British,mercedes,4,7,169,1,4,313,3,2,0.5,28
+12042,2013,17,yas_marina,True,False,False,False,False,hulkenberg,German,sauber,5,14,39,0,11,45,0,7,0.5999999999999943,26
+12032,2013,17,yas_marina,True,False,False,False,False,grosjean,French,lotus_f1,6,4,102,0,7,285,1,4,1.0,27
+12036,2013,17,yas_marina,True,False,False,False,False,massa,Brazilian,ferrari,7,8,102,0,8,309,2,3,1.0,32
+12037,2013,17,yas_marina,True,False,False,False,False,perez,Mexican,mclaren,8,9,33,0,12,93,0,5,1.0999999999999943,23
+12044,2013,17,yas_marina,True,False,False,False,False,ricciardo,Australian,toro_rosso,9,16,19,0,14,32,0,8,1.0999999999999943,24
+12033,2013,17,yas_marina,True,False,False,False,False,alonso,Spanish,ferrari,10,5,207,2,2,309,2,3,1.0999999999999943,32
+12034,2013,17,yas_marina,True,False,False,False,False,resta,British,force_india,11,6,40,0,10,68,0,6,1.0999999999999943,27
+12040,2013,17,yas_marina,True,False,False,False,False,button,British,mclaren,12,12,60,0,9,93,0,5,1.2000000000000028,33
+12045,2013,17,yas_marina,True,False,False,False,False,vergne,French,toro_rosso,13,17,13,0,15,32,0,8,1.2999999999999972,23
+12039,2013,17,yas_marina,True,False,False,False,False,maldonado,Venezuelan,williams,14,11,1,0,17,1,0,9,1.4000000000000057,28
+12043,2013,17,yas_marina,True,False,False,False,False,bottas,Finnish,williams,15,15,0,0,18,1,0,9,1.4000000000000057,24
+12041,2013,17,yas_marina,True,False,False,False,False,gutierrez,Mexican,sauber,16,13,6,0,16,45,0,7,2.0,22
+12038,2013,17,yas_marina,True,False,False,False,False,sutil,German,force_india,17,10,28,0,13,68,0,6,2.0999999999999943,30
+12046,2013,17,yas_marina,True,False,False,False,False,garde,Dutch,caterham,18,18,0,0,21,0,0,11,3.299999999999997,28
+12047,2013,17,yas_marina,True,False,False,False,False,pic,French,caterham,19,19,0,0,20,0,0,11,3.5,23
+12049,2013,17,yas_marina,True,False,False,False,False,chilton,British,marussia,20,21,0,0,22,0,0,10,4.200000000000003,22
+12048,2013,17,yas_marina,True,False,False,False,False,jules_bianchi,French,marussia,21,20,0,0,19,0,0,10,3.4000000000000057,24

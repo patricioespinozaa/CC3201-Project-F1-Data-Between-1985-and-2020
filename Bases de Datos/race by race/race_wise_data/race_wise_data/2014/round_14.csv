@@ -1,0 +1,23 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+12373,2014,14,marina_bay,False,False,False,False,False,hamilton,British,mercedes,1,1,216,6,2,454,10,1,0.0,29
+12393,2014,14,marina_bay,False,False,False,False,False,rosberg,German,mercedes,2,21,238,4,1,454,10,1,0.0,29
+12375,2014,14,marina_bay,False,False,False,False,False,ricciardo,Australian,red_bull,3,3,166,3,3,272,3,2,0.2000000000000028,25
+12374,2014,14,marina_bay,False,False,False,False,False,vettel,German,red_bull,4,2,106,0,6,272,3,2,0.2000000000000028,27
+12376,2014,14,marina_bay,False,False,False,False,False,alonso,Spanish,ferrari,5,4,121,0,5,162,0,4,0.2000000000000028,33
+12377,2014,14,marina_bay,False,False,False,False,False,massa,Brazilian,williams,6,5,55,0,9,177,0,3,0.2999999999999971,33
+12380,2014,14,marina_bay,False,False,False,False,False,raikkonen,Finnish,ferrari,7,8,41,0,10,162,0,4,0.5,34
+12383,2014,14,marina_bay,False,False,False,False,False,bottas,Finnish,williams,8,11,122,0,4,177,0,3,0.5,25
+12382,2014,14,marina_bay,False,False,False,False,False,kevin_magnussen,Danish,mclaren,9,10,38,0,12,110,0,5,0.5999999999999943,21
+12386,2014,14,marina_bay,False,False,False,False,False,kvyat,Russian,toro_rosso,10,14,8,0,15,19,0,7,1.7000000000000028,20
+12390,2014,14,marina_bay,False,False,False,False,False,button,British,mclaren,11,18,72,0,7,110,0,5,1.2000000000000028,34
+12378,2014,14,marina_bay,False,False,False,False,False,vergne,French,toro_rosso,12,6,11,0,13,19,0,7,1.2999999999999972,24
+12381,2014,14,marina_bay,False,False,False,False,False,hulkenberg,German,force_india,13,9,70,0,8,109,0,6,1.5999999999999943,27
+12392,2014,14,marina_bay,False,False,False,False,False,gutierrez,Mexican,sauber,14,20,0,0,20,0,0,10,1.5999999999999943,23
+12379,2014,14,marina_bay,False,False,False,False,False,perez,Mexican,force_india,15,7,39,0,11,109,0,6,1.8999999999999917,24
+12385,2014,14,marina_bay,False,False,False,False,False,grosjean,French,lotus_f1,16,13,8,0,14,8,0,8,2.0999999999999943,28
+12391,2014,14,marina_bay,False,False,False,False,False,sutil,German,sauber,17,19,0,0,17,0,0,10,2.5999999999999943,31
+12384,2014,14,marina_bay,False,False,False,False,False,maldonado,Venezuelan,lotus_f1,18,12,0,0,19,8,0,8,3.3999999999999915,29
+12388,2014,14,marina_bay,False,False,False,False,False,jules_bianchi,French,marussia,19,16,2,0,16,2,0,9,3.700000000000003,25
+12394,2014,14,marina_bay,False,False,False,False,False,kobayashi,Japanese,caterham,20,22,0,0,22,0,0,11,4.700000000000003,28
+12389,2014,14,marina_bay,False,False,False,False,False,chilton,British,marussia,21,17,0,0,21,2,0,9,4.799999999999997,23
+12387,2014,14,marina_bay,False,False,False,False,False,ericsson,Swedish,caterham,22,15,0,0,18,0,0,11,6.599999999999994,24

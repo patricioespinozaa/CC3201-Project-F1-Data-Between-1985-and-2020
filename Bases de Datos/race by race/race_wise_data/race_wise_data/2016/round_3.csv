@@ -1,0 +1,20 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+12907,2016,3,shanghai,False,False,False,False,False,rosberg,German,mercedes,1,1,50,2,1,83,2,1,0.0,30
+12910,2016,3,shanghai,False,False,False,False,False,ricciardo,Australian,red_bull,2,4,24,0,3,30,0,3,0.5,26
+12911,2016,3,shanghai,False,False,False,False,False,raikkonen,Finnish,ferrari,3,5,18,0,4,33,0,2,0.5999999999999943,36
+12908,2016,3,shanghai,False,False,False,False,False,vettel,German,ferrari,4,2,15,0,6,33,0,2,0.7999999999999972,28
+12916,2016,3,shanghai,False,False,False,False,False,bottas,Finnish,williams,5,10,6,0,11,20,0,4,0.8999999999999915,26
+12909,2016,3,shanghai,False,False,False,False,False,kvyat,Russian,red_bull,6,3,6,0,10,30,0,3,1.0,21
+12917,2016,3,shanghai,False,False,False,False,False,perez,Mexican,force_india,7,11,0,0,17,6,0,7,1.5,26
+12915,2016,3,shanghai,False,False,False,False,False,sainz,Spanish,toro_rosso,8,9,2,0,12,11,0,6,1.5,21
+12914,2016,3,shanghai,False,False,False,False,False,max_verstappen,Dutch,toro_rosso,9,8,9,0,8,11,0,6,1.7999999999999972,18
+12912,2016,3,shanghai,False,False,False,False,False,massa,Brazilian,williams,10,6,14,0,7,20,0,4,1.8999999999999917,34
+12918,2016,3,shanghai,False,False,False,False,False,alonso,Spanish,mclaren,11,12,0,0,23,1,0,8,3.3999999999999915,34
+12919,2016,3,shanghai,False,False,False,False,False,button,British,mclaren,12,13,0,0,20,1,0,8,3.6999999999999886,36
+12925,2016,3,shanghai,False,False,False,False,False,grosjean,French,haas,14,19,18,0,5,18,0,5,4.399999999999992,30
+12922,2016,3,shanghai,False,False,False,False,False,ericsson,Swedish,sauber,15,16,0,0,16,0,0,10,5.299999999999997,25
+12926,2016,3,shanghai,False,False,False,False,False,nasr,Brazilian,sauber,16,20,0,0,19,0,0,10,7.0,23
+12923,2016,3,shanghai,False,False,False,False,False,kevin_magnussen,Danish,renault,17,17,0,0,14,0,0,9,3.299999999999997,23
+12920,2016,3,shanghai,False,False,False,False,False,gutierrez,Mexican,haas,18,14,0,0,22,18,0,5,3.3999999999999915,24
+12928,2016,3,shanghai,False,False,False,False,False,jolyon_palmer,British,renault,19,22,0,0,15,0,0,9,4.099999999999994,25
+12927,2016,3,shanghai,False,False,False,False,False,haryanto,Indonesian,manor,20,21,0,0,21,0,0,11,4.899999999999992,23

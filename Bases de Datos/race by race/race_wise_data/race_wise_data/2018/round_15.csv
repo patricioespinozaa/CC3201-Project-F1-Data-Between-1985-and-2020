@@ -1,0 +1,21 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+13988,2018,15,marina_bay,False,False,False,False,False,hamilton,British,mercedes,1,1,256,6,1,415,6,1,0.0,33
+13989,2018,15,marina_bay,False,False,False,False,False,max_verstappen,Dutch,red_bull,2,2,130,1,5,248,3,3,0.2999999999999971,20
+13990,2018,15,marina_bay,False,False,False,False,False,vettel,German,ferrari,3,3,226,5,2,390,5,2,0.5999999999999943,31
+13991,2018,15,marina_bay,False,False,False,False,False,bottas,Finnish,mercedes,4,4,159,0,4,415,6,1,0.7000000000000028,29
+13992,2018,15,marina_bay,False,False,False,False,False,raikkonen,Finnish,ferrari,5,5,164,0,3,390,5,2,0.7999999999999972,38
+13993,2018,15,marina_bay,False,False,False,False,False,ricciardo,Australian,red_bull,6,6,118,2,6,248,3,3,1.0,29
+14003,2018,15,marina_bay,False,False,False,False,False,perez,Mexican,force_india,7,16,46,0,9,32,0,7,2.0,28
+14002,2018,15,marina_bay,False,False,False,False,False,grosjean,French,haas,8,15,27,0,14,76,0,5,2.299999999999997,32
+14007,2018,15,marina_bay,False,False,False,False,False,ocon,French,force_india,9,20,45,0,10,32,0,7,2.4000000000000057,21
+13997,2018,15,marina_bay,False,False,False,False,False,hulkenberg,German,renault,10,10,52,0,7,86,0,4,2.5999999999999943,31
+13994,2018,15,marina_bay,False,False,False,False,False,alonso,Spanish,mclaren,11,7,44,0,11,52,0,6,2.5999999999999943,37
+13995,2018,15,marina_bay,False,False,False,False,False,sainz,Spanish,renault,12,8,34,0,12,86,0,4,2.700000000000003,24
+13996,2018,15,marina_bay,False,False,False,False,False,leclerc,Monegasque,sauber,13,9,13,0,15,19,0,9,2.700000000000003,20
+13998,2018,15,marina_bay,False,False,False,False,False,ericsson,Swedish,sauber,14,11,6,0,18,19,0,9,3.5,28
+14000,2018,15,marina_bay,False,False,False,False,False,gasly,French,toro_rosso,15,13,28,0,13,30,0,8,3.700000000000003,22
+14005,2018,15,marina_bay,False,False,False,False,False,kevin_magnussen,Danish,haas,16,18,49,0,8,76,0,5,3.5999999999999943,25
+14004,2018,15,marina_bay,False,False,False,False,False,brendon_hartley,New Zealander,toro_rosso,17,17,2,0,19,30,0,8,3.799999999999997,28
+13999,2018,15,marina_bay,False,False,False,False,False,vandoorne,Belgian,mclaren,18,12,8,0,16,52,0,6,3.9000000000000057,26
+14006,2018,15,marina_bay,False,False,False,False,False,sirotkin,Russian,williams,19,19,1,0,20,7,0,10,5.299999999999997,23
+14001,2018,15,marina_bay,False,False,False,False,False,stroll,Canadian,williams,20,14,6,0,17,7,0,10,5.299999999999997,19

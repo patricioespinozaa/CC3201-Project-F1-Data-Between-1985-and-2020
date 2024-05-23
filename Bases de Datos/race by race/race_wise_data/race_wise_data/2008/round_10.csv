@@ -1,0 +1,21 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+9792,2008,10,hockenheimring,False,False,False,False,False,hamilton,British,mclaren,1,1,48,3,1,72,3,3,0.0,23
+9794,2008,10,hockenheimring,False,False,False,False,False,massa,Brazilian,ferrari,2,3,48,3,2,96,5,1,0.2000000000000028,27
+9796,2008,10,hockenheimring,False,False,False,False,False,kovalainen,Finnish,mclaren,3,5,24,0,6,72,3,3,0.3999999999999915,26
+9800,2008,10,hockenheimring,False,False,False,False,False,trulli,Italian,toyota,4,9,20,0,7,25,0,4,0.5,34
+9802,2008,10,hockenheimring,False,False,False,False,False,alonso,Spanish,renault,5,11,13,0,9,15,0,7,0.7000000000000028,26
+9797,2008,10,hockenheimring,False,False,False,False,False,raikkonen,Finnish,ferrari,6,6,48,2,3,96,5,1,0.7000000000000028,28
+9798,2008,10,hockenheimring,False,False,False,False,False,kubica,Polish,bmw_sauber,7,7,46,1,4,82,1,2,0.7999999999999972,23
+9810,2008,10,hockenheimring,False,False,False,False,False,webber,Australian,red_bull,8,19,18,0,8,24,0,5,1.2999999999999972,31
+9799,2008,10,hockenheimring,False,False,False,False,False,vettel,German,toro_rosso,9,8,5,0,15,7,0,9,1.5,21
+9804,2008,10,hockenheimring,False,False,False,False,False,coulthard,British,red_bull,10,13,6,0,13,24,0,5,1.7999999999999972,37
+9811,2008,10,hockenheimring,False,False,False,False,False,glock,German,toyota,11,20,5,0,14,25,0,4,-0.2000000000000028,26
+9795,2008,10,hockenheimring,False,False,False,False,False,heidfeld,German,bmw_sauber,12,4,36,0,5,82,1,2,-0.1000000000000085,31
+9801,2008,10,hockenheimring,False,False,False,False,False,rosberg,German,williams,13,10,8,0,11,16,0,6,-0.1000000000000085,23
+9808,2008,10,hockenheimring,False,False,False,False,False,button,British,honda,14,17,3,0,16,14,0,8,0.0,28
+9803,2008,10,hockenheimring,False,False,False,False,False,bourdais,French,toro_rosso,15,12,2,0,17,7,0,9,0.2000000000000028,29
+9805,2008,10,hockenheimring,False,False,False,False,False,nakajima,Japanese,williams,16,14,8,0,12,16,0,6,0.3999999999999915,23
+9793,2008,10,hockenheimring,False,False,False,False,False,piquet_jr,Brazilian,renault,17,2,2,0,18,15,0,7,0.5,22
+9809,2008,10,hockenheimring,False,False,False,False,False,barrichello,Brazilian,honda,18,18,11,0,10,14,0,8,0.5,36
+9806,2008,10,hockenheimring,False,False,False,False,False,sutil,German,force_india,19,15,0,0,22,0,0,10,1.0,25
+9807,2008,10,hockenheimring,False,False,False,False,False,fisichella,Italian,force_india,20,16,0,0,19,0,0,10,1.2999999999999972,35

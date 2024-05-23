@@ -1,0 +1,23 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+11248,2012,3,shanghai,False,False,False,False,True,rosberg,German,mercedes,1,1,0,0,15,1,0,9,0.0,26
+11270,2012,3,shanghai,False,False,False,False,True,michael_schumacher,German,mercedes,2,24,1,0,14,1,0,9,0.6000000000000085,43
+11257,2012,3,shanghai,False,False,False,False,True,kobayashi,Japanese,sauber,3,10,8,0,9,30,0,4,0.7000000000000028,25
+11261,2012,3,shanghai,False,False,False,False,True,raikkonen,Finnish,lotus_f1,4,14,16,0,7,16,0,5,0.8000000000000114,32
+11249,2012,3,shanghai,False,False,False,False,True,button,British,mclaren,5,2,25,1,3,55,1,1,1.1000000000000083,32
+11251,2012,3,shanghai,False,False,False,False,True,webber,Australian,red_bull,6,4,24,0,4,42,0,2,1.2000000000000028,35
+11250,2012,3,shanghai,False,False,False,False,True,hamilton,British,mclaren,7,3,30,0,2,55,1,1,0.5,27
+11258,2012,3,shanghai,False,False,False,False,True,perez,Mexican,sauber,8,11,22,0,5,30,0,4,1.4000000000000057,22
+11256,2012,3,shanghai,False,False,False,False,True,alonso,Spanish,ferrari,9,9,35,1,1,35,1,3,1.5,30
+11252,2012,3,shanghai,False,False,False,False,True,vettel,German,red_bull,11,5,18,0,6,42,0,2,0.9000000000000057,24
+11260,2012,3,shanghai,False,False,False,False,True,massa,Brazilian,ferrari,12,13,0,0,19,35,1,3,1.2000000000000028,30
+11255,2012,3,shanghai,False,False,False,False,True,maldonado,Venezuelan,williams,13,8,0,0,16,8,0,7,1.2000000000000028,27
+11254,2012,3,shanghai,False,False,False,False,True,bruno_senna,Brazilian,williams,14,7,8,0,8,8,0,7,1.2000000000000028,28
+11259,2012,3,shanghai,False,False,False,False,True,resta,British,force_india,15,12,7,0,10,9,0,6,1.2000000000000028,25
+11262,2012,3,shanghai,False,False,False,False,True,hulkenberg,German,force_india,16,15,2,0,13,9,0,6,1.6000000000000083,24
+11263,2012,3,shanghai,False,False,False,False,True,ricciardo,Australian,toro_rosso,17,17,2,0,12,6,0,8,1.9000000000000057,22
+11269,2012,3,shanghai,False,False,False,False,True,kovalainen,Finnish,caterham,18,23,0,0,21,0,0,11,3.4000000000000057,30
+11264,2012,3,shanghai,False,False,False,False,True,petrov,Russian,caterham,19,18,0,0,20,0,0,11,3.6000000000000085,27
+11265,2012,3,shanghai,False,False,False,False,True,glock,German,marussia,20,19,0,0,17,0,0,10,4.200000000000003,30
+11266,2012,3,shanghai,False,False,False,False,True,pic,French,marussia,21,20,0,0,18,0,0,10,4.6000000000000085,22
+11267,2012,3,shanghai,False,False,False,False,True,rosa,Spanish,hrt,22,21,0,0,23,0,0,12,5.300000000000011,41
+11268,2012,3,shanghai,False,False,False,False,True,karthikeyan,Indian,hrt,23,22,0,0,22,0,0,12,5.900000000000006,35

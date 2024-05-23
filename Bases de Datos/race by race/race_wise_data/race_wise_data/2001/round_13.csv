@@ -1,0 +1,23 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+7326,2001,13,hungaroring,False,False,True,False,True,michael_schumacher,German,ferrari,1,1,84,6,1,124,6,1,0.0,32
+7328,2001,13,hungaroring,False,False,True,False,True,coulthard,British,mclaren,2,3,47,2,2,66,3,2,0.8000000000000114,30
+7327,2001,13,hungaroring,False,False,True,False,True,barrichello,Brazilian,ferrari,3,2,40,0,4,124,6,1,0.9000000000000057,29
+7329,2001,13,hungaroring,False,False,True,False,True,ralf_schumacher,German,williams,4,4,41,3,3,56,3,3,1.0,26
+7342,2001,13,hungaroring,False,False,True,False,True,trulli,Italian,jordan,5,17,9,0,10,15,0,6,1.3000000000000114,27
+7330,2001,13,hungaroring,False,False,True,False,True,hakkinen,Finnish,mclaren,6,5,19,1,5,66,3,2,1.3000000000000114,32
+7331,2001,13,hungaroring,False,False,True,False,True,heidfeld,German,sauber,7,6,10,0,8,19,0,4,1.6000000000000083,24
+7333,2001,13,hungaroring,False,False,True,False,True,montoya,Colombian,williams,8,8,15,0,6,56,3,3,1.8000000000000114,25
+7332,2001,13,hungaroring,False,False,True,False,True,raikkonen,Finnish,sauber,9,7,9,0,9,19,0,4,1.8000000000000114,21
+7334,2001,13,hungaroring,False,False,True,False,True,villeneuve,Canadian,bar,10,9,11,0,7,16,0,5,2.1000000000000085,30
+7341,2001,13,hungaroring,False,False,True,False,True,panis,French,bar,11,16,5,0,12,16,0,5,2.300000000000012,34
+7335,2001,13,hungaroring,False,False,True,False,True,alesi,French,jordan,12,10,4,0,15,15,0,6,2.4000000000000057,37
+7336,2001,13,hungaroring,False,False,True,False,True,rosa,Spanish,jaguar,13,11,1,0,18,5,0,8,2.4000000000000057,30
+7347,2001,13,hungaroring,False,False,True,False,True,irvine,British,jaguar,14,22,4,0,13,5,0,8,2.5,35
+7338,2001,13,hungaroring,False,False,True,False,True,fisichella,Italian,benetton,15,13,4,0,14,6,0,7,2.5,28
+7339,2001,13,hungaroring,False,False,True,False,True,frentzen,German,prost,16,14,6,0,11,4,0,9,3.1000000000000085,34
+7344,2001,13,hungaroring,False,False,True,False,True,button,British,benetton,17,19,2,0,16,6,0,7,3.4000000000000057,21
+7343,2001,13,hungaroring,False,False,True,False,True,alonso,Spanish,minardi,18,18,0,0,23,0,0,11,3.5,20
+7346,2001,13,hungaroring,False,False,True,False,True,burti,Brazilian,prost,19,21,0,0,20,4,0,9,4.1000000000000085,26
+7345,2001,13,hungaroring,False,False,True,False,True,bernoldi,Brazilian,arrows,20,20,0,0,21,1,0,10,4.200000000000003,22
+7337,2001,13,hungaroring,False,False,True,False,True,verstappen,Dutch,arrows,21,12,1,0,17,1,0,10,4.300000000000011,29
+7340,2001,13,hungaroring,False,False,True,False,True,marques,Brazilian,minardi,22,15,0,0,22,0,0,11,5.0,25

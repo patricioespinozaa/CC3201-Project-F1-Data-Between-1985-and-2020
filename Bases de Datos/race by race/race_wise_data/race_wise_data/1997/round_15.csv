@@ -1,0 +1,23 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+5940,1997,15,nurburgring,True,False,True,False,False,hakkinen,Finnish,mclaren,1,12,14,0,10,44,2,4,0.0,29
+5929,1997,15,nurburgring,True,False,True,False,False,villeneuve,Canadian,williams,2,1,67,6,2,98,7,1,0.1000000000000085,26
+5931,1997,15,nurburgring,True,False,True,False,False,frentzen,German,williams,3,3,31,1,3,98,7,1,0.1000000000000085,30
+5949,1997,15,nurburgring,True,False,True,False,False,fisichella,Italian,jordan,4,21,20,0,7,33,0,5,0.7000000000000028,24
+5946,1997,15,nurburgring,True,False,True,False,False,michael_schumacher,German,ferrari,5,18,68,4,1,86,4,2,0.8000000000000114,28
+5942,1997,15,nurburgring,True,False,True,False,False,coulthard,British,mclaren,6,14,30,2,4,44,2,4,0.8000000000000114,26
+5932,1997,15,nurburgring,True,False,True,False,False,berger,Austrian,benetton,7,4,21,1,6,53,1,3,1.0,38
+5950,1997,15,nurburgring,True,False,True,False,False,ralf_schumacher,German,jordan,8,22,13,0,12,33,0,5,1.0,22
+5941,1997,15,nurburgring,True,False,True,False,False,barrichello,Brazilian,stewart,9,13,6,0,14,6,0,9,1.0,25
+5930,1997,15,nurburgring,True,False,True,False,False,alesi,French,benetton,10,2,28,0,5,53,1,3,1.0,33
+5934,1997,15,nurburgring,True,False,True,False,False,panis,French,prost,11,6,15,0,9,20,0,6,1.0,31
+5943,1997,15,nurburgring,True,False,True,False,False,magnussen,Danish,stewart,12,15,0,0,21,6,0,9,1.1000000000000083,24
+5936,1997,15,nurburgring,True,False,True,False,False,damon_hill,British,arrows,13,8,7,0,13,7,0,8,1.2000000000000028,37
+5944,1997,15,nurburgring,True,False,True,False,False,irvine,British,ferrari,14,16,18,0,8,86,4,2,1.3000000000000114,31
+5933,1997,15,nurburgring,True,False,True,False,False,diniz,Brazilian,arrows,15,5,0,0,20,7,0,8,1.5,27
+5935,1997,15,nurburgring,True,False,True,False,False,herbert,British,sauber,16,7,14,0,11,15,0,7,1.7000000000000028,33
+5945,1997,15,nurburgring,True,False,True,False,False,nakano,Japanese,prost,17,17,2,0,18,20,0,6,2.1000000000000085,26
+5947,1997,15,nurburgring,True,False,True,False,False,marques,Brazilian,minardi,18,19,0,0,26,0,0,11,2.700000000000003,21
+5937,1997,15,nurburgring,True,False,True,False,False,morbidelli,Italian,sauber,19,9,0,0,23,15,0,7,2.9000000000000057,29
+5938,1997,15,nurburgring,True,False,True,False,False,salo,Finnish,tyrrell,20,10,2,0,17,2,0,10,2.9000000000000057,30
+5939,1997,15,nurburgring,True,False,True,False,False,verstappen,Dutch,tyrrell,21,11,0,0,22,2,0,10,2.9000000000000057,25
+5948,1997,15,nurburgring,True,False,True,False,False,katayama,Japanese,minardi,22,20,0,0,25,0,0,11,4.0,34

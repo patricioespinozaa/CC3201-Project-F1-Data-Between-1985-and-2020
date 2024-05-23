@@ -1,0 +1,25 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+10709,2010,18,interlagos,False,False,False,False,False,hulkenberg,German,williams,1,8,18,0,15,65,0,7,0.0,23
+10702,2010,18,interlagos,False,False,False,False,False,vettel,German,red_bull,2,1,206,3,4,426,7,1,1.0,23
+10703,2010,18,interlagos,False,False,False,False,False,webber,Australian,red_bull,3,2,220,4,2,426,7,1,1.0999999999999943,34
+10705,2010,18,interlagos,False,False,False,False,False,hamilton,British,mclaren,4,4,210,3,3,399,5,2,1.2000000000000028,25
+10704,2010,18,interlagos,False,False,False,False,False,alonso,Spanish,ferrari,5,3,231,5,1,374,5,3,1.5,29
+10715,2010,18,interlagos,False,False,False,False,False,barrichello,Brazilian,williams,6,14,47,0,10,65,0,7,1.7000000000000028,38
+10710,2010,18,interlagos,False,False,False,False,False,kubica,Polish,renault,7,9,124,0,7,143,0,5,2.0999999999999943,25
+10708,2010,18,interlagos,False,False,False,False,False,michael_schumacher,German,mercedes,8,7,66,0,9,188,0,4,2.4000000000000057,41
+10716,2010,18,interlagos,False,False,False,False,False,massa,Brazilian,ferrari,9,15,143,0,6,374,5,3,2.5999999999999943,29
+10717,2010,18,interlagos,False,False,False,False,False,petrov,Russian,renault,10,16,19,0,14,143,0,5,3.200000000000003,26
+10706,2010,18,interlagos,False,False,False,False,False,button,British,mclaren,11,5,189,2,5,399,5,2,4.799999999999997,30
+10711,2010,18,interlagos,False,False,False,False,False,kobayashi,Japanese,sauber,12,10,31,0,12,43,0,8,4.900000000000006,24
+10707,2010,18,interlagos,False,False,False,False,False,rosberg,German,mercedes,13,6,122,0,8,188,0,4,5.0,25
+10712,2010,18,interlagos,False,False,False,False,False,alguersuari,Spanish,toro_rosso,14,11,3,0,19,11,0,9,5.099999999999994,20
+10718,2010,18,interlagos,False,False,False,False,False,heidfeld,German,sauber,15,17,6,0,18,43,0,8,5.400000000000006,33
+10725,2010,18,interlagos,False,False,False,False,False,liuzzi,Italian,force_india,16,24,21,0,13,68,0,6,5.900000000000006,30
+10721,2010,18,interlagos,False,False,False,False,False,glock,German,virgin,17,20,0,0,25,0,0,12,7.599999999999994,28
+10720,2010,18,interlagos,False,False,False,False,False,trulli,Italian,lotus_racing,18,19,0,0,21,0,0,10,7.799999999999997,36
+10714,2010,18,interlagos,False,False,False,False,False,buemi,Swiss,toro_rosso,19,13,8,0,16,11,0,9,5.299999999999997,22
+10719,2010,18,interlagos,False,False,False,False,False,kovalainen,Finnish,lotus_racing,20,18,0,0,20,0,0,10,7.900000000000006,29
+10724,2010,18,interlagos,False,False,False,False,False,grassi,Brazilian,virgin,21,23,0,0,24,0,0,12,8.299999999999997,26
+10713,2010,18,interlagos,False,False,False,False,False,sutil,German,force_india,22,12,47,0,11,68,0,6,6.299999999999997,27
+10723,2010,18,interlagos,False,False,False,False,False,klien,Austrian,hrt,23,22,0,0,27,0,0,11,8.599999999999994,27
+10722,2010,18,interlagos,False,False,False,False,False,bruno_senna,Brazilian,hrt,24,21,0,0,23,0,0,11,9.299999999999995,27

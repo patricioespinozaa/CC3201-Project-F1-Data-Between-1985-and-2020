@@ -1,0 +1,27 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+4567,1994,5,catalunya,True,False,False,False,False,michael_schumacher,German,benetton,1,2,40,4,1,40,4,1,0.0,25
+4566,1994,5,catalunya,True,False,False,False,False,damon_hill,British,williams,2,1,7,0,3,7,0,5,0.6999999999999886,33
+4578,1994,5,catalunya,True,False,False,False,False,hakkinen,Finnish,mclaren,3,13,4,0,8,10,0,3,0.7999999999999972,25
+4577,1994,5,catalunya,True,False,False,False,False,lehto,Finnish,benetton,4,12,0,0,17,40,4,1,1.0999999999999943,28
+4580,1994,5,catalunya,True,False,False,False,False,barrichello,Brazilian,jordan,5,15,7,0,4,10,0,4,1.6999999999999886,22
+4569,1994,5,catalunya,True,False,False,False,False,alesi,French,ferrari,6,4,6,0,7,22,0,2,1.7999999999999972,29
+4584,1994,5,catalunya,True,False,False,False,False,berger,Austrian,ferrari,7,19,10,0,2,22,0,2,1.7999999999999972,34
+4576,1994,5,catalunya,True,False,False,False,False,brundle,British,mclaren,8,11,6,0,5,10,0,3,1.8999999999999917,34
+4582,1994,5,catalunya,True,False,False,False,False,coulthard,British,williams,9,17,0,0,0,7,0,5,1.8999999999999917,23
+4588,1994,5,catalunya,True,False,False,False,False,katayama,Japanese,tyrrell,10,23,4,0,10,4,0,7,2.0999999999999943,31
+4568,1994,5,catalunya,True,False,False,False,False,blundell,British,tyrrell,11,3,0,0,22,4,0,7,2.0999999999999943,28
+4586,1994,5,catalunya,True,False,False,False,False,frentzen,German,sauber,12,21,2,0,13,6,0,6,2.3999999999999915,27
+4571,1994,5,catalunya,True,False,False,False,False,irvine,British,jordan,13,6,0,0,30,10,0,4,3.0,28
+4589,1994,5,catalunya,True,False,False,False,False,alboreto,Italian,minardi,14,24,1,0,15,1,0,10,3.0999999999999943,37
+4585,1994,5,catalunya,True,False,False,False,False,morbidelli,Italian,footwork,15,20,0,0,26,3,0,8,3.0999999999999943,26
+4587,1994,5,catalunya,True,False,False,False,False,comas,French,larrousse,16,22,1,0,14,1,0,9,3.1999999999999886,30
+4591,1994,5,catalunya,True,False,False,False,False,beretta,Monegasque,larrousse,17,26,0,0,20,1,0,9,3.299999999999997,24
+4570,1994,5,catalunya,True,False,False,False,False,martini,Italian,minardi,18,5,0,0,19,1,0,10,3.299999999999997,33
+4572,1994,5,catalunya,True,False,False,False,False,panis,French,ligier,19,7,0,0,21,0,0,12,3.6999999999999886,27
+4573,1994,5,catalunya,True,False,False,False,False,bernard,French,ligier,20,8,0,0,23,0,0,12,3.899999999999992,29
+4581,1994,5,catalunya,True,False,False,False,False,fittipaldi,Brazilian,footwork,21,16,3,0,11,3,0,8,4.199999999999989,23
+4579,1994,5,catalunya,True,False,False,False,False,herbert,British,team_lotus,22,14,0,0,16,0,0,11,4.5,29
+4574,1994,5,catalunya,True,False,False,False,False,zanardi,Italian,team_lotus,23,9,0,0,0,0,0,11,5.799999999999997,27
+4575,1994,5,catalunya,True,False,False,False,False,brabham,Australian,simtek,24,10,0,0,25,0,0,13,6.299999999999997,28
+4583,1994,5,catalunya,True,False,False,False,False,gachot,Belgian,pacific,25,18,0,0,0,0,0,14,7.0,31
+4590,1994,5,catalunya,True,False,False,False,False,belmondo,French,pacific,26,25,0,0,28,0,0,14,8.799999999999997,31

@@ -1,0 +1,23 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+12396,2014,15,suzuka,False,False,False,False,False,rosberg,German,mercedes,1,2,238,4,2,479,11,1,0.0,29
+12395,2014,15,suzuka,False,False,False,False,False,hamilton,British,mercedes,2,1,241,7,1,479,11,1,0.2000000000000028,29
+12400,2014,15,suzuka,False,False,False,False,False,bottas,Finnish,williams,3,6,122,0,6,187,0,3,0.5999999999999943,25
+12401,2014,15,suzuka,False,False,False,False,False,massa,Brazilian,williams,4,7,65,0,9,187,0,3,1.0,33
+12416,2014,15,suzuka,False,False,False,False,False,alonso,Spanish,ferrari,5,22,133,0,4,178,0,4,1.2000000000000028,33
+12398,2014,15,suzuka,False,False,False,False,False,ricciardo,Australian,red_bull,6,4,181,3,3,305,3,2,1.5999999999999943,25
+12408,2014,15,suzuka,False,False,False,False,False,kevin_magnussen,Danish,mclaren,7,14,39,0,12,111,0,6,1.7000000000000028,22
+12399,2014,15,suzuka,False,False,False,False,False,button,British,mclaren,8,5,72,0,7,111,0,6,1.7999999999999972,34
+12397,2014,15,suzuka,False,False,False,False,False,vettel,German,red_bull,9,3,124,0,5,305,3,2,1.9000000000000057,27
+12406,2014,15,suzuka,False,False,False,False,False,raikkonen,Finnish,ferrari,10,12,45,0,11,178,0,4,2.0,34
+12404,2014,15,suzuka,False,False,False,False,False,perez,Mexican,force_india,11,10,45,0,10,117,0,5,2.5999999999999943,24
+12405,2014,15,suzuka,False,False,False,False,False,kvyat,Russian,toro_rosso,12,11,8,0,15,27,0,7,2.5999999999999943,20
+12402,2014,15,suzuka,False,False,False,False,False,hulkenberg,German,force_india,13,8,72,0,8,117,0,5,2.5999999999999943,27
+12415,2014,15,suzuka,False,False,False,False,False,sutil,German,sauber,14,21,0,0,17,0,0,10,2.9000000000000057,31
+12407,2014,15,suzuka,False,False,False,False,False,gutierrez,Mexican,sauber,15,13,0,0,20,0,0,10,3.200000000000003,23
+12409,2014,15,suzuka,False,False,False,False,False,grosjean,French,lotus_f1,16,15,8,0,14,8,0,8,3.5,28
+12411,2014,15,suzuka,False,False,False,False,False,ericsson,Swedish,caterham,17,17,0,0,18,0,0,11,4.299999999999997,24
+12414,2014,15,suzuka,False,False,False,False,False,jules_bianchi,French,marussia,18,20,2,0,16,2,0,9,4.400000000000006,25
+12413,2014,15,suzuka,False,False,False,False,False,kobayashi,Japanese,caterham,19,19,0,0,22,0,0,11,4.5,28
+12403,2014,15,suzuka,False,False,False,False,False,vergne,French,toro_rosso,20,9,19,0,13,27,0,7,2.5,24
+12412,2014,15,suzuka,False,False,False,False,False,chilton,British,marussia,21,18,0,0,21,2,0,9,5.0,23
+12410,2014,15,suzuka,False,False,False,False,False,maldonado,Venezuelan,lotus_f1,22,16,0,0,19,8,0,8,3.4000000000000057,29

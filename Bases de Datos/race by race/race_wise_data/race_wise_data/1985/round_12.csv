@@ -1,0 +1,26 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+1051,1985,12,monza,False,False,True,False,False,senna,Brazilian,team_lotus,1,3,19,1,4,49,2,3,0.0,25
+1063,1985,12,monza,False,False,True,False,False,keke_rosberg,Finnish,williams,2,14,18,1,6,25,1,4,0.1000000000000085,36
+1060,1985,12,monza,False,False,True,False,False,mansell,British,williams,3,11,7,0,12,25,1,4,0.4000000000000057,32
+1050,1985,12,monza,False,False,True,False,False,piquet,Brazilian,brabham,4,2,13,1,8,15,1,5,0.5,33
+1049,1985,12,monza,False,False,True,False,False,prost,French,mclaren,5,1,56,4,1,70,5,2,0.7000000000000028,30
+1054,1985,12,monza,False,False,True,False,False,angelis,Italian,team_lotus,6,6,30,1,3,49,2,3,0.9000000000000057,27
+1055,1985,12,monza,False,False,True,False,False,warwick,British,renault,6,21,4,0,14,15,0,6,0.9000000000000057,31
+1062,1985,12,monza,False,False,True,False,False,alboreto,Italian,ferrari,7,13,53,2,2,75,2,1,1.4000000000000057,28
+1056,1985,12,monza,False,False,True,False,False,tambay,French,renault,8,7,11,0,9,15,0,6,1.9000000000000057,36
+1052,1985,12,monza,False,False,True,False,False,surer,Swiss,brabham,9,4,2,0,17,15,1,5,2.1000000000000085,33
+1053,1985,12,monza,False,False,True,False,False,johansson,Swedish,ferrari,10,5,19,0,5,75,2,1,2.4000000000000057,29
+1069,1985,12,monza,False,False,True,False,False,berger,Austrian,arrows,11,20,0,0,19,9,0,8,2.6000000000000085,26
+1066,1985,12,monza,False,False,True,False,False,patrese,Italian,alfa,13,17,0,0,20,0,0,10,3.200000000000003,31
+1058,1985,12,monza,False,False,True,False,False,boutsen,Belgian,arrows,14,9,9,0,11,9,0,8,3.300000000000012,28
+1061,1985,12,monza,False,False,True,False,False,fabi,Italian,toleman,15,12,0,0,28,0,0,15,3.300000000000012,30
+1065,1985,12,monza,False,False,True,False,False,lauda,Austrian,mclaren,16,16,14,1,7,70,5,2,3.4000000000000057,36
+1071,1985,12,monza,False,False,True,False,False,cheever,American,alfa,17,23,0,0,21,0,0,10,3.5,27
+1057,1985,12,monza,False,False,True,False,False,brundle,British,tyrrell,18,8,0,0,18,4,0,9,3.700000000000003,26
+1059,1985,12,monza,False,False,True,False,False,streiff,French,ligier,19,10,0,0,0,13,0,7,4.700000000000003,30
+1064,1985,12,monza,False,False,True,False,False,laffite,French,ligier,20,15,10,0,10,13,0,7,5.1000000000000085,41
+1067,1985,12,monza,False,False,True,False,False,rothengatter,Dutch,osella,22,18,0,0,23,0,0,11,8.400000000000006,30
+1073,1985,12,monza,False,False,True,False,False,martini,Italian,minardi,23,25,0,0,25,0,0,13,8.900000000000006,24
+1072,1985,12,monza,False,False,True,False,False,acheson,British,ram,24,24,0,0,29,0,0,12,9.800000000000011,27
+1070,1985,12,monza,False,False,True,False,False,jones,Australian,lola,25,22,0,0,0,0,0,0,9.800000000000011,38
+1068,1985,12,monza,False,False,True,False,False,alliot,French,ram,26,19,0,0,24,0,0,12,11.100000000000009,31

@@ -1,0 +1,23 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+9117,2006,13,hungaroring,False,True,False,True,False,raikkonen,Finnish,mclaren,1,15,49,0,5,77,0,3,0.0,26
+9109,2006,13,hungaroring,False,True,False,True,False,massa,Brazilian,ferrari,2,7,50,0,3,139,5,2,0.3000000000000113,25
+9106,2006,13,hungaroring,False,True,False,True,False,barrichello,Brazilian,honda,3,4,16,0,8,37,0,4,0.5,34
+9104,2006,13,hungaroring,False,True,False,True,False,rosa,Spanish,mclaren,4,2,2,0,16,77,0,3,0.5,35
+9122,2006,13,hungaroring,False,True,False,True,False,webber,Australian,williams,5,20,6,0,14,10,0,8,0.7000000000000028,29
+9108,2006,13,hungaroring,False,True,False,True,False,ralf_schumacher,German,toyota,6,6,13,0,9,23,0,5,1.2000000000000028,31
+9120,2006,13,hungaroring,False,True,False,True,False,fisichella,Italian,renault,7,18,49,1,4,149,7,1,1.3000000000000114,33
+9114,2006,13,hungaroring,False,True,False,True,False,trulli,Italian,toyota,8,12,10,0,12,23,0,5,1.5,32
+9124,2006,13,hungaroring,False,True,False,True,False,kubica,Polish,bmw_sauber,9,22,0,0,0,20,0,6,2.4000000000000057,21
+9105,2006,13,hungaroring,False,True,False,True,False,heidfeld,German,bmw_sauber,10,3,13,0,10,20,0,6,1.0,29
+9110,2006,13,hungaroring,False,True,False,True,False,michael_schumacher,German,ferrari,11,8,89,5,2,139,5,2,1.3000000000000114,37
+9107,2006,13,hungaroring,False,True,False,True,False,coulthard,British,red_bull,12,5,10,0,11,12,0,7,1.3000000000000114,35
+9121,2006,13,hungaroring,False,True,False,True,False,klien,Austrian,red_bull,13,19,2,0,17,12,0,7,1.6000000000000083,23
+9103,2006,13,hungaroring,False,True,False,True,False,button,British,honda,14,1,21,0,7,37,0,4,0.5,26
+9116,2006,13,hungaroring,False,True,False,True,False,alonso,Spanish,renault,15,14,100,6,1,149,7,1,1.8000000000000114,25
+9111,2006,13,hungaroring,False,True,False,True,False,monteiro,Portuguese,mf1,16,9,0,0,21,0,0,10,4.200000000000003,30
+9118,2006,13,hungaroring,False,True,False,True,False,liuzzi,Italian,toro_rosso,17,16,1,0,18,1,0,9,2.5,26
+9119,2006,13,hungaroring,False,True,False,True,False,rosberg,German,williams,18,17,4,0,15,10,0,8,2.5,21
+9115,2006,13,hungaroring,False,True,False,True,False,sato,Japanese,super_aguri,19,13,0,0,22,0,0,11,3.4000000000000057,29
+9113,2006,13,hungaroring,False,True,False,True,False,speed,American,toro_rosso,20,11,0,0,19,1,0,9,3.4000000000000057,23
+9123,2006,13,hungaroring,False,True,False,True,False,yamamoto,Japanese,super_aguri,21,21,0,0,0,0,0,11,4.400000000000006,24
+9112,2006,13,hungaroring,False,True,False,True,False,albers,Dutch,mf1,22,10,0,0,20,0,0,10,3.5,27

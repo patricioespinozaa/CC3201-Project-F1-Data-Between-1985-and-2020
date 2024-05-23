@@ -1,0 +1,21 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+12786,2015,16,americas,False,False,False,False,False,rosberg,German,mercedes,1,2,229,3,3,531,12,1,0.0,30
+12785,2015,16,americas,False,False,False,False,False,hamilton,British,mercedes,2,1,302,9,1,531,12,1,0.1000000000000085,30
+12794,2015,16,americas,False,False,False,False,False,ricciardo,Australian,red_bull,3,10,73,0,8,149,0,4,1.2000000000000028,26
+12797,2015,16,americas,False,False,False,False,False,kvyat,Russian,red_bull,4,13,76,0,7,149,0,4,1.6000000000000083,21
+12789,2015,16,americas,False,False,False,False,False,perez,Mexican,force_india,5,5,54,0,9,92,0,5,2.4000000000000057,25
+12798,2015,16,americas,False,False,False,False,False,hulkenberg,German,force_india,6,14,38,0,11,92,0,5,2.5,28
+12801,2015,16,americas,False,False,False,False,False,massa,Brazilian,williams,7,17,109,0,6,220,0,3,3.200000000000003,34
+12788,2015,16,americas,False,False,False,False,False,max_verstappen,Dutch,toro_rosso,8,4,33,0,12,45,0,7,3.4000000000000057,18
+12795,2015,16,americas,False,False,False,False,False,alonso,Spanish,mclaren,9,11,11,0,16,19,0,9,3.5,34
+12802,2015,16,americas,False,False,False,False,False,grosjean,French,lotus_f1,10,18,44,0,10,66,0,6,3.799999999999997,29
+12790,2015,16,americas,False,False,False,False,False,button,British,mclaren,11,6,8,0,18,19,0,9,4.400000000000006,35
+12792,2015,16,americas,False,False,False,False,False,maldonado,Venezuelan,lotus_f1,12,8,22,0,14,66,0,6,4.799999999999997,30
+12787,2015,16,americas,False,False,False,False,False,vettel,German,ferrari,13,3,236,3,2,359,3,2,1.7999999999999972,28
+12799,2015,16,americas,False,False,False,False,False,ericsson,Swedish,sauber,14,15,9,0,17,34,0,8,5.400000000000006,25
+12793,2015,16,americas,False,False,False,False,False,nasr,Brazilian,sauber,15,9,25,0,13,34,0,8,6.400000000000006,23
+12803,2015,16,americas,False,False,False,False,False,bottas,Finnish,williams,16,19,111,0,5,220,0,3,3.5,26
+12796,2015,16,americas,False,False,False,False,False,rossi,American,manor,17,12,0,0,21,0,0,10,7.400000000000006,24
+12800,2015,16,americas,False,False,False,False,False,raikkonen,Finnish,ferrari,18,16,123,0,4,359,3,2,2.9000000000000057,36
+12804,2015,16,americas,False,False,False,False,False,stevens,British,manor,19,20,0,0,20,0,0,10,7.700000000000003,24
+12791,2015,16,americas,False,False,False,False,False,sainz,Spanish,toro_rosso,20,7,12,0,15,45,0,7,10.5,21

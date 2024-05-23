@@ -1,0 +1,21 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+9852,2008,13,spa,False,False,False,True,False,hamilton,British,mclaren,1,3,70,4,1,113,5,2,0.0,23
+9850,2008,13,spa,False,False,False,True,False,massa,Brazilian,ferrari,2,1,64,4,2,121,6,1,0.4000000000000057,27
+9859,2008,13,spa,False,False,False,True,False,kovalainen,Finnish,mclaren,3,10,43,1,5,113,5,2,0.5,26
+9867,2008,13,spa,False,False,False,True,False,raikkonen,Finnish,ferrari,4,18,57,2,3,121,6,1,0.7000000000000028,28
+9851,2008,13,spa,False,False,False,True,False,heidfeld,German,bmw_sauber,5,2,41,0,6,96,1,3,1.0,31
+9853,2008,13,spa,False,False,False,True,False,alonso,Spanish,renault,6,4,18,0,8,31,0,5,1.2000000000000028,27
+9857,2008,13,spa,False,False,False,True,False,webber,Australian,red_bull,7,8,18,0,9,24,0,6,1.4000000000000057,32
+9855,2008,13,spa,False,False,False,True,False,kubica,Polish,bmw_sauber,8,6,55,1,4,96,1,3,1.5,23
+9856,2008,13,spa,False,False,False,True,False,bourdais,French,toro_rosso,9,7,2,0,18,11,0,9,1.7000000000000028,29
+9854,2008,13,spa,False,False,False,True,False,vettel,German,toro_rosso,10,5,9,0,14,11,0,9,3.0,21
+9865,2008,13,spa,False,False,False,True,False,trulli,Italian,toyota,11,16,26,0,7,41,0,4,-0.3999999999999915,34
+9869,2008,13,spa,False,False,False,True,False,piquet_jr,Brazilian,renault,12,20,13,0,11,31,0,5,-0.2999999999999971,23
+9858,2008,13,spa,False,False,False,True,False,glock,German,toyota,13,9,15,0,10,41,0,4,-0.2999999999999971,26
+9860,2008,13,spa,False,False,False,True,False,coulthard,British,red_bull,14,11,6,0,16,24,0,6,-0.2999999999999971,37
+9861,2008,13,spa,False,False,False,True,False,rosberg,German,williams,15,12,9,0,13,17,0,7,0.1000000000000085,23
+9868,2008,13,spa,False,False,False,True,False,barrichello,Brazilian,honda,16,19,11,0,12,14,0,8,0.9000000000000057,36
+9864,2008,13,spa,False,False,False,True,False,button,British,honda,17,15,3,0,17,14,0,8,0.9000000000000057,28
+9862,2008,13,spa,False,False,False,True,False,sutil,German,force_india,18,13,0,0,21,0,0,10,0.9000000000000057,25
+9863,2008,13,spa,False,False,False,True,False,nakajima,Japanese,williams,19,14,8,0,15,17,0,7,1.0,23
+9866,2008,13,spa,False,False,False,True,False,fisichella,Italian,force_india,20,17,0,0,19,0,0,10,1.1000000000000083,35

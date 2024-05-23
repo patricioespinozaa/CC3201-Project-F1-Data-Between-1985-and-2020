@@ -1,0 +1,23 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+7363,2001,14,spa,False,False,False,False,False,montoya,Colombian,williams,1,16,15,0,6,59,3,3,0.0,25
+7354,2001,14,spa,False,False,False,False,False,ralf_schumacher,German,williams,2,7,44,3,4,59,3,3,0.9000000000000057,26
+7348,2001,14,spa,False,False,False,False,False,michael_schumacher,German,ferrari,3,1,94,7,1,140,7,1,2.6000000000000085,32
+7356,2001,14,spa,False,False,False,False,False,frentzen,German,prost,4,9,6,0,11,4,0,9,3.1000000000000085,34
+7352,2001,14,spa,False,False,False,False,False,barrichello,Brazilian,ferrari,5,5,46,0,3,140,7,1,4.0,29
+7355,2001,14,spa,False,False,False,False,False,villeneuve,Canadian,bar,6,8,11,0,7,16,0,5,4.900000000000006,30
+7351,2001,14,spa,False,False,False,False,False,hakkinen,Finnish,mclaren,7,4,21,1,5,72,3,2,4.900000000000006,32
+7350,2001,14,spa,False,False,False,False,False,fisichella,Italian,benetton,8,3,4,0,14,6,0,7,5.6000000000000085,28
+7349,2001,14,spa,False,False,False,False,False,coulthard,British,mclaren,9,2,51,2,2,72,3,2,5.900000000000006,30
+7364,2001,14,spa,False,False,False,False,False,rosa,Spanish,jaguar,10,17,1,0,18,5,0,8,6.400000000000006,30
+7358,2001,14,spa,False,False,False,False,False,panis,French,bar,11,11,5,0,12,16,0,5,6.700000000000003,35
+7366,2001,14,spa,False,False,False,False,False,raikkonen,Finnish,sauber,12,19,9,0,9,20,0,4,7.0,21
+7353,2001,14,spa,False,False,False,False,False,alesi,French,jordan,13,6,4,0,15,15,0,6,7.0,37
+7365,2001,14,spa,False,False,False,False,False,heidfeld,German,sauber,14,18,11,0,8,20,0,4,7.200000000000003,24
+7362,2001,14,spa,False,False,False,False,False,button,British,benetton,15,15,2,0,16,6,0,7,7.5,21
+7361,2001,14,spa,False,False,False,False,False,trulli,Italian,jordan,16,14,9,0,10,15,0,6,7.5,27
+7367,2001,14,spa,False,False,False,False,False,irvine,British,jaguar,17,20,4,0,13,5,0,8,7.600000000000008,35
+7368,2001,14,spa,False,False,False,False,False,burti,Brazilian,prost,18,21,0,0,20,4,0,9,7.800000000000011,26
+7357,2001,14,spa,False,False,False,False,False,verstappen,Dutch,arrows,19,10,1,0,17,1,0,10,9.900000000000006,29
+7369,2001,14,spa,False,False,False,False,False,alonso,Spanish,minardi,20,22,0,0,23,0,0,11,10.5,20
+7359,2001,14,spa,False,False,False,False,False,bernoldi,Brazilian,arrows,21,12,0,0,21,1,0,10,10.900000000000006,22
+7360,2001,14,spa,False,False,False,False,False,marques,Brazilian,minardi,22,13,0,0,22,0,0,11,12.100000000000009,25

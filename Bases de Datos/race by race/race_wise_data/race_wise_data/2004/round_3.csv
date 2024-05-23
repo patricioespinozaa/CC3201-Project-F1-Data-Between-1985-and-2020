@@ -1,0 +1,20 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+8148,2004,3,bahrain,False,False,True,False,True,michael_schumacher,German,ferrari,1,1,20,2,1,33,2,1,0.0,35
+8149,2004,3,bahrain,False,False,True,False,True,barrichello,Brazilian,ferrari,2,2,13,0,2,33,2,1,0.4000000000000057,31
+8160,2004,3,bahrain,False,False,True,False,True,montoya,Colombian,williams,3,13,12,0,3,17,0,2,0.5,28
+8154,2004,3,bahrain,False,False,True,False,True,ralf_schumacher,German,williams,4,7,5,0,7,17,0,2,0.5,28
+8152,2004,3,bahrain,False,False,True,False,True,sato,Japanese,bar,5,5,0,0,11,9,0,4,0.7000000000000028,27
+8150,2004,3,bahrain,False,False,True,False,True,button,British,bar,6,3,9,0,4,9,0,4,0.8000000000000114,24
+8151,2004,3,bahrain,False,False,True,False,True,trulli,Italian,renault,7,4,6,0,6,14,0,3,0.9000000000000057,29
+8156,2004,3,bahrain,False,False,True,False,True,panis,French,toyota,8,9,0,0,14,0,0,7,1.6000000000000083,37
+8157,2004,3,bahrain,False,False,True,False,True,matta,Brazilian,toyota,9,10,0,0,10,0,0,7,1.6000000000000083,30
+8165,2004,3,bahrain,False,False,True,False,True,coulthard,British,mclaren,10,18,4,0,8,4,0,5,1.6000000000000083,33
+8158,2004,3,bahrain,False,False,True,False,True,fisichella,Italian,sauber,11,11,0,0,12,1,0,6,1.6000000000000083,31
+8161,2004,3,bahrain,False,False,True,False,True,klien,Austrian,jaguar,12,14,0,0,13,0,0,8,2.200000000000003,21
+8159,2004,3,bahrain,False,False,True,False,True,massa,Brazilian,sauber,13,12,1,0,9,1,0,6,2.4000000000000057,22
+8155,2004,3,bahrain,False,False,True,False,True,webber,Australian,jaguar,14,8,0,0,0,0,0,8,2.5,27
+8163,2004,3,bahrain,False,False,True,False,True,pantano,Italian,jordan,15,16,0,0,15,0,0,9,4.0,25
+8153,2004,3,bahrain,False,False,True,False,True,alonso,Spanish,renault,16,6,8,0,5,14,0,3,4.0,22
+8164,2004,3,bahrain,False,False,True,False,True,bruni,Italian,minardi,17,17,0,0,16,0,0,10,4.5,22
+8162,2004,3,bahrain,False,False,True,False,True,heidfeld,German,jordan,18,15,0,0,0,0,0,9,3.4000000000000057,26
+8166,2004,3,bahrain,False,False,True,False,True,baumgartner,Hungarian,minardi,20,19,0,0,17,0,0,10,5.700000000000003,23

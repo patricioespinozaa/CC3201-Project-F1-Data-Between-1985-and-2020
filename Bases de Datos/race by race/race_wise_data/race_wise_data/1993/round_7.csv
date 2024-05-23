@@ -1,0 +1,26 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+4213,1993,7,villeneuve,False,False,False,False,False,prost,French,williams,1,1,37,3,2,55,3,1,0.0,38
+4215,1993,7,villeneuve,False,False,False,False,False,damon_hill,British,williams,2,3,18,0,3,55,3,1,0.5,32
+4214,1993,7,villeneuve,False,False,False,False,False,michael_schumacher,German,benetton,3,2,14,0,4,19,0,3,1.7999999999999972,24
+4231,1993,7,villeneuve,False,False,False,False,False,patrese,Italian,benetton,4,19,5,0,10,19,0,3,1.9000000000000057,39
+4216,1993,7,villeneuve,False,False,False,False,False,berger,Austrian,ferrari,5,4,2,0,15,6,0,7,2.299999999999997,33
+4234,1993,7,villeneuve,False,False,False,False,False,alesi,French,ferrari,6,22,4,0,11,6,0,7,2.4000000000000057,29
+4217,1993,7,villeneuve,False,False,False,False,False,brundle,British,ligier,7,5,5,0,7,11,0,4,2.5999999999999943,34
+4230,1993,7,villeneuve,False,False,False,False,False,senna,Brazilian,mclaren,8,18,42,3,1,44,3,2,2.700000000000003,33
+4218,1993,7,villeneuve,False,False,False,False,False,wendlinger,Austrian,sauber,9,6,0,0,25,5,0,8,2.799999999999997,24
+4235,1993,7,villeneuve,False,False,False,False,False,blundell,British,ligier,10,23,6,0,5,11,0,4,3.0999999999999943,27
+4219,1993,7,villeneuve,False,False,False,False,False,lehto,Finnish,sauber,11,7,5,0,9,5,0,8,3.200000000000003,27
+4226,1993,7,villeneuve,False,False,False,False,False,andretti,American,mclaren,12,14,2,0,13,44,3,2,3.200000000000003,30
+4220,1993,7,villeneuve,False,False,False,False,False,comas,French,larrousse,13,8,0,0,19,2,0,9,3.299999999999997,29
+4236,1993,7,villeneuve,False,False,False,False,False,barrichello,Brazilian,jordan,14,24,0,0,20,0,0,12,3.5,21
+4237,1993,7,villeneuve,False,False,False,False,False,alliot,French,larrousse,15,25,2,0,12,2,0,9,3.799999999999997,38
+4225,1993,7,villeneuve,False,False,False,False,False,suzuki,Japanese,footwork,16,13,0,0,21,0,0,10,3.9000000000000057,32
+4221,1993,7,villeneuve,False,False,False,False,False,fittipaldi,Brazilian,minardi,17,9,5,0,8,7,0,6,4.099999999999994,22
+4228,1993,7,villeneuve,False,False,False,False,False,warwick,British,footwork,18,16,0,0,17,0,0,10,4.200000000000003,38
+4232,1993,7,villeneuve,False,False,False,False,False,cesaris,Italian,tyrrell,19,20,0,0,22,0,0,13,4.200000000000003,34
+4222,1993,7,villeneuve,False,False,False,False,False,herbert,British,team_lotus,20,10,6,0,6,7,0,5,4.200000000000003,28
+4223,1993,7,villeneuve,False,False,False,False,False,zanardi,Italian,team_lotus,21,11,1,0,16,7,0,5,4.200000000000003,26
+4229,1993,7,villeneuve,False,False,False,False,False,katayama,Japanese,tyrrell,22,17,0,0,0,0,0,13,4.799999999999997,30
+4233,1993,7,villeneuve,False,False,False,False,False,barbazza,Italian,minardi,23,21,2,0,14,7,0,6,4.900000000000006,30
+4224,1993,7,villeneuve,False,False,False,False,False,boutsen,Belgian,jordan,24,12,0,0,24,0,0,12,5.0,35
+4227,1993,7,villeneuve,False,False,False,False,False,badoer,Italian,lola,25,15,0,0,18,0,0,11,5.400000000000006,22

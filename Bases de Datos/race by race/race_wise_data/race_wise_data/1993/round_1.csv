@@ -1,0 +1,27 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+4062,1993,1,kyalami,True,False,False,False,False,prost,French,williams,1,1,0,0,0,0,0,0,0.0,38
+4063,1993,1,kyalami,True,False,False,False,False,senna,Brazilian,mclaren,2,2,0,0,0,0,0,0,0.0999999999999943,32
+4074,1993,1,kyalami,True,False,False,False,False,michael_schumacher,German,benetton,3,12,0,0,0,0,0,0,1.5999999999999943,24
+4083,1993,1,kyalami,True,False,False,False,False,damon_hill,British,williams,4,21,0,0,0,0,0,0,1.8999999999999917,32
+4078,1993,1,kyalami,True,False,False,False,False,alesi,French,ferrari,5,16,0,0,0,0,0,0,2.5,28
+4066,1993,1,kyalami,True,False,False,False,False,lehto,Finnish,sauber,6,5,0,0,0,0,0,0,3.0,27
+4073,1993,1,kyalami,True,False,False,False,False,patrese,Italian,benetton,7,11,0,0,0,0,0,0,3.0,38
+4064,1993,1,kyalami,True,False,False,False,False,blundell,British,ligier,8,3,0,0,0,0,0,0,3.0,26
+4085,1993,1,kyalami,True,False,False,False,False,andretti,American,mclaren,9,23,0,0,0,0,0,0,3.0999999999999943,30
+4076,1993,1,kyalami,True,False,False,False,False,wendlinger,Austrian,sauber,10,14,0,0,0,0,0,0,3.299999999999997,24
+4079,1993,1,kyalami,True,False,False,False,False,alliot,French,larrousse,11,17,0,0,0,0,0,0,3.299999999999997,38
+4069,1993,1,kyalami,True,False,False,False,False,brundle,British,ligier,12,8,0,0,0,0,0,0,3.3999999999999915,33
+4065,1993,1,kyalami,True,False,False,False,False,fittipaldi,Brazilian,minardi,13,4,0,0,0,0,0,0,3.5999999999999943,22
+4077,1993,1,kyalami,True,False,False,False,False,barrichello,Brazilian,jordan,14,15,0,0,0,0,0,0,3.5999999999999943,20
+4067,1993,1,kyalami,True,False,False,False,False,berger,Austrian,ferrari,15,6,0,0,0,0,0,0,3.700000000000003,33
+4084,1993,1,kyalami,True,False,False,False,False,zanardi,Italian,team_lotus,16,22,0,0,0,0,0,0,3.700000000000003,26
+4075,1993,1,kyalami,True,False,False,False,False,herbert,British,team_lotus,17,13,0,0,0,0,0,0,3.799999999999997,28
+4086,1993,1,kyalami,True,False,False,False,False,capelli,Italian,jordan,18,24,0,0,0,0,0,0,4.099999999999994,29
+4072,1993,1,kyalami,True,False,False,False,False,comas,French,larrousse,19,10,0,0,0,0,0,0,4.399999999999992,29
+4081,1993,1,kyalami,True,False,False,False,False,suzuki,Japanese,footwork,20,19,0,0,0,0,0,0,4.5,32
+4070,1993,1,kyalami,True,False,False,False,False,alboreto,Italian,lola,21,9,0,0,0,0,0,0,4.700000000000003,36
+4071,1993,1,kyalami,True,False,False,False,False,katayama,Japanese,tyrrell,21,25,0,0,0,0,0,0,4.700000000000003,29
+4068,1993,1,kyalami,True,False,False,False,False,warwick,British,footwork,22,7,0,0,0,0,0,0,4.700000000000003,38
+4087,1993,1,kyalami,True,False,False,False,False,cesaris,Italian,tyrrell,23,26,0,0,0,0,0,0,5.0,33
+4080,1993,1,kyalami,True,False,False,False,False,barbazza,Italian,minardi,24,18,0,0,0,0,0,0,5.299999999999997,29
+4082,1993,1,kyalami,True,False,False,False,False,badoer,Italian,lola,26,20,0,0,0,0,0,0,9.0,22

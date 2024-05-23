@@ -1,0 +1,17 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+14187,2019,4,BAK,False,False,False,False,False,bottas,Finnish,mercedes,1,1,62,1,2,130,3,1,0.0,29
+14188,2019,4,BAK,False,False,False,False,False,hamilton,British,mercedes,2,2,68,2,1,130,3,1,0.0999999999999943,34
+14189,2019,4,BAK,False,False,False,False,False,vettel,German,ferrari,3,3,37,0,4,73,0,2,0.2999999999999971,31
+14190,2019,4,BAK,False,False,False,False,False,max_verstappen,Dutch,red_bull,4,4,39,0,3,52,0,3,0.5999999999999943,21
+14192,2019,4,BAK,False,False,False,False,False,perez,Mexican,racing_point,5,6,5,0,12,7,0,8,1.0999999999999943,29
+14202,2019,4,BAK,False,False,False,False,False,kvyat,Russian,toro_rosso,6,19,1,0,15,4,0,9,1.2000000000000028,25
+14194,2019,4,BAK,False,False,False,False,False,norris,British,mclaren,7,8,8,0,8,8,0,7,1.4000000000000057,19
+14193,2019,4,BAK,False,False,False,False,False,sainz,Spanish,mclaren,9,7,0,0,18,8,0,7,1.9000000000000057,24
+14203,2019,4,BAK,False,False,False,False,False,ricciardo,Australian,renault,10,20,6,0,11,12,0,4,2.0,29
+14196,2019,4,BAK,False,False,False,False,False,albon,Thai,toro_rosso,11,11,3,0,13,4,0,9,2.0,23
+14198,2019,4,BAK,False,False,False,False,False,kevin_magnussen,Danish,haas,12,13,8,0,9,8,0,6,2.200000000000003,26
+14195,2019,4,BAK,False,False,False,False,False,stroll,Canadian,racing_point,13,9,2,0,14,7,0,8,2.0999999999999943,20
+14201,2019,4,BAK,False,False,False,False,False,grosjean,French,haas,14,18,0,0,17,8,0,6,2.9000000000000057,33
+14199,2019,4,BAK,False,False,False,False,False,hulkenberg,German,renault,15,14,6,0,10,12,0,4,2.9000000000000057,31
+14200,2019,4,BAK,False,False,False,False,False,russell,British,williams,16,15,0,0,19,0,0,10,4.599999999999994,21
+14197,2019,4,BAK,False,False,False,False,False,giovinazzi,Italian,alfa,17,12,0,0,16,12,0,5,1.9000000000000057,25

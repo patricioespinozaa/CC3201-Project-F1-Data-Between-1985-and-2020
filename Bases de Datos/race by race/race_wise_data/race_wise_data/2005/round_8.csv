@@ -1,0 +1,20 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+8615,2005,8,villeneuve,True,False,False,False,True,button,British,bar,1,13,0,0,19,0,0,9,0.0,25
+8604,2005,8,villeneuve,True,False,False,False,True,michael_schumacher,German,ferrari,2,2,16,0,8,31,0,5,0.2999999999999971,36
+8619,2005,8,villeneuve,True,False,False,False,True,alonso,Spanish,renault,3,17,59,4,1,76,5,1,0.3999999999999915,23
+8620,2005,8,villeneuve,True,False,False,False,True,fisichella,Italian,renault,4,18,17,1,6,76,5,1,0.3999999999999915,32
+8622,2005,8,villeneuve,True,False,False,False,True,montoya,Colombian,mclaren,5,20,16,0,9,53,2,2,0.5,29
+8617,2005,8,villeneuve,True,False,False,False,True,sato,Japanese,bar,6,15,0,0,22,0,0,9,0.5,28
+8603,2005,8,villeneuve,True,False,False,False,True,raikkonen,Finnish,mclaren,7,1,27,2,2,53,2,2,0.7000000000000028,25
+8611,2005,8,villeneuve,True,False,False,False,True,villeneuve,Canadian,sauber,8,9,5,0,13,7,0,7,0.8999999999999915,34
+8614,2005,8,villeneuve,True,False,False,False,True,trulli,Italian,toyota,9,12,27,0,3,44,0,3,1.0,30
+8608,2005,8,villeneuve,True,False,False,False,True,ralf_schumacher,German,toyota,10,6,17,0,7,44,0,3,1.2000000000000028,29
+8606,2005,8,villeneuve,True,False,False,False,True,massa,Brazilian,sauber,11,4,2,0,16,7,0,7,1.5,24
+8609,2005,8,villeneuve,True,False,False,False,True,coulthard,British,red_bull,12,7,15,0,11,19,0,6,1.7000000000000028,34
+8616,2005,8,villeneuve,True,False,False,False,True,heidfeld,German,williams,13,14,25,0,4,43,0,4,1.8999999999999917,28
+8607,2005,8,villeneuve,True,False,False,False,True,webber,Australian,williams,14,5,18,0,5,43,0,4,2.5,28
+8613,2005,8,villeneuve,True,False,False,False,True,albers,Dutch,minardi,15,11,0,0,23,0,0,10,3.0,26
+8610,2005,8,villeneuve,True,False,False,False,True,klien,Austrian,red_bull,16,8,3,0,15,19,0,6,3.0,22
+8621,2005,8,villeneuve,True,False,False,False,True,karthikeyan,Indian,jordan,17,19,0,0,20,0,0,8,3.5,28
+8612,2005,8,villeneuve,True,False,False,False,True,monteiro,Portuguese,jordan,18,10,0,0,18,0,0,8,3.799999999999997,28
+8618,2005,8,villeneuve,True,False,False,False,True,friesacher,Austrian,minardi,19,16,0,0,21,0,0,10,4.399999999999992,24

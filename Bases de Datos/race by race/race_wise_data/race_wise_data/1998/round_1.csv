@@ -1,0 +1,23 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+5994,1998,1,albert_park,True,False,False,False,False,hakkinen,Finnish,mclaren,1,1,0,0,0,0,0,0,0.0,29
+5995,1998,1,albert_park,True,False,False,False,False,coulthard,British,mclaren,2,2,0,0,0,0,0,0,0.0999999999999943,26
+6010,1998,1,albert_park,True,False,False,False,False,michael_schumacher,German,ferrari,3,17,0,0,0,0,0,0,0.7999999999999972,29
+5998,1998,1,albert_park,True,False,False,False,False,villeneuve,Canadian,williams,4,5,0,0,0,0,0,0,0.9000000000000057,26
+5999,1998,1,albert_park,True,False,False,False,False,herbert,British,sauber,5,6,0,0,0,0,0,0,1.4000000000000057,33
+5996,1998,1,albert_park,True,False,False,False,False,frentzen,German,williams,6,3,0,0,0,0,0,0,1.4000000000000057,30
+6003,1998,1,albert_park,True,False,False,False,False,fisichella,Italian,benetton,7,10,0,0,0,0,0,0,1.7000000000000028,25
+5997,1998,1,albert_park,True,False,False,False,False,irvine,British,ferrari,8,4,0,0,0,0,0,0,1.7999999999999972,32
+6012,1998,1,albert_park,True,False,False,False,False,ralf_schumacher,German,jordan,9,19,0,0,0,0,0,0,2.4000000000000057,22
+6001,1998,1,albert_park,True,False,False,False,False,damon_hill,British,jordan,10,8,0,0,0,0,0,0,2.4000000000000057,37
+6000,1998,1,albert_park,True,False,False,False,False,wurz,Austrian,benetton,11,7,0,0,0,0,0,0,2.700000000000003,24
+6004,1998,1,albert_park,True,False,False,False,False,alesi,French,sauber,12,11,0,0,0,0,0,0,3.200000000000003,33
+6014,1998,1,albert_park,True,False,False,False,False,takagi,Japanese,tyrrell,13,21,0,0,0,0,0,0,3.299999999999997,24
+6015,1998,1,albert_park,True,False,False,False,False,barrichello,Brazilian,stewart,14,22,0,0,0,0,0,0,3.4000000000000057,25
+6005,1998,1,albert_park,True,False,False,False,False,trulli,Italian,prost,15,12,0,0,0,0,0,0,3.700000000000003,23
+6007,1998,1,albert_park,True,False,False,False,False,salo,Finnish,arrows,16,14,0,0,0,0,0,0,3.9000000000000057,31
+6008,1998,1,albert_park,True,False,False,False,False,tuero,Argentine,minardi,17,15,0,0,0,0,0,0,4.599999999999994,19
+6013,1998,1,albert_park,True,False,False,False,False,magnussen,Danish,stewart,18,20,0,0,0,0,0,0,4.900000000000006,24
+6006,1998,1,albert_park,True,False,False,False,False,rosset,Brazilian,tyrrell,19,13,0,0,0,0,0,0,5.099999999999994,29
+6011,1998,1,albert_park,True,False,False,False,False,diniz,Brazilian,arrows,20,18,0,0,0,0,0,0,5.099999999999994,27
+6002,1998,1,albert_park,True,False,False,False,False,panis,French,prost,21,9,0,0,0,0,0,0,5.200000000000003,31
+6009,1998,1,albert_park,True,False,False,False,False,nakano,Japanese,minardi,22,16,0,0,0,0,0,0,5.299999999999997,26

@@ -1,0 +1,23 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+5887,1997,13,monza,False,False,True,False,False,alesi,French,benetton,1,2,22,0,4,47,1,3,0.0,33
+5888,1997,13,monza,False,False,True,False,False,frentzen,German,williams,2,3,23,1,3,78,6,2,0.0,30
+5889,1997,13,monza,False,False,True,False,False,fisichella,Italian,jordan,3,4,14,0,9,25,0,5,0.0999999999999943,24
+5890,1997,13,monza,False,False,True,False,False,villeneuve,Canadian,williams,4,5,55,5,2,78,6,2,0.2000000000000028,26
+5894,1997,13,monza,False,False,True,False,False,hakkinen,Finnish,mclaren,5,9,14,0,10,28,1,4,0.2999999999999971,28
+5886,1997,13,monza,False,False,True,False,False,coulthard,British,mclaren,6,1,14,1,8,28,1,4,0.2999999999999971,26
+5892,1997,13,monza,False,False,True,False,False,berger,Austrian,benetton,7,7,21,1,5,47,1,3,0.4000000000000057,38
+5901,1997,13,monza,False,False,True,False,False,ralf_schumacher,German,jordan,8,16,11,0,12,25,0,5,0.5999999999999943,22
+5891,1997,13,monza,False,False,True,False,False,michael_schumacher,German,ferrari,9,6,66,4,1,84,4,1,0.5999999999999943,28
+5893,1997,13,monza,False,False,True,False,False,irvine,British,ferrari,10,8,18,0,6,84,4,1,0.9000000000000057,31
+5898,1997,13,monza,False,False,True,False,False,barrichello,Brazilian,stewart,11,13,6,0,14,6,0,9,1.2000000000000028,25
+5902,1997,13,monza,False,False,True,False,False,herbert,British,sauber,12,17,14,0,11,15,0,7,1.2000000000000028,33
+5904,1997,13,monza,False,False,True,False,False,magnussen,Danish,stewart,13,19,0,0,21,6,0,9,1.4000000000000057,24
+5900,1997,13,monza,False,False,True,False,False,damon_hill,British,arrows,14,15,7,0,13,7,0,8,1.5,36
+5896,1997,13,monza,False,False,True,False,False,nakano,Japanese,prost,15,11,2,0,18,20,0,6,1.5999999999999943,26
+5895,1997,13,monza,False,False,True,False,False,trulli,Italian,prost,16,10,3,0,16,20,0,6,1.5999999999999943,23
+5907,1997,13,monza,False,False,True,False,False,diniz,Brazilian,arrows,17,22,0,0,20,7,0,8,1.5999999999999943,27
+5897,1997,13,monza,False,False,True,False,False,morbidelli,Italian,sauber,18,12,0,0,24,15,0,7,1.7000000000000028,29
+5903,1997,13,monza,False,False,True,False,False,salo,Finnish,tyrrell,19,18,2,0,17,2,0,10,2.700000000000003,30
+5905,1997,13,monza,False,False,True,False,False,verstappen,Dutch,tyrrell,20,20,0,0,22,2,0,10,2.799999999999997,25
+5906,1997,13,monza,False,False,True,False,False,katayama,Japanese,minardi,21,21,0,0,25,0,0,11,3.700000000000003,34
+5899,1997,13,monza,False,False,True,False,False,marques,Brazilian,minardi,22,14,0,0,26,0,0,11,4.700000000000003,21

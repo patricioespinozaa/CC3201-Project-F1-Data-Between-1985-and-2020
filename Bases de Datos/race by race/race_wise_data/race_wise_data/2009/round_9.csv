@@ -1,0 +1,21 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+10125,2009,9,nurburgring,True,False,False,False,True,webber,Australian,red_bull,1,1,0,0,4,0,2,2,0.0,32
+10130,2009,9,nurburgring,True,False,False,False,True,barrichello,Brazilian,brawn,2,6,41,0,2,105,6,1,0.2000000000000028,37
+10129,2009,9,nurburgring,True,False,False,False,True,button,British,brawn,3,5,64,6,1,105,6,1,0.2999999999999971,29
+10126,2009,9,nurburgring,True,False,False,False,True,vettel,German,red_bull,4,2,39,2,3,0,2,2,0.2999999999999971,22
+10142,2009,9,nurburgring,True,False,False,False,True,hamilton,British,mclaren,5,18,9,0,11,13,0,6,0.3999999999999915,24
+10132,2009,9,nurburgring,True,False,False,False,True,kovalainen,Finnish,mclaren,6,8,4,0,13,13,0,6,1.7000000000000028,27
+10139,2009,9,nurburgring,True,False,False,False,True,sutil,German,force_india,7,15,0,0,18,0,0,10,2.0999999999999943,26
+10127,2009,9,nurburgring,True,False,False,False,True,massa,Brazilian,ferrari,8,3,16,0,6,26,0,4,2.3999999999999915,28
+10143,2009,9,nurburgring,True,False,False,False,True,raikkonen,Finnish,ferrari,9,19,10,0,10,26,0,4,2.5,29
+10137,2009,9,nurburgring,True,False,False,False,True,piquet_jr,Brazilian,renault,10,13,0,0,19,11,0,7,2.5999999999999943,23
+10134,2009,9,nurburgring,True,False,False,False,True,heidfeld,German,bmw_sauber,11,10,6,0,12,8,0,8,10.099999999999994,32
+10131,2009,9,nurburgring,True,False,False,False,True,alonso,Spanish,renault,12,7,11,0,9,11,0,7,10.099999999999994,27
+10136,2009,9,nurburgring,True,False,False,False,True,nakajima,Japanese,williams,13,12,0,0,20,0,0,5,10.299999999999995,24
+10141,2009,9,nurburgring,True,False,False,False,True,trulli,Italian,toyota,14,17,0,0,5,0,0,3,10.599999999999994,34
+10128,2009,9,nurburgring,True,False,False,False,True,rosberg,German,williams,15,4,0,0,7,0,0,5,10.700000000000005,24
+10138,2009,9,nurburgring,True,False,False,False,True,kubica,Polish,bmw_sauber,16,14,2,0,15,8,0,8,0.0,24
+10140,2009,9,nurburgring,True,False,False,False,True,buemi,Swiss,toro_rosso,17,16,3,0,14,5,0,9,0.0999999999999943,20
+10135,2009,9,nurburgring,True,False,False,False,True,fisichella,Italian,force_india,18,11,0,0,17,0,0,10,0.2000000000000028,36
+10144,2009,9,nurburgring,True,False,False,False,True,bourdais,French,toro_rosso,19,20,2,0,16,5,0,9,0.2000000000000028,30
+10133,2009,9,nurburgring,True,False,False,False,True,glock,German,toyota,20,9,13,0,8,0,0,3,1.3999999999999917,27

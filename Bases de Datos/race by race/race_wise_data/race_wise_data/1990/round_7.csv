@@ -1,0 +1,27 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+2990,1990,7,ricard,True,False,False,False,False,mansell,British,ferrari,1,18,13,0,5,36,2,2,0.0,36
+2977,1990,7,ricard,True,False,False,False,False,berger,Austrian,mclaren,2,5,23,0,3,54,3,1,0.0999999999999943,30
+2975,1990,7,ricard,True,False,False,False,False,senna,Brazilian,mclaren,3,3,31,3,1,54,3,1,0.0999999999999943,30
+2973,1990,7,ricard,True,False,False,False,False,prost,French,ferrari,4,1,23,2,2,36,2,2,0.3999999999999915,35
+2988,1990,7,ricard,True,False,False,False,False,nannini,Italian,benetton,5,16,7,0,9,20,0,4,0.5999999999999943,31
+2978,1990,7,ricard,True,False,False,False,False,patrese,Italian,williams,6,6,9,1,8,20,1,3,0.6999999999999886,36
+2974,1990,7,ricard,True,False,False,False,False,capelli,Italian,leyton,7,2,0,0,21,0,0,13,1.0,27
+2997,1990,7,ricard,True,False,False,False,False,boutsen,Belgian,williams,8,25,11,0,7,20,1,3,1.0,32
+2976,1990,7,ricard,True,False,False,False,False,piquet,Brazilian,benetton,9,4,13,0,6,20,0,4,1.1999999999999886,37
+2993,1990,7,ricard,True,False,False,False,False,gugelmin,Brazilian,leyton,10,21,0,0,29,0,0,13,1.3999999999999917,27
+2980,1990,7,ricard,True,False,False,False,False,bernard,French,larrousse,11,8,1,0,13,1,0,9,1.5,25
+2981,1990,7,ricard,True,False,False,False,False,alliot,French,ligier,12,9,0,0,18,0,0,12,1.5999999999999943,35
+2995,1990,7,ricard,True,False,False,False,False,alesi,French,tyrrell,13,23,13,0,4,14,0,5,1.6999999999999886,26
+2979,1990,7,ricard,True,False,False,False,False,suzuki,Japanese,larrousse,14,7,0,0,24,1,0,9,1.6999999999999886,29
+2992,1990,7,ricard,True,False,False,False,False,satoru_nakajima,Japanese,tyrrell,15,20,1,0,14,14,0,5,2.1999999999999886,37
+2983,1990,7,ricard,True,False,False,False,False,warwick,British,team_lotus,16,11,1,0,12,1,0,8,2.1999999999999886,35
+2984,1990,7,ricard,True,False,False,False,False,donnelly,British,team_lotus,17,12,0,0,17,1,0,8,2.1999999999999886,26
+2982,1990,7,ricard,True,False,False,False,False,alboreto,Italian,arrows,18,10,0,0,20,2,0,7,2.3999999999999915,33
+2986,1990,7,ricard,True,False,False,False,False,larini,Italian,ligier,19,14,0,0,19,0,0,12,2.5,26
+2985,1990,7,ricard,True,False,False,False,False,modena,Italian,brabham,20,13,2,0,10,2,0,6,2.5,27
+2991,1990,7,ricard,True,False,False,False,False,cesaris,Italian,dallara,21,19,0,0,27,0,0,14,2.6999999999999886,31
+2996,1990,7,ricard,True,False,False,False,False,caffi,Italian,arrows,22,24,2,0,11,2,0,7,2.799999999999997,26
+2994,1990,7,ricard,True,False,False,False,False,martini,Italian,minardi,23,22,0,0,15,0,0,10,2.8999999999999915,29
+2998,1990,7,ricard,True,False,False,False,False,pirro,Italian,dallara,24,26,0,0,0,0,0,14,3.299999999999997,28
+2987,1990,7,ricard,True,False,False,False,False,brabham,Australian,brabham,25,15,0,0,0,2,0,6,3.299999999999997,24
+2989,1990,7,ricard,True,False,False,False,False,dalmas,French,ags,26,17,0,0,0,0,0,17,3.5,28

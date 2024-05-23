@@ -1,0 +1,20 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+7850,2003,4,imola,False,False,False,False,True,michael_schumacher,German,ferrari,1,1,8,0,8,16,0,3,0.0,34
+7853,2003,4,imola,False,False,False,False,True,ralf_schumacher,German,williams,2,4,8,0,9,16,0,4,0.0,27
+7852,2003,4,imola,False,False,False,False,True,barrichello,Brazilian,ferrari,3,3,8,0,7,16,0,3,0.2999999999999971,30
+7856,2003,4,imola,False,False,False,False,True,montoya,Colombian,williams,4,7,8,0,6,16,0,4,0.5,27
+7865,2003,4,imola,False,False,False,False,True,webber,Australian,jaguar,5,16,0,0,14,0,0,8,0.7000000000000028,26
+7851,2003,4,imola,False,False,False,False,True,raikkonen,Finnish,mclaren,6,2,24,1,1,39,2,1,0.7999999999999972,23
+7868,2003,4,imola,False,False,False,False,True,villeneuve,Canadian,bar,7,20,3,0,11,5,0,7,0.9000000000000057,32
+7855,2003,4,imola,False,False,False,False,True,alonso,Spanish,renault,8,6,14,0,3,23,0,2,0.9000000000000057,21
+7857,2003,4,imola,False,False,False,False,True,button,British,bar,9,8,2,0,12,5,0,7,1.1000000000000083,23
+7858,2003,4,imola,False,False,False,False,True,panis,French,toyota,10,9,0,0,0,0,0,9,1.2000000000000028,36
+7859,2003,4,imola,False,False,False,False,True,heidfeld,German,sauber,11,10,1,0,13,8,0,6,1.4000000000000057,25
+7854,2003,4,imola,False,False,False,False,True,coulthard,British,mclaren,12,5,15,1,2,39,2,1,1.5,32
+7861,2003,4,imola,False,False,False,False,True,matta,Brazilian,toyota,13,12,0,0,15,0,0,9,1.5,29
+7860,2003,4,imola,False,False,False,False,True,frentzen,German,sauber,14,11,7,0,10,8,0,6,1.6000000000000083,35
+7863,2003,4,imola,False,False,False,False,True,pizzonia,Brazilian,jaguar,15,14,0,0,0,0,0,8,1.7999999999999972,22
+7862,2003,4,imola,False,False,False,False,True,trulli,Italian,renault,16,13,9,0,5,23,0,2,1.9000000000000057,28
+7864,2003,4,imola,False,False,False,False,True,fisichella,Italian,jordan,17,15,10,1,4,10,1,5,2.0,30
+7867,2003,4,imola,False,False,False,False,True,wilson,British,minardi,18,19,0,0,0,0,0,10,3.5,24
+7866,2003,4,imola,False,False,False,False,True,firman,Irish,jordan,19,17,0,0,16,10,1,5,4.1000000000000085,27

@@ -1,0 +1,19 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+9777,2008,9,silverstone,False,False,False,False,False,kovalainen,Finnish,mclaren,1,5,20,0,6,58,2,3,0.0,26
+9781,2008,9,silverstone,False,False,False,False,False,webber,Australian,red_bull,2,10,18,0,8,24,0,4,0.5999999999999943,31
+9776,2008,9,silverstone,False,False,False,False,False,raikkonen,Finnish,ferrari,3,4,43,2,3,91,5,1,0.7000000000000028,28
+9773,2008,9,silverstone,False,False,False,False,False,hamilton,British,mclaren,4,1,38,2,4,58,2,3,0.7999999999999972,23
+9774,2008,9,silverstone,False,False,False,False,False,heidfeld,German,bmw_sauber,5,2,28,0,5,74,1,2,0.9000000000000057,31
+9778,2008,9,silverstone,False,False,False,False,False,alonso,Spanish,renault,6,6,10,0,9,12,0,7,1.0,26
+9787,2008,9,silverstone,False,False,False,False,False,piquet_jr,Brazilian,renault,7,16,2,0,17,12,0,7,1.5,22
+9790,2008,9,silverstone,False,False,False,False,False,vettel,German,toro_rosso,8,19,5,0,14,7,0,9,2.299999999999997,21
+9784,2008,9,silverstone,False,False,False,False,False,massa,Brazilian,ferrari,9,13,48,3,1,91,5,1,2.299999999999997,27
+9791,2008,9,silverstone,False,False,False,False,False,coulthard,British,red_bull,11,20,6,0,12,24,0,4,-0.7999999999999972,37
+9783,2008,9,silverstone,False,False,False,False,False,glock,German,toyota,12,12,5,0,13,23,0,5,-0.7000000000000028,26
+9782,2008,9,silverstone,False,False,False,False,False,bourdais,French,toro_rosso,13,11,2,0,18,7,0,9,-0.5,29
+9779,2008,9,silverstone,False,False,False,False,False,trulli,Italian,toyota,14,7,18,0,7,23,0,5,-0.4000000000000057,33
+9780,2008,9,silverstone,False,False,False,False,False,nakajima,Japanese,williams,15,8,7,0,11,15,0,6,0.0999999999999943,23
+9775,2008,9,silverstone,False,False,False,False,False,barrichello,Brazilian,honda,16,3,5,0,15,8,0,8,0.5,36
+9786,2008,9,silverstone,False,False,False,False,False,button,British,honda,17,15,3,0,16,8,0,8,0.5999999999999943,28
+9789,2008,9,silverstone,False,False,False,False,False,sutil,German,force_india,18,18,0,0,22,0,0,10,0.7999999999999972,25
+9788,2008,9,silverstone,False,False,False,False,False,fisichella,Italian,force_india,19,17,0,0,19,0,0,10,0.9000000000000057,35

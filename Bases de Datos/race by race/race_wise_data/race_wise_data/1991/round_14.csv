@@ -1,0 +1,27 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+3587,1991,14,catalunya,True,False,False,False,False,berger,Austrian,mclaren,1,20,31,0,4,114,6,1,0.0,32
+3568,1991,14,catalunya,True,False,False,False,False,mansell,British,williams,2,1,59,4,2,103,6,2,0.2000000000000028,38
+3572,1991,14,catalunya,True,False,False,False,False,senna,Brazilian,mclaren,3,5,83,6,1,114,6,1,0.2999999999999971,31
+3570,1991,14,catalunya,True,False,False,False,False,patrese,Italian,williams,4,3,44,2,3,103,6,2,0.7999999999999972,37
+3573,1991,14,catalunya,True,False,False,False,False,michael_schumacher,German,benetton,5,6,3,0,14,36,1,4,0.9000000000000057,22
+3569,1991,14,catalunya,True,False,False,False,False,prost,French,ferrari,6,2,25,0,6,43,0,3,1.1000000000000083,36
+3571,1991,14,catalunya,True,False,False,False,False,alesi,French,ferrari,7,4,18,0,7,43,0,3,1.4000000000000057,27
+3591,1991,14,catalunya,True,False,False,False,False,capelli,Italian,leyton,8,24,1,0,19,1,0,10,1.7999999999999972,28
+3582,1991,14,catalunya,True,False,False,False,False,pirro,Italian,dallara,9,15,1,0,17,5,0,8,1.9000000000000057,29
+3578,1991,14,catalunya,True,False,False,False,False,piquet,Brazilian,benetton,10,11,25,1,5,36,1,4,1.9000000000000057,39
+3577,1991,14,catalunya,True,False,False,False,False,brundle,British,brabham,11,10,0,0,30,1,0,11,1.9000000000000057,32
+3585,1991,14,catalunya,True,False,False,False,False,blundell,British,brabham,12,18,1,0,18,1,0,11,1.9000000000000057,25
+3574,1991,14,catalunya,True,False,False,False,False,gugelmin,Brazilian,leyton,13,7,0,0,24,1,0,10,1.9000000000000057,28
+3583,1991,14,catalunya,True,False,False,False,False,modena,Italian,tyrrell,14,16,9,0,8,11,0,6,2.0,28
+3575,1991,14,catalunya,True,False,False,False,False,lehto,Finnish,dallara,15,8,4,0,12,5,0,8,2.200000000000003,25
+3581,1991,14,catalunya,True,False,False,False,False,morbidelli,Italian,minardi,16,14,0,0,25,6,0,7,3.0,23
+3589,1991,14,catalunya,True,False,False,False,False,cesaris,Italian,jordan,17,22,9,0,9,13,0,5,3.1000000000000085,32
+3584,1991,14,catalunya,True,False,False,False,False,satoru_nakajima,Japanese,tyrrell,18,17,2,0,15,11,0,6,3.299999999999997,38
+3580,1991,14,catalunya,True,False,False,False,False,martini,Italian,minardi,19,13,6,0,11,6,0,7,3.700000000000003,30
+3576,1991,14,catalunya,True,False,False,False,False,zanardi,Italian,jordan,20,9,0,0,0,13,0,5,3.799999999999997,24
+3590,1991,14,catalunya,True,False,False,False,False,hakkinen,Finnish,team_lotus,21,23,2,0,16,3,0,9,3.799999999999997,23
+3579,1991,14,catalunya,True,False,False,False,False,tarquini,Italian,fondmetal,22,12,0,0,29,0,0,17,4.0,29
+3592,1991,14,catalunya,True,False,False,False,False,bernard,French,lola,23,25,1,0,20,1,0,12,4.1000000000000085,27
+3588,1991,14,catalunya,True,False,False,False,False,alboreto,Italian,footwork,24,21,0,0,0,0,0,18,4.299999999999997,34
+3586,1991,14,catalunya,True,False,False,False,False,comas,French,ligier,25,19,0,0,28,0,0,14,4.6000000000000085,28
+3593,1991,14,catalunya,True,False,False,False,False,boutsen,Belgian,ligier,26,26,0,0,23,0,0,14,4.799999999999997,34

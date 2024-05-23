@@ -1,0 +1,21 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+10047,2009,5,catalunya,True,False,False,False,False,button,British,brawn,1,1,31,3,1,50,3,1,0.0,29
+10050,2009,5,catalunya,True,False,False,False,False,vettel,German,red_bull,2,4,18,1,3,0,1,2,0.2000000000000028,21
+10048,2009,5,catalunya,True,False,False,False,False,barrichello,Brazilian,brawn,3,2,19,0,2,50,3,1,0.2999999999999971,36
+10052,2009,5,catalunya,True,False,False,False,False,massa,Brazilian,ferrari,4,6,0,0,15,3,0,9,0.4000000000000057,28
+10049,2009,5,catalunya,True,False,False,False,False,webber,Australian,red_bull,5,3,0,0,6,0,1,2,0.5,32
+10056,2009,5,catalunya,True,False,False,False,False,glock,German,toyota,6,10,12,0,5,0,0,3,0.7000000000000028,27
+10063,2009,5,catalunya,True,False,False,False,False,trulli,Italian,toyota,7,17,0,0,4,0,0,3,0.7999999999999972,34
+10051,2009,5,catalunya,True,False,False,False,False,alonso,Spanish,renault,8,5,5,0,8,5,0,5,0.9000000000000057,27
+10054,2009,5,catalunya,True,False,False,False,False,rosberg,German,williams,9,8,0,0,11,0,0,8,2.0999999999999943,23
+10057,2009,5,catalunya,True,False,False,False,False,kubica,Polish,bmw_sauber,10,11,0,0,20,4,0,6,2.200000000000003,24
+10059,2009,5,catalunya,True,False,False,False,False,nakajima,Japanese,williams,11,13,0,0,19,0,0,8,0.0,24
+10058,2009,5,catalunya,True,False,False,False,False,piquet_jr,Brazilian,renault,12,12,0,0,17,5,0,5,0.0999999999999943,23
+10053,2009,5,catalunya,True,False,False,False,False,heidfeld,German,bmw_sauber,13,7,4,0,9,4,0,6,0.2000000000000028,32
+10055,2009,5,catalunya,True,False,False,False,False,hamilton,British,mclaren,14,9,9,0,7,13,0,4,0.2999999999999971,24
+10064,2009,5,catalunya,True,False,False,False,False,buemi,Swiss,toro_rosso,15,18,3,0,13,4,0,7,0.5999999999999943,20
+10061,2009,5,catalunya,True,False,False,False,False,raikkonen,Finnish,ferrari,16,15,3,0,12,3,0,9,0.7999999999999972,29
+10065,2009,5,catalunya,True,False,False,False,False,bourdais,French,toro_rosso,17,19,1,0,14,4,0,7,0.7999999999999972,30
+10062,2009,5,catalunya,True,False,False,False,False,kovalainen,Finnish,mclaren,18,16,4,0,10,13,0,4,1.2000000000000028,27
+10066,2009,5,catalunya,True,False,False,False,False,sutil,German,force_india,19,20,0,0,16,0,0,10,1.2000000000000028,26
+10060,2009,5,catalunya,True,False,False,False,False,fisichella,Italian,force_india,20,14,0,0,18,0,0,10,1.7000000000000028,36

@@ -1,0 +1,21 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+13553,2017,13,monza,True,False,False,False,False,hamilton,British,mercedes,1,1,213,5,2,392,7,1,0.0,32
+13559,2017,13,monza,True,False,False,False,False,stroll,Canadian,williams,2,7,18,0,13,45,0,5,1.4000000000000057,18
+13558,2017,13,monza,True,False,False,False,False,ocon,French,force_india,3,6,47,0,8,103,0,4,2.1000000000000085,20
+13554,2017,13,monza,True,False,False,False,False,bottas,Finnish,mercedes,4,2,179,2,3,392,7,1,2.200000000000003,28
+13557,2017,13,monza,True,False,False,False,False,raikkonen,Finnish,ferrari,5,5,128,0,5,348,4,2,2.4000000000000057,37
+13555,2017,13,monza,True,False,False,False,False,vettel,German,ferrari,6,3,220,4,1,348,4,2,2.5,30
+13560,2017,13,monza,True,False,False,False,False,massa,Brazilian,williams,7,8,27,0,11,45,0,5,2.700000000000003,36
+13564,2017,13,monza,True,False,False,False,False,kvyat,Russian,toro_rosso,8,12,4,0,17,40,0,6,2.6000000000000085,23
+13563,2017,13,monza,True,False,False,False,False,kevin_magnussen,Danish,haas,9,11,11,0,14,35,0,7,4.900000000000006,24
+13561,2017,13,monza,True,False,False,False,False,perez,Mexican,force_india,10,9,56,0,7,103,0,4,2.0,27
+13570,2017,13,monza,True,False,False,False,False,ericsson,Swedish,sauber,11,18,0,0,20,5,0,10,6.1000000000000085,27
+13568,2017,13,monza,True,False,False,False,False,wehrlein,German,sauber,12,16,5,0,16,5,0,10,6.300000000000011,22
+13562,2017,13,monza,True,False,False,False,False,max_verstappen,Dutch,red_bull,13,10,67,0,6,199,1,3,1.1000000000000083,19
+13565,2017,13,monza,True,False,False,False,False,hulkenberg,German,renault,14,13,34,0,10,34,0,8,2.5,30
+13566,2017,13,monza,True,False,False,False,False,sainz,Spanish,toro_rosso,15,14,36,0,9,40,0,6,2.9000000000000057,23
+13556,2017,13,monza,True,False,False,False,False,ricciardo,Australian,red_bull,16,4,132,1,4,199,1,3,1.2000000000000028,28
+13572,2017,13,monza,True,False,False,False,False,jolyon_palmer,British,renault,17,20,0,0,19,34,0,8,5.0,26
+13571,2017,13,monza,True,False,False,False,False,vandoorne,Belgian,mclaren,18,19,1,0,18,11,0,9,3.6000000000000085,25
+13569,2017,13,monza,True,False,False,False,False,alonso,Spanish,mclaren,19,17,10,0,15,11,0,9,2.6000000000000085,36
+13567,2017,13,monza,True,False,False,False,False,grosjean,French,haas,20,15,24,0,12,35,0,7,7.800000000000011,31

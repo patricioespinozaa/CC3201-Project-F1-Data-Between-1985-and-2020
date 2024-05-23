@@ -1,0 +1,23 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+6643,1999,14,nurburgring,False,False,False,False,False,frentzen,German,jordan,1,18,50,2,3,57,2,3,0.0,32
+6641,1999,14,nurburgring,False,False,False,False,False,coulthard,British,mclaren,2,16,48,2,4,108,6,1,0.2999999999999971,28
+6630,1999,14,nurburgring,False,False,False,False,False,hakkinen,Finnish,mclaren,3,5,60,4,1,108,6,1,0.5,30
+6629,1999,14,nurburgring,False,False,False,False,False,ralf_schumacher,German,williams,4,4,30,0,6,30,0,4,0.5,24
+6634,1999,14,nurburgring,False,False,False,False,False,panis,French,prost,5,9,2,0,14,3,0,8,0.6999999999999886,33
+6638,1999,14,nurburgring,False,False,False,False,False,fisichella,Italian,benetton,6,13,13,0,8,16,0,6,0.8999999999999915,26
+6645,1999,14,nurburgring,False,False,False,False,False,damon_hill,British,jordan,7,20,7,0,10,57,2,3,0.8999999999999915,39
+6635,1999,14,nurburgring,False,False,False,False,False,villeneuve,Canadian,bar,8,10,0,0,22,0,0,10,0.8999999999999915,28
+6632,1999,14,nurburgring,False,False,False,False,False,irvine,British,ferrari,9,7,60,3,2,102,5,2,0.8999999999999915,33
+6627,1999,14,nurburgring,False,False,False,False,False,trulli,Italian,prost,10,2,1,0,15,3,0,8,1.0999999999999943,25
+6646,1999,14,nurburgring,False,False,False,False,False,wurz,Austrian,benetton,11,21,3,0,11,16,0,6,1.1999999999999886,25
+6639,1999,14,nurburgring,False,False,False,False,False,salo,Finnish,ferrari,12,14,10,0,9,102,5,2,1.3999999999999917,32
+6647,1999,14,nurburgring,False,False,False,False,False,diniz,Brazilian,sauber,13,22,3,0,12,4,0,7,1.3999999999999917,29
+6626,1999,14,nurburgring,False,False,False,False,False,herbert,British,stewart,14,1,2,0,13,17,0,5,1.5,35
+6628,1999,14,nurburgring,False,False,False,False,False,barrichello,Brazilian,stewart,15,3,15,0,7,17,0,5,1.5999999999999943,27
+6642,1999,14,nurburgring,False,False,False,False,False,alesi,French,sauber,16,17,1,0,16,4,0,7,1.6999999999999886,35
+6633,1999,14,nurburgring,False,False,False,False,False,zonta,Brazilian,bar,17,8,0,0,23,0,0,10,2.3999999999999915,23
+6644,1999,14,nurburgring,False,False,False,False,False,zanardi,Italian,williams,18,19,0,0,18,30,0,4,2.3999999999999915,32
+6636,1999,14,nurburgring,False,False,False,False,False,badoer,Italian,minardi,19,11,0,0,21,0,0,11,2.6999999999999886,28
+6631,1999,14,nurburgring,False,False,False,False,False,gene,Spanish,minardi,20,6,0,0,20,0,0,11,2.8999999999999915,25
+6640,1999,14,nurburgring,False,False,False,False,False,takagi,Japanese,arrows,21,15,0,0,19,1,0,9,3.5,25
+6637,1999,14,nurburgring,False,False,False,False,False,rosa,Spanish,arrows,22,12,1,0,17,1,0,9,3.799999999999997,28

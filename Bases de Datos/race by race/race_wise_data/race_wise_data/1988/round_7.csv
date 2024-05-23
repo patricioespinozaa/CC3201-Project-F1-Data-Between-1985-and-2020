@@ -1,0 +1,27 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+2141,1988,7,ricard,True,False,False,False,False,prost,French,mclaren,1,1,45,3,1,78,6,1,0.0,33
+2142,1988,7,ricard,True,False,False,False,False,senna,Brazilian,mclaren,2,2,33,3,2,78,6,1,0.5,28
+2144,1988,7,ricard,True,False,False,False,False,berger,Austrian,ferrari,3,4,18,0,3,27,0,2,0.7000000000000028,28
+2143,1988,7,ricard,True,False,False,False,False,alboreto,Italian,ferrari,4,3,9,0,6,27,0,2,1.8000000000000114,31
+2164,1988,7,ricard,True,False,False,False,False,boutsen,Belgian,benetton,5,24,11,0,4,12,0,3,2.0,30
+2146,1988,7,ricard,True,False,False,False,False,nannini,Italian,benetton,6,6,1,0,12,12,0,3,2.1000000000000085,28
+2145,1988,7,ricard,True,False,False,False,False,piquet,Brazilian,team_lotus,7,5,11,0,5,12,0,4,2.1000000000000085,35
+2147,1988,7,ricard,True,False,False,False,False,satoru_nakajima,Japanese,team_lotus,8,7,1,0,13,12,0,4,2.700000000000003,35
+2160,1988,7,ricard,True,False,False,False,False,mansell,British,williams,9,20,0,0,0,1,0,10,2.700000000000003,34
+2149,1988,7,ricard,True,False,False,False,False,capelli,Italian,march,10,9,2,0,10,2,0,8,2.9000000000000057,25
+2166,1988,7,ricard,True,False,False,False,False,warwick,British,arrows,11,26,8,0,7,9,0,5,3.0,33
+2150,1988,7,ricard,True,False,False,False,False,cesaris,Italian,rial,12,10,3,0,9,3,0,7,3.300000000000012,29
+2151,1988,7,ricard,True,False,False,False,False,cheever,American,arrows,13,11,1,0,11,9,0,5,3.4000000000000057,30
+2152,1988,7,ricard,True,False,False,False,False,caffi,Italian,dallara,14,12,0,0,18,0,0,13,3.6000000000000085,24
+2163,1988,7,ricard,True,False,False,False,False,patrese,Italian,williams,15,23,1,0,14,1,0,10,3.700000000000003,34
+2148,1988,7,ricard,True,False,False,False,False,gugelmin,Brazilian,march,16,8,0,0,28,2,0,8,3.700000000000003,25
+2165,1988,7,ricard,True,False,False,False,False,streiff,French,ags,17,25,0,0,22,0,0,16,3.9000000000000057,33
+2161,1988,7,ricard,True,False,False,False,False,alliot,French,larrousse,18,21,0,0,23,0,0,11,3.9000000000000057,33
+2153,1988,7,ricard,True,False,False,False,False,dalmas,French,larrousse,19,13,0,0,16,0,0,11,4.1000000000000085,26
+2154,1988,7,ricard,True,False,False,False,False,modena,Italian,eurobrun,20,14,0,0,25,0,0,17,4.400000000000006,25
+2159,1988,7,ricard,True,False,False,False,False,schneider,German,zakspeed,21,19,0,0,0,0,0,18,4.400000000000006,23
+2155,1988,7,ricard,True,False,False,False,False,martini,Italian,minardi,22,15,1,0,15,1,0,9,4.700000000000003,27
+2162,1988,7,ricard,True,False,False,False,False,palmer,British,tyrrell,23,22,5,0,8,5,0,6,4.700000000000003,31
+2158,1988,7,ricard,True,False,False,False,False,larini,Italian,osella,24,18,0,0,21,0,0,15,4.800000000000011,24
+2156,1988,7,ricard,True,False,False,False,False,sala,Spanish,minardi,25,16,0,0,24,1,0,9,4.900000000000006,29
+2157,1988,7,ricard,True,False,False,False,False,larrauri,Argentine,eurobrun,26,17,0,0,26,0,0,17,4.900000000000006,33

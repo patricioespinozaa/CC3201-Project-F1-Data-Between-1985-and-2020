@@ -1,0 +1,21 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+5433,1996,7,catalunya,False,False,False,True,False,damon_hill,British,williams,1,13,43,4,1,65,5,1,0.0,35
+5423,1996,7,catalunya,False,False,False,True,False,villeneuve,Canadian,williams,2,3,22,1,2,65,5,1,0.3999999999999915,25
+5421,1996,7,catalunya,False,False,False,True,False,michael_schumacher,German,ferrari,3,1,16,0,3,25,0,2,0.8999999999999915,27
+5422,1996,7,catalunya,False,False,False,True,False,alesi,French,benetton,4,2,11,0,5,18,0,3,1.3999999999999917,31
+5429,1996,7,catalunya,False,False,False,True,False,berger,Austrian,benetton,5,9,7,0,8,18,0,3,1.3999999999999917,36
+5435,1996,7,catalunya,False,False,False,True,False,irvine,British,ferrari,6,15,9,0,7,25,0,2,1.5999999999999943,30
+5428,1996,7,catalunya,False,False,False,True,False,barrichello,Brazilian,jordan,7,8,7,0,9,8,0,6,1.7000000000000028,24
+5436,1996,7,catalunya,False,False,False,True,False,panis,French,ligier,8,16,11,1,4,11,1,5,2.0,29
+5430,1996,7,catalunya,False,False,False,True,False,herbert,British,sauber,9,10,4,0,12,7,0,7,2.299999999999997,31
+5425,1996,7,catalunya,False,False,False,True,False,hakkinen,Finnish,mclaren,10,5,6,0,10,16,0,4,2.3999999999999915,27
+5424,1996,7,catalunya,False,False,False,True,False,frentzen,German,sauber,11,4,3,0,13,7,0,7,2.5,29
+5432,1996,7,catalunya,False,False,False,True,False,salo,Finnish,tyrrell,12,12,5,0,11,5,0,8,2.5,29
+5427,1996,7,catalunya,False,False,False,True,False,verstappen,Dutch,footwork,13,7,1,0,15,1,0,9,2.700000000000003,24
+5438,1996,7,catalunya,False,False,False,True,False,coulthard,British,mclaren,14,18,10,0,6,16,0,4,2.700000000000003,25
+5431,1996,7,catalunya,False,False,False,True,False,brundle,British,jordan,15,11,1,0,14,8,0,6,2.700000000000003,37
+5434,1996,7,catalunya,False,False,False,True,False,katayama,Japanese,tyrrell,16,14,0,0,18,5,0,8,3.700000000000003,33
+5426,1996,7,catalunya,False,False,False,True,False,diniz,Brazilian,ligier,17,6,0,0,16,11,1,5,3.799999999999997,26
+5440,1996,7,catalunya,False,False,False,True,False,lamy,Portuguese,minardi,18,20,0,0,17,0,0,10,4.599999999999994,24
+5437,1996,7,catalunya,False,False,False,True,False,fisichella,Italian,minardi,19,17,0,0,22,0,0,10,4.799999999999997,23
+5439,1996,7,catalunya,False,False,False,True,False,rosset,Brazilian,footwork,20,19,0,0,19,1,0,9,4.899999999999992,27

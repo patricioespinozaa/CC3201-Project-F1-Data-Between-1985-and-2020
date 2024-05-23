@@ -1,0 +1,20 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+14477,2019,19,americas,True,False,False,False,False,bottas,Finnish,mercedes,1,1,289,3,2,652,13,1,0.0,30
+14495,2019,19,americas,True,False,False,False,False,vettel,German,ferrari,2,20,230,1,4,466,3,2,0.0,32
+14479,2019,19,americas,True,False,False,False,False,max_verstappen,Dutch,red_bull,3,3,220,2,5,341,2,3,0.0999999999999943,22
+14480,2019,19,americas,True,False,False,False,False,leclerc,Monegasque,ferrari,4,4,236,2,3,466,3,2,0.0999999999999943,22
+14478,2019,19,americas,True,False,False,False,False,hamilton,British,mercedes,5,2,363,10,1,652,13,1,0.2999999999999971,34
+14481,2019,19,americas,True,False,False,False,False,albon,Thai,red_bull,6,5,74,0,8,341,2,3,0.5,23
+14484,2019,19,americas,True,False,False,False,False,sainz,Spanish,mclaren,7,8,76,0,7,111,0,4,0.7999999999999972,25
+14483,2019,19,americas,True,False,False,False,False,norris,British,mclaren,8,7,35,0,12,111,0,4,1.2000000000000028,19
+14482,2019,19,americas,True,False,False,False,False,ricciardo,Australian,renault,9,6,38,0,10,73,0,5,1.5,30
+14491,2019,19,americas,True,False,False,False,False,gasly,French,toro_rosso,10,16,77,0,6,64,0,6,1.5999999999999943,23
+14485,2019,19,americas,True,False,False,False,False,hulkenberg,German,renault,11,9,35,0,11,73,0,5,1.7999999999999972,32
+14493,2019,19,americas,True,False,False,False,False,kevin_magnussen,Danish,haas,12,18,20,0,16,28,0,9,2.0,27
+14487,2019,19,americas,True,False,False,False,False,kvyat,Russian,toro_rosso,13,12,34,0,13,64,0,6,2.0,25
+14488,2019,19,americas,True,False,False,False,False,stroll,Canadian,racing_point,14,13,21,0,15,64,0,7,2.0999999999999943,21
+14490,2019,19,americas,True,False,False,False,False,grosjean,French,haas,15,15,8,0,17,28,0,9,2.200000000000003,33
+14489,2019,19,americas,True,False,False,False,False,giovinazzi,Italian,alfa,16,14,4,0,18,35,0,8,2.200000000000003,25
+14486,2019,19,americas,True,False,False,False,False,raikkonen,Finnish,alfa,17,11,31,0,14,35,0,8,2.4000000000000057,40
+14492,2019,19,americas,True,False,False,False,False,russell,British,williams,18,17,0,0,20,1,0,10,3.4000000000000057,21
+14494,2019,19,americas,True,False,False,False,False,kubica,Polish,williams,19,19,1,0,19,1,0,10,3.9000000000000057,34

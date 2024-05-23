@@ -1,0 +1,23 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+9445,2007,10,nurburgring,False,False,False,True,False,raikkonen,Finnish,ferrari,1,14,52,3,3,103,5,1,0.0,27
+9432,2007,10,nurburgring,False,False,False,True,False,alonso,Spanish,mclaren,2,1,58,2,2,128,5,11,0.2000000000000028,25
+9433,2007,10,nurburgring,False,False,False,True,False,massa,Brazilian,ferrari,3,2,51,2,4,103,5,1,0.2999999999999971,26
+9437,2007,10,nurburgring,False,False,False,True,False,heidfeld,German,bmw_sauber,4,6,33,0,5,56,0,2,0.2999999999999971,30
+9438,2007,10,nurburgring,False,False,False,True,False,kubica,Polish,bmw_sauber,5,7,22,0,6,56,0,2,0.5999999999999943,22
+9434,2007,10,nurburgring,False,False,False,True,False,webber,Australian,red_bull,6,3,2,0,14,6,0,6,1.0,30
+9439,2007,10,nurburgring,False,False,False,True,False,kovalainen,Finnish,renault,7,8,14,0,8,31,0,3,1.0,25
+9444,2007,10,nurburgring,False,False,False,True,False,trulli,Italian,toyota,8,13,7,0,10,9,0,5,1.0,33
+9447,2007,10,nurburgring,False,False,False,True,False,ralf_schumacher,German,toyota,9,16,2,0,15,9,0,5,1.0999999999999943,32
+9440,2007,10,nurburgring,False,False,False,True,False,hamilton,British,mclaren,10,9,70,2,1,128,5,11,2.299999999999997,22
+9451,2007,10,nurburgring,False,False,False,True,False,rosberg,German,williams,11,20,5,0,11,13,0,4,0.5,22
+9435,2007,10,nurburgring,False,False,False,True,False,wurz,Austrian,williams,12,4,8,0,9,13,0,4,0.5,33
+9441,2007,10,nurburgring,False,False,False,True,False,fisichella,Italian,renault,13,10,17,0,7,31,0,3,0.5,34
+9442,2007,10,nurburgring,False,False,False,True,False,barrichello,Brazilian,honda,14,11,0,0,18,1,0,8,0.7000000000000028,35
+9443,2007,10,nurburgring,False,False,False,True,False,davidson,British,super_aguri,15,12,0,0,20,4,0,7,1.0,28
+9446,2007,10,nurburgring,False,False,False,True,False,sato,Japanese,super_aguri,16,15,4,0,13,4,0,7,1.2999999999999972,30
+9449,2007,10,nurburgring,False,False,False,True,False,button,British,honda,17,18,1,0,16,1,0,8,1.5,27
+9452,2007,10,nurburgring,False,False,False,True,False,speed,American,toro_rosso,18,21,0,0,19,0,0,9,1.5,24
+9453,2007,10,nurburgring,False,False,False,True,False,liuzzi,Italian,toro_rosso,19,22,0,0,23,0,0,9,1.5999999999999943,26
+9436,2007,10,nurburgring,False,False,False,True,False,coulthard,British,red_bull,20,5,4,0,12,6,0,6,1.7000000000000028,36
+9450,2007,10,nurburgring,False,False,False,True,False,sutil,German,spyker,21,19,0,0,21,0,0,10,3.0,24
+9448,2007,10,nurburgring,False,False,False,True,False,markus_winkelhock,German,spyker,22,17,0,0,0,0,0,10,4.400000000000006,27

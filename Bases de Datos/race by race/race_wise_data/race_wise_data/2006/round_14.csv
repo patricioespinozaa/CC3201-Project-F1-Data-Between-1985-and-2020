@@ -1,0 +1,23 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+9125,2006,14,istanbul,True,False,False,False,False,massa,Brazilian,ferrari,1,1,52,0,3,142,5,2,0.0,25
+9127,2006,14,istanbul,True,False,False,False,False,michael_schumacher,German,ferrari,2,3,90,5,2,142,5,2,0.3999999999999915,37
+9126,2006,14,istanbul,True,False,False,False,False,alonso,Spanish,renault,3,2,100,6,1,149,7,1,0.3999999999999915,25
+9130,2006,14,istanbul,True,False,False,False,False,fisichella,Italian,renault,4,6,49,1,4,149,7,1,0.6999999999999886,33
+9138,2006,14,istanbul,True,False,False,False,False,heidfeld,German,bmw_sauber,5,14,19,0,9,26,0,6,0.8999999999999915,29
+9128,2006,14,istanbul,True,False,False,False,False,button,British,honda,6,4,31,1,6,52,1,4,0.8999999999999915,26
+9145,2006,14,istanbul,True,False,False,False,False,raikkonen,Finnish,mclaren,7,21,49,0,5,85,0,3,1.0,26
+9136,2006,14,istanbul,True,False,False,False,False,kubica,Polish,bmw_sauber,8,12,0,0,0,26,0,6,1.2999999999999972,21
+9134,2006,14,istanbul,True,False,False,False,False,webber,Australian,williams,9,10,6,0,15,10,0,8,2.5,30
+9135,2006,14,istanbul,True,False,False,False,False,klien,Austrian,red_bull,10,11,2,0,17,16,0,7,1.0,23
+9129,2006,14,istanbul,True,False,False,False,False,rosa,Spanish,mclaren,11,5,10,0,12,85,0,3,1.0,35
+9133,2006,14,istanbul,True,False,False,False,False,trulli,Italian,toyota,12,9,10,0,13,26,0,5,1.0999999999999943,32
+9132,2006,14,istanbul,True,False,False,False,False,barrichello,Brazilian,honda,13,8,21,0,8,52,1,4,1.3999999999999917,34
+9142,2006,14,istanbul,True,False,False,False,False,rosberg,German,williams,14,18,4,0,16,10,0,8,1.5,21
+9131,2006,14,istanbul,True,False,False,False,False,ralf_schumacher,German,toyota,15,7,16,0,10,26,0,5,0.6999999999999886,31
+9139,2006,14,istanbul,True,False,False,False,False,coulthard,British,red_bull,16,15,14,0,11,16,0,7,2.1999999999999886,35
+9137,2006,14,istanbul,True,False,False,False,False,speed,American,toro_rosso,17,13,0,0,19,1,0,9,2.299999999999997,23
+9144,2006,14,istanbul,True,False,False,False,False,liuzzi,Italian,toro_rosso,18,20,1,0,18,1,0,9,2.299999999999997,26
+9146,2006,14,istanbul,True,False,False,False,False,monteiro,Portuguese,mf1,19,22,0,0,20,0,0,10,3.0,30
+9143,2006,14,istanbul,True,False,False,False,False,yamamoto,Japanese,super_aguri,20,19,0,0,0,0,0,11,3.6999999999999886,24
+9141,2006,14,istanbul,True,False,False,False,False,sato,Japanese,super_aguri,21,17,0,0,22,0,0,11,4.0,29
+9140,2006,14,istanbul,True,False,False,False,False,albers,Dutch,mf1,22,16,0,0,21,0,0,10,1.6999999999999886,27

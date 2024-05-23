@@ -1,0 +1,26 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+1194,1986,2,jerez,True,False,True,False,False,senna,Brazilian,team_lotus,1,1,6,0,2,6,0,3,0.0,26
+1206,1986,2,jerez,True,False,True,False,False,piquet,Brazilian,williams,2,13,9,1,1,9,1,1,0.8000000000000114,33
+1195,1986,2,jerez,True,False,True,False,False,mansell,British,williams,3,2,0,0,25,9,1,1,1.0,32
+1196,1986,2,jerez,True,False,True,False,False,prost,French,mclaren,4,3,0,0,13,0,0,9,1.3000000000000114,31
+1197,1986,2,jerez,True,False,True,False,False,keke_rosberg,Finnish,mclaren,5,4,0,0,23,0,0,9,1.4000000000000057,37
+1208,1986,2,jerez,True,False,True,False,False,arnoux,French,ligier,6,15,3,0,4,7,0,2,2.700000000000003,37
+1199,1986,2,jerez,True,False,True,False,False,berger,Austrian,benetton,7,6,1,0,6,1,0,5,2.9000000000000057,26
+1204,1986,2,jerez,True,False,True,False,False,laffite,French,ligier,8,11,4,0,3,7,0,2,3.200000000000003,42
+1198,1986,2,jerez,True,False,True,False,False,fabi,Italian,benetton,9,5,0,0,10,1,0,5,3.5,31
+1202,1986,2,jerez,True,False,True,False,False,dumfries,British,team_lotus,10,9,0,0,9,6,0,3,3.5,27
+1212,1986,2,jerez,True,False,True,False,False,johansson,Swedish,ferrari,11,19,0,0,15,0,0,8,3.9000000000000057,29
+1203,1986,2,jerez,True,False,True,False,False,brundle,British,tyrrell,12,10,2,0,5,2,0,4,4.200000000000003,26
+1209,1986,2,jerez,True,False,True,False,False,alboreto,Italian,ferrari,13,16,0,0,12,0,0,8,4.5,29
+1214,1986,2,jerez,True,False,True,False,False,patrese,Italian,brabham,14,21,0,0,17,0,0,6,4.6000000000000085,31
+1207,1986,2,jerez,True,False,True,False,False,angelis,Italian,brabham,15,14,0,0,8,0,0,6,5.0,28
+1216,1986,2,jerez,True,False,True,False,False,palmer,British,zakspeed,16,23,0,0,18,0,0,12,5.300000000000011,29
+1217,1986,2,jerez,True,False,True,False,False,jones,Australian,lola,17,24,0,0,24,0,0,11,5.300000000000011,39
+1201,1986,2,jerez,True,False,True,False,False,tambay,French,lola,18,8,0,0,16,0,0,11,5.400000000000006,36
+1200,1986,2,jerez,True,False,True,False,False,boutsen,Belgian,arrows,19,7,0,0,11,0,0,7,5.6000000000000085,28
+1210,1986,2,jerez,True,False,True,False,False,streiff,French,tyrrell,20,17,0,0,7,2,0,4,6.0,30
+1213,1986,2,jerez,True,False,True,False,False,ghinzani,Italian,osella,21,20,0,0,22,0,0,10,6.800000000000011,34
+1205,1986,2,jerez,True,False,True,False,False,surer,Swiss,arrows,22,12,0,0,19,0,0,7,6.800000000000011,34
+1211,1986,2,jerez,True,False,True,False,False,danner,German,osella,23,18,0,0,14,0,0,10,7.400000000000006,28
+1215,1986,2,jerez,True,False,True,False,False,cesaris,Italian,minardi,24,22,0,0,21,0,0,13,7.600000000000008,26
+1218,1986,2,jerez,True,False,True,False,False,nannini,Italian,minardi,25,25,0,0,20,0,0,13,8.5,26

@@ -1,0 +1,21 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+13377,2017,4,sochi,False,False,False,False,False,vettel,German,ferrari,1,2,68,2,1,102,2,1,0.0,29
+13378,2017,4,sochi,False,False,False,False,False,raikkonen,Finnish,ferrari,2,3,34,0,4,102,2,1,0.0999999999999943,37
+13376,2017,4,sochi,False,False,False,False,False,bottas,Finnish,mercedes,3,1,38,0,3,99,1,2,0.0999999999999943,27
+13379,2017,4,sochi,False,False,False,False,False,hamilton,British,mercedes,4,4,61,1,2,99,1,2,0.5999999999999943,32
+13392,2017,4,sochi,False,False,False,False,False,ricciardo,Australian,red_bull,5,17,22,0,6,47,0,3,1.7000000000000028,27
+13384,2017,4,sochi,False,False,False,False,False,massa,Brazilian,williams,6,9,16,0,7,16,0,5,1.8999999999999917,36
+13380,2017,4,sochi,False,False,False,False,False,max_verstappen,Dutch,red_bull,7,5,25,0,5,47,0,3,2.0,19
+13383,2017,4,sochi,False,False,False,False,False,hulkenberg,German,renault,8,8,2,0,13,2,0,8,2.0999999999999943,29
+13381,2017,4,sochi,False,False,False,False,False,perez,Mexican,force_india,9,6,14,0,8,17,0,4,2.0999999999999943,27
+13382,2017,4,sochi,False,False,False,False,False,ocon,French,force_india,10,7,3,0,12,17,0,4,2.200000000000003,20
+13386,2017,4,sochi,False,False,False,False,False,stroll,Canadian,williams,11,11,0,0,21,16,0,5,2.799999999999997,18
+13387,2017,4,sochi,False,False,False,False,False,kvyat,Russian,toro_rosso,12,12,2,0,14,12,0,6,2.799999999999997,23
+13388,2017,4,sochi,False,False,False,False,False,kevin_magnussen,Danish,haas,13,13,4,0,11,8,0,7,2.799999999999997,24
+13385,2017,4,sochi,False,False,False,False,False,sainz,Spanish,toro_rosso,14,10,10,0,9,12,0,6,2.700000000000003,22
+13395,2017,4,sochi,False,False,False,False,False,alonso,Spanish,mclaren,15,20,0,0,19,0,0,10,3.5,35
+13393,2017,4,sochi,False,False,False,False,False,jolyon_palmer,British,renault,16,18,0,0,17,2,0,8,3.299999999999997,26
+13391,2017,4,sochi,False,False,False,False,False,wehrlein,German,sauber,17,16,0,0,15,0,0,9,4.099999999999994,22
+13390,2017,4,sochi,False,False,False,False,False,ericsson,Swedish,sauber,18,15,0,0,20,0,0,9,4.299999999999997,26
+13394,2017,4,sochi,False,False,False,False,False,grosjean,French,haas,19,19,4,0,10,8,0,7,4.399999999999992,31
+13389,2017,4,sochi,False,False,False,False,False,vandoorne,Belgian,mclaren,20,14,0,0,18,0,0,10,3.899999999999992,25

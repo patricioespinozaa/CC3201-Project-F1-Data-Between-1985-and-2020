@@ -1,0 +1,21 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+9390,2007,8,magny_cours,False,False,False,False,True,massa,Brazilian,ferrari,1,2,39,2,3,71,3,1,0.0,26
+9391,2007,8,magny_cours,False,False,False,False,True,hamilton,British,mclaren,2,3,58,2,1,106,4,11,0.0999999999999943,22
+9389,2007,8,magny_cours,False,False,False,False,True,raikkonen,Finnish,ferrari,3,1,32,1,4,71,3,1,0.2999999999999971,27
+9392,2007,8,magny_cours,False,False,False,False,True,kubica,Polish,bmw_sauber,4,4,12,0,7,39,0,2,0.5,22
+9394,2007,8,magny_cours,False,False,False,False,True,fisichella,Italian,renault,5,6,13,0,6,25,0,3,0.7000000000000028,34
+9403,2007,8,magny_cours,False,False,False,False,True,kovalainen,Finnish,renault,6,15,12,0,8,25,0,3,0.7999999999999972,25
+9393,2007,8,magny_cours,False,False,False,False,True,heidfeld,German,bmw_sauber,7,5,26,0,5,39,0,2,0.9000000000000057,30
+9409,2007,8,magny_cours,False,False,False,False,True,trulli,Italian,toyota,8,21,7,0,10,9,0,5,0.9000000000000057,32
+9397,2007,8,magny_cours,False,False,False,False,True,rosberg,German,williams,9,9,5,0,11,13,0,4,1.2999999999999972,22
+9398,2007,8,magny_cours,False,False,False,False,True,ralf_schumacher,German,toyota,11,10,2,0,15,9,0,5,0.5,32
+9396,2007,8,magny_cours,False,False,False,False,True,button,British,honda,12,8,0,0,20,0,0,9,0.5999999999999943,27
+9399,2007,8,magny_cours,False,False,False,False,True,barrichello,Brazilian,honda,13,11,0,0,18,0,0,9,0.7999999999999972,35
+9400,2007,8,magny_cours,False,False,False,False,True,webber,Australian,red_bull,14,12,2,0,14,6,0,6,0.7999999999999972,30
+9406,2007,8,magny_cours,False,False,False,False,True,speed,American,toro_rosso,15,18,0,0,17,0,0,8,1.0,24
+9410,2007,8,magny_cours,False,False,False,False,True,liuzzi,Italian,toro_rosso,17,22,0,0,23,0,0,8,1.0999999999999943,26
+9402,2007,8,magny_cours,False,False,False,False,True,wurz,Austrian,williams,18,14,8,0,9,13,0,4,1.2000000000000028,33
+9408,2007,8,magny_cours,False,False,False,False,True,davidson,British,super_aguri,19,20,0,0,19,4,0,7,1.4000000000000057,28
+9407,2007,8,magny_cours,False,False,False,False,True,albers,Dutch,spyker,20,19,0,0,22,0,0,10,2.799999999999997,28
+9405,2007,8,magny_cours,False,False,False,False,True,sutil,German,spyker,21,17,0,0,21,0,0,10,2.9000000000000057,24
+9404,2007,8,magny_cours,False,False,False,False,True,sato,Japanese,super_aguri,22,16,4,0,13,4,0,7,1.2000000000000028,30

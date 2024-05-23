@@ -1,0 +1,23 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+6043,1998,3,galvez,False,False,False,False,True,coulthard,British,mclaren,1,6,12,0,2,32,2,1,0.0,27
+6038,1998,3,galvez,False,False,False,False,True,michael_schumacher,German,ferrari,2,1,4,0,4,7,0,3,0.3999999999999915,29
+6039,1998,3,galvez,False,False,False,False,True,hakkinen,Finnish,mclaren,3,2,20,2,1,32,2,1,0.6999999999999886,29
+6040,1998,3,galvez,False,False,False,False,True,irvine,British,ferrari,4,3,3,0,6,7,0,3,0.8999999999999915,32
+6056,1998,3,galvez,False,False,False,False,True,ralf_schumacher,German,jordan,5,19,0,0,0,0,0,6,0.8999999999999915,22
+6046,1998,3,galvez,False,False,False,False,True,frentzen,German,williams,6,9,6,0,3,8,0,2,1.0,30
+6054,1998,3,galvez,False,False,False,False,True,villeneuve,Canadian,williams,7,17,2,0,7,8,0,2,1.0,27
+6041,1998,3,galvez,False,False,False,False,True,wurz,Austrian,benetton,8,4,3,0,5,4,0,4,1.2999999999999972,24
+6045,1998,3,galvez,False,False,False,False,True,damon_hill,British,jordan,9,8,0,0,10,0,0,6,1.5999999999999943,37
+6044,1998,3,galvez,False,False,False,False,True,fisichella,Italian,benetton,10,7,1,0,9,4,0,4,1.8999999999999917,25
+6042,1998,3,galvez,False,False,False,False,True,alesi,French,sauber,11,5,0,0,11,1,0,5,1.8999999999999917,33
+6055,1998,3,galvez,False,False,False,False,True,herbert,British,sauber,12,18,1,0,8,1,0,5,2.0999999999999943,33
+6049,1998,3,galvez,False,False,False,False,True,takagi,Japanese,tyrrell,13,12,0,0,0,0,0,0,2.8999999999999915,24
+6047,1998,3,galvez,False,False,False,False,True,barrichello,Brazilian,stewart,14,10,0,0,0,0,0,8,3.299999999999997,25
+6052,1998,3,galvez,False,False,False,False,True,panis,French,prost,15,15,0,0,12,0,0,7,3.3999999999999915,31
+6048,1998,3,galvez,False,False,False,False,True,trulli,Italian,prost,16,11,0,0,0,0,0,7,3.5,23
+6057,1998,3,galvez,False,False,False,False,True,salo,Finnish,arrows,17,20,0,0,0,0,0,0,3.6999999999999886,31
+6059,1998,3,galvez,False,False,False,False,True,diniz,Brazilian,arrows,18,22,0,0,0,0,0,0,4.099999999999994,27
+6050,1998,3,galvez,False,False,False,False,True,nakano,Japanese,minardi,19,13,0,0,0,0,0,0,4.199999999999989,27
+6053,1998,3,galvez,False,False,False,False,True,tuero,Argentine,minardi,20,16,0,0,0,0,0,0,4.299999999999997,19
+6051,1998,3,galvez,False,False,False,False,True,rosset,Brazilian,tyrrell,21,14,0,0,0,0,0,0,4.5,29
+6058,1998,3,galvez,False,False,False,False,True,magnussen,Danish,stewart,22,21,0,0,13,0,0,8,5.299999999999997,24

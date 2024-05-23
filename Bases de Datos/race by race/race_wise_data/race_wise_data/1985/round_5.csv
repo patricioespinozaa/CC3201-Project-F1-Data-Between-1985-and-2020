@@ -1,0 +1,26 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+873,1985,5,villeneuve,True,False,False,False,False,angelis,Italian,team_lotus,1,5,20,1,1,29,2,1,0.0,27
+884,1985,5,villeneuve,True,False,False,False,False,senna,Brazilian,team_lotus,2,16,9,1,5,29,2,1,0.2000000000000028,25
+869,1985,5,villeneuve,True,False,False,False,False,alboreto,Italian,ferrari,3,1,18,0,3,22,0,2,0.5,28
+870,1985,5,villeneuve,True,False,False,False,False,johansson,Swedish,ferrari,4,2,1,0,13,22,0,2,0.6000000000000085,28
+871,1985,5,villeneuve,True,False,False,False,False,prost,French,mclaren,5,3,18,2,2,21,2,3,1.0,30
+890,1985,5,villeneuve,True,False,False,False,False,warwick,British,renault,6,22,2,0,11,12,0,4,1.0,30
+877,1985,5,villeneuve,True,False,False,False,False,boutsen,Belgian,arrows,7,9,6,0,6,6,0,5,1.2000000000000028,27
+872,1985,5,villeneuve,True,False,False,False,False,keke_rosberg,Finnish,williams,8,4,0,0,17,4,0,7,1.5,36
+893,1985,5,villeneuve,True,False,False,False,False,piquet,Brazilian,brabham,9,25,0,0,16,0,0,9,1.7000000000000028,32
+875,1985,5,villeneuve,True,False,False,False,False,tambay,French,renault,10,7,10,0,4,12,0,4,1.7000000000000028,35
+885,1985,5,villeneuve,True,False,False,False,False,cheever,American,alfa,11,17,0,0,22,0,0,13,1.8000000000000114,27
+881,1985,5,villeneuve,True,False,False,False,False,berger,Austrian,arrows,12,13,0,0,24,6,0,5,2.1000000000000085,25
+878,1985,5,villeneuve,True,False,False,False,False,patrese,Italian,alfa,13,10,0,0,23,0,0,13,2.4000000000000057,31
+891,1985,5,villeneuve,True,False,False,False,False,manfred_winkelhock,German,ram,14,23,0,0,21,0,0,11,2.700000000000003,33
+882,1985,5,villeneuve,True,False,False,False,False,cesaris,Italian,ligier,15,14,3,0,9,5,0,6,2.800000000000012,26
+874,1985,5,villeneuve,True,False,False,False,False,mansell,British,williams,16,6,4,0,7,4,0,7,3.1000000000000085,31
+887,1985,5,villeneuve,True,False,False,False,False,lauda,Austrian,mclaren,17,19,3,0,8,21,2,3,3.5,36
+892,1985,5,villeneuve,True,False,False,False,False,fabi,Italian,toleman,18,24,0,0,25,0,0,14,4.0,30
+876,1985,5,villeneuve,True,False,False,False,False,laffite,French,ligier,19,8,2,0,12,5,0,6,4.200000000000003,41
+883,1985,5,villeneuve,True,False,False,False,False,surer,Swiss,brabham,20,15,0,0,0,0,0,9,4.900000000000006,33
+889,1985,5,villeneuve,True,False,False,False,False,alliot,French,ram,21,21,0,0,19,0,0,11,4.900000000000006,30
+888,1985,5,villeneuve,True,False,False,False,False,ghinzani,Italian,osella,22,20,0,0,18,0,0,10,7.0,33
+879,1985,5,villeneuve,True,False,False,False,False,bellof,German,tyrrell,23,11,1,0,14,1,0,8,7.1000000000000085,27
+880,1985,5,villeneuve,True,False,False,False,False,brundle,British,tyrrell,24,12,0,0,15,1,0,8,7.300000000000011,26
+886,1985,5,villeneuve,True,False,False,False,False,martini,Italian,minardi,25,18,0,0,26,0,0,15,10.400000000000006,24

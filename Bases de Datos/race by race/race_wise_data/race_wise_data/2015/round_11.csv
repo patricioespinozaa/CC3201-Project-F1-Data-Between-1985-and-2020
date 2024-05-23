@@ -1,0 +1,19 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+12686,2015,11,spa,False,False,False,False,False,hamilton,British,mercedes,1,1,202,5,1,383,8,1,0.0,30
+12687,2015,11,spa,False,False,False,False,False,rosberg,German,mercedes,2,2,181,3,2,383,8,1,0.5,30
+12694,2015,11,spa,False,False,False,False,False,bottas,Finnish,williams,3,9,77,0,4,151,0,3,1.2999999999999972,25
+12690,2015,11,spa,False,False,False,False,False,perez,Mexican,force_india,4,5,15,0,13,39,0,5,1.3999999999999917,25
+12703,2015,11,spa,False,False,False,False,False,ricciardo,Australian,red_bull,5,18,51,0,7,96,0,4,1.3999999999999917,26
+12691,2015,11,spa,False,False,False,False,False,massa,Brazilian,williams,6,6,74,0,6,151,0,3,1.5,34
+12704,2015,11,spa,False,False,False,False,False,maldonado,Venezuelan,lotus_f1,7,19,12,0,14,35,0,6,1.5999999999999943,30
+12697,2015,11,spa,False,False,False,False,False,vettel,German,ferrari,8,12,160,2,3,236,2,2,1.5999999999999943,28
+12688,2015,11,spa,False,False,False,False,False,grosjean,French,lotus_f1,9,3,23,0,10,35,0,6,1.3999999999999917,29
+12702,2015,11,spa,False,False,False,False,False,sainz,Spanish,toro_rosso,10,17,9,0,16,31,0,7,2.5999999999999943,20
+12705,2015,11,spa,False,False,False,False,False,hulkenberg,German,force_india,11,20,24,0,9,39,0,5,1.8999999999999917,28
+12689,2015,11,spa,False,False,False,False,False,kvyat,Russian,red_bull,12,4,45,0,8,96,0,4,2.0,21
+12695,2015,11,spa,False,False,False,False,False,ericsson,Swedish,sauber,13,10,6,0,18,22,0,8,2.3999999999999915,24
+12696,2015,11,spa,False,False,False,False,False,nasr,Brazilian,sauber,14,11,16,0,12,22,0,8,2.799999999999997,23
+12701,2015,11,spa,False,False,False,False,False,stevens,British,manor,15,16,0,0,20,0,0,10,5.700000000000003,24
+12700,2015,11,spa,False,False,False,False,False,merhi,Spanish,manor,17,15,0,0,19,0,0,10,5.899999999999992,24
+12699,2015,11,spa,False,False,False,False,False,button,British,mclaren,19,14,6,0,17,17,0,9,3.799999999999997,35
+12698,2015,11,spa,False,False,False,False,False,alonso,Spanish,mclaren,20,13,11,0,15,17,0,9,4.200000000000003,34

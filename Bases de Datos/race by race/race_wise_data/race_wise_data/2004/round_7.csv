@@ -1,0 +1,18 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+8228,2004,7,nurburgring,True,False,False,False,True,michael_schumacher,German,ferrari,1,1,50,5,1,88,5,1,0.0,35
+8243,2004,7,nurburgring,True,False,False,False,True,sato,Japanese,bar,2,16,8,0,8,40,0,3,0.5999999999999943,27
+8231,2004,7,nurburgring,True,False,False,False,True,trulli,Italian,renault,3,4,31,1,4,52,1,2,0.6999999999999886,29
+8245,2004,7,nurburgring,True,False,False,False,True,raikkonen,Finnish,mclaren,4,18,1,0,15,5,0,6,0.6999999999999886,24
+8230,2004,7,nurburgring,True,False,False,False,True,button,British,bar,5,3,32,0,3,40,0,3,0.7999999999999972,24
+8232,2004,7,nurburgring,True,False,False,False,True,alonso,Spanish,renault,6,5,21,0,6,52,1,2,0.8999999999999915,22
+8229,2004,7,nurburgring,True,False,False,False,True,barrichello,Brazilian,ferrari,7,2,38,0,2,88,5,1,1.0,32
+8235,2004,7,nurburgring,True,False,False,False,True,montoya,Colombian,williams,8,8,23,0,5,35,0,4,1.0,28
+8246,2004,7,nurburgring,True,False,False,False,True,ralf_schumacher,German,williams,9,19,12,0,7,35,0,4,1.0999999999999943,28
+8238,2004,7,nurburgring,True,False,False,False,True,panis,French,toyota,10,11,1,0,14,4,0,7,1.2999999999999972,37
+8247,2004,7,nurburgring,True,False,False,False,True,matta,Brazilian,toyota,11,20,3,0,11,4,0,7,1.2999999999999972,30
+8239,2004,7,nurburgring,True,False,False,False,True,klien,Austrian,jaguar,12,12,0,0,18,1,0,9,3.0,21
+8237,2004,7,nurburgring,True,False,False,False,True,heidfeld,German,jordan,13,10,2,0,13,2,0,8,3.1999999999999886,27
+8234,2004,7,nurburgring,True,False,False,False,True,webber,Australian,jaguar,14,7,1,0,16,1,0,9,3.3999999999999915,27
+8240,2004,7,nurburgring,True,False,False,False,True,pantano,Italian,jordan,15,13,0,0,19,2,0,8,3.5999999999999943,25
+8236,2004,7,nurburgring,True,False,False,False,True,massa,Brazilian,sauber,16,9,5,0,9,7,0,5,3.5999999999999943,23
+8242,2004,7,nurburgring,True,False,False,False,True,baumgartner,Hungarian,minardi,17,15,0,0,17,0,0,10,6.0,23

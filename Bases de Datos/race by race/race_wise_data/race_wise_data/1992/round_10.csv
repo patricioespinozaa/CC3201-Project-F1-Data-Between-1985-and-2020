@@ -1,0 +1,27 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+3880,1992,10,hockenheimring,False,False,True,False,False,mansell,British,williams,1,1,76,7,1,116,7,1,0.0,38
+3887,1992,10,hockenheimring,False,False,True,False,False,patrese,Italian,williams,2,8,40,0,2,116,7,1,0.2999999999999971,38
+3881,1992,10,hockenheimring,False,False,True,False,False,senna,Brazilian,mclaren,3,2,18,1,5,38,2,3,1.0999999999999943,32
+3901,1992,10,hockenheimring,False,False,True,False,False,berger,Austrian,mclaren,4,22,20,1,4,38,2,3,1.7000000000000028,32
+3884,1992,10,hockenheimring,False,False,True,False,False,alesi,French,ferrari,5,5,11,0,7,13,0,4,3.0,28
+3882,1992,10,hockenheimring,False,False,True,False,False,michael_schumacher,German,benetton,6,3,29,0,3,42,0,2,3.0999999999999943,23
+3885,1992,10,hockenheimring,False,False,True,False,False,comas,French,ligier,7,6,3,0,12,3,0,9,3.9000000000000057,28
+3886,1992,10,hockenheimring,False,False,True,False,False,boutsen,Belgian,ligier,8,7,0,0,24,3,0,9,4.099999999999994,35
+3883,1992,10,hockenheimring,False,False,True,False,False,brundle,British,benetton,9,4,13,0,6,42,0,2,4.099999999999994,33
+3895,1992,10,hockenheimring,False,False,True,False,False,wendlinger,Austrian,march,10,16,3,0,11,3,0,8,4.400000000000006,23
+3898,1992,10,hockenheimring,False,False,True,False,False,herbert,British,team_lotus,11,19,2,0,14,7,0,5,4.599999999999994,28
+3899,1992,10,hockenheimring,False,False,True,False,False,capelli,Italian,ferrari,12,20,2,0,13,13,0,4,4.700000000000003,29
+3900,1992,10,hockenheimring,False,False,True,False,False,hakkinen,Finnish,team_lotus,13,21,5,0,8,7,0,5,4.700000000000003,23
+3902,1992,10,hockenheimring,False,False,True,False,False,grouillard,French,tyrrell,14,23,0,0,21,4,0,7,4.799999999999997,33
+3904,1992,10,hockenheimring,False,False,True,False,False,suzuki,Japanese,footwork,15,25,0,0,17,5,0,6,4.799999999999997,31
+3903,1992,10,hockenheimring,False,False,True,False,False,katayama,Japanese,larrousse,16,24,0,0,23,1,0,11,5.099999999999994,29
+3888,1992,10,hockenheimring,False,False,True,False,False,alboreto,Italian,footwork,17,9,5,0,9,5,0,6,5.200000000000003,35
+3890,1992,10,hockenheimring,False,False,True,False,False,martini,Italian,dallara,18,11,2,0,15,2,0,10,5.599999999999994,31
+3896,1992,10,hockenheimring,False,False,True,False,False,tarquini,Italian,fondmetal,19,17,0,0,27,0,0,15,5.799999999999997,30
+3897,1992,10,hockenheimring,False,False,True,False,False,cesaris,Italian,tyrrell,20,18,4,0,10,4,0,7,5.799999999999997,33
+3889,1992,10,hockenheimring,False,False,True,False,False,lehto,Finnish,dallara,21,10,0,0,20,2,0,10,5.900000000000006,26
+3892,1992,10,hockenheimring,False,False,True,False,False,belmondo,French,march,22,13,0,0,25,3,0,8,6.099999999999994,29
+3894,1992,10,hockenheimring,False,False,True,False,False,gugelmin,Brazilian,jordan,23,15,0,0,19,0,0,13,6.5,29
+3905,1992,10,hockenheimring,False,False,True,False,False,zanardi,Italian,minardi,24,26,0,0,0,0,0,12,6.599999999999994,25
+3893,1992,10,hockenheimring,False,False,True,False,False,gachot,Belgian,larrousse,25,14,1,0,16,1,0,11,6.599999999999994,29
+3891,1992,10,hockenheimring,False,False,True,False,False,morbidelli,Italian,minardi,26,12,0,0,18,0,0,12,6.799999999999997,24

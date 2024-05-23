@@ -1,0 +1,18 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+9969,2009,1,albert_park,True,False,False,False,False,button,British,brawn,1,1,0,0,0,0,0,0,0.0,29
+9970,2009,1,albert_park,True,False,False,False,False,barrichello,Brazilian,brawn,2,2,0,0,0,0,0,0,0.2999999999999971,36
+9979,2009,1,albert_park,True,False,False,False,False,vettel,German,red_bull,3,13,0,0,0,0,0,0,0.5999999999999943,21
+9980,2009,1,albert_park,True,False,False,False,False,kubica,Polish,bmw_sauber,4,14,0,0,0,0,0,0,0.7000000000000028,24
+9972,2009,1,albert_park,True,False,False,False,False,rosberg,German,williams,5,6,0,0,0,0,0,0,0.7999999999999972,23
+9982,2009,1,albert_park,True,False,False,False,False,massa,Brazilian,ferrari,6,16,0,0,0,0,0,0,0.7999999999999972,27
+9981,2009,1,albert_park,True,False,False,False,False,raikkonen,Finnish,ferrari,7,15,0,0,0,0,0,0,1.0,29
+9978,2009,1,albert_park,True,False,False,False,False,webber,Australian,red_bull,8,12,0,0,0,0,0,0,1.0,32
+9976,2009,1,albert_park,True,False,False,False,False,heidfeld,German,bmw_sauber,9,10,0,0,0,0,0,0,-0.7000000000000028,31
+9971,2009,1,albert_park,True,False,False,False,False,alonso,Spanish,renault,10,5,0,0,0,0,0,0,-0.6000000000000085,27
+9984,2009,1,albert_park,True,False,False,False,False,nakajima,Japanese,williams,11,18,0,0,0,0,0,0,-0.6000000000000085,24
+9985,2009,1,albert_park,True,False,False,False,False,kovalainen,Finnish,mclaren,12,19,0,0,0,0,0,0,-0.5,27
+9973,2009,1,albert_park,True,False,False,False,False,buemi,Swiss,toro_rosso,13,7,0,0,0,0,0,0,0.2999999999999971,20
+9983,2009,1,albert_park,True,False,False,False,False,piquet_jr,Brazilian,renault,14,17,0,0,0,0,0,0,0.3999999999999915,23
+9977,2009,1,albert_park,True,False,False,False,False,fisichella,Italian,force_india,15,11,0,0,0,0,0,0,0.5,36
+9975,2009,1,albert_park,True,False,False,False,False,sutil,German,force_india,16,9,0,0,0,0,0,0,0.5,26
+9974,2009,1,albert_park,True,False,False,False,False,bourdais,French,toro_rosso,17,8,0,0,0,0,0,0,0.7999999999999972,30

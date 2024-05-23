@@ -1,0 +1,21 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+8069,2003,15,indianapolis,False,False,False,True,False,raikkonen,Finnish,mclaren,1,2,75,1,3,120,2,3,0.0,23
+8087,2003,15,indianapolis,False,False,False,True,False,barrichello,Brazilian,ferrari,2,20,55,1,5,137,6,2,0.0999999999999943,31
+8084,2003,15,indianapolis,False,False,False,True,False,panis,French,toyota,3,17,6,0,14,14,0,7,0.2000000000000028,37
+8073,2003,15,indianapolis,False,False,False,True,False,montoya,Colombian,williams,4,6,79,2,2,141,4,1,0.2000000000000028,28
+8086,2003,15,indianapolis,False,False,False,True,False,ralf_schumacher,German,williams,5,19,58,2,4,141,4,1,0.3999999999999915,28
+8082,2003,15,indianapolis,False,False,False,True,False,alonso,Spanish,renault,6,15,55,1,6,79,1,4,0.3999999999999915,22
+8068,2003,15,indianapolis,False,False,False,True,False,michael_schumacher,German,ferrari,7,1,82,5,1,137,6,2,0.5,34
+8081,2003,15,indianapolis,False,False,False,True,False,coulthard,British,mclaren,8,14,45,1,7,120,2,3,0.5999999999999943,32
+8076,2003,15,indianapolis,False,False,False,True,False,matta,Brazilian,toyota,9,9,8,0,12,14,0,7,0.5999999999999943,30
+8071,2003,15,indianapolis,False,False,False,True,False,trulli,Italian,renault,10,4,24,0,8,79,1,4,0.8999999999999915,29
+8083,2003,15,indianapolis,False,False,False,True,False,button,British,bar,11,16,12,0,10,18,0,5,1.0,23
+8079,2003,15,indianapolis,False,False,False,True,False,villeneuve,Canadian,bar,12,12,6,0,15,18,0,5,1.2999999999999972,32
+8072,2003,15,indianapolis,False,False,False,True,False,heidfeld,German,sauber,13,5,2,0,17,9,0,9,1.3999999999999917,26
+8085,2003,15,indianapolis,False,False,False,True,False,webber,Australian,jaguar,14,18,17,0,9,17,0,6,1.5999999999999943,27
+8070,2003,15,indianapolis,False,False,False,True,False,frentzen,German,sauber,15,3,7,0,13,9,0,9,1.7000000000000028,36
+8075,2003,15,indianapolis,False,False,False,True,False,wilson,British,jaguar,16,8,0,0,21,17,0,6,1.8999999999999917,25
+8074,2003,15,indianapolis,False,False,False,True,False,fisichella,Italian,jordan,17,7,10,1,11,11,1,8,2.0999999999999943,30
+8080,2003,15,indianapolis,False,False,False,True,False,firman,Irish,jordan,18,13,1,0,18,11,1,8,2.299999999999997,28
+8077,2003,15,indianapolis,False,False,False,True,False,verstappen,Dutch,minardi,19,10,0,0,20,0,0,10,3.700000000000003,31
+8078,2003,15,indianapolis,False,False,False,True,False,kiesa,Danish,minardi,20,11,0,0,23,0,0,10,3.899999999999992,25

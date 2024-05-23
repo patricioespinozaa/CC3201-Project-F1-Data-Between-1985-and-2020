@@ -1,0 +1,23 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+9476,2007,12,istanbul,True,False,False,False,False,massa,Brazilian,ferrari,1,1,59,2,4,119,5,1,0.0,26
+9480,2007,12,istanbul,True,False,False,False,False,hamilton,British,mclaren,2,5,80,3,1,138,6,11,0.1000000000000085,22
+9477,2007,12,istanbul,True,False,False,False,False,raikkonen,Finnish,ferrari,3,2,60,3,3,119,5,1,0.2000000000000028,27
+9478,2007,12,istanbul,True,False,False,False,False,alonso,Spanish,mclaren,4,3,73,3,2,138,6,11,0.2999999999999971,26
+9483,2007,12,istanbul,True,False,False,False,False,kubica,Polish,bmw_sauber,5,8,28,0,6,71,0,2,0.4000000000000057,22
+9479,2007,12,istanbul,True,False,False,False,False,heidfeld,German,bmw_sauber,6,4,42,0,5,71,0,2,0.7000000000000028,30
+9481,2007,12,istanbul,True,False,False,False,False,kovalainen,Finnish,renault,7,6,16,0,8,33,0,3,1.2000000000000028,25
+9482,2007,12,istanbul,True,False,False,False,False,rosberg,German,williams,8,7,7,0,12,20,0,4,1.2000000000000028,22
+9491,2007,12,istanbul,True,False,False,False,False,trulli,Italian,toyota,9,16,7,0,13,12,0,6,1.4000000000000057,33
+9484,2007,12,istanbul,True,False,False,False,False,fisichella,Italian,renault,10,9,17,0,7,33,0,3,2.0,34
+9489,2007,12,istanbul,True,False,False,False,False,davidson,British,super_aguri,11,14,0,0,20,4,0,7,0.7000000000000028,28
+9497,2007,12,istanbul,True,False,False,False,False,webber,Australian,red_bull,12,22,8,0,10,16,0,5,0.7000000000000028,30
+9485,2007,12,istanbul,True,False,False,False,False,coulthard,British,red_bull,13,10,8,0,11,16,0,5,0.7999999999999972,36
+9486,2007,12,istanbul,True,False,False,False,False,wurz,Austrian,williams,14,11,13,0,9,20,0,4,1.1000000000000083,33
+9490,2007,12,istanbul,True,False,False,False,False,liuzzi,Italian,toro_rosso,15,15,0,0,23,0,0,9,1.5,27
+9487,2007,12,istanbul,True,False,False,False,False,ralf_schumacher,German,toyota,16,12,5,0,14,12,0,6,1.5,32
+9493,2007,12,istanbul,True,False,False,False,False,sato,Japanese,super_aguri,17,18,4,0,15,4,0,7,1.7000000000000028,30
+9494,2007,12,istanbul,True,False,False,False,False,vettel,German,toro_rosso,18,19,1,0,17,0,0,9,2.1000000000000085,20
+9496,2007,12,istanbul,True,False,False,False,False,sutil,German,spyker,19,21,0,0,21,0,0,10,2.6000000000000085,24
+9495,2007,12,istanbul,True,False,False,False,False,yamamoto,Japanese,spyker,20,20,0,0,0,0,0,10,4.200000000000003,25
+9488,2007,12,istanbul,True,False,False,False,False,button,British,honda,21,13,1,0,16,1,0,8,0.9000000000000057,27
+9492,2007,12,istanbul,True,False,False,False,False,barrichello,Brazilian,honda,22,17,0,0,18,1,0,8,0.9000000000000057,35

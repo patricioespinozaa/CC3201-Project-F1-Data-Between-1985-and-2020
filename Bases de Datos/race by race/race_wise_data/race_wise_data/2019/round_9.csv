@@ -1,0 +1,19 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+14283,2019,9,red_bull_ring,False,False,False,False,False,leclerc,Monegasque,ferrari,1,2,87,0,5,198,0,2,0.0,21
+14282,2019,9,red_bull_ring,False,False,False,False,False,max_verstappen,Dutch,red_bull,2,1,100,0,4,137,0,3,0.3999999999999986,21
+14284,2019,9,red_bull_ring,False,False,False,False,False,bottas,Finnish,mercedes,3,3,151,2,2,338,8,1,0.5,29
+14286,2019,9,red_bull_ring,False,False,False,False,False,hamilton,British,mercedes,4,5,187,6,1,338,8,1,0.2999999999999971,34
+14287,2019,9,red_bull_ring,False,False,False,False,False,norris,British,mclaren,5,6,14,0,12,40,0,4,1.0999999999999943,19
+14290,2019,9,red_bull_ring,False,False,False,False,False,raikkonen,Finnish,alfa,6,9,19,0,8,19,0,7,1.2000000000000028,39
+14291,2019,9,red_bull_ring,False,False,False,False,False,giovinazzi,Italian,alfa,7,10,0,0,18,19,0,7,1.2000000000000028,25
+14288,2019,9,red_bull_ring,False,False,False,False,False,gasly,French,red_bull,8,7,37,0,6,137,0,3,1.2000000000000028,23
+14299,2019,9,red_bull_ring,False,False,False,False,False,kevin_magnussen,Danish,haas,10,19,14,0,11,16,0,9,1.0999999999999943,26
+14297,2019,9,red_bull_ring,False,False,False,False,False,grosjean,French,haas,11,16,2,0,17,16,0,9,1.5,33
+14293,2019,9,red_bull_ring,False,False,False,False,False,ricciardo,Australian,renault,12,12,16,0,9,32,0,5,1.7999999999999972,29
+14292,2019,9,red_bull_ring,False,False,False,False,False,perez,Mexican,racing_point,13,11,13,0,13,19,0,6,1.7999999999999972,29
+14295,2019,9,red_bull_ring,False,False,False,False,False,stroll,Canadian,racing_point,14,14,6,0,16,19,0,6,1.7999999999999972,20
+14294,2019,9,red_bull_ring,False,False,False,False,False,hulkenberg,German,renault,15,13,16,0,10,32,0,5,1.5,31
+14298,2019,9,red_bull_ring,False,False,False,False,False,kvyat,Russian,toro_rosso,16,17,10,0,14,17,0,8,2.299999999999997,25
+14300,2019,9,red_bull_ring,False,False,False,False,False,kubica,Polish,williams,17,20,0,0,20,0,0,10,3.200000000000003,34
+14296,2019,9,red_bull_ring,False,False,False,False,False,albon,Thai,toro_rosso,18,15,7,0,15,17,0,8,1.7000000000000028,23
+14289,2019,9,red_bull_ring,False,False,False,False,False,sainz,Spanish,mclaren,19,8,26,0,7,40,0,4,10.599999999999994,24

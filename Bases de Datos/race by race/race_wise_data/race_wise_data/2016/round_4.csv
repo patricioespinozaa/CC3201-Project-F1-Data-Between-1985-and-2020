@@ -1,0 +1,22 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+12929,2016,4,sochi,False,False,False,False,False,rosberg,German,mercedes,1,1,75,3,1,114,3,1,0.0,30
+12932,2016,4,sochi,False,False,False,False,False,bottas,Finnish,williams,2,4,7,0,10,29,0,4,1.0999999999999943,26
+12931,2016,4,sochi,False,False,False,False,False,raikkonen,Finnish,ferrari,3,3,28,0,5,61,0,2,1.2999999999999972,36
+12933,2016,4,sochi,False,False,False,False,False,massa,Brazilian,williams,4,5,22,0,6,29,0,4,1.5999999999999943,35
+12939,2016,4,sochi,False,False,False,False,False,ricciardo,Australian,red_bull,5,11,36,0,3,57,0,3,1.6999999999999886,26
+12937,2016,4,sochi,False,False,False,False,False,perez,Mexican,force_india,6,9,0,0,15,6,0,7,1.7999999999999972,26
+12948,2016,4,sochi,False,False,False,False,False,vettel,German,ferrari,7,20,33,0,4,61,0,2,0.6999999999999886,28
+12943,2016,4,sochi,False,False,False,False,False,kvyat,Russian,red_bull,8,15,21,0,7,57,0,3,2.0999999999999943,22
+12947,2016,4,sochi,False,False,False,False,False,max_verstappen,Dutch,toro_rosso,9,19,13,0,9,17,0,6,2.1999999999999886,18
+12940,2016,4,sochi,False,False,False,False,False,sainz,Spanish,toro_rosso,11,12,4,0,12,17,0,6,2.299999999999997,21
+12938,2016,4,sochi,False,False,False,False,False,button,British,mclaren,12,10,0,0,19,1,0,8,2.299999999999997,36
+12949,2016,4,sochi,False,False,False,False,False,hulkenberg,German,force_india,13,21,6,0,11,6,0,7,2.3999999999999915,28
+12934,2016,4,sochi,False,False,False,False,False,alonso,Spanish,mclaren,14,6,0,0,18,1,0,8,2.3999999999999915,34
+12936,2016,4,sochi,False,False,False,False,False,grosjean,French,haas,15,8,18,0,8,18,0,5,2.6999999999999886,30
+12945,2016,4,sochi,False,False,False,False,False,gutierrez,Mexican,haas,16,17,0,0,22,18,0,5,2.6999999999999886,24
+12935,2016,4,sochi,False,False,False,False,False,kevin_magnussen,Danish,renault,17,7,0,0,14,0,0,9,3.5,23
+12941,2016,4,sochi,False,False,False,False,False,jolyon_palmer,British,renault,18,13,0,0,16,0,0,9,3.5999999999999943,25
+12944,2016,4,sochi,False,False,False,False,False,nasr,Brazilian,sauber,19,16,0,0,21,0,0,10,3.5999999999999943,23
+12946,2016,4,sochi,False,False,False,False,False,wehrlein,German,manor,20,18,0,0,20,0,0,11,4.0,21
+12950,2016,4,sochi,False,False,False,False,False,haryanto,Indonesian,manor,21,22,0,0,23,0,0,11,4.099999999999994,23
+12942,2016,4,sochi,False,False,False,False,False,ericsson,Swedish,sauber,22,14,0,0,17,0,0,10,4.099999999999994,25

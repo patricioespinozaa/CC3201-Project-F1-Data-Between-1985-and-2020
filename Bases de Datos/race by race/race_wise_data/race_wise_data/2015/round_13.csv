@@ -1,0 +1,21 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+12726,2015,13,marina_bay,False,False,False,False,False,vettel,German,ferrari,1,1,178,2,3,270,2,2,0.0,28
+12727,2015,13,marina_bay,False,False,False,False,False,ricciardo,Australian,red_bull,2,2,55,0,8,113,0,4,0.5,26
+12728,2015,13,marina_bay,False,False,False,False,False,raikkonen,Finnish,ferrari,3,3,92,0,5,270,2,2,0.7999999999999972,35
+12731,2015,13,marina_bay,False,False,False,False,False,kvyat,Russian,red_bull,4,6,58,0,7,113,0,4,0.7999999999999972,21
+12743,2015,13,marina_bay,False,False,False,False,False,hamilton,British,mercedes,5,18,252,7,1,451,10,1,1.3999999999999917,30
+12729,2015,13,marina_bay,False,False,False,False,False,rosberg,German,mercedes,6,4,199,3,2,451,10,1,1.5,30
+12730,2015,13,marina_bay,False,False,False,False,False,bottas,Finnish,williams,7,5,91,0,6,188,0,3,1.7999999999999972,26
+12733,2015,13,marina_bay,False,False,False,False,False,max_verstappen,Dutch,toro_rosso,8,8,26,0,12,35,0,7,1.8999999999999917,17
+12744,2015,13,marina_bay,False,False,False,False,False,massa,Brazilian,williams,9,19,97,0,4,188,0,3,2.1999999999999886,34
+12738,2015,13,marina_bay,False,False,False,False,False,grosjean,French,lotus_f1,10,13,38,0,9,50,0,6,2.5,29
+12745,2015,13,marina_bay,False,False,False,False,False,hulkenberg,German,force_india,11,20,30,0,11,63,0,5,2.3999999999999915,28
+12742,2015,13,marina_bay,False,False,False,False,False,alonso,Spanish,mclaren,12,17,11,0,15,17,0,9,2.3999999999999915,34
+12732,2015,13,marina_bay,False,False,False,False,False,perez,Mexican,force_india,13,7,33,0,10,63,0,5,2.5,25
+12734,2015,13,marina_bay,False,False,False,False,False,sainz,Spanish,toro_rosso,14,9,9,0,16,35,0,7,3.0,21
+12741,2015,13,marina_bay,False,False,False,False,False,button,British,mclaren,15,16,6,0,18,17,0,9,3.0999999999999943,35
+12735,2015,13,marina_bay,False,False,False,False,False,nasr,Brazilian,sauber,16,10,16,0,13,25,0,8,3.0999999999999943,23
+12736,2015,13,marina_bay,False,False,False,False,False,ericsson,Swedish,sauber,17,11,9,0,17,25,0,8,3.1999999999999886,25
+12737,2015,13,marina_bay,False,False,False,False,False,maldonado,Venezuelan,lotus_f1,18,12,12,0,14,50,0,6,3.3999999999999915,30
+12740,2015,13,marina_bay,False,False,False,False,False,stevens,British,manor,19,15,0,0,20,0,0,10,7.099999999999994,24
+12739,2015,13,marina_bay,False,False,False,False,False,rossi,American,manor,20,14,0,0,0,0,0,10,7.599999999999994,23

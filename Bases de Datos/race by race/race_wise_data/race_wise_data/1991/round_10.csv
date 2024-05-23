@@ -1,0 +1,27 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+3464,1991,10,hungaroring,True,False,False,False,False,senna,Brazilian,mclaren,1,1,51,4,1,70,4,2,0.0,31
+3466,1991,10,hungaroring,True,False,False,False,False,patrese,Italian,williams,2,3,28,1,3,71,4,1,1.3000000000000114,37
+3465,1991,10,hungaroring,True,False,False,False,False,mansell,British,williams,3,2,43,3,2,71,4,1,1.3000000000000114,38
+3489,1991,10,hungaroring,True,False,False,False,False,prost,French,ferrari,4,26,21,0,4,33,0,3,1.6000000000000083,36
+3467,1991,10,hungaroring,True,False,False,False,False,berger,Austrian,mclaren,5,4,19,0,5,70,4,2,1.6000000000000083,31
+3468,1991,10,hungaroring,True,False,False,False,False,alesi,French,ferrari,6,5,12,0,7,33,0,3,2.300000000000012,27
+3488,1991,10,hungaroring,True,False,False,False,False,pirro,Italian,dallara,7,25,1,0,16,5,0,7,3.200000000000003,29
+3475,1991,10,hungaroring,True,False,False,False,False,modena,Italian,tyrrell,8,12,9,0,8,11,0,6,3.6000000000000085,28
+3469,1991,10,hungaroring,True,False,False,False,False,capelli,Italian,leyton,9,6,0,0,0,0,0,14,3.700000000000003,28
+3483,1991,10,hungaroring,True,False,False,False,False,brundle,British,brabham,10,20,0,0,29,0,0,15,3.9000000000000057,32
+3485,1991,10,hungaroring,True,False,False,False,False,piquet,Brazilian,benetton,11,22,18,1,6,23,1,4,3.9000000000000057,38
+3484,1991,10,hungaroring,True,False,False,False,False,lehto,Finnish,dallara,12,21,4,0,11,5,0,7,3.9000000000000057,25
+3474,1991,10,hungaroring,True,False,False,False,False,gugelmin,Brazilian,leyton,13,11,0,0,22,0,0,14,3.9000000000000057,28
+3478,1991,10,hungaroring,True,False,False,False,False,satoru_nakajima,Japanese,tyrrell,14,15,2,0,14,11,0,6,4.5,38
+3471,1991,10,hungaroring,True,False,False,False,False,moreno,Brazilian,benetton,15,8,5,0,10,23,1,4,4.5,32
+3472,1991,10,hungaroring,True,False,False,False,False,gachot,Belgian,jordan,16,9,4,0,12,13,0,5,4.6000000000000085,28
+3470,1991,10,hungaroring,True,False,False,False,False,cesaris,Italian,jordan,17,7,9,0,9,13,0,5,4.700000000000003,32
+3481,1991,10,hungaroring,True,False,False,False,False,martini,Italian,minardi,18,18,3,0,13,3,0,8,4.700000000000003,30
+3480,1991,10,hungaroring,True,False,False,False,False,boutsen,Belgian,ligier,19,17,0,0,20,0,0,12,4.800000000000011,34
+3482,1991,10,hungaroring,True,False,False,False,False,blundell,British,brabham,20,19,0,0,25,0,0,15,4.900000000000006,25
+3486,1991,10,hungaroring,True,False,False,False,False,bernard,French,lola,21,23,1,0,17,1,0,10,5.200000000000003,26
+3487,1991,10,hungaroring,True,False,False,False,False,suzuki,Japanese,lola,22,24,1,0,18,1,0,10,5.5,30
+3476,1991,10,hungaroring,True,False,False,False,False,morbidelli,Italian,minardi,23,13,0,0,21,3,0,8,5.6000000000000085,23
+3479,1991,10,hungaroring,True,False,False,False,False,larini,Italian,lambo,24,16,0,0,23,0,0,13,5.800000000000011,27
+3473,1991,10,hungaroring,True,False,False,False,False,comas,French,ligier,25,10,0,0,24,0,0,12,6.200000000000003,27
+3477,1991,10,hungaroring,True,False,False,False,False,hakkinen,Finnish,team_lotus,26,14,2,0,15,3,0,9,6.200000000000003,22

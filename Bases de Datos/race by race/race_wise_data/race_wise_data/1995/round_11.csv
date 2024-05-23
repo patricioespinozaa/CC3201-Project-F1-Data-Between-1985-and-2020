@@ -1,0 +1,25 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+5145,1995,11,spa,False,False,False,True,False,berger,Austrian,ferrari,1,18,25,0,6,57,1,3,0.0,36
+5150,1995,11,spa,False,False,False,True,False,alesi,French,ferrari,2,23,32,1,3,57,1,3,0.1999999999999886,31
+5151,1995,11,spa,False,False,False,True,False,hakkinen,Finnish,mclaren,3,24,5,0,11,10,0,6,1.0,26
+5134,1995,11,spa,False,False,False,True,False,herbert,British,benetton,4,7,28,1,5,84,6,1,1.6999999999999886,31
+5149,1995,11,spa,False,False,False,True,False,coulthard,British,williams,5,22,29,0,4,74,3,2,1.8999999999999917,24
+5132,1995,11,spa,False,False,False,True,False,blundell,British,mclaren,6,5,5,0,12,10,0,6,2.1999999999999886,29
+5146,1995,11,spa,False,False,False,True,False,irvine,British,jordan,7,19,6,0,10,13,0,4,2.5999999999999943,29
+5129,1995,11,spa,False,False,False,True,False,damon_hill,British,williams,8,2,45,3,2,74,3,2,3.3999999999999915,34
+5136,1995,11,spa,False,False,False,True,False,panis,French,ligier,9,9,8,0,7,12,0,5,3.5999999999999943,28
+5131,1995,11,spa,False,False,False,True,False,frentzen,German,sauber,10,4,7,0,9,9,0,7,3.6999999999999886,28
+5135,1995,11,spa,False,False,False,True,False,salo,Finnish,tyrrell,11,8,0,0,17,0,0,9,3.799999999999997,28
+5133,1995,11,spa,False,False,False,True,False,barrichello,Brazilian,jordan,12,6,7,0,8,13,0,4,3.899999999999992,23
+5130,1995,11,spa,False,False,False,True,False,brundle,British,ligier,13,3,3,0,13,12,0,5,3.899999999999992,36
+5138,1995,11,spa,False,False,False,True,False,boullion,French,sauber,14,11,2,0,14,9,0,7,4.0,25
+5142,1995,11,spa,False,False,False,True,False,katayama,Japanese,tyrrell,15,15,0,0,19,0,0,9,4.199999999999989,32
+5128,1995,11,spa,False,False,False,True,False,michael_schumacher,German,benetton,16,1,56,5,1,84,6,1,4.699999999999989,26
+5137,1995,11,spa,False,False,False,True,False,lamy,Portuguese,minardi,17,10,0,0,24,0,0,10,4.899999999999992,23
+5139,1995,11,spa,False,False,False,True,False,inoue,Japanese,footwork,18,12,0,0,23,1,0,8,6.599999999999994,31
+5144,1995,11,spa,False,False,False,True,False,badoer,Italian,minardi,19,17,0,0,20,0,0,10,6.599999999999994,24
+5147,1995,11,spa,False,False,False,True,False,papis,Italian,footwork,20,20,0,0,0,1,0,8,7.299999999999997,25
+5148,1995,11,spa,False,False,False,True,False,montermini,Italian,pacific,21,21,0,0,21,0,0,11,8.0,31
+5141,1995,11,spa,False,False,False,True,False,moreno,Brazilian,forti,22,14,0,0,30,0,0,13,9.399999999999991,36
+5143,1995,11,spa,False,False,False,True,False,lavaggi,Italian,pacific,23,16,0,0,0,0,0,11,12.0,37
+5140,1995,11,spa,False,False,False,True,False,diniz,Brazilian,forti,24,13,0,0,25,0,0,13,15.099999999999994,25

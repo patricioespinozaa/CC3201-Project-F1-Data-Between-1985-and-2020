@@ -1,0 +1,20 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+12783,2015,15,sochi,False,False,False,False,False,rosberg,German,mercedes,1,18,229,3,2,506,11,1,0.0,30
+12765,2015,15,sochi,False,False,False,False,False,hamilton,British,mercedes,2,1,277,8,1,506,11,1,0.3000000000000113,30
+12776,2015,15,sochi,False,False,False,False,False,bottas,Finnish,williams,3,12,111,0,5,208,0,3,0.8000000000000114,26
+12766,2015,15,sochi,False,False,False,False,False,vettel,German,ferrari,4,2,218,3,3,337,3,2,0.9000000000000057,28
+12772,2015,15,sochi,False,False,False,False,False,raikkonen,Finnish,ferrari,5,8,119,0,4,337,3,2,1.2000000000000028,35
+12784,2015,15,sochi,False,False,False,False,False,hulkenberg,German,force_india,6,19,38,0,11,77,0,5,1.6000000000000083,28
+12767,2015,15,sochi,False,False,False,False,False,perez,Mexican,force_india,7,3,39,0,10,77,0,5,1.6000000000000083,25
+12782,2015,15,sochi,False,False,False,False,False,grosjean,French,lotus_f1,8,17,44,0,9,60,0,6,1.7000000000000028,29
+12774,2015,15,sochi,False,False,False,False,False,max_verstappen,Dutch,toro_rosso,9,10,32,0,12,44,0,7,1.8000000000000114,18
+12780,2015,15,sochi,False,False,False,False,False,ricciardo,Australian,red_bull,10,15,73,0,7,139,0,4,2.6000000000000085,26
+12769,2015,15,sochi,False,False,False,False,False,kvyat,Russian,red_bull,11,5,66,0,8,139,0,4,2.1000000000000085,21
+12770,2015,15,sochi,False,False,False,False,False,nasr,Brazilian,sauber,12,6,17,0,13,26,0,8,2.200000000000003,23
+12773,2015,15,sochi,False,False,False,False,False,button,British,mclaren,13,9,6,0,18,17,0,9,2.700000000000003,35
+12771,2015,15,sochi,False,False,False,False,False,maldonado,Venezuelan,lotus_f1,14,7,16,0,14,60,0,6,2.700000000000003,30
+12768,2015,15,sochi,False,False,False,False,False,massa,Brazilian,williams,15,4,97,0,6,208,0,3,2.800000000000012,34
+12778,2015,15,sochi,False,False,False,False,False,stevens,British,manor,17,14,0,0,20,0,0,10,6.6000000000000085,24
+12779,2015,15,sochi,False,False,False,False,False,ericsson,Swedish,sauber,17,20,9,0,17,26,0,8,6.6000000000000085,25
+12777,2015,15,sochi,False,False,False,False,False,merhi,Spanish,manor,18,13,0,0,19,0,0,10,6.700000000000003,24
+12775,2015,15,sochi,False,False,False,False,False,alonso,Spanish,mclaren,19,11,11,0,16,17,0,9,3.0,34

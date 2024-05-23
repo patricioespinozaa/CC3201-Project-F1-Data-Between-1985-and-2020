@@ -1,0 +1,17 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+14380,2019,14,monza,False,False,False,False,True,leclerc,Monegasque,ferrari,1,1,157,1,5,326,1,2,0.0,21
+14382,2019,14,monza,False,False,False,False,True,hamilton,British,mercedes,2,3,268,8,1,471,10,1,0.0,34
+14381,2019,14,monza,False,False,False,False,True,bottas,Finnish,mercedes,3,2,203,2,2,471,10,1,0.1000000000000085,30
+14392,2019,14,monza,False,False,False,False,True,vettel,German,ferrari,4,13,169,0,4,326,1,2,0.2000000000000028,32
+14383,2019,14,monza,False,False,False,False,True,ricciardo,Australian,renault,5,4,22,0,12,43,0,6,0.5,30
+14384,2019,14,monza,False,False,False,False,True,hulkenberg,German,renault,6,5,21,0,14,43,0,6,0.7000000000000028,32
+14398,2019,14,monza,False,False,False,False,True,sainz,Spanish,mclaren,7,20,58,0,7,82,0,4,1.2000000000000028,25
+14388,2019,14,monza,False,False,False,False,True,giovinazzi,Italian,alfa,10,9,1,0,18,32,0,8,1.2000000000000028,25
+14396,2019,14,monza,False,False,False,False,True,kevin_magnussen,Danish,haas,11,18,18,0,16,26,0,9,1.2999999999999972,26
+14397,2019,14,monza,False,False,False,False,True,kvyat,Russian,toro_rosso,12,19,33,0,8,51,0,5,1.2999999999999972,25
+14394,2019,14,monza,False,False,False,False,True,grosjean,French,haas,13,16,8,0,17,26,0,9,1.5,33
+14393,2019,14,monza,False,False,False,False,True,russell,British,williams,14,14,0,0,20,1,0,10,2.5,21
+14395,2019,14,monza,False,False,False,False,True,kubica,Polish,williams,15,17,1,0,19,1,0,10,3.1000000000000085,34
+14389,2019,14,monza,False,False,False,False,True,norris,British,mclaren,16,10,24,0,11,82,0,4,1.7999999999999972,19
+14390,2019,14,monza,False,False,False,False,True,gasly,French,toro_rosso,17,11,65,0,6,51,0,5,1.7999999999999972,23
+14386,2019,14,monza,False,False,False,False,True,perez,Mexican,racing_point,18,7,21,0,13,40,0,7,2.0,29

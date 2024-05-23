@@ -1,0 +1,20 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+13774,2018,4,BAK,False,False,False,False,True,vettel,German,ferrari,1,4,54,2,1,84,2,2,0.0,30
+13771,2018,4,BAK,False,False,False,False,True,hamilton,British,mercedes,2,1,45,0,2,85,0,1,0.2000000000000028,33
+13784,2018,4,BAK,False,False,False,False,True,bottas,Finnish,mercedes,3,14,40,0,3,85,0,1,0.2999999999999971,28
+13787,2018,4,BAK,False,False,False,False,True,ricciardo,Australian,red_bull,4,17,37,1,4,55,1,3,0.4000000000000057,28
+13786,2018,4,BAK,False,False,False,False,True,max_verstappen,Dutch,red_bull,5,16,18,0,8,55,1,3,0.5,20
+13772,2018,4,BAK,False,False,False,False,True,raikkonen,Finnish,ferrari,6,2,30,0,5,84,2,2,1.0,38
+13789,2018,4,BAK,False,False,False,False,True,ocon,French,force_india,7,19,1,0,14,1,0,9,1.0,21
+13773,2018,4,BAK,False,False,False,False,True,perez,Mexican,force_india,8,3,0,0,15,1,0,9,1.0,28
+13775,2018,4,BAK,False,False,False,False,True,sainz,Spanish,renault,9,5,3,0,12,25,0,5,1.9000000000000057,23
+13778,2018,4,BAK,False,False,False,False,True,stroll,Canadian,williams,10,8,0,0,18,0,0,10,2.0999999999999943,19
+13790,2018,4,BAK,False,False,False,False,True,sirotkin,Russian,williams,11,20,0,0,19,0,0,10,2.4000000000000057,22
+13777,2018,4,BAK,False,False,False,False,True,alonso,Spanish,mclaren,12,7,22,0,6,28,0,4,2.5,36
+13776,2018,4,BAK,False,False,False,False,True,leclerc,Monegasque,sauber,13,6,0,0,16,2,0,8,2.5999999999999943,20
+13788,2018,4,BAK,False,False,False,False,True,hulkenberg,German,renault,14,18,22,0,7,25,0,5,1.5999999999999943,30
+13783,2018,4,BAK,False,False,False,False,True,kevin_magnussen,Danish,haas,15,13,11,0,10,11,0,7,3.299999999999997,25
+13779,2018,4,BAK,False,False,False,False,True,vandoorne,Belgian,mclaren,16,9,6,0,11,28,0,4,3.0,26
+13782,2018,4,BAK,False,False,False,False,True,gasly,French,toro_rosso,17,12,12,0,9,12,0,6,3.0,22
+13781,2018,4,BAK,False,False,False,False,True,ericsson,Swedish,sauber,18,11,2,0,13,2,0,8,4.0,27
+13780,2018,4,BAK,False,False,False,False,True,brendon_hartley,New Zealander,toro_rosso,19,10,0,0,20,12,0,6,15.900000000000006,28

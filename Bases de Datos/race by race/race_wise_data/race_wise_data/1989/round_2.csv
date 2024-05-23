@@ -1,0 +1,27 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+2427,1989,2,imola,True,False,False,False,False,senna,Brazilian,mclaren,1,1,0,0,11,6,0,2,0.0,29
+2428,1989,2,imola,True,False,False,False,False,prost,French,mclaren,2,2,6,0,2,6,0,2,0.2000000000000028,34
+2444,1989,2,imola,True,False,False,False,False,mansell,British,ferrari,3,18,9,1,1,9,1,1,1.7000000000000028,35
+2445,1989,2,imola,True,False,False,False,False,patrese,Italian,williams,4,19,0,0,15,0,0,12,1.9000000000000057,35
+2449,1989,2,imola,True,False,False,False,False,berger,Austrian,ferrari,5,23,0,0,24,9,1,1,2.0999999999999943,29
+2430,1989,2,imola,True,False,False,False,False,boutsen,Belgian,williams,6,4,0,0,22,0,0,12,2.299999999999997,31
+2429,1989,2,imola,True,False,False,False,False,nannini,Italian,benetton,7,3,1,0,6,4,0,4,2.9000000000000057,29
+2443,1989,2,imola,True,False,False,False,False,piquet,Brazilian,team_lotus,8,17,0,0,20,0,0,7,3.0999999999999943,36
+2433,1989,2,imola,True,False,False,False,False,caffi,Italian,dallara,9,7,0,0,30,0,0,10,3.0999999999999943,25
+2448,1989,2,imola,True,False,False,False,False,grouillard,French,ligier,10,22,0,0,9,0,0,8,3.0999999999999943,30
+2447,1989,2,imola,True,False,False,False,False,martini,Italian,minardi,11,21,0,0,23,0,0,15,3.200000000000003,28
+2431,1989,2,imola,True,False,False,False,False,warwick,British,arrows,12,5,2,0,5,2,0,5,3.299999999999997,34
+2450,1989,2,imola,True,False,False,False,False,capelli,Italian,march,13,24,0,0,19,4,0,3,3.4000000000000057,25
+2438,1989,2,imola,True,False,False,False,False,larini,Italian,osella,14,12,0,0,0,0,0,18,3.5,25
+2441,1989,2,imola,True,False,False,False,False,sala,Spanish,minardi,15,15,0,0,25,0,0,15,3.5,29
+2436,1989,2,imola,True,False,False,False,False,cesaris,Italian,dallara,16,10,0,0,13,0,0,10,3.700000000000003,29
+2446,1989,2,imola,True,False,False,False,False,modena,Italian,brabham,17,20,0,0,21,0,0,14,3.799999999999997,25
+2434,1989,2,imola,True,False,False,False,False,tarquini,Italian,ags,18,8,0,0,0,0,0,19,3.9000000000000057,27
+2442,1989,2,imola,True,False,False,False,False,gugelmin,Brazilian,march,19,16,4,0,3,4,0,3,4.200000000000003,26
+2451,1989,2,imola,True,False,False,False,False,alliot,French,larrousse,20,25,0,0,12,0,0,9,4.200000000000003,34
+2435,1989,2,imola,True,False,False,False,False,cheever,American,arrows,21,9,0,0,16,2,0,5,4.200000000000003,31
+2439,1989,2,imola,True,False,False,False,False,brundle,British,brabham,22,13,0,0,18,0,0,14,4.299999999999997,29
+2437,1989,2,imola,True,False,False,False,False,herbert,British,benetton,23,11,3,0,4,4,0,4,4.299999999999997,24
+2440,1989,2,imola,True,False,False,False,False,satoru_nakajima,Japanese,team_lotus,24,14,0,0,8,0,0,7,4.700000000000003,36
+2432,1989,2,imola,True,False,False,False,False,palmer,British,tyrrell,25,6,0,0,7,0,0,6,4.900000000000006,32
+2452,1989,2,imola,True,False,False,False,False,dalmas,French,larrousse,26,26,0,0,26,0,0,9,5.099999999999994,27

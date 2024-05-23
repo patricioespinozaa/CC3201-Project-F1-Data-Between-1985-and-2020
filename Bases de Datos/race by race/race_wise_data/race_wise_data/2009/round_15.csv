@@ -1,0 +1,16 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+10242,2009,15,suzuka,False,False,True,False,False,vettel,German,red_bull,1,1,59,2,3,0,3,2,0.0,22
+10243,2009,15,suzuka,False,False,True,False,False,trulli,Italian,toyota,2,2,0,0,10,0,0,5,0.0,35
+10244,2009,15,suzuka,False,False,True,False,False,hamilton,British,mclaren,3,3,37,2,6,59,2,4,0.2000000000000028,24
+10247,2009,15,suzuka,False,False,True,False,False,heidfeld,German,bmw_sauber,4,6,12,0,13,21,0,8,0.7000000000000028,32
+10245,2009,15,suzuka,False,False,True,False,False,raikkonen,Finnish,ferrari,5,4,40,1,5,62,1,3,0.7999999999999972,29
+10248,2009,15,suzuka,False,False,True,False,False,barrichello,Brazilian,brawn,6,7,69,2,2,153,8,1,0.5,37
+10246,2009,15,suzuka,False,False,True,False,False,rosberg,German,williams,7,5,0,0,7,0,0,6,-0.7000000000000028,24
+10254,2009,15,suzuka,False,False,True,False,False,sutil,German,force_india,8,13,5,0,16,13,0,9,0.2999999999999971,26
+10250,2009,15,suzuka,False,False,True,False,False,kubica,Polish,bmw_sauber,9,9,9,0,14,21,0,8,0.0999999999999943,24
+10249,2009,15,suzuka,False,False,True,False,False,button,British,brawn,10,8,84,6,1,153,8,1,0.7999999999999972,29
+10253,2009,15,suzuka,False,False,True,False,False,fisichella,Italian,ferrari,14,12,8,0,15,62,1,3,-0.5,36
+10256,2009,15,suzuka,False,False,True,False,False,nakajima,Japanese,williams,15,15,0,0,19,0,0,6,-0.5,24
+10251,2009,15,suzuka,False,False,True,False,False,alonso,Spanish,renault,16,10,26,0,8,26,0,7,-0.6000000000000085,28
+10257,2009,15,suzuka,False,False,True,False,False,grosjean,French,renault,17,16,0,0,23,26,0,7,-0.1000000000000085,23
+10255,2009,15,suzuka,False,False,True,False,False,liuzzi,Italian,force_india,18,14,0,0,22,13,0,9,-0.1000000000000085,29

@@ -1,0 +1,19 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+9832,2008,12,valencia,True,False,False,False,False,massa,Brazilian,ferrari,1,1,54,3,3,111,5,1,0.0,27
+9833,2008,12,valencia,True,False,False,False,False,hamilton,British,mclaren,2,2,62,4,1,100,5,2,0.2000000000000028,23
+9834,2008,12,valencia,True,False,False,False,False,kubica,Polish,bmw_sauber,3,3,49,1,4,90,1,3,0.4000000000000057,23
+9848,2008,12,valencia,True,False,False,False,False,raikkonen,Finnish,ferrari,4,18,57,2,2,111,5,1,0.5,28
+9835,2008,12,valencia,True,False,False,False,False,kovalainen,Finnish,mclaren,5,4,38,1,6,100,5,2,0.9000000000000057,26
+9837,2008,12,valencia,True,False,False,False,False,vettel,German,toro_rosso,6,6,6,0,16,8,0,9,1.0999999999999943,21
+9836,2008,12,valencia,True,False,False,False,False,trulli,Italian,toyota,7,5,22,0,7,35,0,4,1.2999999999999972,34
+9840,2008,12,valencia,True,False,False,False,False,heidfeld,German,bmw_sauber,8,9,41,0,5,90,1,3,1.5999999999999943,31
+9839,2008,12,valencia,True,False,False,False,False,rosberg,German,williams,9,8,8,0,13,16,0,7,1.7000000000000028,23
+9841,2008,12,valencia,True,False,False,False,False,bourdais,French,toro_rosso,10,10,2,0,18,8,0,9,1.7999999999999972,29
+9846,2008,12,valencia,True,False,False,False,False,nakajima,Japanese,williams,11,15,8,0,14,16,0,7,-0.5999999999999943,23
+9849,2008,12,valencia,True,False,False,False,False,alonso,Spanish,renault,12,20,18,0,8,31,0,5,-0.5999999999999943,27
+9838,2008,12,valencia,True,False,False,False,False,glock,German,toyota,13,7,13,0,10,35,0,4,-0.5,26
+9843,2008,12,valencia,True,False,False,False,False,webber,Australian,red_bull,14,12,18,0,9,24,0,6,-0.5,31
+9842,2008,12,valencia,True,False,False,False,False,piquet_jr,Brazilian,renault,15,11,13,0,11,31,0,5,-0.2999999999999971,23
+9844,2008,12,valencia,True,False,False,False,False,button,British,honda,16,13,3,0,17,14,0,8,-0.0999999999999943,28
+9847,2008,12,valencia,True,False,False,False,False,coulthard,British,red_bull,17,17,6,0,15,24,0,6,0.2000000000000028,37
+9845,2008,12,valencia,True,False,False,False,False,fisichella,Italian,force_india,18,14,0,0,19,0,0,10,0.2999999999999971,35

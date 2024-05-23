@@ -1,0 +1,19 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+9902,2008,15,marina_bay,False,False,False,False,False,massa,Brazilian,ferrari,1,13,77,5,2,134,7,1,0.0,27
+9892,2008,15,marina_bay,False,False,False,False,False,hamilton,British,mclaren,2,3,78,4,1,129,5,2,0.7000000000000028,23
+9903,2008,15,marina_bay,False,False,False,False,False,raikkonen,Finnish,ferrari,3,15,57,2,4,134,7,1,0.7999999999999972,28
+9900,2008,15,marina_bay,False,False,False,False,False,kubica,Polish,bmw_sauber,4,11,64,1,3,117,1,3,1.0,23
+9899,2008,15,marina_bay,False,False,False,False,False,kovalainen,Finnish,mclaren,5,10,51,1,6,129,5,2,1.1000000000000083,26
+9894,2008,15,marina_bay,False,False,False,False,False,vettel,German,toro_rosso,6,5,23,1,9,27,1,6,1.4000000000000057,21
+9893,2008,15,marina_bay,False,False,False,False,False,glock,German,toyota,7,4,15,0,11,41,0,4,1.5,26
+9891,2008,15,marina_bay,False,False,False,False,False,rosberg,German,williams,8,2,9,0,14,17,0,8,1.7999999999999972,23
+9895,2008,15,marina_bay,False,False,False,False,False,heidfeld,German,bmw_sauber,9,6,53,0,5,117,1,3,1.2000000000000028,31
+9897,2008,15,marina_bay,False,False,False,False,False,nakajima,Japanese,williams,10,8,8,0,15,17,0,8,2.700000000000003,23
+9904,2008,15,marina_bay,False,False,False,False,False,trulli,Italian,toyota,11,16,26,0,8,41,0,4,0.2000000000000028,34
+9898,2008,15,marina_bay,False,False,False,False,False,button,British,honda,12,9,3,0,18,14,0,9,0.2999999999999971,28
+9906,2008,15,marina_bay,False,False,False,False,False,webber,Australian,red_bull,13,18,20,0,10,26,0,7,0.4000000000000057,32
+9896,2008,15,marina_bay,False,False,False,False,False,coulthard,British,red_bull,14,7,6,0,16,26,0,7,0.5,37
+9908,2008,15,marina_bay,False,False,False,False,False,piquet_jr,Brazilian,renault,16,20,13,0,12,41,0,5,1.2000000000000028,23
+9901,2008,15,marina_bay,False,False,False,False,False,bourdais,French,toro_rosso,17,12,4,0,17,27,1,6,1.6000000000000083,29
+9907,2008,15,marina_bay,False,False,False,False,False,barrichello,Brazilian,honda,18,19,11,0,13,14,0,9,1.7999999999999972,36
+9905,2008,15,marina_bay,False,False,False,False,False,sutil,German,force_india,19,17,0,0,20,0,0,10,3.1000000000000085,25

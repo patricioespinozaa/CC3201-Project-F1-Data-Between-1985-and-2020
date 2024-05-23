@@ -1,0 +1,25 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+5033,1995,7,magny_cours,False,False,False,False,False,damon_hill,British,williams,1,2,29,2,2,38,2,3,0.0,34
+5032,1995,7,magny_cours,False,False,False,False,False,michael_schumacher,German,benetton,2,1,36,3,1,48,3,1,0.2999999999999971,26
+5034,1995,7,magny_cours,False,False,False,False,False,coulthard,British,williams,3,3,9,0,6,38,2,3,0.7000000000000028,24
+5036,1995,7,magny_cours,False,False,False,False,False,alesi,French,ferrari,4,5,24,1,3,41,1,2,1.5999999999999943,31
+5037,1995,7,magny_cours,False,False,False,False,False,barrichello,Brazilian,jordan,5,6,6,0,7,12,0,4,1.5999999999999943,23
+5039,1995,7,magny_cours,False,False,False,False,False,panis,French,ligier,6,8,4,0,10,4,0,6,1.7999999999999972,28
+5043,1995,7,magny_cours,False,False,False,False,False,berger,Austrian,ferrari,7,12,17,0,4,41,1,2,1.8999999999999917,35
+5038,1995,7,magny_cours,False,False,False,False,False,hakkinen,Finnish,mclaren,8,7,5,0,9,8,0,5,2.0,26
+5035,1995,7,magny_cours,False,False,False,False,False,brundle,British,ligier,9,4,0,0,20,4,0,6,2.200000000000003,36
+5052,1995,7,magny_cours,False,False,False,False,False,herbert,British,benetton,10,21,12,0,5,48,3,1,2.3999999999999915,31
+5040,1995,7,magny_cours,False,False,False,False,False,irvine,British,jordan,11,9,6,0,8,12,0,4,2.5999999999999943,29
+5041,1995,7,magny_cours,False,False,False,False,False,frentzen,German,sauber,12,10,4,0,11,4,0,7,3.0999999999999943,28
+5042,1995,7,magny_cours,False,False,False,False,False,blundell,British,mclaren,13,11,3,0,12,8,0,5,3.299999999999997,29
+5046,1995,7,magny_cours,False,False,False,False,False,salo,Finnish,tyrrell,14,15,0,0,14,0,0,9,3.5999999999999943,28
+5049,1995,7,magny_cours,False,False,False,False,False,boullion,French,sauber,15,18,0,0,18,4,0,7,3.700000000000003,25
+5045,1995,7,magny_cours,False,False,False,False,False,morbidelli,Italian,footwork,16,14,1,0,13,1,0,8,3.899999999999992,27
+5044,1995,7,magny_cours,False,False,False,False,False,badoer,Italian,minardi,17,13,0,0,17,0,0,10,4.099999999999994,24
+5053,1995,7,magny_cours,False,False,False,False,False,inoue,Japanese,footwork,18,22,0,0,22,1,0,8,4.700000000000003,31
+5054,1995,7,magny_cours,False,False,False,False,False,katayama,Japanese,tyrrell,19,23,0,0,19,0,0,9,4.700000000000003,32
+5051,1995,7,magny_cours,False,False,False,False,False,martini,Italian,minardi,20,20,0,0,15,0,0,10,4.899999999999992,34
+5048,1995,7,magny_cours,False,False,False,False,False,montermini,Italian,pacific,21,17,0,0,23,0,0,12,6.299999999999997,31
+5050,1995,7,magny_cours,False,False,False,False,False,gachot,Belgian,pacific,22,19,0,0,0,0,0,12,6.399999999999992,32
+5055,1995,7,magny_cours,False,False,False,False,False,diniz,Brazilian,forti,23,24,0,0,24,0,0,13,7.0,25
+5047,1995,7,magny_cours,False,False,False,False,False,moreno,Brazilian,forti,24,16,0,0,0,0,0,13,7.700000000000003,36

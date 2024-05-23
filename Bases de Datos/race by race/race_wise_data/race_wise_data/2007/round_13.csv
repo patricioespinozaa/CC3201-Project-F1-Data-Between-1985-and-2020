@@ -1,0 +1,23 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+9498,2007,13,monza,True,False,False,False,False,alonso,Spanish,mclaren,1,1,79,3,2,148,6,11,0.0,26
+9499,2007,13,monza,True,False,False,False,False,hamilton,British,mclaren,2,2,84,3,1,148,6,11,0.0,22
+9518,2007,13,monza,True,False,False,False,False,massa,Brazilian,ferrari,3,21,69,3,3,137,6,1,0.5,26
+9501,2007,13,monza,True,False,False,False,False,heidfeld,German,bmw_sauber,4,4,47,0,5,77,0,2,1.2000000000000028,30
+9500,2007,13,monza,True,False,False,False,False,raikkonen,Finnish,ferrari,5,3,68,3,4,137,6,1,1.2000000000000028,27
+9502,2007,13,monza,True,False,False,False,False,kubica,Polish,bmw_sauber,6,5,29,0,6,77,0,2,1.4000000000000057,22
+9504,2007,13,monza,True,False,False,False,False,kovalainen,Finnish,renault,7,7,19,0,7,36,0,3,2.0999999999999943,25
+9503,2007,13,monza,True,False,False,False,False,rosberg,German,williams,8,6,9,0,10,22,0,4,2.4000000000000057,22
+9508,2007,13,monza,True,False,False,False,False,trulli,Italian,toyota,9,11,7,0,13,12,0,6,2.5999999999999943,33
+9505,2007,13,monza,True,False,False,False,False,button,British,honda,10,8,1,0,16,1,0,8,3.200000000000003,27
+9506,2007,13,monza,True,False,False,False,False,webber,Australian,red_bull,11,9,8,0,11,16,0,5,1.2000000000000028,31
+9507,2007,13,monza,True,False,False,False,False,barrichello,Brazilian,honda,12,10,0,0,18,1,0,8,1.2000000000000028,35
+9510,2007,13,monza,True,False,False,False,False,wurz,Austrian,williams,13,13,13,0,9,22,0,4,1.2000000000000028,33
+9511,2007,13,monza,True,False,False,False,False,davidson,British,super_aguri,14,14,0,0,20,4,0,7,1.2999999999999972,28
+9509,2007,13,monza,True,False,False,False,False,fisichella,Italian,renault,15,12,17,0,8,36,0,3,1.2999999999999972,34
+9515,2007,13,monza,True,False,False,False,False,vettel,German,toro_rosso,16,18,1,0,17,0,0,9,1.4000000000000057,20
+9513,2007,13,monza,True,False,False,False,False,sato,Japanese,super_aguri,17,16,4,0,15,4,0,7,1.7000000000000028,30
+9512,2007,13,monza,True,False,False,False,False,ralf_schumacher,German,toyota,18,15,5,0,14,12,0,6,1.7999999999999972,32
+9514,2007,13,monza,True,False,False,False,False,liuzzi,Italian,toro_rosso,19,17,0,0,23,0,0,9,1.9000000000000057,27
+9519,2007,13,monza,True,False,False,False,False,coulthard,British,red_bull,20,22,8,0,12,16,0,5,2.0,36
+9516,2007,13,monza,True,False,False,False,False,sutil,German,spyker,21,19,0,0,21,0,0,10,2.700000000000003,24
+9517,2007,13,monza,True,False,False,False,False,yamamoto,Japanese,spyker,22,20,0,0,24,0,0,10,3.0999999999999943,25

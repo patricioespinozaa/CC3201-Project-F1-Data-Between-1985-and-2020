@@ -1,0 +1,25 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+5101,1995,9,hockenheimring,False,False,False,False,False,damon_hill,British,williams,1,22,35,2,2,52,2,2,0.0,34
+5080,1995,9,hockenheimring,False,False,False,False,False,michael_schumacher,German,benetton,2,1,46,4,1,68,5,1,0.0999999999999943,26
+5081,1995,9,hockenheimring,False,False,False,False,False,coulthard,British,williams,3,2,17,0,5,52,2,2,0.0999999999999943,24
+5082,1995,9,hockenheimring,False,False,False,False,False,berger,Austrian,ferrari,4,3,17,0,6,49,1,3,1.1999999999999886,35
+5094,1995,9,hockenheimring,False,False,False,False,False,barrichello,Brazilian,jordan,5,15,7,0,7,13,0,4,1.3999999999999917,23
+5088,1995,9,hockenheimring,False,False,False,False,False,irvine,British,jordan,6,9,6,0,9,13,0,4,1.3999999999999917,29
+5089,1995,9,hockenheimring,False,False,False,False,False,hakkinen,Finnish,mclaren,7,10,5,0,10,10,0,6,1.3999999999999917,26
+5095,1995,9,hockenheimring,False,False,False,False,False,blundell,British,mclaren,8,16,5,0,11,10,0,6,1.7999999999999972,29
+5083,1995,9,hockenheimring,False,False,False,False,False,herbert,British,benetton,9,4,22,1,4,68,5,1,1.8999999999999917,31
+5097,1995,9,hockenheimring,False,False,False,False,False,alesi,French,ferrari,10,18,32,1,3,49,1,3,2.0,31
+5090,1995,9,hockenheimring,False,False,False,False,False,frentzen,German,sauber,11,11,5,0,12,5,0,7,2.3999999999999915,28
+5096,1995,9,hockenheimring,False,False,False,False,False,panis,French,ligier,12,17,7,0,8,10,0,5,3.0,28
+5102,1995,9,hockenheimring,False,False,False,False,False,salo,Finnish,tyrrell,13,23,0,0,15,0,0,9,3.0999999999999943,28
+5084,1995,9,hockenheimring,False,False,False,False,False,boullion,French,sauber,14,5,0,0,17,5,0,7,3.1999999999999886,25
+5103,1995,9,hockenheimring,False,False,False,False,False,papis,Italian,footwork,15,24,0,0,0,1,0,8,3.6999999999999886,25
+5091,1995,9,hockenheimring,False,False,False,False,False,badoer,Italian,minardi,16,12,0,0,18,0,0,10,4.899999999999992,24
+5086,1995,9,hockenheimring,False,False,False,False,False,katayama,Japanese,tyrrell,17,7,0,0,20,0,0,9,5.0,32
+5085,1995,9,hockenheimring,False,False,False,False,False,suzuki,Japanese,ligier,18,6,0,0,19,10,0,5,5.299999999999997,34
+5099,1995,9,hockenheimring,False,False,False,False,False,inoue,Japanese,footwork,19,20,0,0,22,1,0,8,5.5,31
+5098,1995,9,hockenheimring,False,False,False,False,False,martini,Italian,minardi,20,19,0,0,16,0,0,10,5.599999999999994,34
+5100,1995,9,hockenheimring,False,False,False,False,False,diniz,Brazilian,forti,21,21,0,0,24,0,0,13,8.599999999999994,25
+5093,1995,9,hockenheimring,False,False,False,False,False,moreno,Brazilian,forti,22,14,0,0,29,0,0,13,9.0,36
+5087,1995,9,hockenheimring,False,False,False,False,False,montermini,Italian,pacific,23,8,0,0,23,0,0,12,9.099999999999994,31
+5092,1995,9,hockenheimring,False,False,False,False,False,lavaggi,Italian,pacific,24,13,0,0,0,0,0,12,10.199999999999989,37

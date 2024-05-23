@@ -1,0 +1,20 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+9717,2008,6,monaco,False,False,False,False,False,massa,Brazilian,ferrari,1,3,28,2,2,63,4,1,0.0,27
+9723,2008,6,monaco,False,False,False,False,False,raikkonen,Finnish,ferrari,2,9,35,2,1,63,4,1,0.0,28
+9715,2008,6,monaco,False,False,False,False,False,hamilton,British,mclaren,3,1,28,1,3,42,1,3,0.0,23
+9722,2008,6,monaco,False,False,False,False,False,kovalainen,Finnish,mclaren,4,8,14,0,6,42,1,3,0.4000000000000057,26
+9716,2008,6,monaco,False,False,False,False,False,kubica,Polish,bmw_sauber,5,2,24,0,4,44,0,2,0.4000000000000057,23
+9730,2008,6,monaco,False,False,False,False,False,rosberg,German,williams,6,16,8,0,10,13,0,4,0.7000000000000028,22
+9724,2008,6,monaco,False,False,False,False,False,alonso,Spanish,renault,7,10,9,0,8,9,0,7,1.1000000000000083,26
+9727,2008,6,monaco,False,False,False,False,False,trulli,Italian,toyota,8,13,9,0,9,9,0,6,1.4000000000000057,33
+9718,2008,6,monaco,False,False,False,False,False,webber,Australian,red_bull,9,4,10,0,7,10,0,5,1.5,31
+9726,2008,6,monaco,False,False,False,False,False,glock,German,toyota,10,12,0,0,15,9,0,6,0.1000000000000085,26
+9725,2008,6,monaco,False,False,False,False,False,button,British,honda,11,11,3,0,12,3,0,8,0.2999999999999971,28
+9728,2008,6,monaco,False,False,False,False,False,heidfeld,German,bmw_sauber,12,14,20,0,5,44,0,2,0.7000000000000028,31
+9721,2008,6,monaco,False,False,False,False,False,nakajima,Japanese,williams,13,7,5,0,11,13,0,4,0.7000000000000028,23
+9720,2008,6,monaco,False,False,False,False,False,barrichello,Brazilian,honda,14,6,0,0,17,3,0,8,0.7000000000000028,36
+9734,2008,6,monaco,False,False,False,False,False,bourdais,French,toro_rosso,16,20,2,0,13,2,0,9,1.0,29
+9731,2008,6,monaco,False,False,False,False,False,piquet_jr,Brazilian,renault,17,17,0,0,18,9,0,7,1.1000000000000083,22
+9729,2008,6,monaco,False,False,False,False,False,sutil,German,force_india,18,15,0,0,21,0,0,10,1.4000000000000057,25
+9719,2008,6,monaco,False,False,False,False,False,vettel,German,toro_rosso,19,5,0,0,22,2,0,9,1.2000000000000028,20
+9732,2008,6,monaco,False,False,False,False,False,fisichella,Italian,force_india,20,18,0,0,16,0,0,10,2.0,35

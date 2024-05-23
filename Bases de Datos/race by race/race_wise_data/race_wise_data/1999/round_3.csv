@@ -1,0 +1,23 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+6401,1999,3,imola,False,False,False,False,False,hakkinen,Finnish,mclaren,1,18,10,1,2,10,1,2,0.0,30
+6385,1999,3,imola,False,False,False,False,False,coulthard,British,mclaren,2,2,0,0,0,10,1,2,0.0,28
+6384,1999,3,imola,False,False,False,False,False,michael_schumacher,German,ferrari,3,1,6,0,5,18,1,1,0.0999999999999943,30
+6397,1999,3,imola,False,False,False,False,False,irvine,British,ferrari,4,14,12,1,1,18,1,1,0.5999999999999943,33
+6405,1999,3,imola,False,False,False,False,False,trulli,Italian,prost,5,22,0,0,0,1,0,8,0.8999999999999915,24
+6386,1999,3,imola,False,False,False,False,False,barrichello,Brazilian,stewart,6,3,2,0,7,2,0,6,1.0,26
+6398,1999,3,imola,False,False,False,False,False,frentzen,German,jordan,7,15,10,0,3,10,0,3,1.1999999999999886,31
+6387,1999,3,imola,False,False,False,False,False,damon_hill,British,jordan,8,4,0,0,0,10,0,3,1.2999999999999972,38
+6400,1999,3,imola,False,False,False,False,False,ralf_schumacher,German,williams,9,17,7,0,4,7,0,4,1.3999999999999917,23
+6394,1999,3,imola,False,False,False,False,False,zanardi,Italian,williams,10,11,0,0,0,7,0,4,1.6999999999999886,32
+6396,1999,3,imola,False,False,False,False,False,panis,French,prost,11,13,1,0,9,1,0,8,1.7999999999999972,32
+6393,1999,3,imola,False,False,False,False,False,herbert,British,stewart,12,10,0,0,0,2,0,6,1.7999999999999972,34
+6389,1999,3,imola,False,False,False,False,False,alesi,French,sauber,13,6,0,0,0,0,0,0,1.8999999999999917,34
+6404,1999,3,imola,False,False,False,False,False,villeneuve,Canadian,bar,14,21,0,0,0,0,0,0,2.0,28
+6395,1999,3,imola,False,False,False,False,False,diniz,Brazilian,sauber,15,12,0,0,0,0,0,0,2.1999999999999886,28
+6388,1999,3,imola,False,False,False,False,False,fisichella,Italian,benetton,16,5,3,0,6,3,0,5,2.3999999999999915,26
+6403,1999,3,imola,False,False,False,False,False,wurz,Austrian,benetton,17,20,0,0,11,3,0,5,2.3999999999999915,25
+6402,1999,3,imola,False,False,False,False,False,rosa,Spanish,arrows,18,19,1,0,8,1,0,7,2.8999999999999915,28
+6390,1999,3,imola,False,False,False,False,False,salo,Finnish,bar,19,7,0,0,0,0,0,0,3.0999999999999943,32
+6399,1999,3,imola,False,False,False,False,False,takagi,Japanese,arrows,20,16,0,0,10,1,0,7,3.299999999999997,25
+6392,1999,3,imola,False,False,False,False,False,gene,Spanish,minardi,21,9,0,0,12,0,0,9,3.5999999999999943,25
+6391,1999,3,imola,False,False,False,False,False,badoer,Italian,minardi,22,8,0,0,0,0,0,9,4.5,28

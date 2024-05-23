@@ -1,0 +1,27 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+3646,1992,1,kyalami,False,False,True,False,False,mansell,British,williams,1,1,0,0,0,0,0,0,0.0,38
+3648,1992,1,kyalami,False,False,True,False,False,senna,Brazilian,mclaren,2,3,0,0,0,0,0,0,0.7000000000000028,31
+3650,1992,1,kyalami,False,False,True,False,False,berger,Austrian,mclaren,3,5,0,0,0,0,0,0,1.2000000000000028,32
+3647,1992,1,kyalami,False,False,True,False,False,patrese,Italian,williams,4,2,0,0,0,0,0,0,1.5,37
+3666,1992,1,kyalami,False,False,True,False,False,alesi,French,ferrari,5,21,0,0,0,0,0,0,1.7000000000000028,27
+3649,1992,1,kyalami,False,False,True,False,False,michael_schumacher,German,benetton,6,4,0,0,0,0,0,0,2.0999999999999943,23
+3669,1992,1,kyalami,False,False,True,False,False,wendlinger,Austrian,march,7,24,0,0,0,0,0,0,2.5999999999999943,23
+3671,1992,1,kyalami,False,False,True,False,False,brundle,British,benetton,8,26,0,0,0,0,0,0,2.799999999999997,32
+3667,1992,1,kyalami,False,False,True,False,False,capelli,Italian,ferrari,9,22,0,0,0,0,0,0,2.9000000000000057,28
+3665,1992,1,kyalami,False,False,True,False,False,cesaris,Italian,tyrrell,10,20,0,0,0,0,0,0,3.0,32
+3651,1992,1,kyalami,False,False,True,False,False,herbert,British,team_lotus,11,6,0,0,0,0,0,0,3.0999999999999943,27
+3659,1992,1,kyalami,False,False,True,False,False,grouillard,French,tyrrell,12,14,0,0,0,0,0,0,3.200000000000003,33
+3652,1992,1,kyalami,False,False,True,False,False,comas,French,ligier,13,7,0,0,0,0,0,0,3.700000000000003,28
+3660,1992,1,kyalami,False,False,True,False,False,boutsen,Belgian,ligier,14,15,0,0,0,0,0,0,3.799999999999997,34
+3668,1992,1,kyalami,False,False,True,False,False,tarquini,Italian,fondmetal,15,23,0,0,0,0,0,0,3.799999999999997,29
+3653,1992,1,kyalami,False,False,True,False,False,suzuki,Japanese,footwork,16,8,0,0,0,0,0,0,4.0,31
+3655,1992,1,kyalami,False,False,True,False,False,alboreto,Italian,footwork,17,10,0,0,0,0,0,0,4.099999999999994,35
+3657,1992,1,kyalami,False,False,True,False,False,katayama,Japanese,larrousse,18,12,0,0,0,0,0,0,4.099999999999994,28
+3662,1992,1,kyalami,False,False,True,False,False,morbidelli,Italian,minardi,19,17,0,0,0,0,0,0,4.099999999999994,24
+3664,1992,1,kyalami,False,False,True,False,False,fittipaldi,Brazilian,minardi,20,19,0,0,0,0,0,0,4.099999999999994,21
+3654,1992,1,kyalami,False,False,True,False,False,hakkinen,Finnish,team_lotus,21,9,0,0,0,0,0,0,4.200000000000003,23
+3670,1992,1,kyalami,False,False,True,False,False,gachot,Belgian,larrousse,22,25,0,0,0,0,0,0,4.5,29
+3656,1992,1,kyalami,False,False,True,False,False,gugelmin,Brazilian,jordan,23,11,0,0,0,0,0,0,4.599999999999994,28
+3663,1992,1,kyalami,False,False,True,False,False,lehto,Finnish,dallara,24,18,0,0,0,0,0,0,4.599999999999994,26
+3661,1992,1,kyalami,False,False,True,False,False,martini,Italian,dallara,25,16,0,0,0,0,0,0,4.700000000000003,30
+3658,1992,1,kyalami,False,False,True,False,False,poele,Belgian,brabham,26,13,0,0,0,0,0,0,5.0,30

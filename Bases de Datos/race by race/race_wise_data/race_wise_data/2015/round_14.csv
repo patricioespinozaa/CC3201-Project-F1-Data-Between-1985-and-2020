@@ -1,0 +1,18 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+12747,2015,14,suzuka,False,False,False,False,False,rosberg,German,mercedes,1,2,211,3,2,463,10,1,0.0,30
+12746,2015,14,suzuka,False,False,False,False,False,hamilton,British,mercedes,2,1,252,7,1,463,10,1,0.1000000000000085,30
+12750,2015,14,suzuka,False,False,False,False,False,bottas,Finnish,williams,3,5,101,0,5,198,0,3,0.4000000000000057,26
+12748,2015,14,suzuka,False,False,False,False,False,vettel,German,ferrari,4,3,203,3,3,310,3,2,0.6000000000000085,28
+12761,2015,14,suzuka,False,False,False,False,False,massa,Brazilian,williams,5,17,97,0,6,198,0,3,0.7000000000000028,34
+12749,2015,14,suzuka,False,False,False,False,False,raikkonen,Finnish,ferrari,6,4,107,0,4,310,3,2,0.7000000000000028,35
+12759,2015,14,suzuka,False,False,False,False,False,ricciardo,Australian,red_bull,7,15,73,0,7,139,0,4,0.9000000000000057,26
+12752,2015,14,suzuka,False,False,False,False,False,grosjean,French,lotus_f1,8,7,38,0,10,50,0,6,1.4000000000000057,29
+12755,2015,14,suzuka,False,False,False,False,False,sainz,Spanish,toro_rosso,10,10,11,0,16,41,0,7,1.9000000000000057,21
+12753,2015,14,suzuka,False,False,False,False,False,maldonado,Venezuelan,lotus_f1,11,8,12,0,14,50,0,6,1.9000000000000057,30
+12756,2015,14,suzuka,False,False,False,False,False,alonso,Spanish,mclaren,12,11,11,0,15,17,0,9,2.200000000000003,34
+12751,2015,14,suzuka,False,False,False,False,False,hulkenberg,German,force_india,13,6,30,0,12,69,0,5,1.8000000000000114,28
+12760,2015,14,suzuka,False,False,False,False,False,button,British,mclaren,14,16,6,0,18,17,0,9,3.1000000000000085,35
+12758,2015,14,suzuka,False,False,False,False,False,ericsson,Swedish,sauber,15,14,9,0,17,26,0,8,3.1000000000000085,25
+12764,2015,14,suzuka,False,False,False,False,False,nasr,Brazilian,sauber,16,20,17,0,13,26,0,8,3.200000000000003,23
+12763,2015,14,suzuka,False,False,False,False,False,stevens,British,manor,18,19,0,0,20,0,0,10,6.200000000000003,24
+12762,2015,14,suzuka,False,False,False,False,False,rossi,American,manor,19,18,0,0,21,0,0,10,14.5,24

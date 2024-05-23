@@ -1,0 +1,25 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+5225,1995,15,okayama,False,False,True,False,False,coulthard,British,williams,1,2,43,1,3,98,4,2,0.0,24
+5226,1995,15,okayama,False,False,True,False,False,damon_hill,British,williams,2,3,55,3,2,98,4,2,0.2000000000000028,35
+5224,1995,15,okayama,False,False,True,False,False,michael_schumacher,German,benetton,3,1,82,7,1,122,9,1,0.2999999999999971,26
+5228,1995,15,okayama,False,False,True,False,False,alesi,French,ferrari,4,5,40,1,5,68,1,3,0.9000000000000057,31
+5227,1995,15,okayama,False,False,True,False,False,berger,Austrian,ferrari,5,4,28,0,6,68,1,3,1.0,36
+5234,1995,15,okayama,False,False,True,False,False,irvine,British,jordan,6,11,7,0,13,18,0,5,1.4000000000000057,29
+5229,1995,15,okayama,False,False,True,False,False,herbert,British,benetton,7,6,40,2,4,122,9,1,1.5999999999999943,31
+5230,1995,15,okayama,False,False,True,False,False,frentzen,German,sauber,8,7,15,0,7,18,0,6,1.5999999999999943,28
+5231,1995,15,okayama,False,False,True,False,False,panis,French,ligier,9,8,8,0,11,16,0,7,1.5999999999999943,29
+5232,1995,15,okayama,False,False,True,False,False,blundell,British,mclaren,10,9,10,0,10,21,0,4,1.7000000000000028,29
+5241,1995,15,okayama,False,False,True,False,False,barrichello,Brazilian,jordan,11,18,11,0,9,18,0,5,1.7999999999999972,23
+5233,1995,15,okayama,False,False,True,False,False,magnussen,Danish,mclaren,12,10,0,0,0,21,0,4,2.299999999999997,22
+5245,1995,15,okayama,False,False,True,False,False,suzuki,Japanese,ligier,13,22,1,0,16,16,0,7,2.5,35
+5236,1995,15,okayama,False,False,True,False,False,lamy,Portuguese,minardi,14,13,0,0,24,0,0,10,2.5999999999999943,23
+5246,1995,15,okayama,False,False,True,False,False,boullion,French,sauber,15,23,3,0,14,18,0,6,2.5999999999999943,25
+5238,1995,15,okayama,False,False,True,False,False,badoer,Italian,minardi,16,15,0,0,21,0,0,10,2.9000000000000057,24
+5237,1995,15,okayama,False,False,True,False,False,katayama,Japanese,tyrrell,17,14,0,0,19,2,0,8,3.0,32
+5235,1995,15,okayama,False,False,True,False,False,salo,Finnish,tyrrell,18,12,2,0,15,2,0,8,3.200000000000003,28
+5242,1995,15,okayama,False,False,True,False,False,morbidelli,Italian,footwork,19,19,1,0,17,1,0,9,4.099999999999994,27
+5243,1995,15,okayama,False,False,True,False,False,inoue,Japanese,footwork,20,20,0,0,22,1,0,9,4.200000000000003,32
+5240,1995,15,okayama,False,False,True,False,False,diniz,Brazilian,forti,21,17,0,0,25,0,0,12,5.599999999999994,25
+5239,1995,15,okayama,False,False,True,False,False,moreno,Brazilian,forti,22,16,0,0,0,0,0,12,5.700000000000003,36
+5244,1995,15,okayama,False,False,True,False,False,montermini,Italian,pacific,23,21,0,0,23,0,0,11,6.099999999999994,31
+5247,1995,15,okayama,False,False,True,False,False,gachot,Belgian,pacific,24,24,0,0,28,0,0,11,7.400000000000006,32

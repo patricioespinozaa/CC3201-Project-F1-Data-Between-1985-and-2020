@@ -1,0 +1,19 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+12182,2014,5,catalunya,True,False,False,False,False,hamilton,British,mercedes,1,1,75,3,2,154,4,1,0.0,29
+12183,2014,5,catalunya,True,False,False,False,False,rosberg,German,mercedes,2,2,79,1,1,154,4,1,0.2000000000000028,28
+12184,2014,5,catalunya,True,False,False,False,False,ricciardo,Australian,red_bull,3,3,24,0,6,57,0,2,1.0999999999999943,24
+12186,2014,5,catalunya,True,False,False,False,False,bottas,Finnish,williams,4,5,24,0,7,36,0,6,1.3999999999999917,24
+12189,2014,5,catalunya,True,False,False,False,False,grosjean,French,lotus_f1,5,8,0,0,15,0,0,8,1.7999999999999972,28
+12188,2014,5,catalunya,True,False,False,False,False,raikkonen,Finnish,ferrari,6,7,11,0,12,52,0,4,1.8999999999999917,34
+12187,2014,5,catalunya,True,False,False,False,False,alonso,Spanish,ferrari,7,6,41,0,3,52,0,4,1.8999999999999917,32
+12192,2014,5,catalunya,True,False,False,False,False,button,British,mclaren,8,11,23,0,8,43,0,5,2.0999999999999943,34
+12194,2014,5,catalunya,True,False,False,False,False,massa,Brazilian,williams,9,13,12,0,11,36,0,6,2.200000000000003,33
+12191,2014,5,catalunya,True,False,False,False,False,hulkenberg,German,force_india,10,10,36,0,4,54,0,3,2.5,26
+12190,2014,5,catalunya,True,False,False,False,False,perez,Mexican,force_india,11,9,18,0,10,54,0,3,2.799999999999997,24
+12195,2014,5,catalunya,True,False,False,False,False,kvyat,Russian,toro_rosso,12,14,4,0,14,8,0,7,2.799999999999997,20
+12197,2014,5,catalunya,True,False,False,False,False,gutierrez,Mexican,sauber,13,16,0,0,17,0,0,9,3.0999999999999943,22
+12198,2014,5,catalunya,True,False,False,False,False,sutil,German,sauber,16,17,0,0,16,0,0,9,3.3999999999999915,31
+12200,2014,5,catalunya,True,False,False,False,False,chilton,British,marussia,17,19,0,0,18,0,0,10,4.399999999999992,23
+12199,2014,5,catalunya,True,False,False,False,False,jules_bianchi,French,marussia,18,18,0,0,22,0,0,10,5.0,24
+12201,2014,5,catalunya,True,False,False,False,False,ericsson,Swedish,caterham,19,20,0,0,21,0,0,11,5.099999999999994,23
+12202,2014,5,catalunya,True,False,False,False,False,kobayashi,Japanese,caterham,20,21,0,0,19,0,0,11,5.200000000000003,27

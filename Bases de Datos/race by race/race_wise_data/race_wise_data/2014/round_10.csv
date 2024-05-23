@@ -1,0 +1,21 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+12289,2014,10,hockenheimring,False,False,False,False,True,rosberg,German,mercedes,1,1,165,3,1,326,8,1,0.0,29
+12290,2014,10,hockenheimring,False,False,False,False,True,bottas,Finnish,williams,2,2,73,0,5,103,0,4,0.2999999999999971,24
+12309,2014,10,hockenheimring,False,False,False,False,True,massa,Brazilian,williams,3,22,30,0,10,103,0,4,0.5999999999999943,33
+12297,2014,10,hockenheimring,False,False,False,False,True,kevin_magnussen,Danish,mclaren,4,9,35,0,9,90,0,6,0.7000000000000028,21
+12294,2014,10,hockenheimring,False,False,False,False,True,ricciardo,Australian,red_bull,5,6,98,1,3,168,1,2,0.7999999999999972,25
+12292,2014,10,hockenheimring,False,False,False,False,True,vettel,German,red_bull,6,4,70,0,6,168,1,2,1.0999999999999943,27
+12293,2014,10,hockenheimring,False,False,False,False,True,alonso,Spanish,ferrari,7,5,87,0,4,106,0,3,1.0999999999999943,32
+12307,2014,10,hockenheimring,False,False,False,False,True,kvyat,Russian,toro_rosso,8,20,6,0,15,15,0,7,1.5,20
+12295,2014,10,hockenheimring,False,False,False,False,True,hulkenberg,German,force_india,9,7,63,0,7,91,0,5,1.5,26
+12298,2014,10,hockenheimring,False,False,False,False,True,perez,Mexican,force_india,10,10,28,0,11,91,0,5,1.5,24
+12296,2014,10,hockenheimring,False,False,False,False,True,button,British,mclaren,11,8,55,0,8,90,0,6,1.7000000000000028,34
+12299,2014,10,hockenheimring,False,False,False,False,True,raikkonen,Finnish,ferrari,12,11,19,0,12,106,0,3,1.7999999999999972,34
+12301,2014,10,hockenheimring,False,False,False,False,True,vergne,French,toro_rosso,13,13,9,0,13,15,0,7,1.7999999999999972,24
+12308,2014,10,hockenheimring,False,False,False,False,True,grosjean,French,lotus_f1,14,21,8,0,14,8,0,8,2.5,28
+12306,2014,10,hockenheimring,False,False,False,False,True,sutil,German,sauber,15,19,0,0,17,0,0,10,2.5999999999999943,31
+12302,2014,10,hockenheimring,False,False,False,False,True,gutierrez,Mexican,sauber,16,14,0,0,20,0,0,10,2.299999999999997,22
+12303,2014,10,hockenheimring,False,False,False,False,True,jules_bianchi,French,marussia,17,15,2,0,16,2,0,9,3.200000000000003,24
+12300,2014,10,hockenheimring,False,False,False,False,True,maldonado,Venezuelan,lotus_f1,18,12,0,0,19,8,0,8,3.700000000000003,29
+12304,2014,10,hockenheimring,False,False,False,False,True,kobayashi,Japanese,caterham,19,16,0,0,22,0,0,11,3.9000000000000057,27
+12305,2014,10,hockenheimring,False,False,False,False,True,chilton,British,marussia,21,17,0,0,21,2,0,9,4.0,23

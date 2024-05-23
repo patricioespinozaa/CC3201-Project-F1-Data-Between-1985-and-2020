@@ -1,0 +1,21 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+8208,2004,6,monaco,True,False,True,False,False,trulli,Italian,renault,1,1,21,0,5,42,0,2,0.0,29
+8209,2004,6,monaco,True,False,True,False,False,button,British,bar,2,2,24,0,3,32,0,3,0.4000000000000057,24
+8219,2004,6,monaco,True,False,True,False,False,alonso,Spanish,renault,3,12,21,0,4,42,0,2,0.4000000000000057,22
+8218,2004,6,monaco,True,False,True,False,False,michael_schumacher,German,ferrari,4,11,50,5,1,82,5,1,0.5,35
+8220,2004,6,monaco,True,False,True,False,False,raikkonen,Finnish,mclaren,5,13,1,0,12,5,0,5,0.5999999999999943,24
+8210,2004,6,monaco,True,False,True,False,False,barrichello,Brazilian,ferrari,6,3,32,0,2,82,5,1,0.7000000000000028,32
+8224,2004,6,monaco,True,False,True,False,False,sato,Japanese,bar,7,17,8,0,8,32,0,3,0.7999999999999972,27
+8225,2004,6,monaco,True,False,True,False,False,coulthard,British,mclaren,8,18,4,0,9,5,0,5,1.0,33
+8211,2004,6,monaco,True,False,True,False,False,montoya,Colombian,williams,9,4,18,0,6,30,0,4,1.0,28
+8226,2004,6,monaco,True,False,True,False,False,fisichella,Italian,sauber,10,19,2,0,10,3,0,6,1.4000000000000057,31
+8223,2004,6,monaco,True,False,True,False,False,webber,Australian,jaguar,11,16,1,0,13,1,0,7,1.7000000000000028,27
+8217,2004,6,monaco,True,False,True,False,False,ralf_schumacher,German,williams,12,10,12,0,7,30,0,4,0.2999999999999971,28
+8215,2004,6,monaco,True,False,True,False,False,panis,French,toyota,13,8,0,0,15,0,0,8,1.9000000000000057,37
+8227,2004,6,monaco,True,False,True,False,False,klien,Austrian,jaguar,14,20,0,0,16,1,0,7,1.9000000000000057,21
+8213,2004,6,monaco,True,False,True,False,False,matta,Brazilian,toyota,15,6,0,0,14,0,0,8,2.200000000000003,30
+8212,2004,6,monaco,True,False,True,False,False,massa,Brazilian,sauber,16,5,1,0,11,3,0,6,2.200000000000003,23
+8214,2004,6,monaco,True,False,True,False,False,heidfeld,German,jordan,17,7,0,0,20,0,0,9,2.5,27
+8222,2004,6,monaco,True,False,True,False,False,pantano,Italian,jordan,18,15,0,0,17,0,0,9,3.4000000000000057,25
+8216,2004,6,monaco,True,False,True,False,False,baumgartner,Hungarian,minardi,19,9,0,0,19,0,0,10,6.099999999999994,23
+8221,2004,6,monaco,True,False,True,False,False,bruni,Italian,minardi,20,14,0,0,18,0,0,10,6.099999999999994,22

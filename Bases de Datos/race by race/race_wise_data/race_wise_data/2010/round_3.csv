@@ -1,0 +1,24 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+10345,2010,3,sepang,False,False,True,False,False,webber,Australian,red_bull,1,2,6,0,10,18,0,5,0.0,33
+10346,2010,3,sepang,False,False,True,False,False,rosberg,German,mercedes,2,3,20,0,5,29,0,3,1.4000000000000057,24
+10344,2010,3,sepang,False,False,True,False,False,vettel,German,red_bull,3,1,12,0,7,18,0,5,1.5,22
+10348,2010,3,sepang,False,False,True,False,False,sutil,German,force_india,4,5,0,0,13,8,0,6,1.6000000000000083,27
+10353,2010,3,sepang,False,False,True,False,False,hulkenberg,German,williams,5,10,0,0,17,5,0,7,1.7000000000000028,22
+10347,2010,3,sepang,False,False,True,False,False,kubica,Polish,renault,6,4,18,0,6,18,0,4,1.7999999999999972,25
+10355,2010,3,sepang,False,False,True,False,False,barrichello,Brazilian,williams,7,12,5,0,11,5,0,7,2.200000000000003,37
+10364,2010,3,sepang,False,False,True,False,False,michael_schumacher,German,mercedes,8,21,9,0,8,29,0,3,2.4000000000000057,41
+10365,2010,3,sepang,False,False,True,False,False,kobayashi,Japanese,sauber,9,22,0,0,23,0,0,9,2.5,23
+10363,2010,3,sepang,False,False,True,False,False,liuzzi,Italian,force_india,10,20,8,0,9,8,0,6,3.0,29
+10362,2010,3,sepang,False,False,True,False,False,petrov,Russian,renault,11,19,0,0,22,18,0,4,-0.5,25
+10367,2010,3,sepang,False,False,True,False,False,rosa,Spanish,sauber,12,24,0,0,14,0,0,9,-0.5,39
+10354,2010,3,sepang,False,False,True,False,False,buemi,Swiss,toro_rosso,13,11,0,0,18,0,0,8,-0.0999999999999943,21
+10352,2010,3,sepang,False,False,True,False,False,alguersuari,Spanish,toro_rosso,14,9,0,0,12,0,0,8,0.2000000000000028,20
+10361,2010,3,sepang,False,False,True,False,False,kovalainen,Finnish,lotus_racing,15,18,0,0,15,0,0,10,3.0,28
+10366,2010,3,sepang,False,False,True,False,False,glock,German,virgin,16,23,0,0,21,0,0,12,3.200000000000003,28
+10360,2010,3,sepang,False,False,True,False,False,trulli,Italian,lotus_racing,18,17,0,0,19,0,0,10,3.6000000000000085,35
+10356,2010,3,sepang,False,False,True,False,False,alonso,Spanish,ferrari,19,13,37,1,1,70,1,1,3.700000000000003,28
+10349,2010,3,sepang,False,False,True,False,False,hamilton,British,mclaren,20,6,23,0,4,54,1,2,3.799999999999997,25
+10350,2010,3,sepang,False,False,True,False,False,massa,Brazilian,ferrari,21,7,33,0,2,70,1,1,4.0,28
+10358,2010,3,sepang,False,False,True,False,False,chandhok,Indian,hrt,22,15,0,0,16,0,0,11,7.0,26
+10359,2010,3,sepang,False,False,True,False,False,bruno_senna,Brazilian,hrt,23,16,0,0,20,0,0,11,8.0,26
+10357,2010,3,sepang,False,False,True,False,False,grassi,Brazilian,virgin,24,14,0,0,24,0,0,12,10.700000000000005,25

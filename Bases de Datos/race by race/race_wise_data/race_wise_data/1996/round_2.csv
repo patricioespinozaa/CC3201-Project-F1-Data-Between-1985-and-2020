@@ -1,0 +1,23 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+5314,1996,2,interlagos,False,False,False,False,False,damon_hill,British,williams,1,1,10,1,1,16,1,1,0.0,35
+5326,1996,2,interlagos,False,False,False,False,False,barrichello,Brazilian,jordan,2,13,0,0,0,0,0,0,1.0,23
+5330,1996,2,interlagos,False,False,False,False,False,villeneuve,Canadian,williams,3,17,6,0,2,16,1,1,1.2000000000000028,24
+5316,1996,2,interlagos,False,False,False,False,False,michael_schumacher,German,ferrari,4,3,0,0,0,4,0,2,1.4000000000000057,27
+5315,1996,2,interlagos,False,False,False,False,False,alesi,French,benetton,5,2,0,0,0,3,0,3,1.4000000000000057,31
+5325,1996,2,interlagos,False,False,False,False,False,brundle,British,jordan,6,12,0,0,0,0,0,0,1.4000000000000057,36
+5317,1996,2,interlagos,False,False,False,False,False,hakkinen,Finnish,mclaren,7,4,2,0,5,2,0,4,1.5,27
+5331,1996,2,interlagos,False,False,False,False,False,berger,Austrian,benetton,8,18,3,0,4,3,0,3,1.7000000000000028,36
+5327,1996,2,interlagos,False,False,False,False,False,frentzen,German,sauber,9,14,0,0,8,0,0,7,1.7000000000000028,28
+5320,1996,2,interlagos,False,False,False,False,False,irvine,British,ferrari,10,7,4,0,3,4,0,2,1.9000000000000057,30
+5318,1996,2,interlagos,False,False,False,False,False,salo,Finnish,tyrrell,11,5,1,0,6,1,0,5,1.9000000000000057,29
+5329,1996,2,interlagos,False,False,False,False,False,herbert,British,sauber,12,16,0,0,0,0,0,7,2.0,31
+5334,1996,2,interlagos,False,False,False,False,False,verstappen,Dutch,footwork,13,21,0,0,0,0,0,8,2.1000000000000085,24
+5328,1996,2,interlagos,False,False,False,False,False,coulthard,British,mclaren,14,15,0,0,0,2,0,4,2.1000000000000085,25
+5319,1996,2,interlagos,False,False,False,False,False,panis,French,ligier,15,6,0,0,7,0,0,6,2.300000000000012,29
+5322,1996,2,interlagos,False,False,False,False,False,katayama,Japanese,tyrrell,16,9,0,0,11,1,0,5,2.300000000000012,32
+5333,1996,2,interlagos,False,False,False,False,False,rosset,Brazilian,footwork,17,20,0,0,9,0,0,8,2.300000000000012,27
+5323,1996,2,interlagos,False,False,False,False,False,lamy,Portuguese,minardi,18,10,0,0,0,0,0,0,3.4000000000000057,24
+5324,1996,2,interlagos,False,False,False,False,False,badoer,Italian,forti,19,11,0,0,0,0,0,0,5.1000000000000085,25
+5332,1996,2,interlagos,False,False,False,False,False,montermini,Italian,forti,20,19,0,0,0,0,0,0,5.400000000000006,31
+5335,1996,2,interlagos,False,False,False,False,False,marques,Brazilian,minardi,21,22,0,0,0,0,0,0,5.400000000000006,20
+5321,1996,2,interlagos,False,False,False,False,False,diniz,Brazilian,ligier,22,8,0,0,10,0,0,6,5.400000000000006,25

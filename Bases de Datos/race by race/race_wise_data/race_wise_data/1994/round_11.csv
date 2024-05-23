@@ -1,0 +1,27 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+4740,1994,11,spa,True,False,False,False,False,barrichello,Brazilian,jordan,1,19,10,0,5,14,0,5,0.0,22
+4735,1994,11,spa,True,False,False,False,False,michael_schumacher,German,benetton,2,14,76,7,1,81,7,1,0.3000000000000113,25
+4722,1994,11,spa,True,False,False,False,False,damon_hill,British,williams,3,1,45,2,2,49,2,3,0.5,33
+4734,1994,11,spa,True,False,False,False,False,irvine,British,jordan,4,13,1,0,24,14,0,5,0.9000000000000057,28
+4747,1994,11,spa,True,False,False,False,False,alesi,French,ferrari,5,26,19,0,4,52,1,2,1.0,30
+4724,1994,11,spa,True,False,False,False,False,verstappen,Dutch,benetton,6,3,4,0,15,81,7,1,1.0,22
+4725,1994,11,spa,True,False,False,False,False,coulthard,British,williams,7,4,4,0,19,49,2,3,1.200000000000017,23
+4723,1994,11,spa,True,False,False,False,False,hakkinen,Finnish,mclaren,8,2,8,0,7,17,0,4,1.200000000000017,25
+4745,1994,11,spa,True,False,False,False,False,frentzen,German,sauber,9,24,5,0,12,10,0,8,1.4000000000000057,27
+4729,1994,11,spa,True,False,False,False,False,martini,Italian,minardi,10,8,4,0,18,5,0,10,2.1000000000000227,33
+4743,1994,11,spa,True,False,False,False,False,berger,Austrian,ferrari,11,22,27,1,3,52,1,2,2.700000000000017,35
+4726,1994,11,spa,True,False,False,False,False,blundell,British,tyrrell,12,5,6,0,10,11,0,7,2.800000000000012,28
+4739,1994,11,spa,True,False,False,False,False,brundle,British,mclaren,13,18,9,0,6,17,0,4,2.9000000000000057,35
+4727,1994,11,spa,True,False,False,False,False,morbidelli,Italian,footwork,14,6,2,0,20,8,0,9,3.9000000000000057,26
+4738,1994,11,spa,True,False,False,False,False,cesaris,Italian,sauber,15,17,4,0,17,10,0,8,4.5,35
+4731,1994,11,spa,True,False,False,False,False,bernard,French,ligier,16,10,4,0,14,11,0,6,4.800000000000011,30
+4728,1994,11,spa,True,False,False,False,False,panis,French,ligier,17,7,7,0,8,11,0,6,4.900000000000006,27
+4730,1994,11,spa,True,False,False,False,False,alboreto,Italian,minardi,18,9,1,0,22,5,0,10,5.5,37
+4744,1994,11,spa,True,False,False,False,False,alliot,French,larrousse,19,23,0,0,0,2,0,11,5.700000000000017,40
+4733,1994,11,spa,True,False,False,False,False,herbert,British,team_lotus,20,12,0,0,25,0,0,12,6.0,30
+4737,1994,11,spa,True,False,False,False,False,brabham,Australian,simtek,21,16,0,0,30,0,0,13,6.0,28
+4746,1994,11,spa,True,False,False,False,False,comas,French,larrousse,22,25,2,0,21,2,0,11,7.0,30
+4741,1994,11,spa,True,False,False,False,False,katayama,Japanese,tyrrell,23,20,5,0,13,11,0,7,7.800000000000011,31
+4736,1994,11,spa,True,False,False,False,False,fittipaldi,Brazilian,footwork,24,15,6,0,11,8,0,9,9.700000000000015,23
+4732,1994,11,spa,True,False,False,False,False,gounon,French,simtek,25,11,0,0,29,0,0,13,10.600000000000025,31
+4742,1994,11,spa,True,False,False,False,False,adams,Belgian,team_lotus,26,21,0,0,0,0,0,12,12.700000000000015,24

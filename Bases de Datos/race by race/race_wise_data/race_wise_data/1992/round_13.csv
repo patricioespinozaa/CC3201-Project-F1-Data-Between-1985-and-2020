@@ -1,0 +1,27 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+3970,1992,13,monza,True,False,False,False,False,mansell,British,williams,1,13,98,8,1,142,8,1,0.0,39
+3958,1992,13,monza,True,False,False,False,False,senna,Brazilian,mclaren,2,1,36,2,4,60,3,3,0.5999999999999943,32
+3977,1992,13,monza,True,False,False,False,False,alesi,French,ferrari,3,20,13,0,7,16,0,4,0.7999999999999972,28
+3962,1992,13,monza,True,False,False,False,False,patrese,Italian,williams,4,5,44,0,2,142,8,1,0.7999999999999972,38
+3961,1992,13,monza,True,False,False,False,False,berger,Austrian,mclaren,5,4,24,1,5,60,3,3,0.8999999999999915,33
+3960,1992,13,monza,True,False,False,False,False,michael_schumacher,German,benetton,6,3,43,1,3,64,1,2,1.3999999999999917,23
+3978,1992,13,monza,True,False,False,False,False,capelli,Italian,ferrari,7,21,3,0,13,16,0,4,2.0999999999999943,29
+3971,1992,13,monza,True,False,False,False,False,boutsen,Belgian,ligier,8,14,0,0,20,4,0,8,2.200000000000003,35
+3959,1992,13,monza,True,False,False,False,False,brundle,British,benetton,9,2,21,0,6,64,1,2,2.3999999999999915,33
+3980,1992,13,monza,True,False,False,False,False,gachot,Belgian,larrousse,10,23,1,0,16,1,0,11,2.5,29
+3981,1992,13,monza,True,False,False,False,False,hakkinen,Finnish,team_lotus,11,24,9,0,8,11,0,5,2.5999999999999943,23
+3979,1992,13,monza,True,False,False,False,False,morbidelli,Italian,minardi,12,22,0,0,19,0,0,12,2.700000000000003,24
+3975,1992,13,monza,True,False,False,False,False,herbert,British,team_lotus,13,18,2,0,14,11,0,5,2.8999999999999915,28
+3968,1992,13,monza,True,False,False,False,False,lehto,Finnish,dallara,14,11,0,0,17,2,0,10,2.8999999999999915,26
+3972,1992,13,monza,True,False,False,False,False,comas,French,ligier,15,15,4,0,11,4,0,8,3.0,28
+3964,1992,13,monza,True,False,False,False,False,alboreto,Italian,footwork,16,7,5,0,9,5,0,6,3.0,35
+3967,1992,13,monza,True,False,False,False,False,wendlinger,Austrian,march,17,10,3,0,12,3,0,9,3.0999999999999943,23
+3974,1992,13,monza,True,False,False,False,False,grouillard,French,tyrrell,18,17,0,0,22,4,0,7,3.200000000000003,34
+3982,1992,13,monza,True,False,False,False,False,suzuki,Japanese,footwork,19,25,0,0,18,5,0,6,3.200000000000003,32
+3973,1992,13,monza,True,False,False,False,False,tarquini,Italian,fondmetal,20,16,0,0,29,0,0,14,3.200000000000003,30
+3963,1992,13,monza,True,False,False,False,False,cesaris,Italian,tyrrell,21,6,4,0,10,4,0,7,3.200000000000003,33
+3965,1992,13,monza,True,False,False,False,False,martini,Italian,dallara,22,8,2,0,15,2,0,10,3.299999999999997,31
+3966,1992,13,monza,True,False,False,False,False,katayama,Japanese,larrousse,23,9,0,0,24,1,0,11,4.0,29
+3976,1992,13,monza,True,False,False,False,False,naspetti,Italian,march,24,19,0,0,28,3,0,9,4.099999999999994,24
+3983,1992,13,monza,True,False,False,False,False,poele,Belgian,fondmetal,25,26,0,0,26,0,0,14,4.200000000000003,30
+3969,1992,13,monza,True,False,False,False,False,gugelmin,Brazilian,jordan,26,12,0,0,21,0,0,13,4.299999999999997,29

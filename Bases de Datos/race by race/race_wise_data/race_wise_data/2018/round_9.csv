@@ -1,0 +1,21 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+13889,2018,9,red_bull_ring,True,False,False,False,False,bottas,Finnish,mercedes,1,19,92,0,4,237,3,1,0.0,28
+13886,2018,9,red_bull_ring,True,False,False,False,False,hamilton,British,mercedes,2,16,145,3,1,237,3,1,0.0,33
+13872,2018,9,red_bull_ring,True,False,False,False,False,raikkonen,Finnish,ferrari,3,2,83,0,5,214,3,2,0.6000000000000014,38
+13871,2018,9,red_bull_ring,True,False,False,False,False,max_verstappen,Dutch,red_bull,4,1,68,0,6,164,2,3,0.6999999999999957,20
+13874,2018,9,red_bull_ring,True,False,False,False,False,grosjean,French,haas,5,4,0,0,19,27,0,7,0.7999999999999972,32
+13873,2018,9,red_bull_ring,True,False,False,False,False,vettel,German,ferrari,6,3,131,3,2,214,3,2,0.3999999999999986,30
+13888,2018,9,red_bull_ring,True,False,False,False,False,ricciardo,Australian,red_bull,7,18,96,2,3,164,2,3,0.8999999999999986,29
+13875,2018,9,red_bull_ring,True,False,False,False,False,kevin_magnussen,Danish,haas,8,5,27,0,10,27,0,7,0.9999999999999928,25
+13882,2018,9,red_bull_ring,True,False,False,False,False,sainz,Spanish,renault,9,12,28,0,9,62,0,4,1.6000000000000014,23
+13890,2018,9,red_bull_ring,True,False,False,False,False,hulkenberg,German,renault,10,20,34,0,7,62,0,4,1.8999999999999984,30
+13876,2018,9,red_bull_ring,True,False,False,False,False,ocon,French,force_india,11,6,11,0,13,28,0,6,1.6999999999999955,21
+13881,2018,9,red_bull_ring,True,False,False,False,False,gasly,French,toro_rosso,12,11,18,0,11,19,0,8,1.8000000000000045,22
+13878,2018,9,red_bull_ring,True,False,False,False,False,alonso,Spanish,mclaren,13,8,32,0,8,40,0,5,2.199999999999996,36
+13884,2018,9,red_bull_ring,True,False,False,False,False,stroll,Canadian,williams,14,14,4,0,16,4,0,10,2.199999999999996,19
+13885,2018,9,red_bull_ring,True,False,False,False,False,vandoorne,Belgian,mclaren,15,15,8,0,15,40,0,5,2.199999999999996,26
+13877,2018,9,red_bull_ring,True,False,False,False,False,perez,Mexican,force_india,16,7,17,0,12,28,0,6,2.199999999999996,28
+13883,2018,9,red_bull_ring,True,False,False,False,False,sirotkin,Russian,williams,17,13,0,0,20,4,0,10,1.8999999999999984,22
+13879,2018,9,red_bull_ring,True,False,False,False,False,leclerc,Monegasque,sauber,18,9,11,0,14,13,0,9,2.3999999999999986,20
+13887,2018,9,red_bull_ring,True,False,False,False,False,brendon_hartley,New Zealander,toro_rosso,19,17,1,0,18,19,0,8,2.3000000000000043,28
+13880,2018,9,red_bull_ring,True,False,False,False,False,ericsson,Swedish,sauber,20,10,2,0,17,13,0,9,1.999999999999993,27

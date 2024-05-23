@@ -1,0 +1,25 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+5012,1995,6,villeneuve,True,False,False,False,True,michael_schumacher,German,benetton,1,5,34,3,1,46,3,1,0.0,26
+5021,1995,6,villeneuve,True,False,False,False,True,damon_hill,British,williams,2,14,29,2,2,38,2,2,0.2999999999999971,34
+5029,1995,6,villeneuve,True,False,False,False,True,coulthard,British,williams,3,22,9,0,6,38,2,2,0.3999999999999915,24
+5018,1995,6,villeneuve,True,False,False,False,True,berger,Austrian,ferrari,4,11,17,0,3,31,0,3,0.5,35
+5008,1995,6,villeneuve,True,False,False,False,True,alesi,French,ferrari,5,1,14,0,4,31,0,3,0.7999999999999972,31
+5030,1995,6,villeneuve,True,False,False,False,True,herbert,British,benetton,6,23,12,0,5,46,3,1,0.7999999999999972,30
+5031,1995,6,villeneuve,True,False,False,False,True,hakkinen,Finnish,mclaren,7,24,5,0,7,8,0,4,1.2000000000000028,26
+5010,1995,6,villeneuve,True,False,False,False,True,irvine,British,jordan,8,3,2,0,10,2,0,6,1.2999999999999972,29
+5009,1995,6,villeneuve,True,False,False,False,True,barrichello,Brazilian,jordan,9,2,0,0,14,2,0,6,1.5,23
+5022,1995,6,villeneuve,True,False,False,False,True,blundell,British,mclaren,10,15,3,0,9,8,0,4,1.8999999999999917,29
+5011,1995,6,villeneuve,True,False,False,False,True,panis,French,ligier,11,4,1,0,11,1,0,7,2.0999999999999943,28
+5025,1995,6,villeneuve,True,False,False,False,True,frentzen,German,sauber,12,18,4,0,8,4,0,5,2.299999999999997,28
+5013,1995,6,villeneuve,True,False,False,False,True,morbidelli,Italian,footwork,13,6,0,0,18,0,0,10,2.5,27
+5017,1995,6,villeneuve,True,False,False,False,True,brundle,British,ligier,14,10,0,0,20,1,0,7,2.5999999999999943,36
+5014,1995,6,villeneuve,True,False,False,False,True,salo,Finnish,tyrrell,15,7,0,0,12,0,0,8,3.0,28
+5023,1995,6,villeneuve,True,False,False,False,True,katayama,Japanese,tyrrell,16,16,0,0,17,0,0,8,3.700000000000003,32
+5019,1995,6,villeneuve,True,False,False,False,True,martini,Italian,minardi,17,12,0,0,13,0,0,9,3.700000000000003,34
+5027,1995,6,villeneuve,True,False,False,False,True,boullion,French,sauber,18,20,0,0,16,4,0,5,4.099999999999994,25
+5015,1995,6,villeneuve,True,False,False,False,True,badoer,Italian,minardi,19,8,0,0,26,0,0,9,4.200000000000003,24
+5024,1995,6,villeneuve,True,False,False,False,True,gachot,Belgian,pacific,20,17,0,0,0,0,0,12,5.099999999999994,32
+5028,1995,6,villeneuve,True,False,False,False,True,montermini,Italian,pacific,21,21,0,0,21,0,0,12,5.200000000000003,31
+5016,1995,6,villeneuve,True,False,False,False,True,inoue,Japanese,footwork,22,9,0,0,0,0,0,10,5.299999999999997,31
+5020,1995,6,villeneuve,True,False,False,False,True,moreno,Brazilian,forti,23,13,0,0,0,0,0,13,6.299999999999997,36
+5026,1995,6,villeneuve,True,False,False,False,True,diniz,Brazilian,forti,24,19,0,0,22,0,0,13,7.299999999999997,25

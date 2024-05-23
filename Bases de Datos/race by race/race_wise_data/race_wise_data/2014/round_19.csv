@@ -1,0 +1,19 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+12484,2014,19,yas_marina,True,False,False,False,False,rosberg,German,mercedes,1,14,317,5,2,651,15,1,0.0,29
+12473,2014,19,yas_marina,True,False,False,False,False,hamilton,British,mercedes,2,1,334,10,1,651,15,1,0.4000000000000057,29
+12475,2014,19,yas_marina,True,False,False,False,False,bottas,Finnish,williams,3,3,156,0,6,254,0,3,0.5,25
+12474,2014,19,yas_marina,True,False,False,False,False,massa,Brazilian,williams,4,2,98,0,8,254,0,3,0.5999999999999943,33
+12490,2014,19,yas_marina,True,False,False,False,False,kvyat,Russian,toro_rosso,5,20,8,0,15,30,0,7,1.4000000000000057,20
+12476,2014,19,yas_marina,True,False,False,False,False,button,British,mclaren,6,5,106,0,7,161,0,5,1.5,34
+12480,2014,19,yas_marina,True,False,False,False,False,raikkonen,Finnish,ferrari,7,10,53,0,11,210,0,4,1.7000000000000028,35
+12479,2014,19,yas_marina,True,False,False,False,False,alonso,Spanish,ferrari,8,9,157,0,5,210,0,4,2.4000000000000057,33
+12481,2014,19,yas_marina,True,False,False,False,False,kevin_magnussen,Danish,mclaren,9,11,55,0,10,161,0,5,1.7000000000000028,22
+12482,2014,19,yas_marina,True,False,False,False,False,vergne,French,toro_rosso,10,12,22,0,13,30,0,7,1.7000000000000028,24
+12478,2014,19,yas_marina,True,False,False,False,False,perez,Mexican,force_india,11,7,47,0,12,127,0,6,1.7000000000000028,24
+12477,2014,19,yas_marina,True,False,False,False,False,hulkenberg,German,force_india,12,6,80,0,9,127,0,6,1.9000000000000057,27
+12486,2014,19,yas_marina,True,False,False,False,False,sutil,German,sauber,13,16,0,0,18,0,0,10,2.5999999999999943,31
+12485,2014,19,yas_marina,True,False,False,False,False,gutierrez,Mexican,sauber,14,15,0,0,20,0,0,10,2.299999999999997,23
+12489,2014,19,yas_marina,True,False,False,False,False,maldonado,Venezuelan,lotus_f1,15,19,2,0,16,10,0,8,2.4000000000000057,29
+12488,2014,19,yas_marina,True,False,False,False,False,kobayashi,Japanese,caterham,16,18,0,0,22,0,0,11,4.0,28
+12487,2014,19,yas_marina,True,False,False,False,False,stevens,British,caterham,17,17,0,0,0,0,0,11,4.599999999999994,23
+12483,2014,19,yas_marina,True,False,False,False,False,grosjean,French,lotus_f1,18,13,8,0,14,10,0,8,2.299999999999997,28

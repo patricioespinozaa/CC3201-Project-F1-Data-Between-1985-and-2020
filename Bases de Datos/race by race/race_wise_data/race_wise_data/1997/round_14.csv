@@ -1,0 +1,22 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+5908,1997,14,osterreichring,True,False,False,False,False,villeneuve,Canadian,williams,1,1,57,5,2,84,6,2,0.0,26
+5928,1997,14,osterreichring,True,False,False,False,False,hakkinen,Finnish,mclaren,2,21,14,0,10,38,2,4,0.1000000000000085,28
+5922,1997,14,osterreichring,True,False,False,False,False,trulli,Italian,prost,3,15,3,0,16,20,0,6,0.2000000000000028,23
+5910,1997,14,osterreichring,True,False,False,False,False,frentzen,German,williams,4,3,27,1,4,84,6,2,0.4000000000000057,30
+5921,1997,14,osterreichring,True,False,False,False,False,barrichello,Brazilian,stewart,5,14,6,0,14,6,0,9,0.4000000000000057,25
+5923,1997,14,osterreichring,True,False,False,False,False,magnussen,Danish,stewart,6,16,0,0,21,6,0,9,0.6000000000000085,24
+5914,1997,14,osterreichring,True,False,False,False,False,damon_hill,British,arrows,7,7,7,0,13,7,0,8,0.7000000000000028,37
+5926,1997,14,osterreichring,True,False,False,False,False,irvine,British,ferrari,8,19,18,0,7,85,4,1,0.7999999999999972,31
+5913,1997,14,osterreichring,True,False,False,False,False,michael_schumacher,German,ferrari,9,6,67,4,1,85,4,1,0.7999999999999972,28
+5909,1997,14,osterreichring,True,False,False,False,False,coulthard,British,mclaren,10,2,24,2,5,38,2,4,0.7999999999999972,26
+5912,1997,14,osterreichring,True,False,False,False,False,ralf_schumacher,German,jordan,11,5,11,0,12,28,0,5,0.9000000000000057,22
+5915,1997,14,osterreichring,True,False,False,False,False,herbert,British,sauber,12,8,14,0,11,15,0,7,0.9000000000000057,33
+5916,1997,14,osterreichring,True,False,False,False,False,morbidelli,Italian,sauber,13,9,0,0,24,15,0,7,1.0,29
+5911,1997,14,osterreichring,True,False,False,False,False,fisichella,Italian,jordan,14,4,17,0,8,28,0,5,1.0,24
+5927,1997,14,osterreichring,True,False,False,False,False,alesi,French,benetton,15,20,28,0,3,53,1,3,1.1000000000000083,33
+5924,1997,14,osterreichring,True,False,False,False,False,nakano,Japanese,prost,16,17,2,0,18,20,0,6,1.2999999999999972,26
+5920,1997,14,osterreichring,True,False,False,False,False,diniz,Brazilian,arrows,17,13,0,0,20,7,0,8,1.2999999999999972,27
+5917,1997,14,osterreichring,True,False,False,False,False,berger,Austrian,benetton,18,10,21,1,6,53,1,3,1.2999999999999972,38
+5918,1997,14,osterreichring,True,False,False,False,False,katayama,Japanese,minardi,19,11,0,0,25,0,0,11,1.7000000000000028,34
+5919,1997,14,osterreichring,True,False,False,False,False,verstappen,Dutch,tyrrell,20,12,0,0,22,2,0,10,1.9000000000000057,25
+5925,1997,14,osterreichring,True,False,False,False,False,salo,Finnish,tyrrell,21,18,2,0,17,2,0,10,3.9000000000000057,30

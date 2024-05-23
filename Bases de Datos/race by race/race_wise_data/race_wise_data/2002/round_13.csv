@@ -1,0 +1,21 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+7691,2002,13,hungaroring,True,False,False,False,False,barrichello,Brazilian,ferrari,1,1,35,1,4,141,10,1,0.0,30
+7692,2002,13,hungaroring,True,False,False,False,False,michael_schumacher,German,ferrari,2,2,106,9,1,141,10,1,0.1000000000000085,33
+7693,2002,13,hungaroring,True,False,False,False,False,ralf_schumacher,German,williams,3,3,36,1,3,76,1,2,0.4000000000000057,27
+7701,2002,13,hungaroring,True,False,False,False,False,montoya,Colombian,williams,4,11,40,0,2,76,1,2,1.4000000000000057,26
+7696,2002,13,hungaroring,True,False,False,False,False,fisichella,Italian,jordan,5,6,6,0,9,6,0,6,1.6000000000000083,29
+7698,2002,13,hungaroring,True,False,False,False,False,trulli,Italian,renault,6,8,4,0,10,15,0,4,1.7000000000000028,28
+7697,2002,13,hungaroring,True,False,False,False,False,massa,Brazilian,sauber,7,7,4,0,11,11,0,5,1.7000000000000028,21
+7699,2002,13,hungaroring,True,False,False,False,False,heidfeld,German,sauber,8,9,7,0,8,11,0,5,1.7999999999999972,25
+7708,2002,13,hungaroring,True,False,False,False,False,button,British,renault,9,18,11,0,7,15,0,4,1.9000000000000057,22
+7695,2002,13,hungaroring,True,False,False,False,False,coulthard,British,mclaren,10,5,32,1,5,49,1,3,1.9000000000000057,31
+7694,2002,13,hungaroring,True,False,False,False,False,raikkonen,Finnish,mclaren,11,4,17,0,6,49,1,3,1.9000000000000057,22
+7702,2002,13,hungaroring,True,False,False,False,False,panis,French,bar,12,12,2,0,14,5,0,7,2.299999999999997,35
+7710,2002,13,hungaroring,True,False,False,False,False,villeneuve,Canadian,bar,13,20,3,0,12,5,0,7,2.299999999999997,31
+7700,2002,13,hungaroring,True,False,False,False,False,sato,Japanese,jordan,14,10,0,0,21,6,0,6,2.5,25
+7703,2002,13,hungaroring,True,False,False,False,False,rosa,Spanish,jaguar,15,13,0,0,20,3,0,8,2.6000000000000085,31
+7709,2002,13,hungaroring,True,False,False,False,False,irvine,British,jaguar,16,19,3,0,13,3,0,8,3.1000000000000085,36
+7705,2002,13,hungaroring,True,False,False,False,False,salo,Finnish,toyota,17,15,2,0,16,2,0,10,3.200000000000003,35
+7704,2002,13,hungaroring,True,False,False,False,False,mcnish,British,toyota,18,14,0,0,18,2,0,10,3.299999999999997,32
+7706,2002,13,hungaroring,True,False,False,False,False,webber,Australian,minardi,19,16,2,0,15,2,0,9,4.1000000000000085,25
+7707,2002,13,hungaroring,True,False,False,False,False,davidson,British,minardi,20,17,0,0,0,2,0,9,4.700000000000003,23

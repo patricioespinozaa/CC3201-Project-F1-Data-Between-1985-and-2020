@@ -1,0 +1,22 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+11875,2013,10,hungaroring,True,False,False,False,False,hamilton,British,mercedes,1,1,99,0,4,183,2,2,0.0,28
+11877,2013,10,hungaroring,True,False,False,False,False,vettel,German,red_bull,2,3,157,4,1,250,4,1,0.0,26
+11880,2013,10,hungaroring,True,False,False,False,False,grosjean,French,lotus_f1,3,6,41,0,8,157,1,4,0.1999999999999886,27
+11893,2013,10,hungaroring,True,False,False,False,False,rosberg,German,mercedes,4,19,84,2,6,183,2,2,0.2999999999999971,28
+11879,2013,10,hungaroring,True,False,False,False,False,alonso,Spanish,ferrari,5,5,123,2,2,180,2,3,0.3999999999999915,31
+11876,2013,10,hungaroring,True,False,False,False,False,raikkonen,Finnish,lotus_f1,6,2,116,1,3,157,1,4,0.5,33
+11882,2013,10,hungaroring,True,False,False,False,False,massa,Brazilian,ferrari,7,8,57,0,7,180,2,3,0.5,32
+11887,2013,10,hungaroring,True,False,False,False,False,ricciardo,Australian,toro_rosso,8,13,11,0,14,24,0,7,1.1999999999999886,24
+11883,2013,10,hungaroring,True,False,False,False,False,perez,Mexican,mclaren,9,9,16,0,12,49,0,6,3.0,23
+11896,2013,10,hungaroring,True,False,False,False,False,sutil,German,force_india,11,22,23,0,11,59,0,5,1.1999999999999886,30
+11885,2013,10,hungaroring,True,False,False,False,False,hulkenberg,German,sauber,12,11,7,0,15,7,0,8,1.1999999999999886,25
+11881,2013,10,hungaroring,True,False,False,False,False,button,British,mclaren,13,7,33,0,10,49,0,6,1.3999999999999917,33
+11886,2013,10,hungaroring,True,False,False,False,False,vergne,French,toro_rosso,14,12,13,0,13,24,0,7,1.5999999999999943,23
+11884,2013,10,hungaroring,True,False,False,False,False,maldonado,Venezuelan,williams,15,10,0,0,16,0,0,9,1.6999999999999886,28
+11894,2013,10,hungaroring,True,False,False,False,False,bottas,Finnish,williams,16,20,0,0,17,0,0,9,1.7999999999999972,23
+11895,2013,10,hungaroring,True,False,False,False,False,gutierrez,Mexican,sauber,17,21,0,0,18,7,0,8,2.299999999999997,21
+11892,2013,10,hungaroring,True,False,False,False,False,resta,British,force_india,18,18,36,0,9,59,0,5,2.5999999999999943,27
+11889,2013,10,hungaroring,True,False,False,False,False,pic,French,caterham,19,15,0,0,20,0,0,11,3.5999999999999943,23
+11888,2013,10,hungaroring,True,False,False,False,False,garde,Dutch,caterham,20,14,0,0,22,0,0,11,3.899999999999992,28
+11890,2013,10,hungaroring,True,False,False,False,False,jules_bianchi,French,marussia,21,16,0,0,19,0,0,10,4.399999999999992,23
+11891,2013,10,hungaroring,True,False,False,False,False,chilton,British,marussia,22,17,0,0,21,0,0,10,4.599999999999994,22

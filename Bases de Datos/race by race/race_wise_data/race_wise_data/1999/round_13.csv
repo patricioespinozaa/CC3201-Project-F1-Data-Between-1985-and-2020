@@ -1,0 +1,23 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+6618,1999,13,monza,True,False,True,False,False,hakkinen,Finnish,mclaren,1,15,60,4,1,106,6,1,0.0,30
+6604,1999,13,monza,True,False,True,False,False,frentzen,German,jordan,2,1,40,1,4,47,1,3,0.5,32
+6608,1999,13,monza,True,False,True,False,False,coulthard,British,mclaren,3,5,46,2,3,106,6,1,0.7999999999999972,28
+6610,1999,13,monza,True,False,True,False,False,zanardi,Italian,williams,4,7,0,0,19,24,0,4,1.0,32
+6605,1999,13,monza,True,False,True,False,False,ralf_schumacher,German,williams,5,2,24,0,6,24,0,4,1.1999999999999886,24
+6606,1999,13,monza,True,False,True,False,False,salo,Finnish,ferrari,6,3,6,0,10,97,5,2,1.2999999999999972,32
+6607,1999,13,monza,True,False,True,False,False,barrichello,Brazilian,stewart,7,4,12,0,8,14,0,6,1.2999999999999972,27
+6609,1999,13,monza,True,False,True,False,False,irvine,British,ferrari,8,6,59,3,2,97,5,2,1.3999999999999917,33
+6613,1999,13,monza,True,False,True,False,False,damon_hill,British,jordan,9,10,7,0,9,47,1,3,1.5999999999999943,38
+6614,1999,13,monza,True,False,True,False,False,panis,French,prost,10,11,2,0,14,3,0,8,1.5999999999999943,33
+6611,1999,13,monza,True,False,True,False,False,villeneuve,Canadian,bar,11,8,0,0,23,0,0,10,1.7999999999999972,28
+6619,1999,13,monza,True,False,True,False,False,trulli,Italian,prost,12,16,1,0,15,3,0,8,1.8999999999999917,25
+6612,1999,13,monza,True,False,True,False,False,alesi,French,sauber,13,9,1,0,16,4,0,7,2.1999999999999886,35
+6622,1999,13,monza,True,False,True,False,False,wurz,Austrian,benetton,14,19,3,0,11,16,0,5,2.1999999999999886,25
+6615,1999,13,monza,True,False,True,False,False,herbert,British,stewart,15,12,2,0,13,14,0,6,2.1999999999999886,35
+6623,1999,13,monza,True,False,True,False,False,diniz,Brazilian,sauber,16,20,3,0,12,4,0,7,2.1999999999999886,29
+6624,1999,13,monza,True,False,True,False,False,fisichella,Italian,benetton,17,21,13,0,7,16,0,5,2.5,26
+6620,1999,13,monza,True,False,True,False,False,zonta,Brazilian,bar,18,17,0,0,22,0,0,10,2.6999999999999886,23
+6621,1999,13,monza,True,False,True,False,False,badoer,Italian,minardi,19,18,0,0,21,0,0,11,2.8999999999999915,28
+6625,1999,13,monza,True,False,True,False,False,gene,Spanish,minardi,20,22,0,0,20,0,0,11,3.299999999999997,25
+6617,1999,13,monza,True,False,True,False,False,rosa,Spanish,arrows,21,14,1,0,17,1,0,9,4.0,28
+6616,1999,13,monza,True,False,True,False,False,takagi,Japanese,arrows,22,13,0,0,18,1,0,9,4.099999999999994,25

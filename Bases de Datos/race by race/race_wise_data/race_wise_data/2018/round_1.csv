@@ -1,0 +1,20 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+13712,2018,1,albert_park,True,False,False,False,False,hamilton,British,mercedes,1,2,0,0,0,0,0,0,0.0,33
+13713,2018,1,albert_park,True,False,False,False,False,raikkonen,Finnish,ferrari,2,3,0,0,0,0,0,0,0.5999999999999943,38
+13711,2018,1,albert_park,True,False,False,False,False,vettel,German,ferrari,3,1,0,0,0,0,0,0,0.5999999999999943,30
+13716,2018,1,albert_park,True,False,False,False,False,max_verstappen,Dutch,red_bull,4,6,0,0,0,0,0,0,0.7000000000000028,20
+13727,2018,1,albert_park,True,False,False,False,False,kevin_magnussen,Danish,haas,5,17,0,0,0,0,0,0,2.0,25
+13726,2018,1,albert_park,True,False,False,False,False,grosjean,French,haas,6,16,0,0,0,0,0,0,2.0999999999999943,31
+13717,2018,1,albert_park,True,False,False,False,False,hulkenberg,German,renault,7,7,0,0,0,0,0,0,2.299999999999997,30
+13714,2018,1,albert_park,True,False,False,False,False,ricciardo,Australian,red_bull,8,4,0,0,0,0,0,0,1.0,28
+13720,2018,1,albert_park,True,False,False,False,False,sainz,Spanish,renault,9,10,0,0,0,0,0,0,2.3999999999999915,23
+13715,2018,1,albert_park,True,False,False,False,False,alonso,Spanish,mclaren,10,5,0,0,0,0,0,0,2.5,36
+13719,2018,1,albert_park,True,False,False,False,False,vandoorne,Belgian,mclaren,11,9,0,0,0,0,0,0,2.700000000000003,25
+13721,2018,1,albert_park,True,False,False,False,False,perez,Mexican,force_india,12,11,0,0,0,0,0,0,2.799999999999997,28
+13724,2018,1,albert_park,True,False,False,False,False,stroll,Canadian,williams,13,14,0,0,0,0,0,0,3.0,19
+13722,2018,1,albert_park,True,False,False,False,False,ocon,French,force_india,14,12,0,0,0,0,0,0,3.5999999999999943,21
+13725,2018,1,albert_park,True,False,False,False,False,brendon_hartley,New Zealander,toro_rosso,16,15,0,0,0,0,0,0,3.299999999999997,28
+13729,2018,1,albert_park,True,False,False,False,False,ericsson,Swedish,sauber,17,19,0,0,0,0,0,0,3.3999999999999915,27
+13723,2018,1,albert_park,True,False,False,False,False,leclerc,Monegasque,sauber,18,13,0,0,0,0,0,0,3.3999999999999915,20
+13730,2018,1,albert_park,True,False,False,False,False,sirotkin,Russian,williams,19,20,0,0,0,0,0,0,3.700000000000003,22
+13728,2018,1,albert_park,True,False,False,False,False,gasly,French,toro_rosso,20,18,0,0,0,0,0,0,4.099999999999994,22

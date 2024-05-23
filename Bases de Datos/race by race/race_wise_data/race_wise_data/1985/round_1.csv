@@ -1,0 +1,26 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+774,1985,1,jacarepagua,False,False,True,False,False,alboreto,Italian,ferrari,1,2,0,0,0,0,0,0,0.0,28
+793,1985,1,jacarepagua,False,False,True,False,False,keke_rosberg,Finnish,williams,2,21,0,0,0,0,0,0,0.1000000000000085,36
+775,1985,1,jacarepagua,False,False,True,False,False,angelis,Italian,team_lotus,3,3,0,0,0,0,0,0,0.2999999999999971,27
+787,1985,1,jacarepagua,False,False,True,False,False,senna,Brazilian,team_lotus,4,15,0,0,0,0,0,0,0.6000000000000085,25
+795,1985,1,jacarepagua,False,False,True,False,False,mansell,British,williams,5,23,0,0,0,0,0,0,1.0,31
+773,1985,1,jacarepagua,False,False,True,False,False,prost,French,mclaren,6,1,0,0,0,0,0,0,1.2999999999999972,30
+776,1985,1,jacarepagua,False,False,True,False,False,arnoux,French,ferrari,7,4,0,0,0,0,0,0,1.7999999999999972,36
+797,1985,1,jacarepagua,False,False,True,False,False,piquet,Brazilian,brabham,8,25,0,0,0,0,0,0,2.1000000000000085,32
+790,1985,1,jacarepagua,False,False,True,False,False,lauda,Austrian,mclaren,9,18,0,0,0,0,0,0,2.200000000000003,36
+782,1985,1,jacarepagua,False,False,True,False,False,warwick,British,renault,10,10,0,0,0,0,0,0,2.299999999999997,30
+777,1985,1,jacarepagua,False,False,True,False,False,tambay,French,renault,11,5,0,0,0,0,0,0,2.5,35
+783,1985,1,jacarepagua,False,False,True,False,False,boutsen,Belgian,arrows,12,11,0,0,0,0,0,0,3.200000000000003,27
+791,1985,1,jacarepagua,False,False,True,False,False,cesaris,Italian,ligier,13,19,0,0,0,0,0,0,3.6000000000000085,25
+792,1985,1,jacarepagua,False,False,True,False,False,patrese,Italian,alfa,14,20,0,0,0,0,0,0,4.0,30
+778,1985,1,jacarepagua,False,False,True,False,False,laffite,French,ligier,15,6,0,0,0,0,0,0,4.200000000000003,41
+785,1985,1,jacarepagua,False,False,True,False,False,manfred_winkelhock,German,ram,16,13,0,0,0,0,0,0,4.799999999999997,33
+794,1985,1,jacarepagua,False,False,True,False,False,hesnault,French,brabham,17,22,0,0,0,0,0,0,5.1000000000000085,28
+788,1985,1,jacarepagua,False,False,True,False,False,cheever,American,alfa,18,16,0,0,0,0,0,0,5.299999999999997,27
+786,1985,1,jacarepagua,False,False,True,False,False,berger,Austrian,arrows,19,14,0,0,0,0,0,0,7.0,25
+781,1985,1,jacarepagua,False,False,True,False,False,alliot,French,ram,20,9,0,0,0,0,0,0,7.900000000000006,30
+780,1985,1,jacarepagua,False,False,True,False,False,brundle,British,tyrrell,21,8,0,0,0,0,0,0,8.400000000000006,25
+784,1985,1,jacarepagua,False,False,True,False,False,ghinzani,Italian,osella,22,12,0,0,0,0,0,0,8.900000000000006,33
+779,1985,1,jacarepagua,False,False,True,False,False,johansson,Swedish,tyrrell,23,7,0,0,0,0,0,0,9.5,28
+796,1985,1,jacarepagua,False,False,True,False,False,baldi,Italian,spirit,24,24,0,0,0,0,0,0,13.5,31
+789,1985,1,jacarepagua,False,False,True,False,False,martini,Italian,minardi,25,17,0,0,0,0,0,0,16.200000000000003,23

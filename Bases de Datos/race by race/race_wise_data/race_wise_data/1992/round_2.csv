@@ -1,0 +1,27 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+3672,1992,2,rodriguez,False,False,False,False,False,mansell,British,williams,1,1,10,1,1,16,1,1,0.0,38
+3673,1992,2,rodriguez,False,False,False,False,False,patrese,Italian,williams,2,2,6,0,2,16,1,1,0.1000000000000085,37
+3674,1992,2,rodriguez,False,False,False,False,False,michael_schumacher,German,benetton,3,3,3,0,4,3,0,3,1.0,23
+3685,1992,2,rodriguez,False,False,False,False,False,brundle,British,benetton,4,14,0,0,0,3,0,3,2.299999999999997,32
+3675,1992,2,rodriguez,False,False,False,False,False,berger,Austrian,mclaren,5,4,2,0,5,6,0,2,2.299999999999997,32
+3693,1992,2,rodriguez,False,False,False,False,False,senna,Brazilian,mclaren,6,22,4,0,3,6,0,2,2.5,32
+3679,1992,2,rodriguez,False,False,False,False,False,lehto,Finnish,dallara,7,8,0,0,0,0,0,0,2.799999999999997,26
+3695,1992,2,rodriguez,False,False,False,False,False,gugelmin,Brazilian,jordan,8,24,0,0,11,0,0,7,3.1000000000000085,28
+3688,1992,2,rodriguez,False,False,False,False,False,martini,Italian,dallara,9,17,0,0,0,0,0,0,3.1000000000000085,30
+3689,1992,2,rodriguez,False,False,False,False,False,alesi,French,ferrari,10,18,0,0,0,0,0,0,3.1000000000000085,27
+3676,1992,2,rodriguez,False,False,False,False,False,cesaris,Italian,tyrrell,11,5,0,0,0,0,0,0,3.1000000000000085,32
+3678,1992,2,rodriguez,False,False,False,False,False,herbert,British,team_lotus,12,7,1,0,6,1,0,4,3.200000000000003,27
+3682,1992,2,rodriguez,False,False,False,False,False,gachot,Belgian,larrousse,13,11,0,0,0,0,0,8,3.4000000000000057,29
+3686,1992,2,rodriguez,False,False,False,False,False,tarquini,Italian,fondmetal,14,15,0,0,0,0,0,0,3.5,30
+3691,1992,2,rodriguez,False,False,False,False,False,modena,Italian,jordan,15,20,0,0,0,0,0,7,3.700000000000003,28
+3692,1992,2,rodriguez,False,False,False,False,False,grouillard,French,tyrrell,16,21,0,0,0,0,0,0,3.700000000000003,33
+3694,1992,2,rodriguez,False,False,False,False,False,fittipaldi,Brazilian,minardi,17,23,0,0,0,0,0,0,3.700000000000003,21
+3677,1992,2,rodriguez,False,False,False,False,False,hakkinen,Finnish,team_lotus,18,6,0,0,9,1,0,4,3.799999999999997,23
+3696,1992,2,rodriguez,False,False,False,False,False,wendlinger,Austrian,march,19,25,0,0,0,0,0,0,3.9000000000000057,23
+3697,1992,2,rodriguez,False,False,False,False,False,capelli,Italian,ferrari,20,26,0,0,0,0,0,0,3.9000000000000057,28
+3690,1992,2,rodriguez,False,False,False,False,False,morbidelli,Italian,minardi,21,19,0,0,0,0,0,0,3.9000000000000057,24
+3681,1992,2,rodriguez,False,False,False,False,False,boutsen,Belgian,ligier,22,10,0,0,0,0,0,5,4.1000000000000085,34
+3687,1992,2,rodriguez,False,False,False,False,False,chiesa,Swiss,fondmetal,23,16,0,0,0,0,0,0,4.5,27
+3683,1992,2,rodriguez,False,False,False,False,False,katayama,Japanese,larrousse,24,12,0,0,12,0,0,8,4.6000000000000085,28
+3684,1992,2,rodriguez,False,False,False,False,False,alboreto,Italian,footwork,25,13,0,0,10,0,0,6,4.799999999999997,35
+3680,1992,2,rodriguez,False,False,False,False,False,comas,French,ligier,26,9,0,0,7,0,0,5,4.799999999999997,28

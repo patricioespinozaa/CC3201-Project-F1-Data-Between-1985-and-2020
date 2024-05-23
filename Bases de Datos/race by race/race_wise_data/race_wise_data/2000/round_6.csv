@@ -1,0 +1,22 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+6802,2000,6,nurburgring,False,False,True,True,False,coulthard,British,mclaren,1,3,20,1,3,42,2,2,0.0,29
+6800,2000,6,nurburgring,False,False,True,True,False,michael_schumacher,German,ferrari,2,1,36,3,1,49,3,1,0.2000000000000028,31
+6801,2000,6,nurburgring,False,False,True,True,False,hakkinen,Finnish,mclaren,3,2,22,1,2,42,2,2,0.2999999999999971,31
+6803,2000,6,nurburgring,False,False,True,True,False,barrichello,Brazilian,ferrari,4,4,13,0,4,49,3,1,0.7000000000000028,27
+6817,2000,6,nurburgring,False,False,True,True,False,ralf_schumacher,German,williams,5,18,12,0,5,15,0,3,1.0,24
+6820,2000,6,nurburgring,False,False,True,True,False,trulli,Italian,jordan,6,21,4,0,9,9,0,4,1.0999999999999943,25
+6804,2000,6,nurburgring,False,False,True,True,False,fisichella,Italian,benetton,7,5,8,0,6,8,0,5,1.2000000000000028,27
+6815,2000,6,nurburgring,False,False,True,True,False,irvine,British,jaguar,8,16,0,0,14,0,0,9,1.2000000000000028,34
+6814,2000,6,nurburgring,False,False,True,True,False,villeneuve,Canadian,bar,9,15,5,0,8,6,0,6,1.2000000000000028,29
+6819,2000,6,nurburgring,False,False,True,True,False,frentzen,German,jordan,10,20,5,0,7,9,0,4,1.2999999999999972,33
+6809,2000,6,nurburgring,False,False,True,True,False,button,British,williams,11,10,3,0,10,15,0,3,1.4000000000000057,20
+6805,2000,6,nurburgring,False,False,True,True,False,rosa,Spanish,arrows,12,6,0,0,18,0,0,8,1.5,29
+6816,2000,6,nurburgring,False,False,True,True,False,verstappen,Dutch,arrows,13,17,0,0,15,0,0,8,1.7000000000000028,28
+6811,2000,6,nurburgring,False,False,True,True,False,wurz,Austrian,benetton,14,12,0,0,13,8,0,5,1.9000000000000057,26
+6806,2000,6,nurburgring,False,False,True,True,False,diniz,Brazilian,sauber,15,7,0,0,16,1,0,7,1.9000000000000057,29
+6810,2000,6,nurburgring,False,False,True,True,False,herbert,British,jaguar,16,11,0,0,20,0,0,9,2.0999999999999943,35
+6808,2000,6,nurburgring,False,False,True,True,False,alesi,French,prost,17,9,0,0,22,0,0,11,2.200000000000003,35
+6812,2000,6,nurburgring,False,False,True,True,False,zonta,Brazilian,bar,18,13,1,0,12,6,0,6,2.299999999999997,24
+6818,2000,6,nurburgring,False,False,True,True,False,salo,Finnish,sauber,19,19,1,0,11,1,0,7,2.299999999999997,33
+6813,2000,6,nurburgring,False,False,True,True,False,gene,Spanish,minardi,20,14,0,0,17,0,0,10,2.700000000000003,26
+6807,2000,6,nurburgring,False,False,True,True,False,mazzacane,Argentine,minardi,21,8,0,0,21,0,0,10,3.5,25

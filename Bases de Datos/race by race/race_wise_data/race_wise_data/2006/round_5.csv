@@ -1,0 +1,23 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+8931,2006,5,nurburgring,False,False,False,False,False,alonso,Spanish,renault,1,2,36,2,1,51,3,1,0.0,24
+8930,2006,5,nurburgring,False,False,False,False,False,michael_schumacher,German,ferrari,2,1,21,1,2,30,1,3,0.2000000000000028,37
+8932,2006,5,nurburgring,False,False,False,False,False,massa,Brazilian,ferrari,3,3,9,0,7,30,1,3,0.6000000000000085,25
+8934,2006,5,nurburgring,False,False,False,False,False,barrichello,Brazilian,honda,4,5,2,0,12,15,0,4,1.0,33
+8933,2006,5,nurburgring,False,False,False,False,False,raikkonen,Finnish,mclaren,5,4,18,0,3,33,0,2,1.1000000000000083,26
+8947,2006,5,nurburgring,False,False,False,False,False,button,British,honda,6,18,13,0,6,15,0,4,1.1000000000000083,26
+8938,2006,5,nurburgring,False,False,False,False,False,trulli,Italian,toyota,7,9,0,0,17,7,0,7,1.6000000000000083,31
+8944,2006,5,nurburgring,False,False,False,False,False,montoya,Colombian,mclaren,8,15,15,0,5,33,0,2,2.1000000000000085,30
+8937,2006,5,nurburgring,False,False,False,False,False,villeneuve,Canadian,bmw_sauber,9,8,5,0,11,10,0,5,7.200000000000003,35
+8943,2006,5,nurburgring,False,False,False,False,False,ralf_schumacher,German,toyota,10,14,7,0,8,7,0,7,1.1000000000000083,30
+8935,2006,5,nurburgring,False,False,False,False,False,fisichella,Italian,renault,11,6,15,1,4,51,3,1,1.4000000000000057,33
+8950,2006,5,nurburgring,False,False,False,False,False,coulthard,British,red_bull,12,21,1,0,14,2,0,8,1.4000000000000057,35
+8939,2006,5,nurburgring,False,False,False,False,False,heidfeld,German,bmw_sauber,13,10,5,0,10,10,0,5,1.6000000000000083,28
+8951,2006,5,nurburgring,False,False,False,False,False,liuzzi,Italian,toro_rosso,14,22,0,0,18,0,0,9,1.9000000000000057,25
+8948,2006,5,nurburgring,False,False,False,False,False,klien,Austrian,red_bull,15,19,1,0,15,2,0,8,3.1000000000000085,23
+8942,2006,5,nurburgring,False,False,False,False,False,albers,Dutch,mf1,16,13,0,0,19,0,0,10,3.1000000000000085,27
+8940,2006,5,nurburgring,False,False,False,False,False,speed,American,toro_rosso,17,11,0,0,16,0,0,9,3.200000000000003,23
+8941,2006,5,nurburgring,False,False,False,False,False,monteiro,Portuguese,mf1,18,12,0,0,21,0,0,10,3.9000000000000057,29
+8949,2006,5,nurburgring,False,False,False,False,False,webber,Australian,williams,19,20,6,0,9,8,0,6,3.6000000000000085,29
+8945,2006,5,nurburgring,False,False,False,False,False,sato,Japanese,super_aguri,20,16,0,0,20,0,0,11,5.400000000000006,29
+8946,2006,5,nurburgring,False,False,False,False,False,montagny,French,super_aguri,21,17,0,0,0,0,0,11,16.700000000000003,28
+8936,2006,5,nurburgring,False,False,False,False,False,rosberg,German,williams,22,7,2,0,13,8,0,6,1.4000000000000057,20

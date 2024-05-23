@@ -1,0 +1,23 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+6269,1998,13,spa,False,True,False,True,False,hakkinen,Finnish,mclaren,1,16,77,6,1,125,7,1,0.0,29
+6260,1998,13,spa,False,True,False,True,False,coulthard,British,mclaren,2,7,48,1,3,125,7,1,0.0999999999999943,27
+6254,1998,13,spa,False,True,False,True,False,damon_hill,British,jordan,3,1,6,0,9,10,0,5,1.0,37
+6263,1998,13,spa,False,True,False,True,False,michael_schumacher,German,ferrari,4,10,70,5,2,102,5,2,1.2999999999999972,29
+6264,1998,13,spa,False,True,False,True,False,irvine,British,ferrari,5,11,32,0,4,102,5,2,1.5,32
+6266,1998,13,spa,False,True,False,True,False,villeneuve,Canadian,williams,6,13,20,0,5,30,0,4,1.5,27
+6262,1998,13,spa,False,True,False,True,False,fisichella,Italian,benetton,7,9,15,0,7,32,0,3,1.7999999999999972,25
+6255,1998,13,spa,False,True,False,True,False,ralf_schumacher,German,jordan,8,2,4,0,11,10,0,5,1.7999999999999972,23
+6257,1998,13,spa,False,True,False,True,False,frentzen,German,williams,9,4,10,0,8,30,0,4,2.0,31
+6256,1998,13,spa,False,True,False,True,False,alesi,French,sauber,10,3,3,0,13,4,0,8,2.5,34
+6270,1998,13,spa,False,True,False,True,False,wurz,Austrian,benetton,11,17,17,0,6,32,0,3,2.8999999999999915,24
+6271,1998,13,spa,False,True,False,True,False,herbert,British,sauber,12,18,1,0,14,4,0,8,3.200000000000003,34
+6259,1998,13,spa,False,True,False,True,False,trulli,Italian,prost,13,6,0,0,20,0,0,11,3.899999999999992,24
+6273,1998,13,spa,False,True,False,True,False,panis,French,prost,14,20,0,0,21,0,0,11,4.0,31
+6272,1998,13,spa,False,True,False,True,False,barrichello,Brazilian,stewart,15,19,4,0,10,5,0,6,4.099999999999994,26
+6258,1998,13,spa,False,True,False,True,False,diniz,Brazilian,arrows,16,5,1,0,15,4,0,7,4.299999999999997,28
+6268,1998,13,spa,False,True,False,True,False,verstappen,Dutch,stewart,17,15,0,0,23,5,0,6,4.399999999999992,26
+6274,1998,13,spa,False,True,False,True,False,salo,Finnish,arrows,18,21,3,0,12,4,0,7,4.5,31
+6267,1998,13,spa,False,True,False,True,False,takagi,Japanese,tyrrell,19,14,0,0,22,0,0,10,4.5,24
+6275,1998,13,spa,False,True,False,True,False,rosset,Brazilian,tyrrell,20,22,0,0,18,0,0,10,6.099999999999994,30
+6261,1998,13,spa,False,True,False,True,False,nakano,Japanese,minardi,21,8,0,0,17,0,0,9,6.399999999999992,27
+6265,1998,13,spa,False,True,False,True,False,tuero,Argentine,minardi,22,12,0,0,19,0,0,9,6.799999999999997,20

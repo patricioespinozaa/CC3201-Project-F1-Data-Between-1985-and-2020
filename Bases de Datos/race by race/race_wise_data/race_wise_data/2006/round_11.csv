@@ -1,0 +1,23 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+9060,2006,11,magny_cours,True,False,False,False,False,michael_schumacher,German,ferrari,1,1,69,3,2,105,3,2,0.0,37
+9062,2006,11,magny_cours,True,False,False,False,False,massa,Brazilian,ferrari,2,3,36,0,5,105,3,2,0.0,25
+9061,2006,11,magny_cours,True,False,False,False,False,alonso,Spanish,renault,3,2,88,6,1,131,7,1,0.2999999999999971,24
+9078,2006,11,magny_cours,True,False,False,False,False,trulli,Italian,toyota,4,19,8,0,12,16,0,6,0.5,32
+9063,2006,11,magny_cours,True,False,False,False,False,ralf_schumacher,German,toyota,5,4,8,0,11,16,0,6,0.5999999999999943,31
+9064,2006,11,magny_cours,True,False,False,False,False,raikkonen,Finnish,mclaren,6,5,39,0,4,65,0,3,0.7999999999999972,26
+9065,2006,11,magny_cours,True,False,False,False,False,fisichella,Italian,renault,7,6,43,1,3,131,7,1,0.7999999999999972,33
+9066,2006,11,magny_cours,True,False,False,False,False,rosa,Spanish,mclaren,8,7,0,0,0,65,0,3,1.0999999999999943,35
+9068,2006,11,magny_cours,True,False,False,False,False,coulthard,British,red_bull,9,9,10,0,10,11,0,7,3.200000000000003,35
+9077,2006,11,magny_cours,True,False,False,False,False,webber,Australian,williams,10,18,6,0,14,10,0,8,0.5999999999999943,29
+9067,2006,11,magny_cours,True,False,False,False,False,heidfeld,German,bmw_sauber,11,8,12,0,9,19,0,5,0.7999999999999972,29
+9071,2006,11,magny_cours,True,False,False,False,False,klien,Austrian,red_bull,12,12,1,0,17,11,0,7,0.9000000000000057,23
+9079,2006,11,magny_cours,True,False,False,False,False,barrichello,Brazilian,honda,13,20,16,0,8,32,0,4,1.5,34
+9069,2006,11,magny_cours,True,False,False,False,False,speed,American,toro_rosso,14,10,0,0,18,1,0,9,1.5999999999999943,23
+9074,2006,11,magny_cours,True,False,False,False,False,albers,Dutch,mf1,15,15,0,0,19,0,0,10,1.5999999999999943,27
+9070,2006,11,magny_cours,True,False,False,False,False,villeneuve,Canadian,bmw_sauber,16,11,7,0,13,19,0,5,1.7999999999999972,35
+9076,2006,11,magny_cours,True,False,False,False,False,button,British,honda,17,17,16,0,7,32,0,4,2.0,26
+9073,2006,11,magny_cours,True,False,False,False,False,rosberg,German,williams,18,14,4,0,15,10,0,8,2.0999999999999943,21
+9080,2006,11,magny_cours,True,False,False,False,False,monteiro,Portuguese,mf1,19,21,0,0,20,0,0,10,2.799999999999997,29
+9075,2006,11,magny_cours,True,False,False,False,False,montagny,French,super_aguri,20,16,0,0,23,0,0,11,3.0999999999999943,28
+9081,2006,11,magny_cours,True,False,False,False,False,sato,Japanese,super_aguri,21,22,0,0,21,0,0,11,3.299999999999997,29
+9072,2006,11,magny_cours,True,False,False,False,False,liuzzi,Italian,toro_rosso,22,13,1,0,16,1,0,9,1.7000000000000028,25

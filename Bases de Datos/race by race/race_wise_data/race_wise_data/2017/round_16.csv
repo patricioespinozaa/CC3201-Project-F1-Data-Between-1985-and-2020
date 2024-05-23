@@ -1,0 +1,21 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+13612,2017,16,suzuka,True,False,False,False,False,hamilton,British,mercedes,1,1,281,7,1,503,9,1,0.0,32
+13630,2017,16,suzuka,True,False,False,False,False,vettel,German,ferrari,2,19,247,4,2,385,4,2,0.5,30
+13614,2017,16,suzuka,True,False,False,False,False,ricciardo,Australian,red_bull,3,3,177,1,4,270,2,3,1.0,28
+13613,2017,16,suzuka,True,False,False,False,False,max_verstappen,Dutch,red_bull,4,2,93,1,6,270,2,3,1.0,20
+13617,2017,16,suzuka,True,False,False,False,False,ocon,French,force_india,5,6,57,0,8,133,0,4,1.7999999999999972,21
+13615,2017,16,suzuka,True,False,False,False,False,bottas,Finnish,mercedes,6,4,222,2,3,503,9,1,0.4000000000000057,28
+13618,2017,16,suzuka,True,False,False,False,False,perez,Mexican,force_india,7,7,76,0,7,133,0,4,2.0,27
+13621,2017,16,suzuka,True,False,False,False,False,massa,Brazilian,williams,8,10,33,0,11,65,0,5,2.200000000000003,36
+13625,2017,16,suzuka,True,False,False,False,False,vandoorne,Belgian,mclaren,9,14,13,0,14,23,0,9,2.5,25
+13616,2017,16,suzuka,True,False,False,False,False,raikkonen,Finnish,ferrari,10,5,138,0,5,385,4,2,1.2000000000000028,37
+13628,2017,16,suzuka,True,False,False,False,False,hulkenberg,German,renault,11,17,34,0,10,42,0,7,2.6000000000000085,30
+13619,2017,16,suzuka,True,False,False,False,False,kevin_magnussen,Danish,haas,12,8,11,0,15,37,0,8,2.700000000000003,25
+13620,2017,16,suzuka,True,False,False,False,False,grosjean,French,haas,13,9,26,0,13,37,0,8,3.5,31
+13624,2017,16,suzuka,True,False,False,False,False,gasly,French,toro_rosso,14,13,0,0,22,52,0,6,4.0,21
+13627,2017,16,suzuka,True,False,False,False,False,stroll,Canadian,williams,15,16,32,0,12,65,0,5,4.1000000000000085,18
+13629,2017,16,suzuka,True,False,False,False,False,ericsson,Swedish,sauber,16,18,0,0,20,5,0,10,4.299999999999997,27
+13626,2017,16,suzuka,True,False,False,False,False,wehrlein,German,sauber,17,15,5,0,18,5,0,10,4.6000000000000085,22
+13623,2017,16,suzuka,True,False,False,False,False,jolyon_palmer,British,renault,18,12,8,0,17,42,0,7,2.700000000000003,26
+13631,2017,16,suzuka,True,False,False,False,False,sainz,Spanish,toro_rosso,19,20,48,0,9,52,0,6,3.1000000000000085,23
+13622,2017,16,suzuka,True,False,False,False,False,alonso,Spanish,mclaren,20,11,10,0,16,23,0,9,3.4000000000000057,36

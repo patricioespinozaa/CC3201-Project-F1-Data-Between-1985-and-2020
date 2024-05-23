@@ -1,0 +1,21 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+14302,2019,10,silverstone,False,False,False,False,True,bottas,Finnish,mercedes,1,2,166,2,2,363,8,1,0.0,29
+14301,2019,10,silverstone,False,False,False,False,True,hamilton,British,mercedes,2,1,197,6,1,363,8,1,0.0,34
+14303,2019,10,silverstone,False,False,False,False,True,leclerc,Monegasque,ferrari,3,3,105,0,5,228,0,2,0.1000000000000085,21
+14305,2019,10,silverstone,False,False,False,False,True,max_verstappen,Dutch,red_bull,4,5,126,1,3,169,1,3,0.2000000000000028,21
+14304,2019,10,silverstone,False,False,False,False,True,gasly,French,red_bull,5,4,43,0,6,169,1,3,0.5,23
+14316,2019,10,silverstone,False,False,False,False,True,vettel,German,ferrari,6,16,123,0,4,228,0,2,0.7000000000000028,32
+14307,2019,10,silverstone,False,False,False,False,True,ricciardo,Australian,renault,7,7,16,0,10,32,0,5,1.1000000000000083,30
+14311,2019,10,silverstone,False,False,False,False,True,norris,British,mclaren,8,11,22,0,8,52,0,4,1.1000000000000083,19
+14312,2019,10,silverstone,False,False,False,False,True,albon,Thai,toro_rosso,9,12,7,0,15,17,0,8,1.2000000000000028,23
+14310,2019,10,silverstone,False,False,False,False,True,hulkenberg,German,renault,10,10,16,0,11,32,0,5,1.3000000000000114,31
+14318,2019,10,silverstone,False,False,False,False,True,giovinazzi,Italian,alfa,11,18,1,0,18,22,0,6,1.4000000000000057,25
+14308,2019,10,silverstone,False,False,False,False,True,raikkonen,Finnish,alfa,12,8,21,0,9,22,0,6,1.4000000000000057,39
+14306,2019,10,silverstone,False,False,False,False,True,sainz,Spanish,mclaren,13,6,30,0,7,52,0,4,1.5,24
+14319,2019,10,silverstone,False,False,False,False,True,grosjean,French,haas,14,19,2,0,17,16,0,9,1.7000000000000028,33
+14317,2019,10,silverstone,False,False,False,False,True,perez,Mexican,racing_point,15,17,13,0,13,19,0,7,1.8000000000000114,29
+14320,2019,10,silverstone,False,False,False,False,True,kevin_magnussen,Danish,haas,16,20,14,0,12,16,0,9,1.6000000000000083,26
+14309,2019,10,silverstone,False,False,False,False,True,kvyat,Russian,toro_rosso,17,9,10,0,14,17,0,8,1.6000000000000083,25
+14313,2019,10,silverstone,False,False,False,False,True,stroll,Canadian,racing_point,18,13,6,0,16,19,0,7,1.7000000000000028,20
+14314,2019,10,silverstone,False,False,False,False,True,russell,British,williams,19,14,0,0,19,0,0,10,2.700000000000003,21
+14315,2019,10,silverstone,False,False,False,False,True,kubica,Polish,williams,20,15,0,0,20,0,0,10,3.200000000000003,34

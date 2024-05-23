@@ -1,0 +1,19 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+14244,2019,7,villeneuve,False,False,False,False,False,vettel,German,ferrari,1,2,82,0,3,139,0,2,0.0,31
+14243,2019,7,villeneuve,False,False,False,False,False,hamilton,British,mercedes,2,1,137,4,1,257,6,1,0.2000000000000028,34
+14245,2019,7,villeneuve,False,False,False,False,False,leclerc,Monegasque,ferrari,3,3,57,0,5,139,0,2,0.7000000000000028,21
+14248,2019,7,villeneuve,False,False,False,False,False,ricciardo,Australian,renault,4,6,8,0,13,14,0,8,0.8999999999999915,29
+14250,2019,7,villeneuve,False,False,False,False,False,gasly,French,red_bull,5,8,32,0,6,110,0,3,0.8999999999999915,23
+14246,2019,7,villeneuve,False,False,False,False,False,bottas,Finnish,mercedes,6,4,120,2,2,257,6,1,0.8999999999999915,29
+14249,2019,7,villeneuve,False,False,False,False,False,hulkenberg,German,renault,7,7,6,0,15,14,0,8,1.0999999999999943,31
+14261,2019,7,villeneuve,False,False,False,False,False,norris,British,mclaren,8,20,12,0,11,30,0,4,1.7000000000000028,19
+14247,2019,7,villeneuve,False,False,False,False,False,max_verstappen,Dutch,red_bull,9,5,78,0,4,110,0,3,1.5999999999999943,21
+14252,2019,7,villeneuve,False,False,False,False,False,kvyat,Russian,toro_rosso,10,10,9,0,12,16,0,7,1.7000000000000028,25
+14253,2019,7,villeneuve,False,False,False,False,False,sainz,Spanish,mclaren,11,11,18,0,7,30,0,4,3.799999999999997,24
+14255,2019,7,villeneuve,False,False,False,False,False,giovinazzi,Italian,alfa,12,13,0,0,18,13,0,9,1.8999999999999917,25
+14260,2019,7,villeneuve,False,False,False,False,False,albon,Thai,toro_rosso,13,19,7,0,14,16,0,7,2.0,23
+14254,2019,7,villeneuve,False,False,False,False,False,perez,Mexican,racing_point,15,12,13,0,9,17,0,5,2.0,29
+14257,2019,7,villeneuve,False,False,False,False,False,raikkonen,Finnish,alfa,16,15,13,0,10,13,0,9,2.0,39
+14251,2019,7,villeneuve,False,False,False,False,False,stroll,Canadian,racing_point,17,9,4,0,16,17,0,5,2.0999999999999943,20
+14258,2019,7,villeneuve,False,False,False,False,False,russell,British,williams,18,16,0,0,19,0,0,10,3.3999999999999915,21
+14259,2019,7,villeneuve,False,False,False,False,False,kubica,Polish,williams,19,18,0,0,20,0,0,10,4.200000000000003,34

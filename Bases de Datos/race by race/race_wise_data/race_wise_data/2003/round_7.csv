@@ -1,0 +1,20 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+7912,2003,7,monaco,True,False,False,False,False,ralf_schumacher,German,williams,1,4,20,0,6,35,0,4,0.0,27
+7910,2003,7,monaco,True,False,False,False,False,raikkonen,Finnish,mclaren,2,2,40,1,1,63,2,2,0.0,23
+7909,2003,7,monaco,True,False,False,False,False,montoya,Colombian,williams,3,1,15,0,7,35,0,4,0.1000000000000085,27
+7914,2003,7,monaco,True,False,False,False,False,trulli,Italian,renault,4,6,10,0,9,35,0,3,0.2000000000000028,28
+7911,2003,7,monaco,True,False,False,False,False,michael_schumacher,German,ferrari,5,3,38,3,2,64,3,1,0.2999999999999971,34
+7915,2003,7,monaco,True,False,False,False,False,coulthard,British,mclaren,6,7,23,1,5,63,2,2,0.4000000000000057,32
+7916,2003,7,monaco,True,False,False,False,False,barrichello,Brazilian,ferrari,7,8,26,0,3,64,3,1,0.5,31
+7913,2003,7,monaco,True,False,False,False,False,alonso,Spanish,renault,8,5,25,0,4,35,0,3,0.6000000000000085,21
+7925,2003,7,monaco,True,False,False,False,False,webber,Australian,jaguar,9,17,4,0,12,4,0,8,0.9000000000000057,26
+7917,2003,7,monaco,True,False,False,False,False,matta,Brazilian,toyota,10,9,3,0,14,3,0,9,1.4000000000000057,29
+7922,2003,7,monaco,True,False,False,False,False,villeneuve,Canadian,bar,11,14,3,0,13,11,0,6,1.5,32
+7918,2003,7,monaco,True,False,False,False,False,fisichella,Italian,jordan,12,10,10,1,8,11,1,5,1.7000000000000028,30
+7926,2003,7,monaco,True,False,False,False,False,pizzonia,Brazilian,jaguar,13,18,0,0,17,4,0,8,1.7999999999999972,22
+7919,2003,7,monaco,True,False,False,False,False,heidfeld,German,sauber,14,11,1,0,15,8,0,7,1.9000000000000057,26
+7927,2003,7,monaco,True,False,False,False,False,frentzen,German,sauber,15,19,7,0,11,8,0,7,2.1000000000000085,36
+7920,2003,7,monaco,True,False,False,False,False,firman,Irish,jordan,16,12,1,0,16,11,1,5,2.200000000000003,28
+7921,2003,7,monaco,True,False,False,False,False,panis,French,toyota,17,13,0,0,18,3,0,9,2.200000000000003,36
+7924,2003,7,monaco,True,False,False,False,False,verstappen,Dutch,minardi,18,16,0,0,19,0,0,10,3.4000000000000057,31
+7923,2003,7,monaco,True,False,False,False,False,wilson,British,minardi,19,15,0,0,20,0,0,10,4.799999999999997,24

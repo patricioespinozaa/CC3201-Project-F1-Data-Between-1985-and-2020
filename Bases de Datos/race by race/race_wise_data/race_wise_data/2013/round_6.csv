@@ -1,0 +1,21 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+11787,2013,6,monaco,True,False,False,False,False,rosberg,German,mercedes,1,1,22,0,9,72,0,4,0.0,27
+11790,2013,6,monaco,True,False,False,False,False,hamilton,British,mercedes,2,4,50,0,4,72,0,4,0.0999999999999943,28
+11788,2013,6,monaco,True,False,False,False,False,vettel,German,red_bull,3,2,89,2,1,131,2,1,0.0999999999999943,25
+11789,2013,6,monaco,True,False,False,False,False,webber,Australian,red_bull,4,3,42,0,6,131,2,1,0.2999999999999971,36
+11796,2013,6,monaco,True,False,False,False,False,raikkonen,Finnish,lotus_f1,5,10,85,1,2,111,1,3,0.8999999999999915,33
+11793,2013,6,monaco,True,False,False,False,False,alonso,Spanish,ferrari,6,7,72,2,3,117,2,2,0.8999999999999915,31
+11802,2013,6,monaco,True,False,False,False,False,perez,Mexican,mclaren,7,16,12,0,11,29,0,6,1.1999999999999886,23
+11791,2013,6,monaco,True,False,False,False,False,sutil,German,force_india,8,5,6,0,13,32,0,5,1.5,30
+11792,2013,6,monaco,True,False,False,False,False,button,British,mclaren,9,6,17,0,10,29,0,6,1.6999999999999886,33
+11794,2013,6,monaco,True,False,False,False,False,vergne,French,toro_rosso,10,8,1,0,15,8,0,7,1.7999999999999972,23
+11797,2013,6,monaco,True,False,False,False,False,hulkenberg,German,sauber,11,11,5,0,14,5,0,8,4.399999999999992,25
+11804,2013,6,monaco,True,False,False,False,False,ricciardo,Australian,toro_rosso,12,18,7,0,12,8,0,7,4.399999999999992,23
+11803,2013,6,monaco,True,False,False,False,False,grosjean,French,lotus_f1,13,17,26,0,7,111,1,3,4.699999999999989,27
+11798,2013,6,monaco,True,False,False,False,False,bottas,Finnish,williams,14,12,0,0,17,0,0,9,5.199999999999989,23
+11801,2013,6,monaco,True,False,False,False,False,garde,Dutch,caterham,15,15,0,0,21,0,0,11,5.5,28
+11806,2013,6,monaco,True,False,False,False,False,maldonado,Venezuelan,williams,16,20,0,0,18,0,0,9,7.799999999999997,28
+11795,2013,6,monaco,True,False,False,False,False,resta,British,force_india,17,9,26,0,8,32,0,5,12.399999999999991,27
+11808,2013,6,monaco,True,False,False,False,False,pic,French,caterham,18,22,0,0,20,0,0,11,12.699999999999989,23
+11799,2013,6,monaco,True,False,False,False,False,gutierrez,Mexican,sauber,19,13,0,0,16,5,0,8,13.0,21
+11800,2013,6,monaco,True,False,False,False,False,chilton,British,marussia,22,14,0,0,22,0,0,10,13.399999999999991,22

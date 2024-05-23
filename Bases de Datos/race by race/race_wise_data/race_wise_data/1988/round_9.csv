@@ -1,0 +1,27 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+2193,1988,9,hockenheimring,False,True,False,True,False,senna,Brazilian,mclaren,1,1,48,4,2,102,8,1,0.0,28
+2194,1988,9,hockenheimring,False,True,False,True,False,prost,French,mclaren,2,2,54,4,1,102,8,1,0.3000000000000113,33
+2195,1988,9,hockenheimring,False,True,False,True,False,berger,Austrian,ferrari,3,3,21,0,3,34,0,2,1.5,28
+2196,1988,9,hockenheimring,False,True,False,True,False,alboreto,Italian,ferrari,4,4,13,0,5,34,0,2,2.6000000000000085,31
+2218,1988,9,hockenheimring,False,True,False,True,False,piquet,Brazilian,team_lotus,5,26,15,0,4,16,0,4,3.1000000000000085,35
+2210,1988,9,hockenheimring,False,True,False,True,False,nannini,Italian,benetton,6,18,6,0,9,17,0,3,3.6000000000000085,29
+2197,1988,9,hockenheimring,False,True,False,True,False,capelli,Italian,march,7,5,2,0,13,5,0,7,4.1000000000000085,25
+2201,1988,9,hockenheimring,False,True,False,True,False,satoru_nakajima,Japanese,team_lotus,8,9,1,0,15,16,0,4,4.200000000000003,35
+2198,1988,9,hockenheimring,False,True,False,True,False,boutsen,Belgian,benetton,9,6,11,0,6,17,0,3,4.200000000000003,31
+2200,1988,9,hockenheimring,False,True,False,True,False,gugelmin,Brazilian,march,10,8,3,0,11,5,0,7,4.900000000000006,25
+2215,1988,9,hockenheimring,False,True,False,True,False,mansell,British,williams,11,23,6,0,8,7,0,6,5.300000000000011,34
+2199,1988,9,hockenheimring,False,True,False,True,False,warwick,British,arrows,12,7,9,0,7,10,0,5,5.900000000000006,33
+2213,1988,9,hockenheimring,False,True,False,True,False,patrese,Italian,williams,13,21,1,0,16,7,0,6,6.1000000000000085,34
+2205,1988,9,hockenheimring,False,True,False,True,False,cesaris,Italian,rial,14,13,3,0,12,3,0,9,6.400000000000006,29
+2202,1988,9,hockenheimring,False,True,False,True,False,cheever,American,arrows,15,10,1,0,14,10,0,5,6.6000000000000085,30
+2212,1988,9,hockenheimring,False,True,False,True,False,streiff,French,ags,16,20,0,0,24,0,0,16,7.0,33
+2209,1988,9,hockenheimring,False,True,False,True,False,arnoux,French,ligier,17,17,0,0,0,0,0,14,7.5,40
+2214,1988,9,hockenheimring,False,True,False,True,False,larini,Italian,osella,18,22,0,0,23,0,0,15,7.600000000000008,24
+2207,1988,9,hockenheimring,False,True,False,True,False,caffi,Italian,dallara,19,15,0,0,19,0,0,12,7.700000000000003,24
+2217,1988,9,hockenheimring,False,True,False,True,False,alliot,French,larrousse,20,25,0,0,25,0,0,11,7.700000000000003,33
+2211,1988,9,hockenheimring,False,True,False,True,False,dalmas,French,larrousse,21,19,0,0,18,0,0,11,7.800000000000011,26
+2204,1988,9,hockenheimring,False,True,False,True,False,schneider,German,zakspeed,22,12,0,0,0,0,0,18,8.100000000000009,24
+2206,1988,9,hockenheimring,False,True,False,True,False,ghinzani,Italian,zakspeed,23,14,0,0,29,0,0,18,8.100000000000009,36
+2203,1988,9,hockenheimring,False,True,False,True,False,palmer,British,tyrrell,24,11,5,0,10,5,0,8,8.300000000000011,31
+2216,1988,9,hockenheimring,False,True,False,True,False,modena,Italian,eurobrun,25,24,0,0,27,0,0,17,8.400000000000006,25
+2208,1988,9,hockenheimring,False,True,False,True,False,larrauri,Argentine,eurobrun,26,16,0,0,28,0,0,17,8.400000000000006,33

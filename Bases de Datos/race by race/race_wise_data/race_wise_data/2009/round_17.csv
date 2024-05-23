@@ -1,0 +1,21 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+10298,2009,17,yas_marina,False,False,True,False,False,hamilton,British,mclaren,1,19,49,2,5,71,2,3,0.0,24
+10280,2009,17,yas_marina,False,False,True,False,False,vettel,German,red_bull,2,1,74,3,2,0,5,2,0.6999999999999886,22
+10281,2009,17,yas_marina,False,False,True,False,False,webber,Australian,red_bull,3,2,0,2,4,0,5,2,0.7999999999999972,33
+10283,2009,17,yas_marina,False,False,True,False,False,barrichello,Brazilian,brawn,4,4,72,2,3,161,8,1,0.8999999999999915,37
+10282,2009,17,yas_marina,False,False,True,False,False,button,British,brawn,5,3,89,6,1,161,8,1,1.0,29
+10286,2009,17,yas_marina,False,False,True,False,False,trulli,Italian,toyota,6,7,0,0,8,0,0,5,1.0,35
+10289,2009,17,yas_marina,False,False,True,False,False,kubica,Polish,bmw_sauber,7,10,17,0,13,32,0,7,1.0999999999999943,24
+10284,2009,17,yas_marina,False,False,True,False,False,heidfeld,German,bmw_sauber,8,5,15,0,14,32,0,7,1.3999999999999917,32
+10288,2009,17,yas_marina,False,False,True,False,False,rosberg,German,williams,9,9,0,0,7,0,0,6,1.6999999999999886,24
+10287,2009,17,yas_marina,False,False,True,False,False,buemi,Swiss,toro_rosso,10,8,5,0,17,7,0,10,1.7999999999999972,21
+10291,2009,17,yas_marina,False,False,True,False,False,raikkonen,Finnish,ferrari,11,12,48,1,6,70,1,4,-0.2000000000000028,30
+10285,2009,17,yas_marina,False,False,True,False,False,kobayashi,Japanese,toyota,12,6,0,0,21,0,0,5,-0.1000000000000085,23
+10292,2009,17,yas_marina,False,False,True,False,False,nakajima,Japanese,williams,13,13,0,0,19,0,0,6,0.1999999999999886,24
+10299,2009,17,yas_marina,False,False,True,False,False,alguersuari,Spanish,toro_rosso,14,20,0,0,24,7,0,10,0.7999999999999972,19
+10293,2009,17,yas_marina,False,False,True,False,False,alonso,Spanish,renault,15,14,26,0,9,26,0,8,0.7999999999999972,28
+10294,2009,17,yas_marina,False,False,True,False,False,liuzzi,Italian,force_india,16,15,0,0,22,13,0,9,0.7999999999999972,29
+10296,2009,17,yas_marina,False,False,True,False,False,sutil,German,force_india,17,17,5,0,16,13,0,9,1.0,26
+10290,2009,17,yas_marina,False,False,True,False,False,kovalainen,Finnish,mclaren,18,11,22,0,12,71,2,3,0.0999999999999943,28
+10297,2009,17,yas_marina,False,False,True,False,False,grosjean,French,renault,19,18,0,0,23,26,0,8,1.0999999999999943,23
+10295,2009,17,yas_marina,False,False,True,False,False,fisichella,Italian,ferrari,20,16,8,0,15,70,1,4,1.2999999999999972,36

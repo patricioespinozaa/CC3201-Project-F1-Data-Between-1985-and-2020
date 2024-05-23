@@ -1,0 +1,19 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+8128,2004,2,sepang,False,False,False,True,False,michael_schumacher,German,ferrari,1,1,10,1,1,18,1,1,0.0,35
+8147,2004,2,sepang,False,False,False,True,False,webber,Australian,jaguar,2,20,0,0,0,0,0,7,0.6000000000000085,27
+8131,2004,2,sepang,False,False,False,True,False,barrichello,Brazilian,ferrari,3,4,8,0,2,18,1,1,0.7000000000000028,31
+8129,2004,2,sepang,False,False,False,True,False,montoya,Colombian,williams,4,2,4,0,5,9,0,2,1.0,28
+8144,2004,2,sepang,False,False,False,True,False,raikkonen,Finnish,mclaren,5,17,0,0,0,1,0,5,1.1000000000000083,24
+8130,2004,2,sepang,False,False,False,True,False,button,British,bar,6,3,3,0,6,3,0,4,1.1000000000000083,24
+8146,2004,2,sepang,False,False,False,True,False,ralf_schumacher,German,williams,7,19,5,0,4,9,0,2,1.1000000000000083,28
+8132,2004,2,sepang,False,False,False,True,False,trulli,Italian,renault,8,5,2,0,7,8,0,3,1.3000000000000114,29
+8133,2004,2,sepang,False,False,False,True,False,coulthard,British,mclaren,9,6,1,0,8,1,0,5,1.5,32
+8136,2004,2,sepang,False,False,False,True,False,matta,Brazilian,toyota,10,9,0,0,12,0,0,8,1.8000000000000114,30
+8135,2004,2,sepang,False,False,False,True,False,massa,Brazilian,sauber,11,8,0,0,0,0,0,6,1.9000000000000057,22
+8138,2004,2,sepang,False,False,False,True,False,fisichella,Italian,sauber,12,11,0,0,10,0,0,6,2.0,31
+8137,2004,2,sepang,False,False,False,True,False,klien,Austrian,jaguar,13,10,0,0,11,0,0,7,2.1000000000000085,21
+8139,2004,2,sepang,False,False,False,True,False,panis,French,toyota,14,12,0,0,13,0,0,8,2.5,37
+8145,2004,2,sepang,False,False,False,True,False,heidfeld,German,jordan,15,18,0,0,0,0,0,9,3.5,26
+8141,2004,2,sepang,False,False,False,True,False,bruni,Italian,minardi,16,14,0,0,0,0,0,0,5.5,22
+8143,2004,2,sepang,False,False,False,True,False,baumgartner,Hungarian,minardi,17,16,0,0,0,0,0,0,6.200000000000003,23
+8140,2004,2,sepang,False,False,False,True,False,pantano,Italian,jordan,18,13,0,0,14,0,0,9,6.800000000000011,25

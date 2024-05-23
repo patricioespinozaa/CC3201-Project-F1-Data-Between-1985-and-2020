@@ -1,0 +1,23 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+7063,2001,1,albert_park,True,False,False,False,False,michael_schumacher,German,ferrari,1,1,0,0,0,0,0,0,0.0,32
+7065,2001,1,albert_park,True,False,False,False,False,barrichello,Brazilian,ferrari,2,3,0,0,0,0,0,0,0.3999999999999915,28
+7079,2001,1,albert_park,True,False,False,False,False,hakkinen,Finnish,mclaren,3,17,0,0,0,0,0,0,0.5999999999999943,32
+7067,2001,1,albert_park,True,False,False,False,False,frentzen,German,jordan,4,5,0,0,0,0,0,0,0.7999999999999972,33
+7080,2001,1,albert_park,True,False,False,False,False,ralf_schumacher,German,williams,5,18,0,0,0,0,0,0,0.7999999999999972,25
+7064,2001,1,albert_park,True,False,False,False,False,coulthard,British,mclaren,6,2,0,0,0,0,0,0,1.0999999999999943,29
+7078,2001,1,albert_park,True,False,False,False,False,trulli,Italian,jordan,7,16,0,0,0,0,0,0,1.5,26
+7081,2001,1,albert_park,True,False,False,False,False,villeneuve,Canadian,bar,8,19,0,0,0,0,0,0,1.5,29
+7069,2001,1,albert_park,True,False,False,False,False,panis,French,bar,9,7,0,0,0,0,0,0,1.5999999999999943,34
+7066,2001,1,albert_park,True,False,False,False,False,heidfeld,German,sauber,10,4,0,0,0,0,0,0,1.6999999999999886,23
+7077,2001,1,albert_park,True,False,False,False,False,montoya,Colombian,williams,11,15,0,0,0,0,0,0,1.7999999999999972,25
+7073,2001,1,albert_park,True,False,False,False,False,irvine,British,jaguar,12,11,0,0,0,0,0,0,2.0999999999999943,35
+7068,2001,1,albert_park,True,False,False,False,False,raikkonen,Finnish,sauber,13,6,0,0,0,0,0,0,2.0999999999999943,21
+7071,2001,1,albert_park,True,False,False,False,False,alesi,French,prost,14,9,0,0,0,0,0,0,3.0,36
+7072,2001,1,albert_park,True,False,False,False,False,verstappen,Dutch,arrows,15,10,0,0,0,0,0,0,3.0,29
+7076,2001,1,albert_park,True,False,False,False,False,button,British,benetton,16,14,0,0,0,0,0,0,3.0999999999999943,21
+7075,2001,1,albert_park,True,False,False,False,False,fisichella,Italian,benetton,17,13,0,0,0,0,0,0,3.299999999999997,28
+7083,2001,1,albert_park,True,False,False,False,False,bernoldi,Brazilian,arrows,18,21,0,0,0,0,0,0,3.5999999999999943,22
+7074,2001,1,albert_park,True,False,False,False,False,alonso,Spanish,minardi,19,12,0,0,0,0,0,0,3.799999999999997,19
+7084,2001,1,albert_park,True,False,False,False,False,mazzacane,Argentine,prost,20,22,0,0,0,0,0,0,3.899999999999992,25
+7070,2001,1,albert_park,True,False,False,False,False,burti,Brazilian,jaguar,21,8,0,0,0,0,0,0,4.099999999999994,25
+7082,2001,1,albert_park,True,False,False,False,False,marques,Brazilian,minardi,22,20,0,0,0,0,0,0,6.299999999999997,25

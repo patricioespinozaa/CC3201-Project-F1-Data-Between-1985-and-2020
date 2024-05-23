@@ -1,0 +1,21 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+8864,2006,2,sepang,False,False,False,False,False,fisichella,Italian,renault,1,1,0,0,0,10,1,1,0.0,33
+8866,2006,2,sepang,False,False,False,False,False,button,British,honda,2,3,5,0,4,5,0,4,0.2000000000000028,26
+8884,2006,2,sepang,False,False,False,False,False,rosberg,German,williams,3,21,2,0,7,5,0,5,0.7999999999999972,20
+8882,2006,2,sepang,False,False,False,False,False,webber,Australian,williams,4,19,3,0,6,5,0,5,0.9000000000000057,29
+8867,2006,2,sepang,False,False,False,False,False,montoya,Colombian,mclaren,5,4,4,0,5,10,0,2,1.1000000000000083,30
+8885,2006,2,sepang,False,False,False,False,False,raikkonen,Finnish,mclaren,6,22,6,0,3,10,0,2,1.2000000000000028,26
+8865,2006,2,sepang,False,False,False,False,False,alonso,Spanish,renault,7,2,10,1,1,10,1,1,1.9000000000000057,24
+8881,2006,2,sepang,False,False,False,False,False,klien,Austrian,red_bull,8,18,1,0,8,1,0,6,4.900000000000006,23
+8872,2006,2,sepang,False,False,False,False,False,trulli,Italian,toyota,9,9,0,0,16,0,0,9,0.9000000000000057,31
+8870,2006,2,sepang,False,False,False,False,False,villeneuve,Canadian,bmw_sauber,10,7,0,0,0,0,0,8,1.0,34
+8878,2006,2,sepang,False,False,False,False,False,heidfeld,German,bmw_sauber,11,15,0,0,12,0,0,8,1.0,28
+8879,2006,2,sepang,False,False,False,False,False,speed,American,toro_rosso,12,16,0,0,13,0,0,7,2.5,23
+8874,2006,2,sepang,False,False,False,False,False,liuzzi,Italian,toro_rosso,13,11,0,0,11,0,0,7,2.799999999999997,25
+8869,2006,2,sepang,False,False,False,False,False,michael_schumacher,German,ferrari,14,6,8,0,2,8,0,3,0.9000000000000057,37
+8875,2006,2,sepang,False,False,False,False,False,albers,Dutch,mf1,15,12,0,0,0,0,0,10,3.6000000000000085,26
+8876,2006,2,sepang,False,False,False,False,False,monteiro,Portuguese,mf1,16,13,0,0,17,0,0,10,4.0,29
+8877,2006,2,sepang,False,False,False,False,False,sato,Japanese,super_aguri,17,14,0,0,18,0,0,11,5.200000000000003,29
+8880,2006,2,sepang,False,False,False,False,False,ide,Japanese,super_aguri,18,17,0,0,0,0,0,11,6.900000000000006,31
+8883,2006,2,sepang,False,False,False,False,False,coulthard,British,red_bull,19,20,0,0,10,1,0,6,0.7999999999999972,34
+8873,2006,2,sepang,False,False,False,False,False,barrichello,Brazilian,honda,20,10,0,0,15,5,0,4,0.9000000000000057,33

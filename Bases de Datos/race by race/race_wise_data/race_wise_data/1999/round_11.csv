@@ -1,0 +1,23 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+6560,1999,11,hungaroring,False,False,False,False,False,hakkinen,Finnish,mclaren,1,1,44,3,2,74,4,2,0.0,30
+6562,1999,11,hungaroring,False,False,False,False,False,irvine,British,ferrari,2,3,52,3,1,90,5,1,0.0999999999999943,33
+6561,1999,11,hungaroring,False,False,False,False,False,coulthard,British,mclaren,3,2,30,1,5,74,4,2,0.2000000000000028,28
+6578,1999,11,hungaroring,False,False,False,False,False,fisichella,Italian,benetton,4,19,13,0,7,16,0,5,0.2999999999999971,26
+6563,1999,11,hungaroring,False,False,False,False,False,frentzen,German,jordan,5,4,33,1,3,38,1,3,0.5,32
+6565,1999,11,hungaroring,False,False,False,False,False,damon_hill,British,jordan,6,6,5,0,10,38,1,3,0.5,38
+6566,1999,11,hungaroring,False,False,False,False,False,wurz,Austrian,benetton,7,7,3,0,11,16,0,5,0.5,25
+6564,1999,11,hungaroring,False,False,False,False,False,barrichello,Brazilian,stewart,8,5,10,0,8,12,0,6,0.8999999999999915,27
+6577,1999,11,hungaroring,False,False,False,False,False,villeneuve,Canadian,bar,9,18,0,0,0,0,0,10,0.8999999999999915,28
+6570,1999,11,hungaroring,False,False,False,False,False,herbert,British,stewart,10,11,2,0,13,12,0,6,1.2000000000000028,35
+6575,1999,11,hungaroring,False,False,False,False,False,alesi,French,sauber,11,16,1,0,16,4,0,7,1.2000000000000028,35
+6580,1999,11,hungaroring,False,False,False,False,False,diniz,Brazilian,sauber,12,21,3,0,12,4,0,7,1.5999999999999943,29
+6567,1999,11,hungaroring,False,False,False,False,False,trulli,Italian,prost,13,8,1,0,15,3,0,8,1.5999999999999943,25
+6569,1999,11,hungaroring,False,False,False,False,False,panis,French,prost,14,10,2,0,14,3,0,8,1.5999999999999943,32
+6581,1999,11,hungaroring,False,False,False,False,False,zanardi,Italian,williams,15,22,0,0,21,22,0,4,1.7000000000000028,32
+6568,1999,11,hungaroring,False,False,False,False,False,ralf_schumacher,German,williams,16,9,22,0,6,22,0,4,1.7000000000000028,24
+6572,1999,11,hungaroring,False,False,False,False,False,zonta,Brazilian,bar,17,13,0,0,22,0,0,10,1.8999999999999917,23
+6571,1999,11,hungaroring,False,False,False,False,False,salo,Finnish,ferrari,18,12,6,0,9,90,5,1,2.200000000000003,32
+6573,1999,11,hungaroring,False,False,False,False,False,badoer,Italian,minardi,19,14,0,0,20,0,0,11,2.799999999999997,28
+6574,1999,11,hungaroring,False,False,False,False,False,rosa,Spanish,arrows,20,15,1,0,17,1,0,9,3.0999999999999943,28
+6579,1999,11,hungaroring,False,False,False,False,False,takagi,Japanese,arrows,21,20,0,0,18,1,0,9,3.5,25
+6576,1999,11,hungaroring,False,False,False,False,False,gene,Spanish,minardi,22,17,0,0,19,0,0,11,3.700000000000003,25

@@ -1,0 +1,27 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+4955,1995,3,imola,False,False,False,True,False,michael_schumacher,German,benetton,1,26,14,1,1,17,1,1,0.0,26
+4932,1995,3,imola,False,False,False,True,False,berger,Austrian,ferrari,2,3,5,0,5,13,0,3,0.0,35
+4933,1995,3,imola,False,False,False,True,False,coulthard,British,williams,3,4,6,0,4,16,1,2,0.2000000000000028,24
+4930,1995,3,imola,False,False,False,True,False,damon_hill,British,williams,4,1,10,1,2,16,1,2,0.2000000000000028,34
+4931,1995,3,imola,False,False,False,True,False,alesi,French,ferrari,5,2,8,0,3,13,0,3,0.5,30
+4934,1995,3,imola,False,False,False,True,False,hakkinen,Finnish,mclaren,6,5,3,0,6,4,0,4,1.0,26
+4937,1995,3,imola,False,False,False,True,False,irvine,British,jordan,7,8,0,0,0,0,0,0,1.2000000000000028,29
+4936,1995,3,imola,False,False,False,True,False,herbert,British,benetton,8,7,3,0,7,17,1,1,2.1000000000000085,30
+4939,1995,3,imola,False,False,False,True,False,mansell,British,mclaren,9,10,0,0,0,4,0,4,2.200000000000003,41
+4949,1995,3,imola,False,False,False,True,False,barrichello,Brazilian,jordan,10,20,0,0,0,0,0,0,2.299999999999997,22
+4942,1995,3,imola,False,False,False,True,False,morbidelli,Italian,footwork,11,13,0,0,0,0,0,0,2.299999999999997,27
+4938,1995,3,imola,False,False,False,True,False,panis,French,ligier,12,9,0,0,10,0,0,6,3.5,28
+4951,1995,3,imola,False,False,False,True,False,salo,Finnish,tyrrell,13,22,0,0,11,0,0,7,3.700000000000003,28
+4935,1995,3,imola,False,False,False,True,False,frentzen,German,sauber,14,6,2,0,8,2,0,5,4.1000000000000085,27
+4950,1995,3,imola,False,False,False,True,False,katayama,Japanese,tyrrell,15,21,0,0,12,0,0,7,4.299999999999997,31
+4940,1995,3,imola,False,False,False,True,False,suzuki,Japanese,ligier,16,11,0,0,13,0,0,6,4.6000000000000085,34
+4953,1995,3,imola,False,False,False,True,False,verstappen,Dutch,simtek,17,24,0,0,0,0,0,9,4.900000000000006,23
+4941,1995,3,imola,False,False,False,True,False,martini,Italian,minardi,18,12,0,0,0,0,0,0,5.1000000000000085,34
+4954,1995,3,imola,False,False,False,True,False,inoue,Japanese,footwork,19,25,0,0,0,0,0,0,5.400000000000006,31
+4943,1995,3,imola,False,False,False,True,False,badoer,Italian,minardi,20,14,0,0,0,0,0,0,5.799999999999997,24
+4946,1995,3,imola,False,False,False,True,False,wendlinger,Austrian,sauber,21,17,0,0,0,2,0,5,6.200000000000003,26
+4947,1995,3,imola,False,False,False,True,False,gachot,Belgian,pacific,22,18,0,0,0,0,0,8,6.6000000000000085,32
+4948,1995,3,imola,False,False,False,True,False,schiattarella,Italian,simtek,23,19,0,0,15,0,0,9,6.700000000000003,27
+4952,1995,3,imola,False,False,False,True,False,montermini,Italian,pacific,24,23,0,0,14,0,0,8,7.900000000000006,30
+4945,1995,3,imola,False,False,False,True,False,moreno,Brazilian,forti,25,16,0,0,0,0,0,10,8.799999999999997,36
+4944,1995,3,imola,False,False,False,True,False,diniz,Brazilian,forti,26,15,0,0,16,0,0,10,9.299999999999995,24

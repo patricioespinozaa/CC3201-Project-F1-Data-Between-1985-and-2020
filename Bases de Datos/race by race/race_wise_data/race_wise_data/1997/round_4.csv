@@ -1,0 +1,23 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+5700,1997,4,imola,False,False,False,False,False,villeneuve,Canadian,williams,1,13,20,2,1,20,2,1,0.0,26
+5688,1997,4,imola,False,False,False,False,False,frentzen,German,williams,2,1,0,0,13,20,2,1,0.2999999999999971,29
+5689,1997,4,imola,False,False,False,False,False,michael_schumacher,German,ferrari,3,2,8,0,5,14,0,3,0.7000000000000028,28
+5695,1997,4,imola,False,False,False,False,False,panis,French,prost,4,8,6,0,7,6,0,5,0.7999999999999972,30
+5704,1997,4,imola,False,False,False,False,False,ralf_schumacher,German,jordan,5,17,4,0,8,4,0,6,0.7999999999999972,21
+5691,1997,4,imola,False,False,False,False,False,fisichella,Italian,jordan,6,4,0,0,15,4,0,6,1.2999999999999972,24
+5703,1997,4,imola,False,False,False,False,False,herbert,British,sauber,7,16,3,0,9,4,0,7,1.4000000000000057,32
+5693,1997,4,imola,False,False,False,False,False,hakkinen,Finnish,mclaren,8,6,9,0,4,19,1,2,1.5,28
+5690,1997,4,imola,False,False,False,False,False,irvine,British,ferrari,9,3,6,0,6,14,0,3,1.6000000000000083,31
+5701,1997,4,imola,False,False,False,False,False,coulthard,British,mclaren,10,14,10,1,2,19,1,2,1.7999999999999972,26
+5707,1997,4,imola,False,False,False,False,False,berger,Austrian,benetton,11,20,10,0,3,11,0,4,2.1000000000000085,37
+5694,1997,4,imola,False,False,False,False,False,larini,Italian,sauber,12,7,1,0,11,4,0,7,2.200000000000003,33
+5702,1997,4,imola,False,False,False,False,False,barrichello,Brazilian,stewart,13,15,0,0,0,0,0,11,2.299999999999997,24
+5692,1997,4,imola,False,False,False,False,False,alesi,French,benetton,14,5,1,0,10,11,0,4,2.4000000000000057,32
+5706,1997,4,imola,False,False,False,False,False,damon_hill,British,arrows,15,19,0,0,20,0,0,10,2.4000000000000057,36
+5708,1997,4,imola,False,False,False,False,False,magnussen,Danish,stewart,16,21,0,0,18,0,0,11,2.9000000000000057,23
+5699,1997,4,imola,False,False,False,False,False,diniz,Brazilian,arrows,17,12,0,0,17,0,0,10,3.0,26
+5705,1997,4,imola,False,False,False,False,False,nakano,Japanese,prost,18,18,0,0,12,6,0,5,3.4000000000000057,26
+5696,1997,4,imola,False,False,False,False,False,salo,Finnish,tyrrell,19,9,0,0,14,0,0,8,3.6000000000000085,30
+5709,1997,4,imola,False,False,False,False,False,trulli,Italian,minardi,20,22,0,0,16,0,0,9,3.700000000000003,22
+5697,1997,4,imola,False,False,False,False,False,verstappen,Dutch,tyrrell,21,10,0,0,19,0,0,8,4.1000000000000085,25
+5698,1997,4,imola,False,False,False,False,False,katayama,Japanese,minardi,22,11,0,0,21,0,0,9,5.400000000000006,33

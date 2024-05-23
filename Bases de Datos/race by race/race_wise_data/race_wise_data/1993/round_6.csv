@@ -1,0 +1,26 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+4191,1993,6,monaco,False,False,True,False,False,prost,French,williams,1,4,34,3,1,46,3,1,0.0,38
+4207,1993,6,monaco,False,False,True,False,False,michael_schumacher,German,benetton,2,20,14,0,3,19,0,3,0.6000000000000085,24
+4188,1993,6,monaco,False,False,True,False,False,senna,Brazilian,mclaren,3,1,32,2,2,34,2,2,1.0,33
+4189,1993,6,monaco,False,False,True,False,False,damon_hill,British,williams,4,2,12,0,4,46,3,1,1.2000000000000028,32
+4190,1993,6,monaco,False,False,True,False,False,alesi,French,ferrari,5,3,0,0,18,2,0,9,1.3000000000000114,28
+4203,1993,6,monaco,False,False,True,False,False,patrese,Italian,benetton,6,16,5,0,8,19,0,3,1.5,39
+4201,1993,6,monaco,False,False,True,False,False,berger,Austrian,ferrari,7,14,2,0,14,2,0,9,1.8000000000000114,33
+4200,1993,6,monaco,False,False,True,False,False,wendlinger,Austrian,sauber,8,13,0,0,0,5,0,6,1.9000000000000057,24
+4195,1993,6,monaco,False,False,True,False,False,andretti,American,mclaren,9,8,2,0,12,34,2,2,2.4000000000000057,30
+4204,1993,6,monaco,False,False,True,False,False,comas,French,larrousse,10,17,0,0,19,2,0,8,2.6000000000000085,29
+4210,1993,6,monaco,False,False,True,False,False,lehto,Finnish,sauber,11,23,5,0,7,5,0,6,3.1000000000000085,27
+4206,1993,6,monaco,False,False,True,False,False,warwick,British,footwork,12,19,0,0,16,0,0,10,3.1000000000000085,38
+4193,1993,6,monaco,False,False,True,False,False,brundle,British,ligier,13,6,4,0,9,10,0,4,3.200000000000003,33
+4202,1993,6,monaco,False,False,True,False,False,herbert,British,team_lotus,14,15,6,0,6,7,0,5,3.200000000000003,28
+4199,1993,6,monaco,False,False,True,False,False,alliot,French,larrousse,15,12,2,0,11,2,0,8,3.300000000000012,38
+4196,1993,6,monaco,False,False,True,False,False,barrichello,Brazilian,jordan,16,9,0,0,21,0,0,12,3.5,21
+4192,1993,6,monaco,False,False,True,False,False,fittipaldi,Brazilian,minardi,17,5,3,0,10,5,0,7,3.700000000000003,22
+4205,1993,6,monaco,False,False,True,False,False,suzuki,Japanese,footwork,18,18,0,0,20,0,0,10,3.9000000000000057,32
+4197,1993,6,monaco,False,False,True,False,False,cesaris,Italian,tyrrell,19,10,0,0,0,0,0,0,3.9000000000000057,33
+4194,1993,6,monaco,False,False,True,False,False,zanardi,Italian,team_lotus,20,7,1,0,15,7,0,5,4.300000000000011,26
+4212,1993,6,monaco,False,False,True,False,False,blundell,British,ligier,21,25,6,0,5,10,0,4,4.400000000000006,27
+4208,1993,6,monaco,False,False,True,False,False,katayama,Japanese,tyrrell,22,21,0,0,0,0,0,0,4.6000000000000085,29
+4211,1993,6,monaco,False,False,True,False,False,boutsen,Belgian,jordan,23,24,0,0,23,0,0,12,4.700000000000003,35
+4209,1993,6,monaco,False,False,True,False,False,alboreto,Italian,lola,24,22,0,0,22,0,0,11,5.800000000000011,36
+4198,1993,6,monaco,False,False,True,False,False,barbazza,Italian,minardi,25,11,2,0,13,5,0,7,6.0,30

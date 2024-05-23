@@ -1,0 +1,21 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+8375,2004,14,spa,False,False,True,False,False,trulli,Italian,renault,1,9,46,1,4,91,1,2,0.0,30
+8368,2004,14,spa,False,False,True,False,False,michael_schumacher,German,ferrari,2,2,120,12,1,202,12,1,0.0999999999999943,35
+8382,2004,14,spa,False,False,True,False,False,alonso,Spanish,renault,3,16,45,0,5,91,1,2,0.5,23
+8373,2004,14,spa,False,False,True,False,False,coulthard,British,mclaren,4,7,19,0,7,37,0,5,1.7999999999999972,33
+8371,2004,14,spa,False,False,True,False,False,fisichella,Italian,sauber,5,5,14,0,10,19,0,6,1.7999999999999972,31
+8369,2004,14,spa,False,False,True,False,False,barrichello,Brazilian,ferrari,6,3,82,0,2,202,12,1,2.0,32
+8383,2004,14,spa,False,False,True,False,False,webber,Australian,jaguar,7,17,7,0,12,7,0,8,2.5,28
+8370,2004,14,spa,False,False,True,False,False,massa,Brazilian,sauber,8,4,5,0,13,19,0,6,2.799999999999997,23
+8374,2004,14,spa,False,False,True,False,False,panis,French,toyota,9,8,5,0,14,8,0,7,3.3999999999999915,37
+8367,2004,14,spa,False,False,True,False,False,raikkonen,Finnish,mclaren,10,1,18,0,8,37,0,5,3.3999999999999915,24
+8378,2004,14,spa,False,False,True,False,False,montoya,Colombian,williams,11,12,38,0,6,54,0,4,3.5,28
+8380,2004,14,spa,False,False,True,False,False,button,British,bar,12,14,65,0,3,83,0,3,4.0,24
+8372,2004,14,spa,False,False,True,False,False,klien,Austrian,jaguar,13,6,0,0,20,7,0,8,5.0,21
+8379,2004,14,spa,False,False,True,False,False,pizzonia,Brazilian,williams,14,13,4,0,15,54,0,4,5.200000000000003,23
+8384,2004,14,spa,False,False,True,False,False,sato,Japanese,bar,15,18,18,0,9,83,0,3,5.599999999999994,27
+8377,2004,14,spa,False,False,True,False,False,heidfeld,German,jordan,16,11,3,0,17,5,0,9,6.399999999999992,27
+8385,2004,14,spa,False,False,True,False,False,bruni,Italian,minardi,17,19,0,0,23,1,0,10,6.5,23
+8381,2004,14,spa,False,False,True,False,False,baumgartner,Hungarian,minardi,18,15,1,0,19,1,0,10,7.099999999999994,23
+8386,2004,14,spa,False,False,True,False,False,pantano,Italian,jordan,19,20,0,0,22,5,0,9,7.599999999999994,25
+8376,2004,14,spa,False,False,True,False,False,zonta,Brazilian,toyota,20,10,0,0,0,8,0,7,7.700000000000003,28

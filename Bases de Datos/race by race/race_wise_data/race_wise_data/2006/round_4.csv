@@ -1,0 +1,23 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+8908,2006,4,imola,True,False,False,False,False,michael_schumacher,German,ferrari,1,1,11,0,4,15,0,3,0.0,37
+8914,2006,4,imola,True,False,False,False,False,button,British,honda,2,7,11,0,5,13,0,4,0.2000000000000028,26
+8917,2006,4,imola,True,False,False,False,False,barrichello,Brazilian,honda,3,10,2,0,12,13,0,4,0.4000000000000057,33
+8911,2006,4,imola,True,False,False,False,False,massa,Brazilian,ferrari,4,4,4,0,10,15,0,3,0.9000000000000057,24
+8909,2006,4,imola,True,False,False,False,False,alonso,Spanish,renault,5,2,28,2,1,42,3,1,0.9000000000000057,24
+8916,2006,4,imola,True,False,False,False,False,ralf_schumacher,German,toyota,6,9,7,0,7,7,0,6,1.0,30
+8910,2006,4,imola,True,False,False,False,False,montoya,Colombian,mclaren,7,3,9,0,6,23,0,2,1.2000000000000028,30
+8912,2006,4,imola,True,False,False,False,False,raikkonen,Finnish,mclaren,8,5,14,0,3,23,0,2,1.4000000000000057,26
+8928,2006,4,imola,True,False,False,False,False,trulli,Italian,toyota,9,21,0,0,17,7,0,6,1.4000000000000057,31
+8913,2006,4,imola,True,False,False,False,False,webber,Australian,williams,10,6,3,0,11,5,0,7,2.0,29
+8915,2006,4,imola,True,False,False,False,False,fisichella,Italian,renault,11,8,14,1,2,42,3,1,1.0,33
+8919,2006,4,imola,True,False,False,False,False,villeneuve,Canadian,bmw_sauber,12,12,5,0,9,10,0,5,1.1000000000000083,35
+8918,2006,4,imola,True,False,False,False,False,rosberg,German,williams,13,11,2,0,13,5,0,7,1.2000000000000028,20
+8924,2006,4,imola,True,False,False,False,False,coulthard,British,red_bull,14,17,1,0,14,2,0,8,1.2999999999999972,35
+8920,2006,4,imola,True,False,False,False,False,heidfeld,German,bmw_sauber,15,13,5,0,8,10,0,5,1.2999999999999972,28
+8921,2006,4,imola,True,False,False,False,False,liuzzi,Italian,toro_rosso,16,14,0,0,18,0,0,9,1.7000000000000028,25
+8926,2006,4,imola,True,False,False,False,False,klien,Austrian,red_bull,17,19,1,0,15,2,0,8,2.6000000000000085,23
+8922,2006,4,imola,True,False,False,False,False,speed,American,toro_rosso,18,15,0,0,16,0,0,9,2.6000000000000085,23
+8923,2006,4,imola,True,False,False,False,False,monteiro,Portuguese,mf1,19,16,0,0,21,0,0,10,4.0,29
+8929,2006,4,imola,True,False,False,False,False,albers,Dutch,mf1,20,22,0,0,19,0,0,10,4.299999999999997,27
+8925,2006,4,imola,True,False,False,False,False,sato,Japanese,super_aguri,21,18,0,0,20,0,0,11,4.799999999999997,29
+8927,2006,4,imola,True,False,False,False,False,ide,Japanese,super_aguri,22,20,0,0,22,0,0,11,6.5,31

@@ -1,0 +1,21 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+9695,2008,5,istanbul,True,False,False,False,False,massa,Brazilian,ferrari,1,1,18,1,4,47,3,1,0.0,27
+9706,2008,5,istanbul,True,False,False,False,False,kovalainen,Finnish,mclaren,2,12,14,0,6,34,1,3,0.2000000000000028,26
+9696,2008,5,istanbul,True,False,False,False,False,hamilton,British,mclaren,3,2,20,1,2,34,1,3,0.3000000000000113,23
+9697,2008,5,istanbul,True,False,False,False,False,raikkonen,Finnish,ferrari,4,3,29,2,1,47,3,1,0.3000000000000113,28
+9698,2008,5,istanbul,True,False,False,False,False,kubica,Polish,bmw_sauber,5,4,19,0,3,35,0,2,0.8000000000000114,23
+9701,2008,5,istanbul,True,False,False,False,False,webber,Australian,red_bull,6,7,8,0,8,8,0,6,0.8000000000000114,31
+9700,2008,5,istanbul,True,False,False,False,False,alonso,Spanish,renault,7,6,6,0,10,6,0,7,0.8000000000000114,26
+9704,2008,5,istanbul,True,False,False,False,False,trulli,Italian,toyota,8,10,9,0,7,9,0,5,1.2000000000000028,33
+9699,2008,5,istanbul,True,False,False,False,False,heidfeld,German,bmw_sauber,9,5,16,0,5,35,0,2,1.3000000000000114,31
+9703,2008,5,istanbul,True,False,False,False,False,coulthard,British,red_bull,10,9,0,0,15,8,0,6,2.4000000000000057,37
+9702,2008,5,istanbul,True,False,False,False,False,rosberg,German,williams,11,8,7,0,9,12,0,4,-0.5999999999999943,22
+9708,2008,5,istanbul,True,False,False,False,False,barrichello,Brazilian,honda,12,14,0,0,17,3,0,8,-0.3999999999999915,35
+9705,2008,5,istanbul,True,False,False,False,False,button,British,honda,13,11,3,0,12,3,0,8,-0.2999999999999971,28
+9711,2008,5,istanbul,True,False,False,False,False,vettel,German,toro_rosso,14,17,0,0,0,2,0,9,-0.1999999999999886,20
+9707,2008,5,istanbul,True,False,False,False,False,glock,German,toyota,15,13,0,0,14,9,0,5,0.2000000000000028,26
+9713,2008,5,istanbul,True,False,False,False,False,nakajima,Japanese,williams,16,19,5,0,11,12,0,4,-0.0999999999999943,23
+9709,2008,5,istanbul,True,False,False,False,False,piquet_jr,Brazilian,renault,17,15,0,0,18,6,0,7,0.0,22
+9712,2008,5,istanbul,True,False,False,False,False,bourdais,French,toro_rosso,18,18,2,0,13,2,0,9,0.0,29
+9710,2008,5,istanbul,True,False,False,False,False,sutil,German,force_india,19,16,0,0,21,0,0,10,0.7000000000000028,25
+9714,2008,5,istanbul,True,False,False,False,False,fisichella,Italian,force_india,20,20,0,0,16,0,0,10,0.2000000000000028,35

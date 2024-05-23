@@ -1,0 +1,23 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+11391,2012,9,silverstone,False,False,False,False,False,alonso,Spanish,ferrari,1,2,111,2,1,122,2,4,0.0,30
+11390,2012,9,silverstone,False,False,False,False,False,webber,Australian,red_bull,2,1,91,1,2,176,2,1,0.0999999999999943,35
+11396,2012,9,silverstone,False,False,False,False,False,michael_schumacher,German,mercedes,3,7,17,0,13,92,1,5,0.2999999999999971,43
+11392,2012,9,silverstone,False,False,False,False,False,vettel,German,red_bull,4,3,85,1,4,176,2,1,0.5,25
+11393,2012,9,silverstone,False,False,False,False,False,massa,Brazilian,ferrari,5,4,11,0,16,122,2,4,1.3999999999999917,31
+11394,2012,9,silverstone,False,False,False,False,False,raikkonen,Finnish,lotus_f1,6,5,73,0,6,126,0,3,1.5999999999999943,32
+11405,2012,9,silverstone,False,False,False,False,False,maldonado,Venezuelan,williams,7,16,29,1,10,45,1,7,1.7999999999999972,27
+11397,2012,9,silverstone,False,False,False,False,False,hamilton,British,mclaren,8,8,88,1,3,137,2,2,1.7999999999999972,27
+11412,2012,9,silverstone,False,False,False,False,False,resta,British,force_india,10,23,27,0,11,44,0,8,5.299999999999997,26
+11404,2012,9,silverstone,False,False,False,False,False,rosberg,German,mercedes,11,15,75,1,5,92,1,5,5.399999999999992,27
+11402,2012,9,silverstone,False,False,False,False,False,ricciardo,Australian,toro_rosso,12,13,2,0,18,6,0,9,5.399999999999992,23
+11398,2012,9,silverstone,False,False,False,False,False,bruno_senna,Brazilian,williams,13,9,16,0,15,45,1,7,5.700000000000003,28
+11401,2012,9,silverstone,False,False,False,False,False,hulkenberg,German,force_india,14,12,17,0,14,44,0,8,2.700000000000003,24
+11411,2012,9,silverstone,False,False,False,False,False,perez,Mexican,sauber,15,22,39,0,9,60,0,6,6.200000000000003,22
+11399,2012,9,silverstone,False,False,False,False,False,button,British,mclaren,16,10,49,1,8,137,2,2,-3.700000000000003,32
+11400,2012,9,silverstone,False,False,False,False,False,kobayashi,Japanese,sauber,17,11,21,0,12,60,0,6,5.399999999999992,25
+11413,2012,9,silverstone,False,False,False,False,False,petrov,Russian,caterham,18,24,0,0,20,0,0,10,-2.700000000000003,27
+11406,2012,9,silverstone,False,False,False,False,False,kovalainen,Finnish,caterham,19,17,0,0,19,0,0,10,-2.200000000000003,30
+11407,2012,9,silverstone,False,False,False,False,False,glock,German,marussia,20,18,0,0,21,0,0,11,-0.1000000000000085,30
+11409,2012,9,silverstone,False,False,False,False,False,rosa,Spanish,hrt,21,20,0,0,24,0,0,12,1.0,41
+11410,2012,9,silverstone,False,False,False,False,False,karthikeyan,Indian,hrt,22,21,0,0,23,0,0,12,1.2999999999999972,35
+11403,2012,9,silverstone,False,False,False,False,False,vergne,French,toro_rosso,23,14,4,0,17,6,0,9,6.0,22

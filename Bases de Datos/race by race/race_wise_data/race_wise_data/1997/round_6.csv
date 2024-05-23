@@ -1,0 +1,23 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+5732,1997,6,catalunya,True,False,False,False,False,villeneuve,Canadian,williams,1,1,20,2,2,30,3,2,0.0,26
+5739,1997,6,catalunya,True,False,False,False,False,frentzen,German,williams,2,8,10,1,4,30,3,2,0.2999999999999971,30
+5737,1997,6,catalunya,True,False,False,False,False,coulthard,British,mclaren,3,6,10,1,5,20,1,3,1.0,26
+5734,1997,6,catalunya,True,False,False,False,False,alesi,French,benetton,4,3,3,0,13,13,0,4,1.2000000000000028,32
+5738,1997,6,catalunya,True,False,False,False,False,hakkinen,Finnish,mclaren,5,7,10,0,7,20,1,3,1.2000000000000028,28
+5741,1997,6,catalunya,True,False,False,False,False,berger,Austrian,benetton,6,10,10,0,6,13,0,4,1.5,37
+5735,1997,6,catalunya,True,False,False,False,False,michael_schumacher,German,ferrari,7,4,24,1,1,38,1,1,1.7999999999999972,28
+5740,1997,6,catalunya,True,False,False,False,False,fisichella,Italian,jordan,8,9,4,0,11,8,0,6,1.9000000000000057,24
+5748,1997,6,catalunya,True,False,False,False,False,ralf_schumacher,German,jordan,9,17,4,0,10,8,0,6,1.9000000000000057,21
+5736,1997,6,catalunya,True,False,False,False,False,herbert,British,sauber,10,5,3,0,12,4,0,8,2.0,32
+5743,1997,6,catalunya,True,False,False,False,False,irvine,British,ferrari,11,12,14,0,3,38,1,1,2.4000000000000057,31
+5733,1997,6,catalunya,True,False,False,False,False,panis,French,prost,12,2,9,0,8,9,0,5,2.700000000000003,30
+5745,1997,6,catalunya,True,False,False,False,False,morbidelli,Italian,sauber,13,14,0,0,0,4,0,8,2.799999999999997,29
+5750,1997,6,catalunya,True,False,False,False,False,salo,Finnish,tyrrell,14,19,2,0,14,2,0,9,3.5999999999999943,30
+5752,1997,6,catalunya,True,False,False,False,False,damon_hill,British,arrows,15,21,0,0,22,0,0,11,3.5999999999999943,36
+5751,1997,6,catalunya,True,False,False,False,False,nakano,Japanese,prost,16,20,0,0,17,9,0,5,3.5999999999999943,26
+5749,1997,6,catalunya,True,False,False,False,False,barrichello,Brazilian,stewart,17,18,6,0,9,6,0,7,3.799999999999997,25
+5746,1997,6,catalunya,True,False,False,False,False,trulli,Italian,minardi,18,15,0,0,19,0,0,10,4.0,22
+5742,1997,6,catalunya,True,False,False,False,False,verstappen,Dutch,tyrrell,19,11,0,0,18,2,0,9,4.099999999999994,25
+5753,1997,6,catalunya,True,False,False,False,False,katayama,Japanese,minardi,20,22,0,0,20,0,0,10,4.200000000000003,33
+5747,1997,6,catalunya,True,False,False,False,False,diniz,Brazilian,arrows,21,16,0,0,21,0,0,11,4.5,27
+5744,1997,6,catalunya,True,False,False,False,False,magnussen,Danish,stewart,22,13,0,0,16,6,0,7,4.599999999999994,23

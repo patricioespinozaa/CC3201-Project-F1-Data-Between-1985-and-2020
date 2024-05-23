@@ -1,0 +1,20 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+12606,2015,7,villeneuve,False,False,False,False,False,hamilton,British,mercedes,1,1,126,3,1,242,5,1,0.0,30
+12607,2015,7,villeneuve,False,False,False,False,False,rosberg,German,mercedes,2,2,116,2,2,242,5,1,0.2999999999999971,29
+12609,2015,7,villeneuve,False,False,False,False,False,raikkonen,Finnish,ferrari,3,4,60,0,4,158,1,2,0.5999999999999943,35
+12608,2015,7,villeneuve,False,False,False,False,False,bottas,Finnish,williams,4,3,42,0,5,81,0,3,0.6999999999999886,25
+12615,2015,7,villeneuve,False,False,False,False,False,grosjean,French,lotus_f1,5,10,16,0,10,16,0,7,0.7999999999999972,29
+12612,2015,7,villeneuve,False,False,False,False,False,maldonado,Venezuelan,lotus_f1,6,7,0,0,20,16,0,7,0.8999999999999915,30
+12613,2015,7,villeneuve,False,False,False,False,False,hulkenberg,German,force_india,7,8,6,0,13,17,0,6,1.1999999999999886,27
+12614,2015,7,villeneuve,False,False,False,False,False,kvyat,Russian,red_bull,8,9,17,0,8,52,0,4,1.6999999999999886,21
+12618,2015,7,villeneuve,False,False,False,False,False,ricciardo,Australian,red_bull,9,13,35,0,7,52,0,4,1.6999999999999886,25
+12616,2015,7,villeneuve,False,False,False,False,False,perez,Mexican,force_india,10,11,11,0,11,17,0,6,1.8999999999999917,25
+12617,2015,7,villeneuve,False,False,False,False,False,sainz,Spanish,toro_rosso,11,12,9,0,12,15,0,8,1.5999999999999943,20
+12619,2015,7,villeneuve,False,False,False,False,False,ericsson,Swedish,sauber,12,14,5,0,15,21,0,5,1.8999999999999917,24
+12625,2015,7,villeneuve,False,False,False,False,False,alonso,Spanish,mclaren,13,20,0,0,17,4,0,9,1.8999999999999917,33
+12621,2015,7,villeneuve,False,False,False,False,False,nasr,Brazilian,sauber,14,16,16,0,9,21,0,5,2.1999999999999886,22
+12611,2015,7,villeneuve,False,False,False,False,False,massa,Brazilian,williams,15,6,39,0,6,81,0,3,3.5,34
+12623,2015,7,villeneuve,False,False,False,False,False,merhi,Spanish,manor,16,18,0,0,18,0,0,10,4.699999999999989,24
+12622,2015,7,villeneuve,False,False,False,False,False,stevens,British,manor,17,17,0,0,19,0,0,10,4.799999999999997,23
+12610,2015,7,villeneuve,False,False,False,False,False,vettel,German,ferrari,18,5,98,1,3,158,1,2,2.8999999999999915,27
+12620,2015,7,villeneuve,False,False,False,False,False,max_verstappen,Dutch,toro_rosso,19,15,6,0,14,15,0,8,1.7999999999999972,17

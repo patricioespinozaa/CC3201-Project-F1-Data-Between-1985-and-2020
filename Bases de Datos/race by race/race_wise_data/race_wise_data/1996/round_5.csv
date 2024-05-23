@@ -1,0 +1,22 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+5379,1996,5,imola,True,False,False,False,False,michael_schumacher,German,ferrari,1,2,10,0,4,16,0,2,0.0,27
+5378,1996,5,imola,True,False,False,False,False,damon_hill,British,williams,2,1,33,3,1,55,4,1,0.1999999999999886,35
+5388,1996,5,imola,True,False,False,False,False,villeneuve,Canadian,williams,3,11,22,1,2,55,4,1,0.2999999999999971,25
+5391,1996,5,imola,True,False,False,False,False,coulthard,British,mclaren,4,14,4,0,8,9,0,4,0.7999999999999972,25
+5383,1996,5,imola,True,False,False,False,False,alesi,French,benetton,5,6,10,0,3,13,0,3,1.0999999999999943,31
+5381,1996,5,imola,True,False,False,False,False,irvine,British,ferrari,6,4,6,0,5,16,0,2,1.2999999999999972,30
+5380,1996,5,imola,True,False,False,False,False,berger,Austrian,benetton,7,3,3,0,9,13,0,3,1.3999999999999917,36
+5398,1996,5,imola,True,False,False,False,False,salo,Finnish,tyrrell,8,21,3,0,10,3,0,6,1.5,29
+5382,1996,5,imola,True,False,False,False,False,barrichello,Brazilian,jordan,9,5,5,0,7,6,0,5,1.6999999999999886,23
+5395,1996,5,imola,True,False,False,False,False,frentzen,German,sauber,10,18,0,0,16,0,0,9,1.8999999999999917,28
+5385,1996,5,imola,True,False,False,False,False,hakkinen,Finnish,mclaren,11,8,5,0,6,9,0,4,2.1999999999999886,27
+5394,1996,5,imola,True,False,False,False,False,brundle,British,jordan,12,17,1,0,12,6,0,5,2.1999999999999886,36
+5389,1996,5,imola,True,False,False,False,False,panis,French,ligier,13,12,1,0,11,1,0,7,2.5999999999999943,29
+5393,1996,5,imola,True,False,False,False,False,verstappen,Dutch,footwork,14,16,1,0,13,1,0,8,2.5999999999999943,24
+5397,1996,5,imola,True,False,False,False,False,herbert,British,sauber,15,20,0,0,14,0,0,9,2.5999999999999943,31
+5390,1996,5,imola,True,False,False,False,False,katayama,Japanese,tyrrell,16,13,0,0,17,3,0,6,3.0,32
+5384,1996,5,imola,True,False,False,False,False,diniz,Brazilian,ligier,17,7,0,0,15,1,0,7,3.0999999999999943,25
+5386,1996,5,imola,True,False,False,False,False,lamy,Portuguese,minardi,18,9,0,0,19,0,0,11,3.5999999999999943,24
+5396,1996,5,imola,True,False,False,False,False,fisichella,Italian,minardi,19,19,0,0,22,0,0,11,3.899999999999992,23
+5392,1996,5,imola,True,False,False,False,False,rosset,Brazilian,footwork,20,15,0,0,18,1,0,8,4.399999999999992,27
+5387,1996,5,imola,True,False,False,False,False,badoer,Italian,forti,21,10,0,0,21,0,0,10,5.099999999999994,25

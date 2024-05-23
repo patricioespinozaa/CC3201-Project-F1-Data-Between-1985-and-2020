@@ -1,0 +1,22 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+6212,1998,11,hockenheimring,False,False,True,False,True,hakkinen,Finnish,mclaren,1,1,66,5,1,102,6,1,0.0,29
+6213,1998,11,hockenheimring,False,False,True,False,True,coulthard,British,mclaren,2,2,36,1,3,102,6,1,0.5,27
+6214,1998,11,hockenheimring,False,False,True,False,True,villeneuve,Canadian,williams,3,3,12,0,7,20,0,4,0.6000000000000085,27
+6217,1998,11,hockenheimring,False,False,True,False,True,ralf_schumacher,German,jordan,4,6,3,0,12,3,0,8,1.2000000000000028,23
+6215,1998,11,hockenheimring,False,False,True,False,True,damon_hill,British,jordan,5,4,0,0,16,3,0,8,1.4000000000000057,37
+6219,1998,11,hockenheimring,False,False,True,False,True,irvine,British,ferrari,6,8,32,0,4,90,4,2,1.5,32
+6222,1998,11,hockenheimring,False,False,True,False,True,wurz,Austrian,benetton,7,11,17,0,5,32,0,3,1.5,24
+6218,1998,11,hockenheimring,False,False,True,False,True,fisichella,Italian,benetton,8,7,15,0,6,32,0,3,1.6000000000000083,25
+6216,1998,11,hockenheimring,False,False,True,False,True,michael_schumacher,German,ferrari,9,5,58,4,2,90,4,2,1.7000000000000028,29
+6220,1998,11,hockenheimring,False,False,True,False,True,frentzen,German,williams,10,9,8,0,8,20,0,4,1.7000000000000028,31
+6221,1998,11,hockenheimring,False,False,True,False,True,alesi,French,sauber,11,10,3,0,11,4,0,7,1.9000000000000057,34
+6228,1998,11,hockenheimring,False,False,True,False,True,herbert,British,sauber,12,17,1,0,13,4,0,7,2.799999999999997,34
+6230,1998,11,hockenheimring,False,False,True,False,True,barrichello,Brazilian,stewart,13,19,4,0,9,5,0,5,3.0,26
+6223,1998,11,hockenheimring,False,False,True,False,True,trulli,Italian,prost,14,12,0,0,20,0,0,11,3.0,24
+6224,1998,11,hockenheimring,False,False,True,False,True,takagi,Japanese,tyrrell,15,13,0,0,22,0,0,10,3.200000000000003,24
+6226,1998,11,hockenheimring,False,False,True,False,True,panis,French,prost,16,15,0,0,21,0,0,11,3.4000000000000057,31
+6225,1998,11,hockenheimring,False,False,True,False,True,salo,Finnish,arrows,17,14,3,0,10,4,0,6,3.5,31
+6232,1998,11,hockenheimring,False,False,True,False,True,diniz,Brazilian,arrows,18,21,1,0,14,4,0,6,3.799999999999997,28
+6231,1998,11,hockenheimring,False,False,True,False,True,verstappen,Dutch,stewart,19,20,0,0,23,5,0,5,3.799999999999997,26
+6229,1998,11,hockenheimring,False,False,True,False,True,nakano,Japanese,minardi,20,18,0,0,17,0,0,9,4.900000000000006,27
+6227,1998,11,hockenheimring,False,False,True,False,True,tuero,Argentine,minardi,21,16,0,0,19,0,0,9,5.5,20

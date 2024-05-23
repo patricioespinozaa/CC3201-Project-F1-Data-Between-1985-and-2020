@@ -1,0 +1,27 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+1560,1986,16,adelaide,True,False,False,False,False,mansell,British,williams,1,12,70,5,1,135,9,1,0.0,33
+1550,1986,16,adelaide,True,False,False,False,False,piquet,Brazilian,williams,2,2,63,4,3,135,9,1,0.2999999999999971,34
+1567,1986,16,adelaide,True,False,False,False,False,senna,Brazilian,team_lotus,3,19,55,2,4,57,2,3,0.5,26
+1549,1986,16,adelaide,True,False,False,False,False,prost,French,mclaren,4,1,64,3,2,87,3,2,1.2999999999999972,31
+1555,1986,16,adelaide,True,False,False,False,False,arnoux,French,ligier,5,7,14,0,10,29,0,5,1.5999999999999943,38
+1569,1986,16,adelaide,True,False,False,False,False,berger,Austrian,benetton,6,21,17,1,7,19,1,6,2.1999999999999886,27
+1562,1986,16,adelaide,True,False,False,False,False,keke_rosberg,Finnish,mclaren,7,14,22,0,5,87,3,2,2.3999999999999915,37
+1556,1986,16,adelaide,True,False,False,False,False,alliot,French,ligier,8,8,1,0,19,29,0,5,2.5999999999999943,32
+1574,1986,16,adelaide,True,False,False,False,False,alboreto,Italian,ferrari,9,26,14,0,9,33,0,4,3.299999999999997,29
+1553,1986,16,adelaide,True,False,False,False,False,streiff,French,tyrrell,10,5,1,0,17,6,0,8,3.299999999999997,31
+1568,1986,16,adelaide,True,False,False,False,False,cesaris,Italian,minardi,11,20,0,0,24,0,0,12,3.5999999999999943,27
+1551,1986,16,adelaide,True,False,False,False,False,johansson,Swedish,ferrari,12,3,19,0,6,33,0,4,3.5999999999999943,30
+1558,1986,16,adelaide,True,False,False,False,False,fabi,Italian,benetton,13,10,2,0,15,19,1,6,3.6999999999999886,31
+1554,1986,16,adelaide,True,False,False,False,False,dumfries,British,team_lotus,14,6,2,0,13,57,2,3,4.299999999999997,28
+1571,1986,16,adelaide,True,False,False,False,False,jones,Australian,lola,15,23,4,0,12,6,0,7,4.399999999999992,39
+1552,1986,16,adelaide,True,False,False,False,False,brundle,British,tyrrell,16,4,5,0,11,6,0,8,4.599999999999994,27
+1559,1986,16,adelaide,True,False,False,False,False,tambay,French,lola,17,11,2,0,14,6,0,7,4.599999999999994,37
+1572,1986,16,adelaide,True,False,False,False,False,nannini,Italian,minardi,18,24,0,0,29,0,0,12,4.699999999999989,27
+1561,1986,16,adelaide,True,False,False,False,False,patrese,Italian,brabham,19,13,2,0,16,2,0,9,4.799999999999997,32
+1564,1986,16,adelaide,True,False,False,False,False,warwick,British,brabham,20,16,0,0,21,2,0,9,4.899999999999992,32
+1557,1986,16,adelaide,True,False,False,False,False,palmer,British,zakspeed,21,9,0,0,22,0,0,11,5.099999999999994,29
+1566,1986,16,adelaide,True,False,False,False,False,boutsen,Belgian,arrows,22,18,0,0,20,1,0,10,5.899999999999992,29
+1570,1986,16,adelaide,True,False,False,False,False,rothengatter,Dutch,zakspeed,23,22,0,0,23,0,0,11,6.799999999999997,32
+1565,1986,16,adelaide,True,False,False,False,False,danner,German,arrows,24,17,1,0,18,1,0,10,6.799999999999997,28
+1573,1986,16,adelaide,True,False,False,False,False,ghinzani,Italian,osella,25,25,0,0,27,0,0,13,6.899999999999992,34
+1563,1986,16,adelaide,True,False,False,False,False,berg,Canadian,osella,26,15,0,0,28,0,0,13,8.799999999999997,25

@@ -1,0 +1,26 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+4103,1993,2,interlagos,False,False,True,False,False,prost,French,williams,1,16,10,1,1,10,1,1,0.0,38
+4089,1993,2,interlagos,False,False,True,False,False,damon_hill,British,williams,2,2,0,0,0,10,1,1,1.0,32
+4088,1993,2,interlagos,False,False,True,False,False,senna,Brazilian,mclaren,3,1,6,0,2,6,0,2,1.7999999999999972,33
+4090,1993,2,interlagos,False,False,True,False,False,michael_schumacher,German,benetton,4,3,0,0,0,0,0,0,1.8999999999999917,24
+4109,1993,2,interlagos,False,False,True,False,False,andretti,American,mclaren,5,22,0,0,0,6,0,2,2.6999999999999886,30
+4108,1993,2,interlagos,False,False,True,False,False,patrese,Italian,benetton,6,21,0,0,0,0,0,0,3.0999999999999943,38
+4101,1993,2,interlagos,False,False,True,False,False,lehto,Finnish,sauber,7,14,2,0,5,2,0,5,3.299999999999997,27
+4100,1993,2,interlagos,False,False,True,False,False,wendlinger,Austrian,sauber,8,13,0,0,0,2,0,5,3.299999999999997,24
+4095,1993,2,interlagos,False,False,True,False,False,alesi,French,ferrari,9,8,0,0,0,1,0,6,3.3999999999999915,28
+4092,1993,2,interlagos,False,False,True,False,False,blundell,British,ligier,10,5,4,0,3,4,0,3,3.3999999999999915,26
+4094,1993,2,interlagos,False,False,True,False,False,alliot,French,larrousse,11,7,0,0,0,0,0,0,3.3999999999999915,38
+4091,1993,2,interlagos,False,False,True,False,False,herbert,British,team_lotus,12,4,0,0,0,0,0,0,3.5,28
+4110,1993,2,interlagos,False,False,True,False,False,berger,Austrian,ferrari,13,23,1,0,6,1,0,6,3.6999999999999886,33
+4107,1993,2,interlagos,False,False,True,False,False,barrichello,Brazilian,jordan,14,20,0,0,0,0,0,0,3.6999999999999886,20
+4093,1993,2,interlagos,False,False,True,False,False,zanardi,Italian,team_lotus,15,6,0,0,0,0,0,0,3.899999999999992,26
+4111,1993,2,interlagos,False,False,True,False,False,brundle,British,ligier,16,24,0,0,0,4,0,3,3.899999999999992,33
+4097,1993,2,interlagos,False,False,True,False,False,comas,French,larrousse,17,10,0,0,0,0,0,0,4.0,29
+4096,1993,2,interlagos,False,False,True,False,False,warwick,British,footwork,18,9,0,0,7,0,0,7,4.199999999999989,38
+4105,1993,2,interlagos,False,False,True,False,False,suzuki,Japanese,footwork,19,18,0,0,0,0,0,7,4.299999999999997,32
+4104,1993,2,interlagos,False,False,True,False,False,fittipaldi,Brazilian,minardi,20,17,3,0,4,3,0,4,4.799999999999997,22
+4099,1993,2,interlagos,False,False,True,False,False,badoer,Italian,lola,21,12,0,0,0,0,0,0,5.0,22
+4106,1993,2,interlagos,False,False,True,False,False,katayama,Japanese,tyrrell,22,19,0,0,0,0,0,0,5.099999999999994,29
+4102,1993,2,interlagos,False,False,True,False,False,cesaris,Italian,tyrrell,23,15,0,0,0,0,0,0,5.299999999999997,33
+4112,1993,2,interlagos,False,False,True,False,False,barbazza,Italian,minardi,24,25,0,0,0,3,0,4,5.299999999999997,29
+4098,1993,2,interlagos,False,False,True,False,False,alboreto,Italian,lola,25,11,0,0,0,0,0,0,5.599999999999994,36

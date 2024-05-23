@@ -1,0 +1,19 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+8308,2004,11,silverstone,False,False,False,False,False,raikkonen,Finnish,mclaren,1,2,10,0,11,22,0,5,0.0,24
+8309,2004,11,silverstone,False,False,False,False,False,barrichello,Brazilian,ferrari,2,3,68,0,2,158,9,1,0.0999999999999943,32
+8310,2004,11,silverstone,False,False,False,False,False,button,British,bar,3,4,48,0,3,62,0,3,0.3999999999999915,24
+8307,2004,11,silverstone,False,False,False,False,False,michael_schumacher,German,ferrari,4,1,90,9,1,158,9,1,0.5,35
+8324,2004,11,silverstone,False,False,False,False,False,trulli,Italian,renault,5,18,46,1,4,79,1,2,0.5,29
+8313,2004,11,silverstone,False,False,False,False,False,coulthard,British,mclaren,6,7,12,0,9,22,0,5,0.8999999999999915,33
+8311,2004,11,silverstone,False,False,False,False,False,montoya,Colombian,williams,7,5,25,0,6,37,0,4,1.2000000000000028,28
+8317,2004,11,silverstone,False,False,False,False,False,sato,Japanese,bar,8,11,14,0,7,62,0,3,1.5,27
+8314,2004,11,silverstone,False,False,False,False,False,webber,Australian,jaguar,9,8,3,0,15,3,0,9,1.7999999999999972,27
+8315,2004,11,silverstone,False,False,False,False,False,massa,Brazilian,sauber,10,9,5,0,12,15,0,6,2.0,23
+8318,2004,11,silverstone,False,False,False,False,False,gene,Spanish,williams,11,12,0,0,20,37,0,4,2.0999999999999943,30
+8319,2004,11,silverstone,False,False,False,False,False,matta,Brazilian,toyota,12,13,3,0,14,8,0,7,2.299999999999997,30
+8320,2004,11,silverstone,False,False,False,False,False,klien,Austrian,jaguar,13,14,0,0,19,3,0,9,3.3999999999999915,21
+8323,2004,11,silverstone,False,False,False,False,False,pantano,Italian,jordan,14,17,0,0,21,5,0,8,4.299999999999997,25
+8321,2004,11,silverstone,False,False,False,False,False,heidfeld,German,jordan,15,15,3,0,16,5,0,8,4.5,27
+8316,2004,11,silverstone,False,False,False,False,False,alonso,Spanish,renault,16,10,33,0,5,79,1,2,0.5999999999999943,22
+8322,2004,11,silverstone,False,False,False,False,False,bruni,Italian,minardi,18,16,0,0,22,1,0,10,5.200000000000003,23
+8325,2004,11,silverstone,False,False,False,False,False,baumgartner,Hungarian,minardi,19,19,1,0,18,1,0,10,5.899999999999992,23

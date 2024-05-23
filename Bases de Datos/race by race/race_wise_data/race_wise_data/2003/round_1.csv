@@ -1,0 +1,19 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+7793,2003,1,albert_park,True,False,True,True,False,michael_schumacher,German,ferrari,1,4,0,0,0,0,0,0,0.0,34
+7809,2003,1,albert_park,True,False,True,True,False,barrichello,Brazilian,ferrari,2,20,0,0,0,0,0,0,0.2000000000000028,30
+7791,2003,1,albert_park,True,False,True,True,False,montoya,Colombian,williams,3,2,0,0,0,0,0,0,0.8999999999999915,27
+7795,2003,1,albert_park,True,False,True,True,False,frentzen,German,sauber,4,6,0,0,0,0,0,0,1.0999999999999943,35
+7803,2003,1,albert_park,True,False,True,True,False,panis,French,toyota,5,14,0,0,0,0,0,0,1.0999999999999943,36
+7798,2003,1,albert_park,True,False,True,True,False,villeneuve,Canadian,bar,6,9,0,0,0,0,0,0,1.2000000000000028,31
+7804,2003,1,albert_park,True,False,True,True,False,heidfeld,German,sauber,7,15,0,0,0,0,0,0,1.2999999999999972,25
+7799,2003,1,albert_park,True,False,True,True,False,button,British,bar,8,10,0,0,0,0,0,0,1.5,23
+7797,2003,1,albert_park,True,False,True,True,False,ralf_schumacher,German,williams,9,8,0,0,0,0,0,0,1.5999999999999943,27
+7796,2003,1,albert_park,True,False,True,True,False,alonso,Spanish,renault,10,7,0,0,0,0,0,0,1.7000000000000028,21
+7790,2003,1,albert_park,True,False,True,True,False,coulthard,British,mclaren,11,1,0,0,0,0,0,0,1.8999999999999917,31
+7794,2003,1,albert_park,True,False,True,True,False,trulli,Italian,renault,12,5,0,0,0,0,0,0,1.8999999999999917,28
+7801,2003,1,albert_park,True,False,True,True,False,fisichella,Italian,jordan,13,12,0,0,0,0,0,0,2.0999999999999943,30
+7806,2003,1,albert_park,True,False,True,True,False,webber,Australian,jaguar,14,17,0,0,0,0,0,0,2.200000000000003,26
+7792,2003,1,albert_park,True,False,True,True,False,raikkonen,Finnish,mclaren,15,3,0,0,0,0,0,0,2.299999999999997,23
+7807,2003,1,albert_park,True,False,True,True,False,matta,Brazilian,toyota,16,18,0,0,0,0,0,0,2.299999999999997,29
+7808,2003,1,albert_park,True,False,True,True,False,firman,Irish,jordan,17,19,0,0,0,0,0,0,4.0,27
+7802,2003,1,albert_park,True,False,True,True,False,pizzonia,Brazilian,jaguar,18,13,0,0,0,0,0,0,4.5,22

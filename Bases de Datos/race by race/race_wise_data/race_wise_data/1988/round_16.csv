@@ -1,0 +1,27 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+2376,1988,16,adelaide,True,False,False,False,True,senna,Brazilian,mclaren,1,2,87,8,1,184,14,1,0.0,28
+2375,1988,16,adelaide,True,False,False,False,True,prost,French,mclaren,2,1,84,6,2,184,14,1,0.2000000000000028,33
+2387,1988,16,adelaide,True,False,False,False,True,mansell,British,williams,3,13,12,0,9,17,0,7,1.7000000000000028,35
+2396,1988,16,adelaide,True,False,False,False,True,berger,Austrian,ferrari,4,22,41,1,3,65,1,2,1.7999999999999972,29
+2377,1988,16,adelaide,True,False,False,False,True,piquet,Brazilian,team_lotus,5,3,18,0,6,19,0,6,1.7999999999999972,36
+2378,1988,16,adelaide,True,False,False,False,True,patrese,Italian,williams,6,4,5,0,14,17,0,7,2.200000000000003,34
+2390,1988,16,adelaide,True,False,False,False,True,warwick,British,arrows,7,16,17,0,7,23,0,4,2.3999999999999915,34
+2388,1988,16,adelaide,True,False,False,False,True,nannini,Italian,benetton,8,14,12,0,10,37,0,3,2.5,29
+2380,1988,16,adelaide,True,False,False,False,True,capelli,Italian,march,9,6,16,0,8,21,0,5,2.799999999999997,25
+2379,1988,16,adelaide,True,False,False,False,True,boutsen,Belgian,benetton,10,5,25,0,4,37,0,3,2.799999999999997,31
+2395,1988,16,adelaide,True,False,False,False,True,caffi,Italian,dallara,11,21,0,0,19,0,0,12,3.0999999999999943,24
+2400,1988,16,adelaide,True,False,False,False,True,alboreto,Italian,ferrari,12,26,24,0,5,65,1,2,3.0999999999999943,31
+2393,1988,16,adelaide,True,False,False,False,True,satoru_nakajima,Japanese,team_lotus,13,19,1,0,16,19,0,6,3.200000000000003,35
+2381,1988,16,adelaide,True,False,False,False,True,martini,Italian,minardi,14,7,1,0,17,1,0,10,3.3999999999999915,27
+2382,1988,16,adelaide,True,False,False,False,True,cesaris,Italian,rial,15,8,3,0,15,3,0,9,3.5,29
+2385,1988,16,adelaide,True,False,False,False,True,streiff,French,ags,16,11,0,0,21,0,0,13,3.5999999999999943,33
+2398,1988,16,adelaide,True,False,False,False,True,palmer,British,tyrrell,17,24,5,0,13,5,0,8,3.5999999999999943,32
+2391,1988,16,adelaide,True,False,False,False,True,cheever,American,arrows,18,17,6,0,11,23,0,4,3.700000000000003,30
+2392,1988,16,adelaide,True,False,False,False,True,gugelmin,Brazilian,march,19,18,5,0,12,21,0,5,3.899999999999992,25
+2389,1988,16,adelaide,True,False,False,False,True,modena,Italian,eurobrun,20,15,0,0,29,0,0,17,4.200000000000003,25
+2394,1988,16,adelaide,True,False,False,False,True,sala,Spanish,minardi,21,20,0,0,22,1,0,10,4.200000000000003,29
+2383,1988,16,adelaide,True,False,False,False,True,johansson,Swedish,ligier,22,9,0,0,25,0,0,15,4.299999999999997,32
+2397,1988,16,adelaide,True,False,False,False,True,arnoux,French,ligier,23,23,0,0,28,0,0,15,4.299999999999997,40
+2384,1988,16,adelaide,True,False,False,False,True,alliot,French,larrousse,24,10,0,0,24,0,0,11,4.5,34
+2399,1988,16,adelaide,True,False,False,False,True,larrauri,Argentine,eurobrun,25,25,0,0,0,0,0,17,4.5,34
+2386,1988,16,adelaide,True,False,False,False,True,ghinzani,Italian,zakspeed,26,12,0,0,0,0,0,18,4.599999999999994,36

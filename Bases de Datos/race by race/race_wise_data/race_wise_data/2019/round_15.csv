@@ -1,0 +1,20 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+14400,2019,15,marina_bay,False,False,False,False,False,leclerc,Monegasque,ferrari,1,2,182,2,4,351,2,2,0.0,21
+14402,2019,15,marina_bay,False,False,False,False,False,hamilton,British,mercedes,2,4,284,8,1,505,10,1,0.2000000000000028,34
+14399,2019,15,marina_bay,False,False,False,False,False,vettel,German,ferrari,3,1,169,0,5,351,2,2,0.2000000000000028,32
+14401,2019,15,marina_bay,False,False,False,False,False,max_verstappen,Dutch,red_bull,4,3,185,2,3,266,2,3,0.5999999999999943,21
+14403,2019,15,marina_bay,False,False,False,False,False,bottas,Finnish,mercedes,5,5,221,2,2,505,10,1,0.8999999999999915,30
+14404,2019,15,marina_bay,False,False,False,False,False,albon,Thai,red_bull,6,6,34,0,9,266,2,3,1.2000000000000028,23
+14410,2019,15,marina_bay,False,False,False,False,False,sainz,Spanish,mclaren,7,12,58,0,7,83,0,4,1.5999999999999943,25
+14407,2019,15,marina_bay,False,False,False,False,False,hulkenberg,German,renault,8,9,31,0,11,65,0,5,2.0999999999999943,32
+14405,2019,15,marina_bay,False,False,False,False,False,norris,British,mclaren,9,7,25,0,14,83,0,4,2.0999999999999943,19
+14408,2019,15,marina_bay,False,False,False,False,False,giovinazzi,Italian,alfa,10,10,3,0,18,34,0,8,2.5,25
+14406,2019,15,marina_bay,False,False,False,False,False,gasly,French,toro_rosso,11,8,65,0,6,51,0,6,2.5,23
+14416,2019,15,marina_bay,False,False,False,False,False,raikkonen,Finnish,alfa,12,18,31,0,12,34,0,8,2.700000000000003,39
+14415,2019,15,marina_bay,False,False,False,False,False,kevin_magnussen,Danish,haas,13,17,18,0,16,26,0,9,3.3999999999999915,26
+14413,2019,15,marina_bay,False,False,False,False,False,kvyat,Russian,toro_rosso,14,15,33,0,10,51,0,6,3.799999999999997,25
+14417,2019,15,marina_bay,False,False,False,False,False,perez,Mexican,racing_point,15,19,27,0,13,46,0,7,2.3999999999999915,29
+14411,2019,15,marina_bay,False,False,False,False,False,stroll,Canadian,racing_point,16,13,19,0,15,46,0,7,3.799999999999997,20
+14409,2019,15,marina_bay,False,False,False,False,False,grosjean,French,haas,17,11,8,0,17,26,0,9,4.099999999999994,33
+14418,2019,15,marina_bay,False,False,False,False,False,russell,British,williams,18,20,0,0,20,1,0,10,4.700000000000003,21
+14414,2019,15,marina_bay,False,False,False,False,False,kubica,Polish,williams,19,16,1,0,19,1,0,10,5.0,34

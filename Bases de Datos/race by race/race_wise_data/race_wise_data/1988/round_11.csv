@@ -1,0 +1,27 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+2245,1988,11,spa,False,False,True,False,True,senna,Brazilian,mclaren,1,1,66,6,1,132,10,1,0.0,28
+2246,1988,11,spa,False,False,True,False,True,prost,French,mclaren,2,2,66,4,2,132,10,1,0.3999999999999915,33
+2267,1988,11,spa,False,False,True,False,True,berger,Austrian,ferrari,3,23,28,0,3,44,0,2,0.8999999999999915,29
+2261,1988,11,spa,False,False,True,False,True,alboreto,Italian,ferrari,4,17,16,0,5,44,0,2,2.0,31
+2262,1988,11,spa,False,False,True,False,True,patrese,Italian,williams,5,18,2,0,14,8,0,7,3.3999999999999915,34
+2258,1988,11,spa,False,False,True,False,True,boutsen,Belgian,benetton,6,14,16,0,4,22,0,3,3.799999999999997,31
+2259,1988,11,spa,False,False,True,False,True,nannini,Italian,benetton,7,15,6,0,9,22,0,3,3.799999999999997,29
+2265,1988,11,spa,False,False,True,False,True,satoru_nakajima,Japanese,team_lotus,8,21,1,0,15,16,0,4,3.899999999999992,35
+2248,1988,11,spa,False,False,True,False,True,piquet,Brazilian,team_lotus,9,4,15,0,6,16,0,4,4.099999999999994,36
+2249,1988,11,spa,False,False,True,False,True,warwick,British,arrows,10,5,9,0,7,10,0,5,4.200000000000003,34
+2250,1988,11,spa,False,False,True,False,True,cheever,American,arrows,11,6,1,0,16,10,0,5,4.299999999999997,30
+2251,1988,11,spa,False,False,True,False,True,brundle,British,williams,12,7,0,0,0,8,0,7,4.5,29
+2263,1988,11,spa,False,False,True,False,True,gugelmin,Brazilian,march,13,19,5,0,10,9,0,6,4.700000000000003,25
+2247,1988,11,spa,False,False,True,False,True,capelli,Italian,march,14,3,4,0,12,9,0,6,5.700000000000003,25
+2252,1988,11,spa,False,False,True,False,True,caffi,Italian,dallara,15,8,0,0,19,0,0,12,6.099999999999994,24
+2253,1988,11,spa,False,False,True,False,True,alliot,French,larrousse,16,9,0,0,25,0,0,11,6.200000000000003,34
+2270,1988,11,spa,False,False,True,False,True,arnoux,French,ligier,17,26,0,0,0,0,0,14,6.299999999999997,40
+2254,1988,11,spa,False,False,True,False,True,streiff,French,ags,18,10,0,0,26,0,0,16,6.700000000000003,33
+2269,1988,11,spa,False,False,True,False,True,cesaris,Italian,rial,19,25,3,0,13,3,0,9,6.799999999999997,29
+2255,1988,11,spa,False,False,True,False,True,johansson,Swedish,ligier,20,11,0,0,21,0,0,14,7.200000000000003,31
+2256,1988,11,spa,False,False,True,False,True,palmer,British,tyrrell,21,12,5,0,11,5,0,8,7.399999999999991,31
+2260,1988,11,spa,False,False,True,False,True,tarquini,Italian,coloni,22,16,0,0,20,0,0,13,7.700000000000003,26
+2268,1988,11,spa,False,False,True,False,True,dalmas,French,larrousse,23,24,0,0,18,0,0,11,7.799999999999997,27
+2264,1988,11,spa,False,False,True,False,True,ghinzani,Italian,zakspeed,24,20,0,0,0,0,0,18,8.200000000000003,36
+2257,1988,11,spa,False,False,True,False,True,schneider,German,zakspeed,25,13,0,0,28,0,0,18,8.200000000000003,24
+2266,1988,11,spa,False,False,True,False,True,larini,Italian,osella,26,22,0,0,23,0,0,15,8.299999999999997,24

@@ -1,0 +1,17 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+8565,2005,6,monaco,True,False,False,False,False,raikkonen,Finnish,mclaren,1,1,17,1,3,37,1,3,0.0,25
+8568,2005,6,monaco,True,False,False,False,False,alonso,Spanish,renault,2,4,44,3,1,58,4,1,0.0999999999999943,23
+8567,2005,6,monaco,True,False,False,False,False,webber,Australian,williams,3,3,12,0,6,21,0,4,1.3999999999999773,28
+8576,2005,6,monaco,True,False,False,False,False,fisichella,Italian,renault,4,12,14,1,4,58,4,1,1.799999999999983,32
+8574,2005,6,monaco,True,False,False,False,False,trulli,Italian,toyota,5,10,26,0,2,40,0,2,2.299999999999983,30
+8566,2005,6,monaco,True,False,False,False,False,heidfeld,German,williams,6,2,9,0,10,21,0,4,2.5999999999999943,28
+8581,2005,6,monaco,True,False,False,False,False,coulthard,British,red_bull,7,17,10,0,9,14,0,6,3.5999999999999943,34
+8571,2005,6,monaco,True,False,False,False,False,michael_schumacher,German,ferrari,8,7,10,0,7,18,0,5,4.399999999999977,36
+8575,2005,6,monaco,True,False,False,False,False,villeneuve,Canadian,sauber,9,11,5,0,13,7,0,7,4.599999999999994,34
+8572,2005,6,monaco,True,False,False,False,False,barrichello,Brazilian,ferrari,10,8,8,0,11,18,0,5,4.699999999999989,32
+8573,2005,6,monaco,True,False,False,False,False,massa,Brazilian,sauber,11,9,2,0,16,7,0,7,4.799999999999983,24
+8579,2005,6,monaco,True,False,False,False,False,liuzzi,Italian,red_bull,12,15,1,0,17,14,0,6,6.899999999999977,24
+8580,2005,6,monaco,True,False,False,False,False,friesacher,Austrian,minardi,13,16,0,0,20,0,0,9,10.5,24
+8578,2005,6,monaco,True,False,False,False,False,albers,Dutch,minardi,14,14,0,0,21,0,0,9,11.899999999999975,26
+8577,2005,6,monaco,True,False,False,False,False,monteiro,Portuguese,jordan,15,13,0,0,18,0,0,8,12.799999999999985,28
+8582,2005,6,monaco,True,False,False,False,False,karthikeyan,Indian,jordan,17,18,0,0,19,0,0,8,13.099999999999994,28

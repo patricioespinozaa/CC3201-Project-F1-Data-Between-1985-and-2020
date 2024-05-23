@@ -1,0 +1,27 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+3620,1991,16,adelaide,False,False,False,True,False,senna,Brazilian,mclaren,1,1,91,6,1,132,7,1,0.0,31
+3622,1991,16,adelaide,False,False,False,True,False,berger,Austrian,mclaren,2,3,41,1,4,132,7,1,0.4000000000000057,32
+3621,1991,16,adelaide,False,False,False,True,False,mansell,British,williams,3,2,69,5,2,121,7,2,0.7999999999999972,38
+3624,1991,16,adelaide,False,False,False,True,False,patrese,Italian,williams,4,5,52,2,3,121,7,2,1.0999999999999943,37
+3623,1991,16,adelaide,False,False,False,True,False,piquet,Brazilian,benetton,5,4,25,1,6,37,1,4,1.2999999999999972,39
+3641,1991,16,adelaide,False,False,False,True,False,michael_schumacher,German,benetton,6,22,4,0,14,37,1,4,1.5,22
+3642,1991,16,adelaide,False,False,False,True,False,alesi,French,ferrari,7,23,21,0,7,55,0,3,1.5,27
+3625,1991,16,adelaide,False,False,False,True,False,morbidelli,Italian,ferrari,8,6,0,0,26,55,0,3,2.200000000000003,23
+3629,1991,16,adelaide,False,False,False,True,False,modena,Italian,tyrrell,9,10,10,0,8,12,0,6,2.299999999999997,28
+3640,1991,16,adelaide,False,False,False,True,False,martini,Italian,minardi,10,21,6,0,11,6,0,7,2.4000000000000057,30
+3631,1991,16,adelaide,False,False,False,True,False,lehto,Finnish,dallara,11,12,4,0,12,5,0,8,2.9000000000000057,25
+3627,1991,16,adelaide,False,False,False,True,False,cesaris,Italian,jordan,12,8,9,0,9,13,0,5,3.0999999999999943,32
+3626,1991,16,adelaide,False,False,False,True,False,pirro,Italian,dallara,13,7,1,0,18,5,0,8,3.299999999999997,29
+3633,1991,16,adelaide,False,False,False,True,False,gugelmin,Brazilian,leyton,14,14,0,0,24,1,0,11,3.299999999999997,28
+3632,1991,16,adelaide,False,False,False,True,False,alboreto,Italian,footwork,15,13,0,0,0,0,0,18,3.4000000000000057,34
+3628,1991,16,adelaide,False,False,False,True,False,zanardi,Italian,jordan,16,9,0,0,0,13,0,5,3.4000000000000057,25
+3636,1991,16,adelaide,False,False,False,True,False,blundell,British,brabham,17,17,1,0,19,3,0,10,3.4000000000000057,25
+3635,1991,16,adelaide,False,False,False,True,False,moreno,Brazilian,minardi,18,16,8,0,10,6,0,7,3.5999999999999943,32
+3643,1991,16,adelaide,False,False,False,True,False,larini,Italian,lambo,19,24,0,0,28,0,0,15,3.9000000000000057,27
+3644,1991,16,adelaide,False,False,False,True,False,boutsen,Belgian,ligier,20,25,0,0,25,0,0,14,4.0,34
+3630,1991,16,adelaide,False,False,False,True,False,herbert,British,team_lotus,21,11,0,0,27,3,0,9,4.099999999999994,27
+3637,1991,16,adelaide,False,False,False,True,False,comas,French,ligier,22,18,0,0,29,0,0,14,4.099999999999994,28
+3634,1991,16,adelaide,False,False,False,True,False,caffi,Italian,footwork,23,15,0,0,0,0,0,18,4.200000000000003,27
+3645,1991,16,adelaide,False,False,False,True,False,satoru_nakajima,Japanese,tyrrell,24,26,2,0,15,12,0,6,4.200000000000003,38
+3638,1991,16,adelaide,False,False,False,True,False,hakkinen,Finnish,team_lotus,25,19,2,0,16,3,0,9,4.299999999999997,23
+3639,1991,16,adelaide,False,False,False,True,False,wendlinger,Austrian,leyton,26,20,0,0,0,1,0,11,4.299999999999997,22

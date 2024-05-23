@@ -1,0 +1,21 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+6169,1998,9,silverstone,False,False,False,True,False,hakkinen,Finnish,mclaren,1,2,50,4,1,80,5,1,0.0,29
+6168,1998,9,silverstone,False,False,False,True,False,michael_schumacher,German,ferrari,2,1,44,3,2,69,3,2,0.4000000000000057,29
+6174,1998,9,silverstone,False,False,False,True,False,villeneuve,Canadian,williams,3,7,11,0,7,19,0,4,0.7999999999999972,27
+6182,1998,9,silverstone,False,False,False,True,False,coulthard,British,mclaren,4,15,30,1,3,80,5,1,1.0,27
+6170,1998,9,silverstone,False,False,False,True,False,irvine,British,ferrari,5,3,25,0,4,69,3,2,1.1000000000000083,32
+6188,1998,9,silverstone,False,False,False,True,False,frentzen,German,williams,6,21,8,0,8,19,0,4,1.1000000000000083,31
+6189,1998,9,silverstone,False,False,False,True,False,damon_hill,British,jordan,7,22,0,0,17,0,0,8,1.2000000000000028,37
+6177,1998,9,silverstone,False,False,False,True,False,alesi,French,sauber,8,10,3,0,11,4,0,7,1.7999999999999972,34
+6186,1998,9,silverstone,False,False,False,True,False,herbert,British,sauber,9,19,1,0,12,4,0,7,1.7999999999999972,34
+6172,1998,9,silverstone,False,False,False,True,False,fisichella,Italian,benetton,10,5,13,0,6,27,0,3,2.4000000000000057,25
+6171,1998,9,silverstone,False,False,False,True,False,wurz,Austrian,benetton,11,4,14,0,5,27,0,3,2.5,24
+6178,1998,9,silverstone,False,False,False,True,False,diniz,Brazilian,arrows,12,11,1,0,13,4,0,6,3.1000000000000085,28
+6187,1998,9,silverstone,False,False,False,True,False,salo,Finnish,arrows,13,20,3,0,10,4,0,6,3.200000000000003,31
+6183,1998,9,silverstone,False,False,False,True,False,trulli,Italian,prost,14,16,0,0,21,0,0,11,3.5,23
+6181,1998,9,silverstone,False,False,False,True,False,verstappen,Dutch,stewart,15,14,0,0,23,5,0,5,3.6000000000000085,26
+6180,1998,9,silverstone,False,False,False,True,False,barrichello,Brazilian,stewart,16,13,4,0,9,5,0,5,3.700000000000003,26
+6176,1998,9,silverstone,False,False,False,True,False,takagi,Japanese,tyrrell,17,9,0,0,22,0,0,10,3.799999999999997,24
+6185,1998,9,silverstone,False,False,False,True,False,tuero,Argentine,minardi,18,18,0,0,19,0,0,9,4.799999999999997,20
+6175,1998,9,silverstone,False,False,False,True,False,nakano,Japanese,minardi,19,8,0,0,15,0,0,9,4.799999999999997,27
+6184,1998,9,silverstone,False,False,False,True,False,rosset,Brazilian,tyrrell,20,17,0,0,18,0,0,10,5.299999999999997,29

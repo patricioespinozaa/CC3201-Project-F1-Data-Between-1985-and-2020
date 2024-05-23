@@ -1,0 +1,22 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+9235,2007,1,albert_park,True,False,False,False,False,raikkonen,Finnish,ferrari,1,1,0,0,0,0,0,0,0.0,27
+9236,2007,1,albert_park,True,False,False,False,False,alonso,Spanish,mclaren,2,2,0,0,0,0,0,0,0.4000000000000057,25
+9238,2007,1,albert_park,True,False,False,False,False,heidfeld,German,bmw_sauber,3,4,0,0,0,0,0,0,0.5,29
+9237,2007,1,albert_park,True,False,False,False,False,hamilton,British,mclaren,4,3,0,0,0,0,0,0,0.7000000000000028,22
+9254,2007,1,albert_park,True,False,False,False,False,kubica,Polish,bmw_sauber,5,20,0,0,0,0,0,0,1.2000000000000028,22
+9239,2007,1,albert_park,True,False,False,False,False,fisichella,Italian,renault,6,5,0,0,0,0,0,0,1.5,34
+9247,2007,1,albert_park,True,False,False,False,False,webber,Australian,red_bull,7,13,0,0,0,0,0,0,1.8000000000000114,30
+9243,2007,1,albert_park,True,False,False,False,False,trulli,Italian,toyota,8,9,0,0,0,0,0,0,2.300000000000012,32
+9242,2007,1,albert_park,True,False,False,False,False,ralf_schumacher,German,toyota,9,8,0,0,0,0,0,0,2.6000000000000085,31
+9246,2007,1,albert_park,True,False,False,False,False,sato,Japanese,super_aguri,10,12,0,0,0,0,0,0,2.800000000000012,30
+9250,2007,1,albert_park,True,False,False,False,False,davidson,British,super_aguri,11,16,0,0,0,0,0,0,0.8000000000000114,27
+9241,2007,1,albert_park,True,False,False,False,False,rosberg,German,williams,12,7,0,0,0,0,0,0,0.8000000000000114,21
+9244,2007,1,albert_park,True,False,False,False,False,kovalainen,Finnish,renault,13,10,0,0,0,0,0,0,0.9000000000000057,25
+9249,2007,1,albert_park,True,False,False,False,False,button,British,honda,14,15,0,0,0,0,0,0,1.2000000000000028,27
+9252,2007,1,albert_park,True,False,False,False,False,wurz,Austrian,williams,15,18,0,0,0,0,0,0,1.3000000000000114,33
+9245,2007,1,albert_park,True,False,False,False,False,barrichello,Brazilian,honda,16,11,0,0,0,0,0,0,1.6000000000000083,34
+9255,2007,1,albert_park,True,False,False,False,False,speed,American,toro_rosso,17,21,0,0,0,0,0,0,2.200000000000003,24
+9253,2007,1,albert_park,True,False,False,False,False,coulthard,British,red_bull,18,19,0,0,0,0,0,0,2.5,35
+9248,2007,1,albert_park,True,False,False,False,False,liuzzi,Italian,toro_rosso,19,14,0,0,0,0,0,0,3.200000000000003,26
+9251,2007,1,albert_park,True,False,False,False,False,sutil,German,spyker,20,17,0,0,0,0,0,0,3.200000000000003,24
+9256,2007,1,albert_park,True,False,False,False,False,albers,Dutch,spyker,21,22,0,0,0,0,0,0,5.800000000000011,27

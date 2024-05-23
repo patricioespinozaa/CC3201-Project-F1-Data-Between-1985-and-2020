@@ -1,0 +1,23 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+9367,2007,7,indianapolis,True,False,False,False,False,hamilton,British,mclaren,1,1,48,1,1,88,3,11,0.0,22
+9368,2007,7,indianapolis,True,False,False,False,False,alonso,Spanish,mclaren,2,2,40,2,2,88,3,11,0.2000000000000028,25
+9369,2007,7,indianapolis,True,False,False,False,False,massa,Brazilian,ferrari,3,3,33,2,3,60,3,1,0.4000000000000057,26
+9370,2007,7,indianapolis,True,False,False,False,False,raikkonen,Finnish,ferrari,4,4,27,1,4,60,3,1,0.5,27
+9384,2007,7,indianapolis,True,False,False,False,False,heidfeld,German,bmw_sauber,5,18,26,0,5,38,0,2,0.5,30
+9371,2007,7,indianapolis,True,False,False,False,False,kovalainen,Finnish,renault,6,5,8,0,9,21,0,3,1.0,25
+9374,2007,7,indianapolis,True,False,False,False,False,vettel,German,bmw_sauber,7,8,0,0,0,38,0,2,1.2000000000000028,19
+9372,2007,7,indianapolis,True,False,False,False,False,trulli,Italian,toyota,8,6,4,0,13,6,0,5,1.5,32
+9373,2007,7,indianapolis,True,False,False,False,False,webber,Australian,red_bull,9,7,0,0,15,4,0,6,1.6000000000000083,30
+9375,2007,7,indianapolis,True,False,False,False,False,fisichella,Italian,renault,10,9,13,0,6,21,0,3,1.7000000000000028,34
+9386,2007,7,indianapolis,True,False,False,False,False,coulthard,British,red_bull,11,20,4,0,11,4,0,6,0.6000000000000085,36
+9388,2007,7,indianapolis,True,False,False,False,False,ralf_schumacher,German,toyota,12,22,2,0,14,6,0,5,0.6000000000000085,31
+9378,2007,7,indianapolis,True,False,False,False,False,button,British,honda,13,12,0,0,19,0,0,9,0.7000000000000028,27
+9382,2007,7,indianapolis,True,False,False,False,False,rosberg,German,williams,14,16,5,0,10,13,0,4,0.7999999999999972,21
+9387,2007,7,indianapolis,True,False,False,False,False,barrichello,Brazilian,honda,15,21,0,0,17,0,0,9,0.9000000000000057,35
+9377,2007,7,indianapolis,True,False,False,False,False,davidson,British,super_aguri,16,11,0,0,18,4,0,7,1.0,28
+9376,2007,7,indianapolis,True,False,False,False,False,wurz,Austrian,williams,17,10,8,0,8,13,0,4,1.1000000000000083,33
+9385,2007,7,indianapolis,True,False,False,False,False,sato,Japanese,super_aguri,18,19,4,0,12,4,0,7,1.2000000000000028,30
+9383,2007,7,indianapolis,True,False,False,False,False,liuzzi,Italian,toro_rosso,19,17,0,0,22,0,0,8,1.2000000000000028,26
+9379,2007,7,indianapolis,True,False,False,False,False,speed,American,toro_rosso,20,13,0,0,16,0,0,8,1.4000000000000057,24
+9380,2007,7,indianapolis,True,False,False,False,False,sutil,German,spyker,21,14,0,0,20,0,0,10,1.7999999999999972,24
+9381,2007,7,indianapolis,True,False,False,False,False,albers,Dutch,spyker,22,15,0,0,21,0,0,10,2.299999999999997,28

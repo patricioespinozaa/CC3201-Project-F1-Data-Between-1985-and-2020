@@ -1,0 +1,27 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+3013,1990,8,silverstone,True,False,False,False,False,mansell,British,ferrari,1,15,13,0,6,45,3,2,0.0,36
+3001,1990,8,silverstone,True,False,False,False,False,senna,Brazilian,mclaren,2,3,35,3,1,60,3,1,0.6999999999999886,30
+3012,1990,8,silverstone,True,False,False,False,False,berger,Austrian,mclaren,3,14,25,0,3,60,3,1,0.7999999999999972,30
+3000,1990,8,silverstone,True,False,False,False,False,boutsen,Belgian,williams,4,2,11,0,7,21,1,4,0.8999999999999915,33
+2999,1990,8,silverstone,True,False,False,False,False,prost,French,ferrari,5,1,32,3,2,45,3,2,0.8999999999999915,35
+3006,1990,8,silverstone,True,False,False,False,False,alesi,French,tyrrell,6,8,13,0,5,14,0,5,1.0,26
+3019,1990,8,silverstone,True,False,False,False,False,patrese,Italian,williams,7,21,10,1,8,21,1,4,1.2999999999999972,36
+3002,1990,8,silverstone,True,False,False,False,False,bernard,French,larrousse,8,4,1,0,14,1,0,9,1.5999999999999943,25
+3004,1990,8,silverstone,True,False,False,False,False,suzuki,Japanese,larrousse,9,6,0,0,17,1,0,9,1.7999999999999972,29
+3014,1990,8,silverstone,True,False,False,False,False,capelli,Italian,leyton,10,16,6,0,10,6,0,6,1.8999999999999917,27
+3003,1990,8,silverstone,True,False,False,False,False,piquet,Brazilian,benetton,11,5,16,0,4,23,0,3,2.0,37
+3020,1990,8,silverstone,True,False,False,False,False,satoru_nakajima,Japanese,tyrrell,12,22,1,0,15,14,0,5,2.1999999999999886,37
+3021,1990,8,silverstone,True,False,False,False,False,nannini,Italian,benetton,13,23,7,0,9,23,0,3,2.1999999999999886,31
+3015,1990,8,silverstone,True,False,False,False,False,donnelly,British,team_lotus,14,17,0,0,19,1,0,10,2.299999999999997,26
+3024,1990,8,silverstone,True,False,False,False,False,gugelmin,Brazilian,leyton,15,26,0,0,29,6,0,6,2.5999999999999943,27
+3016,1990,8,silverstone,True,False,False,False,False,warwick,British,team_lotus,16,18,1,0,13,1,0,10,2.6999999999999886,35
+3005,1990,8,silverstone,True,False,False,False,False,caffi,Italian,arrows,17,7,2,0,12,2,0,8,2.6999999999999886,26
+3023,1990,8,silverstone,True,False,False,False,False,martini,Italian,minardi,18,25,0,0,16,0,0,11,2.8999999999999915,29
+3009,1990,8,silverstone,True,False,False,False,False,pirro,Italian,dallara,19,11,0,0,0,0,0,14,3.3999999999999915,28
+3007,1990,8,silverstone,True,False,False,False,False,modena,Italian,brabham,20,9,2,0,11,2,0,7,3.6999999999999886,27
+3008,1990,8,silverstone,True,False,False,False,False,larini,Italian,ligier,21,10,0,0,22,0,0,13,3.799999999999997,26
+3011,1990,8,silverstone,True,False,False,False,False,alliot,French,ligier,22,13,0,0,20,0,0,13,3.799999999999997,35
+3022,1990,8,silverstone,True,False,False,False,False,cesaris,Italian,dallara,23,24,0,0,27,0,0,14,3.799999999999997,31
+3010,1990,8,silverstone,True,False,False,False,False,barilla,Italian,minardi,24,12,0,0,23,0,0,11,4.0,29
+3018,1990,8,silverstone,True,False,False,False,False,alboreto,Italian,arrows,25,20,0,0,21,2,0,8,4.199999999999989,33
+3017,1990,8,silverstone,True,False,False,False,False,tarquini,Italian,ags,26,19,0,0,0,0,0,17,4.299999999999997,28

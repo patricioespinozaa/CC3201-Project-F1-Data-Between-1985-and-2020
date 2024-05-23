@@ -1,0 +1,27 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+2775,1989,15,suzuka,False,False,False,False,True,senna,Brazilian,mclaren,1,11,60,6,2,141,10,1,0.0,29
+2776,1989,15,suzuka,False,False,False,False,True,prost,French,mclaren,2,12,76,4,1,141,10,1,1.7999999999999972,34
+2782,1989,15,suzuka,False,False,False,False,True,berger,Austrian,ferrari,3,18,21,1,6,59,3,2,2.200000000000003,30
+2778,1989,15,suzuka,False,False,False,False,True,mansell,British,ferrari,4,14,38,2,3,59,3,2,2.4000000000000057,36
+2766,1989,15,suzuka,False,False,False,False,True,patrese,Italian,williams,5,2,30,0,4,54,1,3,2.9000000000000057,35
+2765,1989,15,suzuka,False,False,False,False,True,nannini,Italian,benetton,6,1,17,0,7,22,0,4,3.0999999999999943,30
+2767,1989,15,suzuka,False,False,False,False,True,boutsen,Belgian,williams,7,3,24,1,5,54,1,3,3.299999999999997,32
+2781,1989,15,suzuka,False,False,False,False,True,alliot,French,larrousse,8,17,1,0,27,1,0,16,3.299999999999997,35
+2777,1989,15,suzuka,False,False,False,False,True,modena,Italian,brabham,9,13,4,0,17,6,0,10,3.5,26
+2786,1989,15,suzuka,False,False,False,False,True,larini,Italian,osella,10,22,0,0,0,0,0,17,3.5,25
+2768,1989,15,suzuka,False,False,False,False,True,piquet,Brazilian,team_lotus,11,4,9,0,8,9,0,7,3.799999999999997,37
+2779,1989,15,suzuka,False,False,False,False,True,satoru_nakajima,Japanese,team_lotus,12,15,0,0,28,9,0,7,4.0,36
+2769,1989,15,suzuka,False,False,False,False,True,brundle,British,brabham,13,5,2,0,23,6,0,10,4.200000000000003,30
+2789,1989,15,suzuka,False,False,False,False,True,sala,Spanish,minardi,14,25,1,0,26,5,0,11,4.299999999999997,30
+2773,1989,15,suzuka,False,False,False,False,True,caffi,Italian,dallara,15,9,4,0,18,8,0,8,4.5,25
+2774,1989,15,suzuka,False,False,False,False,True,cesaris,Italian,dallara,16,10,4,0,15,8,0,8,4.599999999999994,30
+2785,1989,15,suzuka,False,False,False,False,True,capelli,Italian,march,17,21,0,0,30,4,0,12,4.700000000000003,26
+2780,1989,15,suzuka,False,False,False,False,True,alesi,French,tyrrell,18,16,8,0,9,16,0,5,4.700000000000003,25
+2790,1989,15,suzuka,False,False,False,False,True,barilla,Italian,minardi,19,26,0,0,0,5,0,11,4.799999999999997,28
+2771,1989,15,suzuka,False,False,False,False,True,gugelmin,Brazilian,march,20,7,4,0,16,4,0,12,4.900000000000006,26
+2788,1989,15,suzuka,False,False,False,False,True,schneider,German,zakspeed,21,24,0,0,0,0,0,19,4.900000000000006,25
+2783,1989,15,suzuka,False,False,False,False,True,pirro,Italian,benetton,22,19,0,0,29,22,0,4,5.099999999999994,27
+2784,1989,15,suzuka,False,False,False,False,True,grouillard,French,ligier,23,20,1,0,24,3,0,14,5.400000000000006,31
+2772,1989,15,suzuka,False,False,False,False,True,cheever,American,arrows,24,8,6,0,10,12,0,6,5.5,31
+2770,1989,15,suzuka,False,False,False,False,True,warwick,British,arrows,25,6,6,0,13,12,0,6,5.599999999999994,35
+2787,1989,15,suzuka,False,False,False,False,True,palmer,British,tyrrell,26,23,2,0,22,16,0,5,5.799999999999997,32

@@ -1,0 +1,23 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+6649,1999,15,sepang,False,False,True,False,False,michael_schumacher,German,ferrari,1,2,32,2,6,102,5,2,0.0,30
+6648,1999,15,sepang,False,False,True,False,False,irvine,British,ferrari,2,1,60,3,2,102,5,2,0.8999999999999915,33
+6663,1999,15,sepang,False,False,True,False,False,coulthard,British,mclaren,3,16,48,2,4,110,6,1,1.0999999999999943,28
+6650,1999,15,sepang,False,False,True,False,False,hakkinen,Finnish,mclaren,4,3,62,4,1,110,6,1,1.2000000000000028,31
+6651,1999,15,sepang,False,False,True,False,False,herbert,British,stewart,5,4,12,1,9,31,1,5,1.2000000000000028,35
+6652,1999,15,sepang,False,False,True,False,False,barrichello,Brazilian,stewart,6,5,19,0,7,31,1,5,1.7000000000000028,27
+6655,1999,15,sepang,False,False,True,False,False,wurz,Austrian,benetton,7,8,3,0,13,16,0,6,1.7000000000000028,25
+6664,1999,15,sepang,False,False,True,False,False,ralf_schumacher,German,williams,8,17,33,0,5,33,0,4,1.8999999999999917,24
+6668,1999,15,sepang,False,False,True,False,False,damon_hill,British,jordan,9,21,7,0,12,57,2,3,2.3999999999999915,39
+6659,1999,15,sepang,False,False,True,False,False,villeneuve,Canadian,bar,10,12,0,0,23,0,0,11,2.3999999999999915,28
+6658,1999,15,sepang,False,False,True,False,False,fisichella,Italian,benetton,11,11,13,0,8,16,0,6,2.3999999999999915,26
+6667,1999,15,sepang,False,False,True,False,False,panis,French,prost,12,20,2,0,15,9,0,7,2.5,33
+6666,1999,15,sepang,False,False,True,False,False,zonta,Brazilian,bar,13,19,0,0,21,0,0,11,2.5999999999999943,23
+6653,1999,15,sepang,False,False,True,False,False,frentzen,German,jordan,14,6,50,2,3,57,2,3,2.700000000000003,32
+6654,1999,15,sepang,False,False,True,False,False,alesi,French,sauber,15,7,1,0,17,4,0,8,2.799999999999997,35
+6657,1999,15,sepang,False,False,True,False,False,zanardi,Italian,williams,16,10,0,0,19,33,0,4,3.200000000000003,32
+6660,1999,15,sepang,False,False,True,False,False,diniz,Brazilian,sauber,17,13,3,0,14,4,0,8,3.200000000000003,29
+6669,1999,15,sepang,False,False,True,False,False,trulli,Italian,prost,18,22,7,0,11,9,0,7,3.200000000000003,25
+6656,1999,15,sepang,False,False,True,False,False,gene,Spanish,minardi,19,9,1,0,16,1,0,10,3.899999999999992,25
+6661,1999,15,sepang,False,False,True,False,False,rosa,Spanish,arrows,20,14,1,0,18,1,0,9,3.899999999999992,28
+6662,1999,15,sepang,False,False,True,False,False,badoer,Italian,minardi,21,15,0,0,22,1,0,10,4.599999999999994,28
+6665,1999,15,sepang,False,False,True,False,False,takagi,Japanese,arrows,22,18,0,0,20,1,0,9,4.899999999999992,25

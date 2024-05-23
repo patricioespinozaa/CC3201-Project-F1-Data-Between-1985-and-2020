@@ -1,0 +1,20 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+13318,2017,1,albert_park,False,False,False,False,False,hamilton,British,mercedes,1,2,0,0,0,0,0,0,0.0,32
+13317,2017,1,albert_park,False,False,False,False,False,vettel,German,ferrari,2,1,0,0,0,0,0,0,0.2999999999999971,29
+13319,2017,1,albert_park,False,False,False,False,False,bottas,Finnish,mercedes,3,3,0,0,0,0,0,0,0.2999999999999971,27
+13320,2017,1,albert_park,False,False,False,False,False,raikkonen,Finnish,ferrari,4,4,0,0,0,0,0,0,0.7999999999999972,37
+13321,2017,1,albert_park,False,False,False,False,False,max_verstappen,Dutch,red_bull,5,5,0,0,0,0,0,0,1.2999999999999972,19
+13335,2017,1,albert_park,False,False,False,False,False,grosjean,French,haas,6,20,0,0,0,0,0,0,1.8999999999999917,30
+13322,2017,1,albert_park,False,False,False,False,False,massa,Brazilian,williams,7,6,0,0,0,0,0,0,2.200000000000003,35
+13324,2017,1,albert_park,False,False,False,False,False,sainz,Spanish,toro_rosso,8,8,0,0,0,0,0,0,2.299999999999997,22
+13325,2017,1,albert_park,False,False,False,False,False,kvyat,Russian,toro_rosso,9,9,0,0,0,0,0,0,2.299999999999997,22
+13323,2017,1,albert_park,False,False,False,False,False,perez,Mexican,force_india,10,7,0,0,0,0,0,0,2.8999999999999915,27
+13327,2017,1,albert_park,False,False,False,False,False,hulkenberg,German,renault,11,11,0,0,0,0,0,0,2.8999999999999915,29
+13330,2017,1,albert_park,False,False,False,False,False,alonso,Spanish,mclaren,12,14,0,0,0,0,0,0,3.200000000000003,35
+13326,2017,1,albert_park,False,False,False,False,False,ocon,French,force_india,13,10,0,0,0,0,0,0,3.3999999999999915,20
+13333,2017,1,albert_park,False,False,False,False,False,ericsson,Swedish,sauber,14,18,0,0,0,0,0,0,4.299999999999997,26
+13328,2017,1,albert_park,False,False,False,False,False,giovinazzi,Italian,sauber,16,12,0,0,0,0,0,0,4.200000000000003,23
+13331,2017,1,albert_park,False,False,False,False,False,kevin_magnussen,Danish,haas,17,15,0,0,0,0,0,0,4.599999999999994,24
+13329,2017,1,albert_park,False,False,False,False,False,vandoorne,Belgian,mclaren,18,13,0,0,0,0,0,0,4.700000000000003,25
+13334,2017,1,albert_park,False,False,False,False,False,jolyon_palmer,British,renault,19,19,0,0,0,0,0,0,6.0,26
+13332,2017,1,albert_park,False,False,False,False,False,stroll,Canadian,williams,20,16,0,0,0,0,0,0,4.899999999999992,18

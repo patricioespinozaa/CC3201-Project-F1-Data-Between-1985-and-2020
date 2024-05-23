@@ -1,0 +1,26 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+1170,1986,1,jacarepagua,True,False,True,False,False,senna,Brazilian,team_lotus,1,2,0,0,0,0,0,0,0.0,26
+1169,1986,1,jacarepagua,True,False,True,False,False,piquet,Brazilian,williams,2,1,0,0,0,0,0,0,0.7999999999999972,33
+1193,1986,1,jacarepagua,True,False,True,False,False,mansell,British,williams,3,25,0,0,0,0,0,0,1.2000000000000028,32
+1172,1986,1,jacarepagua,True,False,True,False,False,arnoux,French,ligier,4,4,0,0,0,0,0,0,1.5999999999999943,37
+1171,1986,1,jacarepagua,True,False,True,False,False,laffite,French,ligier,5,3,0,0,0,0,0,0,1.7000000000000028,42
+1180,1986,1,jacarepagua,True,False,True,False,False,alboreto,Italian,ferrari,6,12,0,0,0,0,0,0,2.0,29
+1191,1986,1,jacarepagua,True,False,True,False,False,keke_rosberg,Finnish,mclaren,7,23,0,0,0,0,0,0,2.200000000000003,37
+1183,1986,1,jacarepagua,True,False,True,False,False,johansson,Swedish,ferrari,8,15,0,0,0,0,0,0,2.200000000000003,29
+1181,1986,1,jacarepagua,True,False,True,False,False,prost,French,mclaren,9,13,0,0,0,0,0,0,2.5999999999999943,31
+1185,1986,1,jacarepagua,True,False,True,False,False,patrese,Italian,brabham,10,17,0,0,0,0,0,0,3.799999999999997,31
+1177,1986,1,jacarepagua,True,False,True,False,False,dumfries,British,team_lotus,11,9,0,0,0,0,0,0,4.0,27
+1178,1986,1,jacarepagua,True,False,True,False,False,fabi,Italian,benetton,12,10,0,0,0,0,0,0,4.200000000000003,31
+1184,1986,1,jacarepagua,True,False,True,False,False,tambay,French,lola,13,16,0,0,0,0,0,0,5.099999999999994,36
+1176,1986,1,jacarepagua,True,False,True,False,False,angelis,Italian,brabham,14,8,0,0,0,0,0,0,5.599999999999994,27
+1179,1986,1,jacarepagua,True,False,True,False,False,boutsen,Belgian,arrows,15,11,0,0,0,0,0,0,5.700000000000003,28
+1174,1986,1,jacarepagua,True,False,True,False,False,berger,Austrian,benetton,16,6,0,0,0,0,0,0,5.799999999999997,26
+1173,1986,1,jacarepagua,True,False,True,False,False,brundle,British,tyrrell,17,5,0,0,0,0,0,0,6.5,26
+1175,1986,1,jacarepagua,True,False,True,False,False,streiff,French,tyrrell,18,7,0,0,0,0,0,0,6.900000000000006,30
+1192,1986,1,jacarepagua,True,False,True,False,False,jones,Australian,lola,19,24,0,0,0,0,0,0,7.700000000000003,39
+1187,1986,1,jacarepagua,True,False,True,False,False,surer,Swiss,arrows,20,19,0,0,0,0,0,0,8.299999999999997,34
+1186,1986,1,jacarepagua,True,False,True,False,False,palmer,British,zakspeed,21,18,0,0,0,0,0,0,8.299999999999997,29
+1189,1986,1,jacarepagua,True,False,True,False,False,cesaris,Italian,minardi,22,21,0,0,0,0,0,0,9.099999999999994,26
+1190,1986,1,jacarepagua,True,False,True,False,False,ghinzani,Italian,osella,23,22,0,0,0,0,0,0,10.5,34
+1182,1986,1,jacarepagua,True,False,True,False,False,danner,German,osella,24,14,0,0,0,0,0,0,11.099999999999994,27
+1188,1986,1,jacarepagua,True,False,True,False,False,nannini,Italian,minardi,25,20,0,0,0,0,0,0,12.0,26

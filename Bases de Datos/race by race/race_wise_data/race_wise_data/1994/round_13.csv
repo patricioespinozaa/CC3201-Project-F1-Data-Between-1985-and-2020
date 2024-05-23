@@ -1,0 +1,27 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+4799,1994,13,estoril,True,False,False,False,False,berger,Austrian,ferrari,1,26,33,1,3,58,1,3,0.0,35
+4774,1994,13,estoril,True,False,False,False,False,damon_hill,British,williams,2,1,65,4,2,73,4,2,0.2000000000000028,34
+4775,1994,13,estoril,True,False,False,False,False,coulthard,British,williams,3,2,8,0,10,73,4,2,0.4000000000000057,23
+4776,1994,13,estoril,True,False,False,False,False,hakkinen,Finnish,mclaren,4,3,18,0,5,29,0,4,0.7000000000000028,25
+4794,1994,13,estoril,True,False,False,False,False,alesi,French,ferrari,5,21,19,0,4,58,1,3,0.9000000000000057,30
+4798,1994,13,estoril,True,False,False,False,False,katayama,Japanese,tyrrell,6,25,5,0,15,13,0,6,1.0,31
+4779,1994,13,estoril,True,False,False,False,False,brundle,British,mclaren,7,6,11,0,7,29,0,4,1.1000000000000083,35
+4777,1994,13,estoril,True,False,False,False,False,barrichello,Brazilian,jordan,8,4,13,0,6,17,0,5,1.2000000000000028,22
+4796,1994,13,estoril,True,False,False,False,False,frentzen,German,sauber,9,23,5,0,14,10,0,8,1.3000000000000114,27
+4778,1994,13,estoril,True,False,False,False,False,verstappen,Dutch,benetton,10,5,8,0,8,85,7,1,1.4000000000000057,22
+4781,1994,13,estoril,True,False,False,False,False,fittipaldi,Brazilian,footwork,11,8,6,0,13,9,0,9,1.5,23
+4791,1994,13,estoril,True,False,False,False,False,blundell,British,tyrrell,12,18,8,0,9,13,0,6,1.7000000000000028,28
+4780,1994,13,estoril,True,False,False,False,False,irvine,British,jordan,13,7,1,0,24,17,0,5,1.7000000000000028,28
+4792,1994,13,estoril,True,False,False,False,False,lehto,Finnish,benetton,14,19,1,0,23,85,7,1,1.8000000000000114,28
+4790,1994,13,estoril,True,False,False,False,False,panis,French,ligier,15,17,7,0,11,11,0,7,2.1000000000000085,28
+4782,1994,13,estoril,True,False,False,False,False,morbidelli,Italian,footwork,16,9,3,0,20,9,0,9,2.200000000000003,26
+4793,1994,13,estoril,True,False,False,False,False,cesaris,Italian,sauber,17,20,4,0,18,10,0,8,2.300000000000012,35
+4785,1994,13,estoril,True,False,False,False,False,martini,Italian,minardi,18,12,4,0,19,5,0,10,2.6000000000000085,33
+4786,1994,13,estoril,True,False,False,False,False,alboreto,Italian,minardi,19,13,1,0,22,5,0,10,2.800000000000012,37
+4784,1994,13,estoril,True,False,False,False,False,herbert,British,team_lotus,20,11,0,0,25,0,0,12,2.800000000000012,30
+4783,1994,13,estoril,True,False,False,False,False,bernard,French,ligier,21,10,4,0,16,11,0,7,3.1000000000000085,30
+4797,1994,13,estoril,True,False,False,False,False,comas,French,larrousse,22,24,2,0,21,2,0,11,3.6000000000000085,30
+4787,1994,13,estoril,True,False,False,False,False,dalmas,French,larrousse,23,14,0,0,0,2,0,11,3.8000000000000114,33
+4795,1994,13,estoril,True,False,False,False,False,brabham,Australian,simtek,24,22,0,0,30,0,0,13,3.9000000000000057,29
+4789,1994,13,estoril,True,False,False,False,False,adams,Belgian,team_lotus,25,16,0,0,0,0,0,12,4.700000000000003,24
+4788,1994,13,estoril,True,False,False,False,False,gounon,French,simtek,26,15,0,0,28,0,0,13,5.0,31

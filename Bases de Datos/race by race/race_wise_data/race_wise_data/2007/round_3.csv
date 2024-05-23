@@ -1,0 +1,23 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+9279,2007,3,bahrain,False,False,False,False,False,massa,Brazilian,ferrari,1,1,7,0,6,23,1,1,0.0,25
+9280,2007,3,bahrain,False,False,False,False,False,hamilton,British,mclaren,2,2,14,0,3,32,1,11,0.2000000000000028,22
+9281,2007,3,bahrain,False,False,False,False,False,raikkonen,Finnish,ferrari,3,3,16,1,2,23,1,1,0.3999999999999915,27
+9283,2007,3,bahrain,False,False,False,False,False,alonso,Spanish,mclaren,4,5,18,1,1,32,1,11,0.5,25
+9282,2007,3,bahrain,False,False,False,False,False,heidfeld,German,bmw_sauber,5,4,10,0,4,10,0,2,0.7000000000000028,29
+9284,2007,3,bahrain,False,False,False,False,False,kubica,Polish,bmw_sauber,6,6,0,0,20,10,0,2,1.0,22
+9286,2007,3,bahrain,False,False,False,False,False,fisichella,Italian,renault,7,8,7,0,5,8,0,3,1.3999999999999917,34
+9295,2007,3,bahrain,False,False,False,False,False,webber,Australian,red_bull,8,17,0,0,12,0,0,6,1.3999999999999917,30
+9285,2007,3,bahrain,False,False,False,False,False,trulli,Italian,toyota,9,7,2,0,7,3,0,4,1.5,32
+9288,2007,3,bahrain,False,False,False,False,False,rosberg,German,williams,10,10,2,0,8,2,0,5,1.7000000000000028,21
+9289,2007,3,bahrain,False,False,False,False,False,wurz,Austrian,williams,11,11,0,0,11,2,0,5,0.2000000000000028,33
+9287,2007,3,bahrain,False,False,False,False,False,kovalainen,Finnish,renault,12,9,1,0,9,8,0,3,0.2000000000000028,25
+9294,2007,3,bahrain,False,False,False,False,False,davidson,British,super_aguri,13,16,0,0,18,0,0,8,0.3999999999999915,27
+9290,2007,3,bahrain,False,False,False,False,False,ralf_schumacher,German,toyota,14,12,1,0,10,3,0,4,0.5999999999999943,31
+9291,2007,3,bahrain,False,False,False,False,False,barrichello,Brazilian,honda,15,13,0,0,13,0,0,7,0.8999999999999915,34
+9299,2007,3,bahrain,False,False,False,False,False,button,British,honda,16,21,0,0,15,0,0,7,1.0,27
+9297,2007,3,bahrain,False,False,False,False,False,sato,Japanese,super_aguri,17,19,0,0,14,0,0,8,1.2999999999999972,30
+9298,2007,3,bahrain,False,False,False,False,False,liuzzi,Italian,toro_rosso,18,20,0,0,16,0,0,9,1.2999999999999972,26
+9300,2007,3,bahrain,False,False,False,False,False,speed,American,toro_rosso,19,22,0,0,17,0,0,9,1.5999999999999943,24
+9293,2007,3,bahrain,False,False,False,False,False,sutil,German,spyker,20,15,0,0,19,0,0,10,2.5999999999999943,24
+9296,2007,3,bahrain,False,False,False,False,False,coulthard,British,red_bull,21,18,0,0,0,0,0,6,2.5999999999999943,36
+9292,2007,3,bahrain,False,False,False,False,False,albers,Dutch,spyker,22,14,0,0,0,0,0,10,2.799999999999997,27

@@ -1,0 +1,23 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+10847,2011,5,catalunya,True,False,False,False,False,webber,Australian,red_bull,1,4,55,0,3,148,3,1,0.0,34
+10844,2011,5,catalunya,True,False,False,False,False,vettel,German,red_bull,2,1,93,3,1,148,3,1,0.2000000000000028,23
+10845,2011,5,catalunya,True,False,False,False,False,hamilton,British,mclaren,3,2,59,1,2,105,1,2,1.0,26
+10848,2011,5,catalunya,True,False,False,False,False,alonso,Spanish,ferrari,4,5,41,0,5,65,0,3,1.0,29
+10846,2011,5,catalunya,True,False,False,False,False,button,British,mclaren,5,3,46,0,4,105,1,2,1.0,31
+10854,2011,5,catalunya,True,False,False,False,False,petrov,Russian,renault,6,11,21,0,8,42,0,4,1.5,26
+10850,2011,5,catalunya,True,False,False,False,False,rosberg,German,mercedes,7,7,20,0,9,26,0,5,1.5999999999999943,25
+10865,2011,5,catalunya,True,False,False,False,False,massa,Brazilian,ferrari,8,22,24,0,6,65,0,3,1.9000000000000057,30
+10858,2011,5,catalunya,True,False,False,False,False,maldonado,Venezuelan,williams,9,15,0,0,22,0,0,10,2.0,26
+10857,2011,5,catalunya,True,False,False,False,False,buemi,Swiss,toro_rosso,11,14,6,0,12,6,0,7,2.200000000000003,22
+10852,2011,5,catalunya,True,False,False,False,False,perez,Mexican,sauber,12,9,0,0,18,8,0,6,2.4000000000000057,21
+10859,2011,5,catalunya,True,False,False,False,False,alguersuari,Spanish,toro_rosso,13,16,0,0,15,6,0,7,2.700000000000003,21
+10853,2011,5,catalunya,True,False,False,False,False,kobayashi,Japanese,sauber,14,10,8,0,10,8,0,6,2.700000000000003,24
+10866,2011,5,catalunya,True,False,False,False,False,kovalainen,Finnish,lotus_racing,15,23,0,0,20,0,0,9,4.400000000000006,29
+10855,2011,5,catalunya,True,False,False,False,False,resta,British,force_india,16,12,2,0,14,4,0,8,5.099999999999994,25
+10856,2011,5,catalunya,True,False,False,False,False,sutil,German,force_india,17,13,2,0,13,4,0,8,5.599999999999994,28
+10861,2011,5,catalunya,True,False,False,False,False,trulli,Italian,lotus_racing,18,18,0,0,17,0,0,9,5.5,36
+10860,2011,5,catalunya,True,False,False,False,False,barrichello,Brazilian,williams,19,17,0,0,16,0,0,10,5.900000000000006,38
+10862,2011,5,catalunya,True,False,False,False,False,glock,German,virgin,20,19,0,0,21,0,0,11,6.299999999999997,29
+10867,2011,5,catalunya,True,False,False,False,False,liuzzi,Italian,hrt,21,24,0,0,24,0,0,12,6.799999999999997,30
+10864,2011,5,catalunya,True,False,False,False,False,karthikeyan,Indian,hrt,22,21,0,0,23,0,0,12,6.900000000000006,34
+10863,2011,5,catalunya,True,False,False,False,False,ambrosio,Belgian,virgin,23,20,0,0,19,0,0,11,7.599999999999994,25

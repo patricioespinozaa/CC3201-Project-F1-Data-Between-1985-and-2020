@@ -1,0 +1,23 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+6138,1998,7,villeneuve,False,True,False,False,True,coulthard,British,mclaren,1,15,29,1,2,75,5,1,0.0,27
+6141,1998,7,villeneuve,False,True,False,False,True,hakkinen,Finnish,mclaren,2,18,46,4,1,75,5,1,0.0999999999999943,29
+6124,1998,7,villeneuve,False,True,False,False,True,michael_schumacher,German,ferrari,3,1,24,1,3,39,1,2,0.2999999999999971,29
+6125,1998,7,villeneuve,False,True,False,False,True,fisichella,Italian,benetton,4,2,7,0,8,16,0,3,0.5999999999999943,25
+6142,1998,7,villeneuve,False,True,False,False,True,ralf_schumacher,German,jordan,5,19,0,0,14,0,0,8,1.0,22
+6133,1998,7,villeneuve,False,True,False,False,True,villeneuve,Canadian,williams,6,10,8,0,7,16,0,4,1.3999999999999917,27
+6137,1998,7,villeneuve,False,True,False,False,True,frentzen,German,williams,7,14,8,0,6,16,0,4,1.3999999999999917,31
+6126,1998,7,villeneuve,False,True,False,False,True,irvine,British,ferrari,8,3,15,0,4,39,1,2,1.3999999999999917,32
+6143,1998,7,villeneuve,False,True,False,False,True,alesi,French,sauber,9,20,3,0,10,4,0,6,1.5,33
+6135,1998,7,villeneuve,False,True,False,False,True,damon_hill,British,jordan,10,12,0,0,15,0,0,8,1.5,37
+6127,1998,7,villeneuve,False,True,False,False,True,wurz,Austrian,benetton,11,4,9,0,5,16,0,3,1.5999999999999943,24
+6139,1998,7,villeneuve,False,True,False,False,True,herbert,British,sauber,12,16,1,0,12,4,0,6,1.5999999999999943,33
+6128,1998,7,villeneuve,False,True,False,False,True,barrichello,Brazilian,stewart,13,5,2,0,11,2,0,7,1.7999999999999972,26
+6144,1998,7,villeneuve,False,True,False,False,True,trulli,Italian,prost,14,21,0,0,18,0,0,10,2.0,23
+6136,1998,7,villeneuve,False,True,False,False,True,panis,French,prost,15,13,0,0,17,0,0,10,2.0999999999999943,31
+6145,1998,7,villeneuve,False,True,False,False,True,takagi,Japanese,tyrrell,16,22,0,0,21,0,0,11,2.0999999999999943,24
+6140,1998,7,villeneuve,False,True,False,False,True,salo,Finnish,arrows,17,17,3,0,9,4,0,5,2.299999999999997,31
+6130,1998,7,villeneuve,False,True,False,False,True,nakano,Japanese,minardi,18,7,0,0,19,0,0,9,3.0,27
+6132,1998,7,villeneuve,False,True,False,False,True,diniz,Brazilian,arrows,19,9,1,0,13,4,0,5,3.0999999999999943,28
+6129,1998,7,villeneuve,False,True,False,False,True,magnussen,Danish,stewart,20,6,0,0,20,2,0,7,3.3999999999999915,24
+6134,1998,7,villeneuve,False,True,False,False,True,tuero,Argentine,minardi,21,11,0,0,16,0,0,9,3.5999999999999943,20
+6131,1998,7,villeneuve,False,True,False,False,True,rosset,Brazilian,tyrrell,22,8,0,0,22,0,0,11,3.5999999999999943,29

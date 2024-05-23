@@ -1,0 +1,27 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+1856,1987,12,estoril,False,False,True,False,False,berger,Austrian,ferrari,1,2,12,0,6,20,0,4,0.0,28
+1878,1987,12,estoril,False,False,True,False,False,mansell,British,williams,2,24,43,4,3,106,7,1,0.4000000000000057,34
+1855,1987,12,estoril,False,False,True,False,False,prost,French,mclaren,3,1,31,2,4,51,2,3,0.4000000000000057,32
+1857,1987,12,estoril,False,False,True,False,False,piquet,Brazilian,williams,4,3,63,3,1,106,7,1,0.6000000000000085,35
+1861,1987,12,estoril,False,False,True,False,False,senna,Brazilian,team_lotus,5,7,49,2,2,55,2,2,0.8000000000000114,27
+1870,1987,12,estoril,False,False,True,False,False,alboreto,Italian,ferrari,6,16,8,0,8,20,0,4,0.9000000000000057,30
+1879,1987,12,estoril,False,False,True,False,False,patrese,Italian,brabham,7,25,2,0,17,6,0,8,2.4000000000000057,33
+1859,1987,12,estoril,False,False,True,False,False,johansson,Swedish,mclaren,8,5,20,0,5,51,2,3,2.5,31
+1868,1987,12,estoril,False,False,True,False,False,boutsen,Belgian,benetton,9,14,10,0,7,17,0,5,2.700000000000003,30
+1858,1987,12,estoril,False,False,True,False,False,fabi,Italian,benetton,10,4,7,0,9,17,0,5,2.9000000000000057,32
+1860,1987,12,estoril,False,False,True,False,False,cheever,American,arrows,11,6,4,0,13,7,0,7,3.6000000000000085,29
+1867,1987,12,estoril,False,False,True,False,False,warwick,British,arrows,12,13,3,0,15,7,0,7,3.8000000000000114,33
+1869,1987,12,estoril,False,False,True,False,False,cesaris,Italian,brabham,13,15,4,0,11,6,0,8,4.1000000000000085,28
+1865,1987,12,estoril,False,False,True,False,False,nannini,Italian,minardi,14,11,0,0,24,0,0,14,4.200000000000003,28
+1862,1987,12,estoril,False,False,True,False,False,satoru_nakajima,Japanese,team_lotus,15,8,6,0,10,55,2,2,4.6000000000000085,34
+1880,1987,12,estoril,False,False,True,False,False,danner,German,zakspeed,16,26,0,0,22,2,0,9,4.800000000000011,29
+1871,1987,12,estoril,False,False,True,False,False,brundle,British,zakspeed,17,17,2,0,16,2,0,9,4.800000000000011,28
+1874,1987,12,estoril,False,False,True,False,False,arnoux,French,ligier,18,20,1,0,19,1,0,10,5.6000000000000085,39
+1873,1987,12,estoril,False,False,True,False,False,alliot,French,larrousse,19,19,1,0,18,1,0,11,6.0,33
+1877,1987,12,estoril,False,False,True,False,False,campos,Spanish,minardi,20,23,0,0,26,0,0,14,6.0,27
+1866,1987,12,estoril,False,False,True,False,False,streiff,French,tyrrell,21,12,4,0,12,8,0,6,6.200000000000003,32
+1863,1987,12,estoril,False,False,True,False,False,capelli,Italian,march,22,9,1,0,20,1,0,12,6.300000000000011,24
+1876,1987,12,estoril,False,False,True,False,False,ghinzani,Italian,ligier,23,22,0,0,21,1,0,10,6.5,35
+1864,1987,12,estoril,False,False,True,False,False,palmer,British,tyrrell,24,10,4,0,14,8,0,6,6.6000000000000085,30
+1875,1987,12,estoril,False,False,True,False,False,caffi,Italian,osella,25,21,0,0,25,0,0,15,7.200000000000003,23
+1872,1987,12,estoril,False,False,True,False,False,forini,Swiss,osella,26,18,0,0,28,0,0,15,9.0,28

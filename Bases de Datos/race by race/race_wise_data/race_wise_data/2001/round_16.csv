@@ -1,0 +1,23 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+7393,2001,16,indianapolis,False,False,False,False,False,michael_schumacher,German,ferrari,1,2,107,8,1,161,8,1,0.0,32
+7411,2001,16,indianapolis,False,False,False,False,False,ralf_schumacher,German,williams,2,20,48,3,4,73,4,3,0.2999999999999971,26
+7409,2001,16,indianapolis,False,False,False,False,False,montoya,Colombian,williams,3,18,25,1,5,73,4,3,0.5999999999999943,26
+7392,2001,16,indianapolis,False,False,False,False,False,hakkinen,Finnish,mclaren,4,1,24,1,6,81,3,2,0.5999999999999943,33
+7406,2001,16,indianapolis,False,False,False,False,False,barrichello,Brazilian,ferrari,5,15,54,0,3,161,8,1,0.5999999999999943,29
+7397,2001,16,indianapolis,False,False,False,False,False,heidfeld,German,sauber,6,6,11,0,8,20,0,4,0.7000000000000028,24
+7394,2001,16,indianapolis,False,False,False,False,False,coulthard,British,mclaren,7,3,57,2,2,81,3,2,0.7999999999999972,30
+7395,2001,16,indianapolis,False,False,False,False,False,trulli,Italian,jordan,8,4,9,0,10,16,0,6,0.8999999999999915,27
+7398,2001,16,indianapolis,False,False,False,False,False,alesi,French,jordan,9,7,5,0,14,16,0,6,0.8999999999999915,37
+7400,2001,16,indianapolis,False,False,False,False,False,button,British,benetton,10,9,2,0,17,10,0,7,1.0999999999999943,21
+7413,2001,16,indianapolis,False,False,False,False,False,raikkonen,Finnish,sauber,11,22,9,0,9,20,0,4,1.2000000000000028,21
+7399,2001,16,indianapolis,False,False,False,False,False,fisichella,Italian,benetton,12,8,8,0,11,10,0,7,1.2000000000000028,28
+7402,2001,16,indianapolis,False,False,False,False,False,panis,French,bar,13,11,5,0,13,17,0,5,1.3999999999999917,35
+7396,2001,16,indianapolis,False,False,False,False,False,irvine,British,jaguar,14,5,4,0,15,7,0,8,1.5,35
+7401,2001,16,indianapolis,False,False,False,False,False,frentzen,German,prost,15,10,6,0,12,4,0,9,1.5999999999999943,34
+7403,2001,16,indianapolis,False,False,False,False,False,rosa,Spanish,jaguar,16,12,3,0,16,7,0,8,2.0,30
+7412,2001,16,indianapolis,False,False,False,False,False,alonso,Spanish,minardi,17,21,0,0,23,0,0,11,2.299999999999997,20
+7407,2001,16,indianapolis,False,False,False,False,False,villeneuve,Canadian,bar,18,16,12,0,7,17,0,5,2.299999999999997,30
+7404,2001,16,indianapolis,False,False,False,False,False,bernoldi,Brazilian,arrows,19,13,0,0,21,1,0,10,2.3999999999999915,22
+7408,2001,16,indianapolis,False,False,False,False,False,verstappen,Dutch,arrows,20,17,1,0,18,1,0,10,2.3999999999999915,29
+7405,2001,16,indianapolis,False,False,False,False,False,enge,Czech,prost,21,14,0,0,24,4,0,9,2.5,25
+7410,2001,16,indianapolis,False,False,False,False,False,yoong,Malaysian,minardi,22,19,0,0,0,0,0,11,3.5,25

@@ -1,0 +1,20 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+7988,2003,11,silverstone,True,False,False,False,True,barrichello,Brazilian,ferrari,1,1,39,0,5,103,4,1,0.0,31
+7993,2003,11,silverstone,True,False,False,False,True,trulli,Italian,renault,2,6,13,0,8,52,0,4,0.2000000000000028,29
+7990,2003,11,silverstone,True,False,False,False,True,raikkonen,Finnish,mclaren,3,3,56,1,2,85,2,3,0.5,23
+7996,2003,11,silverstone,True,False,False,False,True,ralf_schumacher,German,williams,4,9,53,2,3,100,3,2,0.5,28
+7991,2003,11,silverstone,True,False,False,False,True,michael_schumacher,German,ferrari,5,4,64,4,1,103,4,1,0.7000000000000028,34
+7994,2003,11,silverstone,True,False,False,False,True,matta,Brazilian,toyota,6,7,3,0,14,5,0,9,0.8999999999999915,29
+7989,2003,11,silverstone,True,False,False,False,True,montoya,Colombian,williams,7,2,47,1,4,100,3,2,1.0,27
+8005,2003,11,silverstone,True,False,False,False,True,alonso,Spanish,renault,8,18,39,0,6,52,0,4,1.2000000000000028,21
+7997,2003,11,silverstone,True,False,False,False,True,villeneuve,Canadian,bar,9,10,3,0,13,13,0,5,1.3999999999999917,32
+8007,2003,11,silverstone,True,False,False,False,True,pizzonia,Brazilian,jaguar,10,20,0,0,18,12,0,6,1.3999999999999917,22
+8001,2003,11,silverstone,True,False,False,False,True,webber,Australian,jaguar,11,14,12,0,9,12,0,6,1.3999999999999917,26
+7992,2003,11,silverstone,True,False,False,False,True,coulthard,British,mclaren,12,5,29,1,7,85,2,3,1.5999999999999943,32
+7998,2003,11,silverstone,True,False,False,False,True,panis,French,toyota,13,11,2,0,15,5,0,9,1.7999999999999972,36
+7999,2003,11,silverstone,True,False,False,False,True,frentzen,German,sauber,14,12,7,0,12,9,0,8,2.0,36
+8006,2003,11,silverstone,True,False,False,False,True,fisichella,Italian,jordan,15,19,10,1,10,11,1,7,2.3999999999999915,30
+8004,2003,11,silverstone,True,False,False,False,True,heidfeld,German,sauber,16,17,2,0,16,9,0,8,2.5999999999999943,26
+8000,2003,11,silverstone,True,False,False,False,True,firman,Irish,jordan,17,13,1,0,17,11,1,7,3.200000000000003,28
+8003,2003,11,silverstone,True,False,False,False,True,wilson,British,minardi,18,16,0,0,20,0,0,10,4.299999999999997,24
+8002,2003,11,silverstone,True,False,False,False,True,verstappen,Dutch,minardi,19,15,0,0,19,0,0,10,4.599999999999994,31

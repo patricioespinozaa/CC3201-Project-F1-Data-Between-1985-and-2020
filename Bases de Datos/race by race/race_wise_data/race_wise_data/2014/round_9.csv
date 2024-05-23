@@ -1,0 +1,21 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+12284,2014,9,silverstone,False,False,False,False,True,rosberg,German,mercedes,1,18,165,3,1,301,7,1,0.0,29
+12271,2014,9,silverstone,False,False,False,False,True,vettel,German,red_bull,2,5,60,0,5,143,1,2,1.6000000000000083,27
+12270,2014,9,silverstone,False,False,False,False,True,button,British,mclaren,3,4,43,0,8,72,0,6,2.4000000000000057,34
+12274,2014,9,silverstone,False,False,False,False,True,hulkenberg,German,force_india,4,8,59,0,6,87,0,4,2.5,26
+12273,2014,9,silverstone,False,False,False,False,True,kevin_magnussen,Danish,mclaren,5,7,29,0,10,72,0,6,2.6000000000000085,21
+12267,2014,9,silverstone,False,False,False,False,True,hamilton,British,mercedes,6,1,136,4,2,301,7,1,3.4000000000000057,29
+12277,2014,9,silverstone,False,False,False,False,True,perez,Mexican,force_india,7,11,28,0,11,87,0,4,4.700000000000003,24
+12269,2014,9,silverstone,False,False,False,False,True,ricciardo,Australian,red_bull,8,3,83,1,3,143,1,2,4.799999999999997,25
+12275,2014,9,silverstone,False,False,False,False,True,kvyat,Russian,toro_rosso,9,9,4,0,15,12,0,7,4.900000000000006,20
+12276,2014,9,silverstone,False,False,False,False,True,vergne,French,toro_rosso,10,10,8,0,14,12,0,7,5.1000000000000085,24
+12278,2014,9,silverstone,False,False,False,False,True,grosjean,French,lotus_f1,11,12,8,0,13,8,0,8,2.700000000000003,28
+12280,2014,9,silverstone,False,False,False,False,True,jules_bianchi,French,marussia,12,14,2,0,16,2,0,9,2.9000000000000057,24
+12268,2014,9,silverstone,False,False,False,False,True,bottas,Finnish,williams,14,2,55,0,7,85,0,5,9.5,24
+12287,2014,9,silverstone,False,False,False,False,True,massa,Brazilian,williams,15,21,30,0,9,85,0,5,9.900000000000006,33
+12272,2014,9,silverstone,False,False,False,False,True,alonso,Spanish,ferrari,16,6,79,0,4,98,0,3,10.100000000000009,32
+12282,2014,9,silverstone,False,False,False,False,True,chilton,British,marussia,17,16,0,0,21,2,0,9,4.0,23
+12288,2014,9,silverstone,False,False,False,False,True,raikkonen,Finnish,ferrari,18,22,19,0,12,98,0,3,10.900000000000006,34
+12286,2014,9,silverstone,False,False,False,False,True,gutierrez,Mexican,sauber,19,20,0,0,20,0,0,10,5.1000000000000085,22
+12285,2014,9,silverstone,False,False,False,False,True,ericsson,Swedish,caterham,21,19,0,0,18,0,0,11,13.600000000000009,23
+12281,2014,9,silverstone,False,False,False,False,True,kobayashi,Japanese,caterham,22,15,0,0,22,0,0,11,13.799999999999995,27

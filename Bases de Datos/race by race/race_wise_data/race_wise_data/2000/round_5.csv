@@ -1,0 +1,22 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+6782,2000,5,catalunya,False,False,True,False,False,michael_schumacher,German,ferrari,1,5,34,3,1,43,3,1,0.0,31
+6778,2000,5,catalunya,False,False,True,False,False,hakkinen,Finnish,mclaren,2,1,12,0,3,26,1,2,0.0999999999999943,31
+6780,2000,5,catalunya,False,False,True,False,False,barrichello,Brazilian,ferrari,3,3,9,0,4,43,3,1,0.4000000000000057,27
+6779,2000,5,catalunya,False,False,True,False,False,coulthard,British,mclaren,4,2,14,1,2,26,1,2,0.4000000000000057,29
+6781,2000,5,catalunya,False,False,True,False,False,ralf_schumacher,German,williams,5,4,9,0,5,12,0,3,0.5999999999999943,24
+6796,2000,5,catalunya,False,False,True,False,False,villeneuve,Canadian,bar,6,19,5,0,7,6,0,6,1.0,29
+6789,2000,5,catalunya,False,False,True,False,False,trulli,Italian,jordan,7,12,4,0,9,8,0,5,1.0,25
+6783,2000,5,catalunya,False,False,True,False,False,frentzen,German,jordan,8,6,4,0,8,8,0,5,1.0999999999999943,32
+6788,2000,5,catalunya,False,False,True,False,False,irvine,British,jaguar,9,11,0,0,14,0,0,9,1.4000000000000057,34
+6794,2000,5,catalunya,False,False,True,False,False,button,British,williams,10,17,3,0,10,12,0,3,1.4000000000000057,20
+6795,2000,5,catalunya,False,False,True,False,False,verstappen,Dutch,arrows,11,18,0,0,15,0,0,8,1.4000000000000057,28
+6784,2000,5,catalunya,False,False,True,False,False,salo,Finnish,sauber,12,7,1,0,11,1,0,7,1.4000000000000057,33
+6786,2000,5,catalunya,False,False,True,False,False,fisichella,Italian,benetton,13,9,8,0,6,8,0,4,1.5999999999999943,27
+6790,2000,5,catalunya,False,False,True,False,False,herbert,British,jaguar,14,13,0,0,20,0,0,9,1.7999999999999972,35
+6799,2000,5,catalunya,False,False,True,False,False,diniz,Brazilian,sauber,15,22,0,0,16,1,0,7,1.7999999999999972,29
+6785,2000,5,catalunya,False,False,True,False,False,zonta,Brazilian,bar,16,8,1,0,12,6,0,6,1.9000000000000057,24
+6797,2000,5,catalunya,False,False,True,False,False,alesi,French,prost,17,20,0,0,22,0,0,11,1.9000000000000057,35
+6787,2000,5,catalunya,False,False,True,False,False,wurz,Austrian,benetton,18,10,0,0,13,8,0,4,2.0,26
+6793,2000,5,catalunya,False,False,True,False,False,heidfeld,German,prost,19,16,0,0,19,0,0,11,2.0,22
+6791,2000,5,catalunya,False,False,True,False,False,gene,Spanish,minardi,20,14,0,0,17,0,0,10,2.5,26
+6792,2000,5,catalunya,False,False,True,False,False,mazzacane,Argentine,minardi,21,15,0,0,21,0,0,10,3.299999999999997,24

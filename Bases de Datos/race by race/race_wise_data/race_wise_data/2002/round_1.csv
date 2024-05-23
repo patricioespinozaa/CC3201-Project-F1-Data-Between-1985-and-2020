@@ -1,0 +1,23 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+7450,2002,1,albert_park,True,False,False,False,True,barrichello,Brazilian,ferrari,1,15,0,0,0,0,0,0,0.0,29
+7436,2002,1,albert_park,True,False,False,False,True,michael_schumacher,German,ferrari,2,1,0,0,0,0,0,0,0.0,33
+7451,2002,1,albert_park,True,False,False,False,True,ralf_schumacher,German,williams,3,16,0,0,0,0,0,0,0.5,26
+7444,2002,1,albert_park,True,False,False,False,True,coulthard,British,mclaren,4,9,0,0,0,0,0,0,0.6000000000000085,30
+7438,2002,1,albert_park,True,False,False,False,True,raikkonen,Finnish,mclaren,5,3,0,0,0,0,0,0,1.4000000000000057,22
+7437,2002,1,albert_park,True,False,False,False,True,montoya,Colombian,williams,6,2,0,0,0,0,0,0,1.4000000000000057,26
+7449,2002,1,albert_park,True,False,False,False,True,trulli,Italian,renault,7,14,0,0,0,0,0,0,1.9000000000000057,27
+7452,2002,1,albert_park,True,False,False,False,True,fisichella,Italian,jordan,8,17,0,0,0,0,0,0,2.1000000000000085,29
+7453,2002,1,albert_park,True,False,False,False,True,massa,Brazilian,sauber,9,18,0,0,0,0,0,0,2.200000000000003,20
+7454,2002,1,albert_park,True,False,False,False,True,heidfeld,German,sauber,10,19,0,0,0,0,0,0,2.4000000000000057,24
+7455,2002,1,albert_park,True,False,False,False,True,button,British,renault,11,20,0,0,0,0,0,0,2.6000000000000085,22
+7456,2002,1,albert_park,True,False,False,False,True,panis,French,bar,12,21,0,0,0,0,0,0,2.6000000000000085,35
+7445,2002,1,albert_park,True,False,False,False,True,villeneuve,Canadian,bar,13,10,0,0,0,0,0,0,2.9000000000000057,30
+7441,2002,1,albert_park,True,False,False,False,True,salo,Finnish,toyota,14,6,0,0,0,0,0,0,3.4000000000000057,35
+7446,2002,1,albert_park,True,False,False,False,True,frentzen,German,arrows,15,11,0,0,0,0,0,0,3.700000000000003,34
+7457,2002,1,albert_park,True,False,False,False,True,mcnish,British,toyota,16,22,0,0,0,0,0,0,3.799999999999997,32
+7447,2002,1,albert_park,True,False,False,False,True,bernoldi,Brazilian,arrows,17,12,0,0,0,0,0,0,3.9000000000000057,23
+7440,2002,1,albert_park,True,False,False,False,True,webber,Australian,minardi,18,5,0,0,0,0,0,0,4.299999999999997,25
+7439,2002,1,albert_park,True,False,False,False,True,irvine,British,jaguar,19,4,0,0,0,0,0,0,4.299999999999997,36
+7443,2002,1,albert_park,True,False,False,False,True,rosa,Spanish,jaguar,20,8,0,0,0,0,0,0,4.400000000000006,31
+7442,2002,1,albert_park,True,False,False,False,True,yoong,Malaysian,minardi,21,7,0,0,0,0,0,0,5.700000000000003,25
+7448,2002,1,albert_park,True,False,False,False,True,sato,Japanese,jordan,22,13,0,0,0,0,0,0,27.60000000000001,25

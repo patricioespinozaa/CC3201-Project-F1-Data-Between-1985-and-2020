@@ -1,0 +1,27 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+1396,1986,10,hockenheimring,False,False,True,False,False,keke_rosberg,Finnish,mclaren,1,5,17,0,5,60,2,2,0.0,37
+1397,1986,10,hockenheimring,False,False,True,False,False,prost,French,mclaren,2,6,43,2,2,60,2,2,0.2000000000000028,31
+1393,1986,10,hockenheimring,False,False,True,False,False,senna,Brazilian,team_lotus,3,2,36,2,3,36,2,3,0.2999999999999971,26
+1401,1986,10,hockenheimring,False,False,True,False,False,berger,Austrian,benetton,4,10,6,0,9,8,0,6,0.5,26
+1392,1986,10,hockenheimring,False,False,True,False,False,piquet,Brazilian,williams,5,1,29,1,4,76,5,1,0.5,33
+1394,1986,10,hockenheimring,False,False,True,False,False,mansell,British,williams,6,3,47,4,1,76,5,1,0.7000000000000028,32
+1408,1986,10,hockenheimring,False,False,True,False,False,patrese,Italian,brabham,7,17,2,0,13,2,0,8,1.2999999999999972,32
+1395,1986,10,hockenheimring,False,False,True,False,False,arnoux,French,ligier,8,4,11,0,7,25,0,4,1.7000000000000028,38
+1417,1986,10,hockenheimring,False,False,True,False,False,fabi,Italian,benetton,9,26,2,0,12,8,0,6,2.0,31
+1416,1986,10,hockenheimring,False,False,True,False,False,alboreto,Italian,ferrari,10,25,6,0,10,13,0,5,2.299999999999997,29
+1402,1986,10,hockenheimring,False,False,True,False,False,johansson,Swedish,ferrari,11,11,7,0,8,13,0,5,2.299999999999997,29
+1411,1986,10,hockenheimring,False,False,True,False,False,dumfries,British,team_lotus,12,20,0,0,16,36,2,3,2.799999999999997,28
+1399,1986,10,hockenheimring,False,False,True,False,False,tambay,French,lola,13,8,0,0,19,0,0,11,3.0,37
+1413,1986,10,hockenheimring,False,False,True,False,False,alliot,French,ligier,14,22,0,0,0,25,0,4,3.0,32
+1407,1986,10,hockenheimring,False,False,True,False,False,brundle,British,tyrrell,15,16,4,0,11,5,0,7,3.4000000000000057,27
+1406,1986,10,hockenheimring,False,False,True,False,False,palmer,British,zakspeed,16,15,0,0,18,0,0,10,3.9000000000000057,29
+1404,1986,10,hockenheimring,False,False,True,False,False,danner,German,arrows,17,13,0,0,23,0,0,9,4.400000000000006,28
+1415,1986,10,hockenheimring,False,False,True,False,False,streiff,French,tyrrell,18,24,1,0,14,5,0,7,5.400000000000006,31
+1400,1986,10,hockenheimring,False,False,True,False,False,jones,Australian,lola,19,9,0,0,22,0,0,11,5.5,39
+1398,1986,10,hockenheimring,False,False,True,False,False,warwick,British,brabham,20,7,0,0,17,2,0,8,6.200000000000003,31
+1412,1986,10,hockenheimring,False,False,True,False,False,boutsen,Belgian,arrows,21,21,0,0,15,0,0,9,7.200000000000003,29
+1410,1986,10,hockenheimring,False,False,True,False,False,nannini,Italian,minardi,22,19,0,0,26,0,0,13,7.400000000000006,27
+1409,1986,10,hockenheimring,False,False,True,False,False,cesaris,Italian,minardi,23,18,0,0,27,0,0,13,8.099999999999994,27
+1405,1986,10,hockenheimring,False,False,True,False,False,rothengatter,Dutch,zakspeed,24,14,0,0,24,0,0,10,8.900000000000006,31
+1414,1986,10,hockenheimring,False,False,True,False,False,ghinzani,Italian,osella,25,23,0,0,25,0,0,12,14.5,34
+1403,1986,10,hockenheimring,False,False,True,False,False,berg,Canadian,osella,26,12,0,0,28,0,0,12,15.0,24

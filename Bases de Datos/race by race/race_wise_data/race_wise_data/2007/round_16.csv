@@ -1,0 +1,23 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+9582,2007,16,shanghai,False,False,False,True,False,hamilton,British,mclaren,1,19,107,4,1,202,8,11,0.0,22
+9564,2007,16,shanghai,False,False,False,True,False,raikkonen,Finnish,ferrari,2,1,90,4,3,170,7,1,0.0999999999999943,27
+9566,2007,16,shanghai,False,False,False,True,False,massa,Brazilian,ferrari,3,3,80,3,4,170,7,1,0.2999999999999971,26
+9565,2007,16,shanghai,False,False,False,True,False,alonso,Spanish,mclaren,4,2,95,4,2,202,8,11,0.6999999999999886,26
+9571,2007,16,shanghai,False,False,False,True,False,coulthard,British,red_bull,5,8,13,0,11,23,0,5,1.6999999999999886,36
+9583,2007,16,shanghai,False,False,False,True,False,ralf_schumacher,German,toyota,6,20,5,0,14,12,0,6,2.0999999999999943,32
+9573,2007,16,shanghai,False,False,False,True,False,webber,Australian,red_bull,7,10,10,0,12,23,0,5,2.299999999999997,31
+9570,2007,16,shanghai,False,False,False,True,False,heidfeld,German,bmw_sauber,8,7,56,0,5,92,0,2,2.5999999999999943,30
+9581,2007,16,shanghai,False,False,False,True,False,kubica,Polish,bmw_sauber,9,18,35,0,6,92,0,2,2.5999999999999943,22
+9568,2007,16,shanghai,False,False,False,True,False,button,British,honda,10,5,2,0,16,2,0,8,3.3999999999999915,27
+9569,2007,16,shanghai,False,False,False,True,False,liuzzi,Italian,toro_rosso,11,6,0,0,20,0,0,10,1.0,27
+9576,2007,16,shanghai,False,False,False,True,False,trulli,Italian,toyota,12,13,7,0,13,12,0,6,1.0999999999999943,33
+9572,2007,16,shanghai,False,False,False,True,False,kovalainen,Finnish,renault,13,9,30,0,7,51,0,3,1.0999999999999943,25
+9585,2007,16,shanghai,False,False,False,True,False,davidson,British,super_aguri,14,22,0,0,22,4,0,7,1.2999999999999972,28
+9579,2007,16,shanghai,False,False,False,True,False,rosberg,German,williams,15,16,15,0,9,28,0,4,1.5999999999999943,22
+9578,2007,16,shanghai,False,False,False,True,False,barrichello,Brazilian,honda,16,15,0,0,19,2,0,8,1.3999999999999917,35
+9567,2007,16,shanghai,False,False,False,True,False,vettel,German,toro_rosso,17,4,1,0,18,0,0,10,1.0,20
+9574,2007,16,shanghai,False,False,False,True,False,fisichella,Italian,renault,18,11,21,0,8,51,0,3,1.3999999999999917,34
+9575,2007,16,shanghai,False,False,False,True,False,wurz,Austrian,williams,19,12,13,0,10,28,0,4,1.5999999999999943,33
+9577,2007,16,shanghai,False,False,False,True,False,sato,Japanese,super_aguri,20,14,4,0,15,4,0,7,2.299999999999997,30
+9584,2007,16,shanghai,False,False,False,True,False,sutil,German,spyker,21,21,1,0,17,1,0,9,2.799999999999997,24
+9580,2007,16,shanghai,False,False,False,True,False,yamamoto,Japanese,spyker,22,17,0,0,23,1,0,9,3.3999999999999915,25

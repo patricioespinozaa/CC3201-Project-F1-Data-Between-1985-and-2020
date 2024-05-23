@@ -1,0 +1,22 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+12352,2014,13,monza,False,False,False,False,False,hamilton,British,mercedes,1,1,191,5,2,411,9,1,0.0,29
+12353,2014,13,monza,False,False,False,False,False,rosberg,German,mercedes,2,2,220,4,1,411,9,1,0.3000000000000113,29
+12355,2014,13,monza,False,False,False,False,False,bottas,Finnish,williams,3,4,110,0,5,150,0,4,0.6000000000000085,25
+12354,2014,13,monza,False,False,False,False,False,massa,Brazilian,williams,4,3,40,0,9,150,0,4,0.8000000000000114,33
+12361,2014,13,monza,False,False,False,False,False,kevin_magnussen,Danish,mclaren,5,10,37,0,11,105,0,5,1.2000000000000028,21
+12359,2014,13,monza,False,False,False,False,False,button,British,mclaren,6,8,68,0,8,105,0,5,1.3000000000000114,34
+12371,2014,13,monza,False,False,False,False,False,alonso,Spanish,ferrari,7,21,121,0,4,160,0,3,1.3000000000000114,33
+12357,2014,13,monza,False,False,False,False,False,vettel,German,red_bull,8,6,98,0,6,254,3,2,1.3000000000000114,27
+12356,2014,13,monza,False,False,False,False,False,ricciardo,Australian,red_bull,9,5,156,3,3,254,3,2,1.6000000000000083,25
+12358,2014,13,monza,False,False,False,False,False,perez,Mexican,force_india,10,7,33,0,12,103,0,6,1.8000000000000114,24
+12360,2014,13,monza,False,False,False,False,False,raikkonen,Finnish,ferrari,11,9,39,0,10,160,0,3,2.0,34
+12364,2014,13,monza,False,False,False,False,False,vergne,French,toro_rosso,12,13,11,0,13,19,0,7,2.1000000000000085,24
+12363,2014,13,monza,False,False,False,False,False,hulkenberg,German,force_india,13,12,70,0,7,103,0,6,2.200000000000003,27
+12366,2014,13,monza,False,False,False,False,False,sutil,German,sauber,14,15,0,0,17,0,0,10,2.5,31
+12370,2014,13,monza,False,False,False,False,False,gutierrez,Mexican,sauber,15,19,0,0,20,0,0,10,2.6000000000000085,23
+12365,2014,13,monza,False,False,False,False,False,maldonado,Venezuelan,lotus_f1,16,14,0,0,19,8,0,8,3.4000000000000057,29
+12367,2014,13,monza,False,False,False,False,False,grosjean,French,lotus_f1,17,16,8,0,14,8,0,8,3.5,28
+12368,2014,13,monza,False,False,False,False,False,kobayashi,Japanese,caterham,18,17,0,0,22,0,0,11,3.6000000000000085,27
+12369,2014,13,monza,False,False,False,False,False,jules_bianchi,French,marussia,19,18,2,0,16,2,0,9,3.6000000000000085,25
+12372,2014,13,monza,False,False,False,False,False,chilton,British,marussia,20,22,0,0,21,2,0,9,4.1000000000000085,23
+12362,2014,13,monza,False,False,False,False,False,kvyat,Russian,toro_rosso,21,11,8,0,15,19,0,7,2.0,20

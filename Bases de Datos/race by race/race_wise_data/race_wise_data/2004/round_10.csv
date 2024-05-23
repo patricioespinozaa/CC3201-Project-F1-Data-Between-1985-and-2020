@@ -1,0 +1,21 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+8288,2004,10,magny_cours,True,False,False,False,False,alonso,Spanish,renault,1,2,25,0,5,66,1,2,0.0,22
+8287,2004,10,magny_cours,True,False,False,False,False,michael_schumacher,German,ferrari,2,1,80,8,1,142,8,1,0.2999999999999971,35
+8292,2004,10,magny_cours,True,False,False,False,False,coulthard,British,mclaren,3,6,9,0,10,17,0,5,0.2999999999999971,33
+8291,2004,10,magny_cours,True,False,False,False,False,button,British,bar,4,5,44,0,3,58,0,3,0.2999999999999971,24
+8290,2004,10,magny_cours,True,False,False,False,False,trulli,Italian,renault,5,4,41,1,4,66,1,2,0.3999999999999915,29
+8294,2004,10,magny_cours,True,False,False,False,False,montoya,Colombian,williams,6,8,24,0,6,36,0,4,0.5,28
+8306,2004,10,magny_cours,True,False,False,False,False,sato,Japanese,bar,7,20,14,0,7,58,0,3,0.5,27
+8296,2004,10,magny_cours,True,False,False,False,False,gene,Spanish,williams,8,10,0,0,0,36,0,4,0.5999999999999943,30
+8293,2004,10,magny_cours,True,False,False,False,False,raikkonen,Finnish,mclaren,9,7,8,0,11,17,0,5,0.5999999999999943,24
+8289,2004,10,magny_cours,True,False,False,False,False,barrichello,Brazilian,ferrari,10,3,62,0,2,142,8,1,0.7999999999999972,32
+8300,2004,10,magny_cours,True,False,False,False,False,matta,Brazilian,toyota,11,14,3,0,14,8,0,7,0.8999999999999915,30
+8295,2004,10,magny_cours,True,False,False,False,False,webber,Australian,jaguar,12,9,3,0,16,3,0,9,1.0999999999999943,27
+8297,2004,10,magny_cours,True,False,False,False,False,klien,Austrian,jaguar,13,11,0,0,19,3,0,9,1.3999999999999917,21
+8301,2004,10,magny_cours,True,False,False,False,False,panis,French,toyota,14,15,5,0,13,8,0,7,1.3999999999999917,37
+8298,2004,10,magny_cours,True,False,False,False,False,fisichella,Italian,sauber,15,12,10,0,9,15,0,6,2.5,31
+8299,2004,10,magny_cours,True,False,False,False,False,massa,Brazilian,sauber,16,13,5,0,12,15,0,6,2.5,23
+8302,2004,10,magny_cours,True,False,False,False,False,heidfeld,German,jordan,17,16,3,0,15,5,0,8,3.0999999999999943,27
+8303,2004,10,magny_cours,True,False,False,False,False,pantano,Italian,jordan,18,17,0,0,20,5,0,8,3.799999999999997,25
+8304,2004,10,magny_cours,True,False,False,False,False,bruni,Italian,minardi,19,18,0,0,21,1,0,10,4.200000000000003,23
+8305,2004,10,magny_cours,True,False,False,False,False,baumgartner,Hungarian,minardi,20,19,1,0,18,1,0,10,4.5,23

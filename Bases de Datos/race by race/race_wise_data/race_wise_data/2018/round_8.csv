@@ -1,0 +1,20 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+13851,2018,8,ricard,True,False,True,False,False,hamilton,British,mercedes,1,1,120,2,2,206,2,1,0.0,33
+13857,2018,8,ricard,True,False,True,False,False,bottas,Finnish,mercedes,2,7,86,0,3,206,2,1,0.0999999999999943,28
+13855,2018,8,ricard,True,False,True,False,False,vettel,German,ferrari,3,5,121,3,1,189,3,2,0.4000000000000057,30
+13852,2018,8,ricard,True,False,True,False,False,max_verstappen,Dutch,red_bull,4,2,50,0,6,134,2,3,0.7000000000000028,20
+13854,2018,8,ricard,True,False,True,False,False,ricciardo,Australian,red_bull,5,4,84,2,4,134,2,3,0.9000000000000057,28
+13853,2018,8,ricard,True,False,True,False,False,raikkonen,Finnish,ferrari,6,3,68,0,5,189,3,2,1.0999999999999943,38
+13858,2018,8,ricard,True,False,True,False,False,sainz,Spanish,renault,7,8,24,0,9,56,0,4,2.0999999999999943,23
+13860,2018,8,ricard,True,False,True,False,False,leclerc,Monegasque,sauber,8,10,10,0,14,12,0,9,2.5999999999999943,20
+13856,2018,8,ricard,True,False,True,False,False,kevin_magnussen,Danish,haas,9,6,19,0,10,19,0,8,2.9000000000000057,25
+13869,2018,8,ricard,True,False,True,False,False,ocon,French,force_india,11,19,11,0,13,28,0,6,2.0999999999999943,21
+13859,2018,8,ricard,True,False,True,False,False,hulkenberg,German,renault,12,9,32,0,8,56,0,4,2.0999999999999943,30
+13868,2018,8,ricard,True,False,True,False,False,perez,Mexican,force_india,13,18,17,0,12,28,0,6,2.5,28
+13870,2018,8,ricard,True,False,True,False,False,gasly,French,toro_rosso,14,20,18,0,11,19,0,7,2.5,22
+13863,2018,8,ricard,True,False,True,False,False,ericsson,Swedish,sauber,15,13,2,0,17,12,0,9,2.799999999999997,27
+13866,2018,8,ricard,True,False,True,False,False,alonso,Spanish,mclaren,16,16,32,0,7,40,0,5,3.0,36
+13862,2018,8,ricard,True,False,True,False,False,vandoorne,Belgian,mclaren,17,12,8,0,15,40,0,5,3.200000000000003,26
+13865,2018,8,ricard,True,False,True,False,False,sirotkin,Russian,williams,18,15,0,0,20,4,0,10,3.5999999999999943,22
+13867,2018,8,ricard,True,False,True,False,False,stroll,Canadian,williams,19,17,4,0,16,4,0,10,3.700000000000003,19
+13864,2018,8,ricard,True,False,True,False,False,brendon_hartley,New Zealander,toro_rosso,20,14,1,0,18,19,0,7,3.0,28

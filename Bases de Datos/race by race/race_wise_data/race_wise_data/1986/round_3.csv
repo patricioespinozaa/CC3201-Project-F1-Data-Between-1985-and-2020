@@ -1,0 +1,27 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+1239,1986,3,imola,True,False,False,False,False,senna,Brazilian,team_lotus,1,21,15,1,1,15,1,1,0.0,26
+1220,1986,3,imola,True,False,False,False,False,piquet,Brazilian,williams,2,2,9,1,2,15,1,2,0.5,33
+1240,1986,3,imola,True,False,False,False,False,mansell,British,williams,3,22,6,0,3,15,1,2,1.1000000000000083,32
+1219,1986,3,imola,True,False,False,False,False,prost,French,mclaren,4,1,4,0,5,7,0,4,1.1000000000000083,31
+1228,1986,3,imola,True,False,False,False,False,alboreto,Italian,ferrari,5,10,0,0,16,0,0,10,1.2000000000000028,29
+1223,1986,3,imola,True,False,False,False,False,keke_rosberg,Finnish,mclaren,6,5,3,0,7,7,0,4,1.3000000000000114,37
+1222,1986,3,imola,True,False,False,False,False,johansson,Swedish,ferrari,7,4,0,0,19,0,0,10,1.9000000000000057,29
+1230,1986,3,imola,True,False,False,False,False,arnoux,French,ligier,8,12,3,0,6,7,0,3,2.300000000000012,37
+1221,1986,3,imola,True,False,False,False,False,berger,Austrian,benetton,9,3,2,0,10,4,0,5,2.300000000000012,26
+1232,1986,3,imola,True,False,False,False,False,fabi,Italian,benetton,10,14,2,0,8,4,0,5,2.4000000000000057,31
+1243,1986,3,imola,True,False,False,False,False,tambay,French,lola,11,25,0,0,14,0,0,9,2.800000000000012,36
+1225,1986,3,imola,True,False,False,False,False,boutsen,Belgian,arrows,12,7,0,0,11,0,0,7,2.9000000000000057,28
+1226,1986,3,imola,True,False,False,False,False,brundle,British,tyrrell,13,8,2,0,9,2,0,6,3.200000000000003,26
+1238,1986,3,imola,True,False,False,False,False,laffite,French,ligier,14,20,4,0,4,7,0,3,3.300000000000012,42
+1227,1986,3,imola,True,False,False,False,False,surer,Swiss,arrows,15,9,0,0,17,0,0,7,3.5,34
+1224,1986,3,imola,True,False,False,False,False,patrese,Italian,brabham,16,6,0,0,20,0,0,8,3.700000000000003,32
+1241,1986,3,imola,True,False,False,False,False,dumfries,British,team_lotus,17,23,0,0,15,15,1,1,4.1000000000000085,28
+1244,1986,3,imola,True,False,False,False,False,nannini,Italian,minardi,18,26,0,0,23,0,0,13,4.1000000000000085,26
+1237,1986,3,imola,True,False,False,False,False,angelis,Italian,brabham,19,19,0,0,13,0,0,8,4.6000000000000085,28
+1233,1986,3,imola,True,False,False,False,False,palmer,British,zakspeed,20,15,0,0,21,0,0,12,4.900000000000006,29
+1235,1986,3,imola,True,False,False,False,False,jones,Australian,lola,21,17,0,0,25,0,0,9,5.0,39
+1231,1986,3,imola,True,False,False,False,False,streiff,French,tyrrell,22,13,0,0,12,2,0,6,5.0,30
+1236,1986,3,imola,True,False,False,False,False,cesaris,Italian,minardi,23,18,0,0,24,0,0,13,5.0,26
+1242,1986,3,imola,True,False,False,False,False,rothengatter,Dutch,zakspeed,24,24,0,0,0,0,0,12,6.900000000000006,31
+1234,1986,3,imola,True,False,False,False,False,danner,German,osella,25,16,0,0,18,0,0,11,8.700000000000003,28
+1229,1986,3,imola,True,False,False,False,False,ghinzani,Italian,osella,26,11,0,0,22,0,0,11,9.400000000000006,34

@@ -1,0 +1,19 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+13673,2017,19,interlagos,False,False,False,False,False,bottas,Finnish,mercedes,1,2,262,2,3,595,11,1,0.0,28
+13672,2017,19,interlagos,False,False,False,False,False,vettel,German,ferrari,2,1,277,4,2,455,4,2,0.1000000000000085,30
+13674,2017,19,interlagos,False,False,False,False,False,raikkonen,Finnish,ferrari,3,3,178,0,5,455,4,2,0.2000000000000028,38
+13675,2017,19,interlagos,False,False,False,False,False,max_verstappen,Dutch,red_bull,4,5,148,2,6,340,3,3,0.6000000000000085,20
+13679,2017,19,interlagos,False,False,False,False,False,perez,Mexican,force_india,5,9,92,0,7,175,0,4,1.2999999999999972,27
+13678,2017,19,interlagos,False,False,False,False,False,alonso,Spanish,mclaren,6,8,11,0,16,24,0,9,1.2999999999999972,36
+13680,2017,19,interlagos,False,False,False,False,False,hulkenberg,German,renault,7,10,34,0,12,48,0,7,1.4000000000000057,30
+13681,2017,19,interlagos,False,False,False,False,False,sainz,Spanish,renault,8,11,54,0,9,48,0,7,1.5,23
+13677,2017,19,interlagos,False,False,False,False,False,massa,Brazilian,williams,9,7,36,0,11,76,0,5,1.5,36
+13688,2017,19,interlagos,False,False,False,False,False,ocon,French,force_india,10,18,83,0,8,175,0,4,1.5,21
+13685,2017,19,interlagos,False,False,False,False,False,grosjean,French,haas,11,15,28,0,13,47,0,8,1.6000000000000083,31
+13689,2017,19,interlagos,False,False,False,False,False,vandoorne,Belgian,mclaren,12,19,13,0,15,24,0,9,1.7999999999999972,25
+13690,2017,19,interlagos,False,False,False,False,False,kevin_magnussen,Danish,haas,13,20,19,0,14,47,0,8,1.9000000000000057,25
+13676,2017,19,interlagos,False,False,False,False,False,ricciardo,Australian,red_bull,14,6,192,1,4,340,3,3,1.0,28
+13684,2017,19,interlagos,False,False,False,False,False,wehrlein,German,sauber,15,14,5,0,18,5,0,10,2.4000000000000057,23
+13686,2017,19,interlagos,False,False,False,False,False,stroll,Canadian,williams,16,16,40,0,10,76,0,5,2.5,19
+13683,2017,19,interlagos,False,False,False,False,False,ericsson,Swedish,sauber,17,13,0,0,20,5,0,10,2.6000000000000085,27
+13682,2017,19,interlagos,False,False,False,False,False,gasly,French,toro_rosso,19,12,0,0,22,53,0,6,2.4000000000000057,21

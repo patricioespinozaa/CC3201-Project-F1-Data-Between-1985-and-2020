@@ -1,0 +1,23 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+12051,2013,18,americas,False,False,False,False,False,vettel,German,red_bull,1,1,347,11,1,513,11,1,0.0,26
+12053,2013,18,americas,False,False,False,False,False,webber,Australian,red_bull,2,3,166,0,5,513,11,1,0.1000000000000085,37
+12052,2013,18,americas,False,False,False,False,False,grosjean,French,lotus_f1,3,2,114,0,7,297,1,4,0.9000000000000057,27
+12056,2013,18,americas,False,False,False,False,False,hulkenberg,German,sauber,4,6,39,0,11,45,0,7,1.0,26
+12054,2013,18,americas,False,False,False,False,False,hamilton,British,mercedes,5,4,175,1,4,334,3,2,1.0,28
+12055,2013,18,americas,False,False,False,False,False,alonso,Spanish,ferrari,6,5,217,2,2,323,2,3,1.1000000000000083,32
+12057,2013,18,americas,False,False,False,False,False,perez,Mexican,mclaren,7,7,35,0,12,95,0,5,1.2000000000000028,23
+12065,2013,18,americas,False,False,False,False,False,kovalainen,Finnish,lotus_f1,8,15,0,0,0,297,1,4,1.4000000000000057,32
+12058,2013,18,americas,False,False,False,False,False,bottas,Finnish,williams,9,8,0,0,18,1,0,9,1.5,24
+12061,2013,18,americas,False,False,False,False,False,ricciardo,Australian,toro_rosso,10,11,19,0,14,32,0,8,1.7999999999999972,24
+12066,2013,18,americas,False,False,False,False,False,resta,British,force_india,11,16,48,0,10,77,0,6,1.7999999999999972,27
+12059,2013,18,americas,False,False,False,False,False,rosberg,German,mercedes,12,9,159,2,6,334,3,2,2.1000000000000085,28
+12063,2013,18,americas,False,False,False,False,False,massa,Brazilian,ferrari,13,13,106,0,8,323,2,3,2.299999999999997,32
+12062,2013,18,americas,False,False,False,False,False,vergne,French,toro_rosso,14,12,13,0,15,32,0,8,2.4000000000000057,23
+12060,2013,18,americas,False,False,False,False,False,button,British,mclaren,15,10,60,0,9,95,0,5,1.9000000000000057,33
+12072,2013,18,americas,False,False,False,False,False,sutil,German,force_india,16,22,29,0,13,77,0,6,3.0,30
+12067,2013,18,americas,False,False,False,False,False,maldonado,Venezuelan,williams,17,17,1,0,17,1,0,9,3.1000000000000085,28
+12069,2013,18,americas,False,False,False,False,False,garde,Dutch,caterham,18,19,0,0,21,0,0,11,4.200000000000003,28
+12068,2013,18,americas,False,False,False,False,False,jules_bianchi,French,marussia,19,18,0,0,19,0,0,10,4.200000000000003,24
+12064,2013,18,americas,False,False,False,False,False,gutierrez,Mexican,sauber,20,14,6,0,16,45,0,7,1.7000000000000028,22
+12071,2013,18,americas,False,False,False,False,False,chilton,British,marussia,21,21,0,0,22,0,0,10,5.1000000000000085,22
+12070,2013,18,americas,False,False,False,False,False,pic,French,caterham,22,20,0,0,20,0,0,11,4.299999999999997,23

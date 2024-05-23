@@ -1,0 +1,23 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+13295,2016,21,yas_marina,True,False,False,False,False,hamilton,British,mercedes,1,1,355,9,2,722,18,1,0.0,31
+13296,2016,21,yas_marina,True,False,False,False,False,rosberg,German,mercedes,2,2,367,9,1,722,18,1,0.2999999999999971,31
+13299,2016,21,yas_marina,True,False,False,False,False,ricciardo,Australian,red_bull,3,5,246,1,3,446,2,2,0.7999999999999972,27
+13300,2016,21,yas_marina,True,False,False,False,False,raikkonen,Finnish,ferrari,4,6,178,0,6,375,0,3,0.7999999999999972,37
+13297,2016,21,yas_marina,True,False,False,False,False,vettel,German,ferrari,5,3,197,0,4,375,0,3,0.9000000000000057,29
+13298,2016,21,yas_marina,True,False,False,False,False,max_verstappen,Dutch,red_bull,6,4,192,1,5,446,2,2,1.0,19
+13301,2016,21,yas_marina,True,False,False,False,False,hulkenberg,German,force_india,7,7,66,0,9,163,0,4,1.7000000000000028,29
+13302,2016,21,yas_marina,True,False,False,False,False,perez,Mexican,force_india,8,8,97,0,7,163,0,4,1.7000000000000028,26
+13304,2016,21,yas_marina,True,False,False,False,False,alonso,Spanish,mclaren,9,10,53,0,10,75,0,6,2.299999999999997,35
+13303,2016,21,yas_marina,True,False,False,False,False,massa,Brazilian,williams,10,9,51,0,11,136,0,5,2.4000000000000057,35
+13315,2016,21,yas_marina,True,False,False,False,False,bottas,Finnish,williams,11,21,85,0,8,136,0,5,2.299999999999997,27
+13314,2016,21,yas_marina,True,False,False,False,False,button,British,mclaren,12,20,21,0,15,75,0,6,2.5,36
+13306,2016,21,yas_marina,True,False,False,False,False,gutierrez,Mexican,haas,13,12,0,0,21,29,0,8,2.700000000000003,25
+13305,2016,21,yas_marina,True,False,False,False,False,grosjean,French,haas,14,11,29,0,13,29,0,8,2.799999999999997,30
+13311,2016,21,yas_marina,True,False,False,False,False,jolyon_palmer,British,renault,15,17,1,0,18,8,0,9,3.0,25
+13308,2016,21,yas_marina,True,False,False,False,False,wehrlein,German,manor,16,14,1,0,19,1,0,11,3.200000000000003,22
+13313,2016,21,yas_marina,True,False,False,False,False,kvyat,Russian,toro_rosso,17,19,25,0,14,63,0,7,3.200000000000003,22
+13316,2016,21,yas_marina,True,False,False,False,False,kevin_magnussen,Danish,renault,18,22,7,0,16,8,0,9,3.299999999999997,24
+13310,2016,21,yas_marina,True,False,False,False,False,nasr,Brazilian,sauber,19,16,2,0,17,2,0,10,3.4000000000000057,24
+13307,2016,21,yas_marina,True,False,False,False,False,ocon,French,manor,20,13,0,0,23,1,0,11,3.5,20
+13312,2016,21,yas_marina,True,False,False,False,False,sainz,Spanish,toro_rosso,21,18,46,0,12,63,0,7,3.6000000000000085,22
+13309,2016,21,yas_marina,True,False,False,False,False,ericsson,Swedish,sauber,22,15,0,0,22,2,0,10,3.799999999999997,26

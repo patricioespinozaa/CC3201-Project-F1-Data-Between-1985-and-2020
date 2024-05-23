@@ -1,0 +1,27 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+1829,1987,11,monza,False,False,True,False,False,piquet,Brazilian,williams,1,1,54,2,1,93,6,1,0.0,35
+1831,1987,11,monza,False,False,True,False,False,mansell,British,williams,2,3,39,4,3,93,6,1,0.0999999999999943,34
+1832,1987,11,monza,False,False,True,False,False,berger,Austrian,ferrari,3,4,9,0,6,17,0,4,0.4000000000000057,28
+1830,1987,11,monza,False,False,True,False,False,senna,Brazilian,team_lotus,4,2,43,2,2,49,2,3,1.4000000000000057,27
+1843,1987,11,monza,False,False,True,False,False,prost,French,mclaren,5,15,31,2,4,50,2,2,1.4000000000000057,32
+1833,1987,11,monza,False,False,True,False,False,boutsen,Belgian,benetton,6,5,8,0,8,15,0,5,1.5,30
+1835,1987,11,monza,False,False,True,False,False,fabi,Italian,benetton,7,7,7,0,9,15,0,5,1.5,32
+1851,1987,11,monza,False,False,True,False,False,alboreto,Italian,ferrari,8,23,8,0,7,17,0,4,1.7000000000000028,30
+1854,1987,11,monza,False,False,True,False,False,patrese,Italian,brabham,9,26,2,0,17,6,0,8,2.0,33
+1853,1987,11,monza,False,False,True,False,False,cesaris,Italian,brabham,10,25,4,0,11,6,0,8,3.299999999999997,28
+1834,1987,11,monza,False,False,True,False,False,johansson,Swedish,mclaren,11,6,19,0,5,50,2,2,3.5,30
+1852,1987,11,monza,False,False,True,False,False,warwick,British,arrows,12,24,3,0,15,7,0,7,4.0,33
+1848,1987,11,monza,False,False,True,False,False,cheever,American,arrows,13,20,4,0,13,7,0,7,4.5,29
+1839,1987,11,monza,False,False,True,False,False,satoru_nakajima,Japanese,team_lotus,14,11,6,0,10,49,2,3,4.700000000000003,34
+1838,1987,11,monza,False,False,True,False,False,arnoux,French,ligier,15,10,1,0,19,1,0,10,5.400000000000006,39
+1837,1987,11,monza,False,False,True,False,False,danner,German,zakspeed,16,9,0,0,21,2,0,9,6.0,29
+1845,1987,11,monza,False,False,True,False,False,brundle,British,zakspeed,17,17,2,0,16,2,0,9,6.200000000000003,28
+1844,1987,11,monza,False,False,True,False,False,nannini,Italian,minardi,18,16,0,0,24,0,0,14,6.200000000000003,28
+1836,1987,11,monza,False,False,True,False,False,ghinzani,Italian,ligier,19,8,0,0,22,1,0,10,6.400000000000006,35
+1847,1987,11,monza,False,False,True,False,False,campos,Spanish,minardi,20,19,0,0,26,0,0,14,7.299999999999997,27
+1850,1987,11,monza,False,False,True,False,False,caffi,Italian,osella,21,22,0,0,25,0,0,15,7.5,23
+1842,1987,11,monza,False,False,True,False,False,palmer,British,tyrrell,22,14,4,0,14,8,0,6,9.5,30
+1846,1987,11,monza,False,False,True,False,False,alliot,French,larrousse,23,18,1,0,18,1,0,11,9.700000000000005,33
+1840,1987,11,monza,False,False,True,False,False,streiff,French,tyrrell,24,12,4,0,12,8,0,6,9.799999999999995,32
+1841,1987,11,monza,False,False,True,False,False,capelli,Italian,march,25,13,1,0,20,1,0,12,9.799999999999995,24
+1849,1987,11,monza,False,False,True,False,False,forini,Swiss,osella,26,21,0,0,0,0,0,15,10.299999999999995,28

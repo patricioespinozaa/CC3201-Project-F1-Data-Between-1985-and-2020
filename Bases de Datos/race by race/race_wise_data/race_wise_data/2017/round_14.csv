@@ -1,0 +1,21 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+13590,2017,14,marina_bay,False,False,False,True,False,vettel,German,ferrari,1,18,235,4,2,373,4,2,0.0,30
+13591,2017,14,marina_bay,False,False,False,True,False,max_verstappen,Dutch,red_bull,2,19,68,0,6,212,1,3,0.2999999999999971,19
+13574,2017,14,marina_bay,False,False,False,True,False,ricciardo,Australian,red_bull,3,2,144,1,4,212,1,3,0.2999999999999971,28
+13592,2017,14,marina_bay,False,False,False,True,False,raikkonen,Finnish,ferrari,4,20,138,0,5,373,4,2,0.5999999999999943,37
+13573,2017,14,marina_bay,False,False,False,True,False,hamilton,British,mercedes,5,1,238,6,1,435,8,1,0.5999999999999943,32
+13575,2017,14,marina_bay,False,False,False,True,False,bottas,Finnish,mercedes,6,3,197,2,3,435,8,1,1.2999999999999972,28
+13586,2017,14,marina_bay,False,False,False,True,False,hulkenberg,German,renault,7,14,34,0,10,34,0,8,1.5,30
+13589,2017,14,marina_bay,False,False,False,True,False,alonso,Spanish,mclaren,8,17,10,0,15,11,0,9,1.7000000000000028,36
+13579,2017,14,marina_bay,False,False,False,True,False,vandoorne,Belgian,mclaren,9,7,1,0,18,11,0,9,1.9000000000000057,25
+13576,2017,14,marina_bay,False,False,False,True,False,sainz,Spanish,toro_rosso,10,4,36,0,9,40,0,6,2.5999999999999943,23
+13578,2017,14,marina_bay,False,False,False,True,False,jolyon_palmer,British,renault,11,6,0,0,19,34,0,8,2.5999999999999943,26
+13577,2017,14,marina_bay,False,False,False,True,False,perez,Mexican,force_india,12,5,58,0,7,113,0,4,2.700000000000003,27
+13588,2017,14,marina_bay,False,False,False,True,False,kvyat,Russian,toro_rosso,13,16,4,0,17,40,0,6,2.799999999999997,23
+13582,2017,14,marina_bay,False,False,False,True,False,ocon,French,force_india,14,10,55,0,8,113,0,4,3.299999999999997,21
+13581,2017,14,marina_bay,False,False,False,True,False,grosjean,French,haas,15,9,24,0,13,35,0,7,4.400000000000006,31
+13585,2017,14,marina_bay,False,False,False,True,False,kevin_magnussen,Danish,haas,16,13,11,0,14,35,0,7,4.299999999999997,24
+13583,2017,14,marina_bay,False,False,False,True,False,massa,Brazilian,williams,17,11,31,0,11,55,0,5,4.5,36
+13580,2017,14,marina_bay,False,False,False,True,False,stroll,Canadian,williams,18,8,24,0,12,55,0,5,5.200000000000003,18
+13584,2017,14,marina_bay,False,False,False,True,False,wehrlein,German,sauber,19,12,5,0,16,5,0,10,5.599999999999994,22
+13587,2017,14,marina_bay,False,False,False,True,False,ericsson,Swedish,sauber,20,15,0,0,20,5,0,10,6.099999999999994,27

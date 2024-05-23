@@ -1,0 +1,23 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+7019,2000,16,suzuka,False,False,False,False,False,michael_schumacher,German,ferrari,1,1,88,7,1,143,8,1,0.0,31
+7020,2000,16,suzuka,False,False,False,False,False,hakkinen,Finnish,mclaren,2,2,80,4,2,143,7,2,0.0,32
+7021,2000,16,suzuka,False,False,False,False,False,coulthard,British,mclaren,3,3,63,3,3,143,7,2,0.4000000000000057,29
+7022,2000,16,suzuka,False,False,False,False,False,barrichello,Brazilian,ferrari,4,4,55,1,4,143,8,1,0.5,28
+7023,2000,16,suzuka,False,False,False,False,False,button,British,williams,5,5,10,0,9,34,0,3,0.7999999999999972,20
+7035,2000,16,suzuka,False,False,False,False,False,ralf_schumacher,German,williams,6,17,24,0,5,34,0,3,1.0,25
+7026,2000,16,suzuka,False,False,False,False,False,irvine,British,jaguar,7,8,3,0,13,3,0,9,1.1000000000000083,34
+7038,2000,16,suzuka,False,False,False,False,False,frentzen,German,jordan,8,20,11,0,8,17,0,5,1.4000000000000057,33
+7024,2000,16,suzuka,False,False,False,False,False,villeneuve,Canadian,bar,9,6,14,0,7,17,0,6,1.5,29
+7025,2000,16,suzuka,False,False,False,False,False,herbert,British,jaguar,10,7,0,0,18,3,0,9,1.5,36
+7037,2000,16,suzuka,False,False,False,False,False,wurz,Austrian,benetton,11,19,2,0,15,20,0,4,1.5,26
+7032,2000,16,suzuka,False,False,False,False,False,fisichella,Italian,benetton,12,14,18,0,6,20,0,4,1.7000000000000028,27
+7030,2000,16,suzuka,False,False,False,False,False,rosa,Spanish,arrows,13,12,2,0,16,7,0,7,1.9000000000000057,29
+7040,2000,16,suzuka,False,False,False,False,False,verstappen,Dutch,arrows,14,22,5,0,12,7,0,7,1.9000000000000057,28
+7031,2000,16,suzuka,False,False,False,False,False,trulli,Italian,jordan,15,13,6,0,10,17,0,5,1.9000000000000057,26
+7036,2000,16,suzuka,False,False,False,False,False,heidfeld,German,prost,16,18,0,0,20,0,0,11,2.299999999999997,23
+7039,2000,16,suzuka,False,False,False,False,False,alesi,French,prost,17,21,0,0,22,0,0,11,2.4000000000000057,36
+7027,2000,16,suzuka,False,False,False,False,False,zonta,Brazilian,bar,18,9,3,0,14,17,0,6,2.5,24
+7028,2000,16,suzuka,False,False,False,False,False,salo,Finnish,sauber,19,10,6,0,11,6,0,8,2.700000000000003,33
+7029,2000,16,suzuka,False,False,False,False,False,diniz,Brazilian,sauber,20,11,0,0,17,6,0,8,2.799999999999997,30
+7034,2000,16,suzuka,False,False,False,False,False,gene,Spanish,minardi,21,16,0,0,19,0,0,10,4.200000000000003,26
+7033,2000,16,suzuka,False,False,False,False,False,mazzacane,Argentine,minardi,22,15,0,0,21,0,0,10,4.700000000000003,25

@@ -1,0 +1,23 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+6356,1999,1,albert_park,True,False,True,False,False,hakkinen,Finnish,mclaren,1,16,0,0,0,0,0,0,0.0,30
+6358,1999,1,albert_park,True,False,True,False,False,coulthard,British,mclaren,2,18,0,0,0,0,0,0,0.4000000000000057,27
+6348,1999,1,albert_park,True,False,True,False,False,michael_schumacher,German,ferrari,3,8,0,0,0,0,0,0,1.2999999999999972,30
+6345,1999,1,albert_park,True,False,True,False,False,barrichello,Brazilian,stewart,4,5,0,0,0,0,0,0,1.5999999999999943,26
+6342,1999,1,albert_park,True,False,True,False,False,frentzen,German,jordan,5,2,0,0,0,0,0,0,1.7999999999999972,31
+6341,1999,1,albert_park,True,False,True,False,False,irvine,British,ferrari,6,1,0,0,0,0,0,0,1.7999999999999972,33
+6344,1999,1,albert_park,True,False,True,False,False,fisichella,Italian,benetton,7,4,0,0,0,0,0,0,2.0,26
+6343,1999,1,albert_park,True,False,True,False,False,ralf_schumacher,German,williams,8,3,0,0,0,0,0,0,2.200000000000003,23
+6360,1999,1,albert_park,True,False,True,False,False,damon_hill,British,jordan,9,20,0,0,0,0,0,0,2.200000000000003,38
+6351,1999,1,albert_park,True,False,True,False,False,wurz,Austrian,benetton,10,11,0,0,0,0,0,0,2.299999999999997,25
+6359,1999,1,albert_park,True,False,True,False,False,villeneuve,Canadian,bar,11,19,0,0,0,0,0,0,2.4000000000000057,27
+6354,1999,1,albert_park,True,False,True,False,False,trulli,Italian,prost,12,14,0,0,0,0,0,0,2.5,24
+6362,1999,1,albert_park,True,False,True,False,False,herbert,British,stewart,13,22,0,0,0,0,0,0,2.5,34
+6352,1999,1,albert_park,True,False,True,False,False,diniz,Brazilian,sauber,14,12,0,0,0,0,0,0,2.9000000000000057,28
+6357,1999,1,albert_park,True,False,True,False,False,zanardi,Italian,williams,15,17,0,0,0,0,0,0,3.0,32
+6361,1999,1,albert_park,True,False,True,False,False,alesi,French,sauber,16,21,0,0,0,0,0,0,3.4000000000000057,34
+6347,1999,1,albert_park,True,False,True,False,False,takagi,Japanese,arrows,17,7,0,0,0,0,0,0,3.700000000000003,25
+6346,1999,1,albert_park,True,False,True,False,False,rosa,Spanish,arrows,18,6,0,0,0,0,0,0,3.700000000000003,28
+6349,1999,1,albert_park,True,False,True,False,False,zonta,Brazilian,bar,19,9,0,0,0,0,0,0,3.9000000000000057,22
+6355,1999,1,albert_park,True,False,True,False,False,panis,French,prost,20,15,0,0,0,0,0,0,4.599999999999994,32
+6350,1999,1,albert_park,True,False,True,False,False,badoer,Italian,minardi,21,10,0,0,0,0,0,0,4.799999999999997,28
+6353,1999,1,albert_park,True,False,True,False,False,gene,Spanish,minardi,22,13,0,0,0,0,0,0,6.5,24

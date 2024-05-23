@@ -1,0 +1,21 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+12527,2015,3,shanghai,False,False,False,False,False,hamilton,British,mercedes,1,1,43,1,1,76,1,1,0.0,30
+12528,2015,3,shanghai,False,False,False,False,False,rosberg,German,mercedes,2,2,33,0,3,76,1,1,0.0,29
+12529,2015,3,shanghai,False,False,False,False,False,vettel,German,ferrari,3,3,40,1,2,52,1,2,0.9000000000000057,27
+12531,2015,3,shanghai,False,False,False,False,False,massa,Brazilian,williams,4,5,20,0,4,30,0,3,1.2000000000000028,33
+12532,2015,3,shanghai,False,False,False,False,False,bottas,Finnish,williams,5,6,10,0,7,30,0,3,1.2999999999999972,25
+12530,2015,3,shanghai,False,False,False,False,False,raikkonen,Finnish,ferrari,6,4,12,0,5,52,1,2,1.4000000000000057,35
+12535,2015,3,shanghai,False,False,False,False,False,ricciardo,Australian,red_bull,7,9,9,0,8,11,0,6,1.7000000000000028,25
+12533,2015,3,shanghai,False,False,False,False,False,grosjean,French,lotus_f1,8,7,0,0,15,0,0,8,2.1000000000000085,28
+12534,2015,3,shanghai,False,False,False,False,False,nasr,Brazilian,sauber,9,8,10,0,6,14,0,4,2.299999999999997,22
+12536,2015,3,shanghai,False,False,False,False,False,ericsson,Swedish,sauber,10,10,4,0,12,14,0,4,2.4000000000000057,24
+12544,2015,3,shanghai,False,False,False,False,False,maldonado,Venezuelan,lotus_f1,11,18,0,0,18,0,0,8,2.299999999999997,30
+12545,2015,3,shanghai,False,False,False,False,False,kvyat,Russian,red_bull,12,19,2,0,13,11,0,6,2.4000000000000057,20
+12543,2015,3,shanghai,False,False,False,False,False,max_verstappen,Dutch,toro_rosso,13,17,6,0,10,12,0,5,2.6000000000000085,17
+12539,2015,3,shanghai,False,False,False,False,False,sainz,Spanish,toro_rosso,14,13,6,0,11,12,0,5,2.700000000000003,20
+12537,2015,3,shanghai,False,False,False,False,False,perez,Mexican,force_india,15,11,1,0,14,7,0,7,3.5,25
+12546,2015,3,shanghai,False,False,False,False,False,hulkenberg,German,force_india,16,20,6,0,9,7,0,7,3.4000000000000057,27
+12540,2015,3,shanghai,False,False,False,False,False,button,British,mclaren,17,14,0,0,16,0,0,9,3.5,35
+12538,2015,3,shanghai,False,False,False,False,False,alonso,Spanish,mclaren,18,12,0,0,20,0,0,9,3.5,33
+12541,2015,3,shanghai,False,False,False,False,False,stevens,British,manor,19,15,0,0,21,0,0,10,6.299999999999997,23
+12542,2015,3,shanghai,False,False,False,False,False,merhi,Spanish,manor,20,16,0,0,17,0,0,10,7.0,24

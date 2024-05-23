@@ -1,0 +1,27 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+4288,1993,10,hockenheimring,False,False,True,False,False,prost,French,williams,1,1,67,6,1,95,6,1,0.0,38
+4302,1993,10,hockenheimring,False,False,True,False,False,damon_hill,British,williams,2,15,28,0,4,95,6,1,0.2000000000000028,32
+4289,1993,10,hockenheimring,False,False,True,False,False,michael_schumacher,German,benetton,3,2,30,0,3,39,0,3,0.8999999999999915,24
+4291,1993,10,hockenheimring,False,False,True,False,False,senna,Brazilian,mclaren,4,4,47,3,2,50,3,2,0.8999999999999915,33
+4290,1993,10,hockenheimring,False,False,True,False,False,blundell,British,ligier,5,3,6,0,8,15,0,4,1.3999999999999917,27
+4295,1993,10,hockenheimring,False,False,True,False,False,brundle,British,ligier,6,8,9,0,6,15,0,4,2.200000000000003,34
+4292,1993,10,hockenheimring,False,False,True,False,False,patrese,Italian,benetton,7,5,9,0,5,39,0,3,2.3999999999999915,39
+4309,1993,10,hockenheimring,False,False,True,False,False,suzuki,Japanese,footwork,8,22,0,0,22,1,0,10,2.3999999999999915,32
+4293,1993,10,hockenheimring,False,False,True,False,False,berger,Austrian,ferrari,9,6,5,0,11,9,0,6,2.5,33
+4294,1993,10,hockenheimring,False,False,True,False,False,alesi,French,ferrari,10,7,4,0,12,9,0,6,2.5999999999999943,29
+4304,1993,10,hockenheimring,False,False,True,False,False,warwick,British,footwork,11,17,1,0,17,1,0,10,2.700000000000003,38
+4310,1993,10,hockenheimring,False,False,True,False,False,andretti,American,mclaren,12,23,3,0,13,50,3,2,2.799999999999997,30
+4297,1993,10,hockenheimring,False,False,True,False,False,herbert,British,team_lotus,13,10,9,0,7,10,0,5,2.8999999999999915,29
+4296,1993,10,hockenheimring,False,False,True,False,False,wendlinger,Austrian,sauber,14,9,1,0,18,6,0,8,2.8999999999999915,24
+4308,1993,10,hockenheimring,False,False,True,False,False,zanardi,Italian,team_lotus,15,21,1,0,16,10,0,5,3.200000000000003,26
+4313,1993,10,hockenheimring,False,False,True,False,False,comas,French,larrousse,16,26,0,0,21,2,0,9,3.200000000000003,29
+4305,1993,10,hockenheimring,False,False,True,False,False,barrichello,Brazilian,jordan,17,18,0,0,19,0,0,11,3.299999999999997,21
+4307,1993,10,hockenheimring,False,False,True,False,False,lehto,Finnish,sauber,18,20,5,0,10,6,0,8,3.299999999999997,27
+4312,1993,10,hockenheimring,False,False,True,False,False,cesaris,Italian,tyrrell,19,25,0,0,23,0,0,13,3.5,34
+4298,1993,10,hockenheimring,False,False,True,False,False,fittipaldi,Brazilian,minardi,20,11,5,0,9,7,0,7,4.0,22
+4306,1993,10,hockenheimring,False,False,True,False,False,katayama,Japanese,tyrrell,21,19,0,0,26,0,0,13,4.0,30
+4301,1993,10,hockenheimring,False,False,True,False,False,martini,Italian,minardi,22,14,0,0,0,7,0,7,4.099999999999994,32
+4299,1993,10,hockenheimring,False,False,True,False,False,alliot,French,larrousse,23,12,2,0,14,2,0,9,4.200000000000003,38
+4300,1993,10,hockenheimring,False,False,True,False,False,boutsen,Belgian,jordan,24,13,0,0,24,0,0,11,4.299999999999997,36
+4311,1993,10,hockenheimring,False,False,True,False,False,badoer,Italian,lola,25,24,0,0,20,0,0,12,4.599999999999994,22
+4303,1993,10,hockenheimring,False,False,True,False,False,alboreto,Italian,lola,26,16,0,0,25,0,0,12,5.5,36

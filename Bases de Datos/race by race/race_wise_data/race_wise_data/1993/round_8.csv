@@ -1,0 +1,26 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+4239,1993,8,magny_cours,False,False,False,False,False,damon_hill,British,williams,1,2,22,0,3,69,4,1,0.0,32
+4238,1993,8,magny_cours,False,False,False,False,False,prost,French,williams,2,1,47,4,1,69,4,1,0.0999999999999943,38
+4242,1993,8,magny_cours,False,False,False,False,False,brundle,British,ligier,3,5,7,0,5,13,0,4,1.7999999999999972,34
+4258,1993,8,magny_cours,False,False,False,False,False,blundell,British,ligier,4,21,6,0,6,13,0,4,1.7999999999999972,27
+4241,1993,8,magny_cours,False,False,False,False,False,senna,Brazilian,mclaren,5,4,42,3,2,44,3,2,1.8999999999999917,33
+4254,1993,8,magny_cours,False,False,False,False,False,alesi,French,ferrari,6,17,4,0,12,9,0,5,2.299999999999997,29
+4240,1993,8,magny_cours,False,False,False,False,False,michael_schumacher,German,benetton,7,3,20,0,4,25,0,3,2.299999999999997,24
+4244,1993,8,magny_cours,False,False,False,False,False,barrichello,Brazilian,jordan,8,7,0,0,21,0,0,12,2.799999999999997,21
+4253,1993,8,magny_cours,False,False,False,False,False,comas,French,larrousse,9,16,0,0,20,2,0,9,2.799999999999997,29
+4246,1993,8,magny_cours,False,False,False,False,False,alliot,French,larrousse,10,9,2,0,13,2,0,9,2.799999999999997,38
+4256,1993,8,magny_cours,False,False,False,False,False,wendlinger,Austrian,sauber,11,19,1,0,17,6,0,8,2.8999999999999915,24
+4247,1993,8,magny_cours,False,False,False,False,False,patrese,Italian,benetton,12,10,5,0,10,25,0,3,3.0,39
+4249,1993,8,magny_cours,False,False,False,False,False,suzuki,Japanese,footwork,13,12,0,0,22,0,0,10,3.0,32
+4251,1993,8,magny_cours,False,False,False,False,False,berger,Austrian,ferrari,14,14,5,0,11,9,0,5,3.0999999999999943,33
+4250,1993,8,magny_cours,False,False,False,False,False,warwick,British,footwork,15,13,0,0,18,0,0,10,3.1999999999999886,38
+4243,1993,8,magny_cours,False,False,False,False,False,andretti,American,mclaren,16,6,2,0,14,44,3,2,3.299999999999997,30
+4262,1993,8,magny_cours,False,False,False,False,False,zanardi,Italian,team_lotus,17,25,1,0,16,7,0,6,3.299999999999997,26
+4257,1993,8,magny_cours,False,False,False,False,False,lehto,Finnish,sauber,18,20,5,0,9,6,0,8,3.3999999999999915,27
+4259,1993,8,magny_cours,False,False,False,False,False,herbert,British,team_lotus,19,22,6,0,7,7,0,6,3.5,29
+4248,1993,8,magny_cours,False,False,False,False,False,boutsen,Belgian,jordan,20,11,0,0,25,0,0,12,3.5999999999999943,35
+4255,1993,8,magny_cours,False,False,False,False,False,badoer,Italian,lola,22,18,0,0,19,0,0,11,5.099999999999994,22
+4245,1993,8,magny_cours,False,False,False,False,False,fittipaldi,Brazilian,minardi,23,8,5,0,8,7,0,7,5.099999999999994,22
+4260,1993,8,magny_cours,False,False,False,False,False,barbazza,Italian,minardi,24,23,2,0,15,7,0,7,5.299999999999997,30
+4261,1993,8,magny_cours,False,False,False,False,False,katayama,Japanese,tyrrell,24,24,0,0,26,0,0,13,5.299999999999997,30
+4252,1993,8,magny_cours,False,False,False,False,False,cesaris,Italian,tyrrell,25,15,0,0,23,0,0,13,5.5,34

@@ -1,0 +1,27 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+1884,1987,13,jerez,True,False,False,False,False,piquet,Brazilian,williams,1,4,67,3,1,110,7,1,0.0,35
+1881,1987,13,jerez,True,False,False,False,False,mansell,British,williams,2,1,43,4,3,110,7,1,0.5999999999999943,34
+1897,1987,13,jerez,True,False,False,False,False,berger,Austrian,ferrari,3,17,18,0,6,26,0,4,0.7000000000000028,28
+1895,1987,13,jerez,True,False,False,False,False,alboreto,Italian,ferrari,4,15,8,0,9,26,0,4,1.7000000000000028,30
+1885,1987,13,jerez,True,False,False,False,False,senna,Brazilian,team_lotus,5,5,49,2,2,55,2,3,1.7999999999999972,27
+1902,1987,13,jerez,True,False,False,False,False,fabi,Italian,benetton,6,22,10,0,7,20,0,5,2.0,32
+1882,1987,13,jerez,True,False,False,False,False,prost,French,mclaren,7,2,40,3,4,62,3,2,2.0999999999999943,32
+1896,1987,13,jerez,True,False,False,False,False,boutsen,Belgian,benetton,8,16,10,0,8,20,0,5,2.799999999999997,30
+1893,1987,13,jerez,True,False,False,False,False,patrese,Italian,brabham,9,13,2,0,17,6,0,8,2.799999999999997,33
+1903,1987,13,jerez,True,False,False,False,False,cesaris,Italian,brabham,10,23,4,0,12,6,0,8,3.299999999999997,28
+1883,1987,13,jerez,True,False,False,False,False,johansson,Swedish,mclaren,11,3,22,0,5,62,3,2,3.5999999999999943,31
+1890,1987,13,jerez,True,False,False,False,False,warwick,British,arrows,12,10,3,0,15,8,0,7,4.200000000000003,33
+1888,1987,13,jerez,True,False,False,False,False,cheever,American,arrows,13,8,5,0,11,8,0,7,4.599999999999994,29
+1899,1987,13,jerez,True,False,False,False,False,arnoux,French,ligier,14,19,1,0,20,1,0,10,5.700000000000003,39
+1887,1987,13,jerez,True,False,False,False,False,streiff,French,tyrrell,15,7,4,0,13,8,0,6,5.799999999999997,32
+1898,1987,13,jerez,True,False,False,False,False,palmer,British,tyrrell,16,18,4,0,14,8,0,6,5.900000000000006,30
+1886,1987,13,jerez,True,False,False,False,False,alliot,French,larrousse,17,6,1,0,18,1,0,11,5.900000000000006,33
+1889,1987,13,jerez,True,False,False,False,False,satoru_nakajima,Japanese,team_lotus,18,9,6,0,10,55,2,3,5.900000000000006,34
+1892,1987,13,jerez,True,False,False,False,False,capelli,Italian,march,19,12,1,0,19,1,0,12,6.0,24
+1891,1987,13,jerez,True,False,False,False,False,brundle,British,zakspeed,20,11,2,0,16,2,0,9,6.099999999999994,28
+1901,1987,13,jerez,True,False,False,False,False,nannini,Italian,minardi,21,21,0,0,24,0,0,14,6.099999999999994,28
+1900,1987,13,jerez,True,False,False,False,False,danner,German,zakspeed,22,20,0,0,22,2,0,9,6.200000000000003,29
+1904,1987,13,jerez,True,False,False,False,False,ghinzani,Italian,ligier,23,24,0,0,21,1,0,10,6.599999999999994,35
+1894,1987,13,jerez,True,False,False,False,False,campos,Spanish,minardi,24,14,0,0,26,0,0,14,7.0,27
+1905,1987,13,jerez,True,False,False,False,False,fabre,French,ags,25,25,0,0,23,0,0,13,8.200000000000003,27
+1906,1987,13,jerez,True,False,False,False,False,larini,Italian,coloni,26,26,0,0,29,0,0,16,8.5,23

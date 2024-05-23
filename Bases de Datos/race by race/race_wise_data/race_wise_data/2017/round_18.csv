@@ -1,0 +1,17 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+13655,2017,18,rodriguez,False,False,True,False,False,vettel,German,ferrari,1,4,265,4,2,428,4,2,0.0,30
+13652,2017,18,rodriguez,False,False,True,False,False,max_verstappen,Dutch,red_bull,2,1,123,1,6,315,2,3,0.0999999999999943,20
+13660,2017,18,rodriguez,False,False,True,False,False,hamilton,British,mercedes,3,9,331,9,1,575,11,1,0.4000000000000057,32
+13653,2017,18,rodriguez,False,False,True,False,False,bottas,Finnish,mercedes,4,2,244,2,3,575,11,1,0.5,28
+13654,2017,18,rodriguez,False,False,True,False,False,raikkonen,Finnish,ferrari,5,3,163,0,5,428,4,2,0.7000000000000028,38
+13656,2017,18,rodriguez,False,False,True,False,False,ocon,French,force_india,6,5,73,0,8,159,0,4,0.9000000000000057,21
+13670,2017,18,rodriguez,False,False,True,False,False,hulkenberg,German,renault,7,19,34,0,11,48,0,7,1.0,30
+13667,2017,18,rodriguez,False,False,True,False,False,sainz,Spanish,renault,8,16,54,0,9,48,0,7,1.2999999999999972,23
+13658,2017,18,rodriguez,False,False,True,False,False,perez,Mexican,force_india,9,7,86,0,7,159,0,4,1.2999999999999972,27
+13662,2017,18,rodriguez,False,False,True,False,False,massa,Brazilian,williams,10,11,36,0,10,68,0,5,1.5999999999999943,36
+13657,2017,18,rodriguez,False,False,True,False,False,stroll,Canadian,williams,11,6,32,0,12,68,0,5,2.700000000000003,19
+13668,2017,18,rodriguez,False,False,True,False,False,ericsson,Swedish,sauber,12,17,0,0,20,5,0,10,2.700000000000003,27
+13665,2017,18,rodriguez,False,False,True,False,False,wehrlein,German,sauber,13,14,5,0,18,5,0,10,2.799999999999997,23
+13659,2017,18,rodriguez,False,False,True,False,False,kevin_magnussen,Danish,haas,14,8,15,0,14,43,0,8,2.9000000000000057,25
+13666,2017,18,rodriguez,False,False,True,False,False,grosjean,French,haas,15,15,28,0,13,43,0,8,3.0,31
+13671,2017,18,rodriguez,False,False,True,False,False,ricciardo,Australian,red_bull,16,20,192,1,4,315,2,3,0.9000000000000057,28

@@ -1,0 +1,27 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+3984,1992,14,estoril,False,False,False,False,False,mansell,British,williams,1,1,98,8,1,144,8,1,0.0,39
+4002,1992,14,estoril,False,False,False,False,False,patrese,Italian,williams,2,19,46,0,4,144,8,1,0.7000000000000028,38
+3986,1992,14,estoril,False,False,False,False,False,senna,Brazilian,mclaren,3,3,46,3,3,73,4,3,1.2999999999999972,32
+3985,1992,14,estoril,False,False,False,False,False,berger,Austrian,mclaren,4,2,27,1,5,73,4,3,2.0999999999999943,33
+3990,1992,14,estoril,False,False,False,False,False,michael_schumacher,German,benetton,5,7,47,1,2,74,1,2,2.4000000000000057,23
+3987,1992,14,estoril,False,False,False,False,False,brundle,British,benetton,6,4,27,0,6,74,1,2,3.0999999999999943,33
+3988,1992,14,estoril,False,False,False,False,False,hakkinen,Finnish,team_lotus,7,5,9,0,8,11,0,5,3.200000000000003,23
+3989,1992,14,estoril,False,False,False,False,False,alboreto,Italian,footwork,8,6,5,0,9,5,0,6,3.299999999999997,35
+4009,1992,14,estoril,False,False,False,False,False,herbert,British,team_lotus,9,26,2,0,14,11,0,5,3.5999999999999943,28
+4008,1992,14,estoril,False,False,False,False,False,alesi,French,ferrari,10,25,13,0,7,16,0,4,3.9000000000000057,28
+3991,1992,14,estoril,False,False,False,False,False,boutsen,Belgian,ligier,11,8,0,0,20,4,0,8,3.9000000000000057,35
+3992,1992,14,estoril,False,False,False,False,False,cesaris,Italian,tyrrell,12,9,5,0,10,5,0,7,4.200000000000003,33
+4006,1992,14,estoril,False,False,False,False,False,gachot,Belgian,larrousse,13,23,1,0,16,1,0,11,4.299999999999997,29
+4000,1992,14,estoril,False,False,False,False,False,comas,French,ligier,14,17,4,0,11,4,0,8,4.299999999999997,28
+4005,1992,14,estoril,False,False,False,False,False,grouillard,French,tyrrell,15,22,0,0,22,5,0,7,4.299999999999997,34
+4004,1992,14,estoril,False,False,False,False,False,capelli,Italian,ferrari,16,21,3,0,13,16,0,4,4.299999999999997,29
+3993,1992,14,estoril,False,False,False,False,False,suzuki,Japanese,footwork,17,10,0,0,18,5,0,6,4.400000000000006,32
+3997,1992,14,estoril,False,False,False,False,False,morbidelli,Italian,minardi,18,14,0,0,19,0,0,12,4.400000000000006,24
+3998,1992,14,estoril,False,False,False,False,False,lehto,Finnish,dallara,19,15,0,0,17,2,0,10,4.5,26
+4007,1992,14,estoril,False,False,False,False,False,gugelmin,Brazilian,jordan,20,24,0,0,21,0,0,13,4.599999999999994,29
+4003,1992,14,estoril,False,False,False,False,False,martini,Italian,dallara,21,20,2,0,15,2,0,10,4.700000000000003,31
+3999,1992,14,estoril,False,False,False,False,False,wendlinger,Austrian,march,22,16,3,0,12,3,0,9,5.099999999999994,23
+3994,1992,14,estoril,False,False,False,False,False,naspetti,Italian,march,23,11,0,0,28,3,0,9,5.099999999999994,24
+3996,1992,14,estoril,False,False,False,False,False,modena,Italian,jordan,24,13,0,0,30,0,0,13,5.299999999999997,29
+4001,1992,14,estoril,False,False,False,False,False,katayama,Japanese,larrousse,25,18,0,0,24,1,0,11,5.599999999999994,29
+3995,1992,14,estoril,False,False,False,False,False,fittipaldi,Brazilian,minardi,26,12,0,0,23,0,0,12,5.599999999999994,21

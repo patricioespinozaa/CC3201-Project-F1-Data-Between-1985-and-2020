@@ -1,0 +1,20 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+12312,2014,11,hungaroring,False,False,False,True,False,rosberg,German,mercedes,1,4,190,4,1,366,9,1,0.0,29
+12315,2014,11,hungaroring,False,False,False,True,False,vettel,German,red_bull,2,7,82,0,6,188,1,2,0.5,27
+12316,2014,11,hungaroring,False,False,False,True,False,bottas,Finnish,williams,3,8,91,0,5,121,0,3,0.7000000000000028,24
+12310,2014,11,hungaroring,False,False,False,True,False,ricciardo,Australian,red_bull,4,1,106,1,3,188,1,2,0.7000000000000028,25
+12311,2014,11,hungaroring,False,False,False,True,False,alonso,Spanish,ferrari,5,2,97,0,4,116,0,4,1.2000000000000028,32
+12313,2014,11,hungaroring,False,False,False,True,False,massa,Brazilian,williams,6,5,30,0,10,121,0,3,1.5,33
+12318,2014,11,hungaroring,False,False,False,True,False,button,British,mclaren,7,10,59,0,8,96,0,6,1.5999999999999943,34
+12317,2014,11,hungaroring,False,False,False,True,False,vergne,French,toro_rosso,8,9,9,0,13,15,0,7,2.0,24
+12327,2014,11,hungaroring,False,False,False,True,False,hulkenberg,German,force_india,9,20,69,0,7,98,0,5,2.0999999999999943,26
+12321,2014,11,hungaroring,False,False,False,True,False,kvyat,Russian,toro_rosso,10,14,6,0,15,15,0,7,2.0,20
+12319,2014,11,hungaroring,False,False,False,True,False,sutil,German,sauber,11,11,0,0,17,0,0,10,2.3999999999999915,31
+12326,2014,11,hungaroring,False,False,False,True,False,perez,Mexican,force_india,12,19,29,0,11,98,0,5,2.5,24
+12324,2014,11,hungaroring,False,False,False,True,False,gutierrez,Mexican,sauber,13,17,0,0,20,0,0,10,2.5999999999999943,22
+12328,2014,11,hungaroring,False,False,False,True,False,grosjean,French,lotus_f1,14,21,8,0,14,8,0,8,2.5999999999999943,28
+12322,2014,11,hungaroring,False,False,False,True,False,jules_bianchi,French,marussia,15,15,2,0,16,2,0,9,4.700000000000003,24
+12314,2014,11,hungaroring,False,False,False,True,False,raikkonen,Finnish,ferrari,16,6,19,0,12,116,0,4,4.099999999999994,34
+12325,2014,11,hungaroring,False,False,False,True,False,kobayashi,Japanese,caterham,17,18,0,0,22,0,0,11,4.399999999999992,27
+12323,2014,11,hungaroring,False,False,False,True,False,chilton,British,marussia,18,16,0,0,21,2,0,9,5.099999999999994,23
+12329,2014,11,hungaroring,False,False,False,True,False,ericsson,Swedish,caterham,19,22,0,0,18,0,0,11,5.899999999999992,23

@@ -1,0 +1,26 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+4538,1994,3,imola,True,False,False,False,False,senna,Brazilian,williams,1,22,0,0,19,6,0,4,0.0,34
+4517,1994,3,imola,True,False,False,False,False,michael_schumacher,German,benetton,2,1,20,2,1,20,2,1,0.4000000000000057,25
+4537,1994,3,imola,True,False,False,False,False,berger,Austrian,ferrari,3,21,6,0,4,10,0,2,0.5999999999999943,34
+4522,1994,3,imola,True,False,False,False,False,damon_hill,British,williams,4,6,6,0,3,6,0,4,0.7000000000000028,33
+4540,1994,3,imola,True,False,False,False,False,lehto,Finnish,benetton,5,24,0,0,0,20,2,1,1.2000000000000028,28
+4518,1994,3,imola,True,False,False,False,False,larini,Italian,ferrari,6,2,0,0,28,10,0,2,1.2999999999999972,30
+4523,1994,3,imola,True,False,False,False,False,frentzen,German,sauber,7,7,2,0,7,3,0,6,1.5999999999999943,26
+4519,1994,3,imola,True,False,False,False,False,hakkinen,Finnish,mclaren,8,3,0,0,26,0,0,13,1.5999999999999943,25
+4521,1994,3,imola,True,False,False,False,False,katayama,Japanese,tyrrell,9,5,2,0,8,2,0,7,1.7999999999999972,30
+4520,1994,3,imola,True,False,False,False,False,wendlinger,Austrian,sauber,10,4,1,0,10,3,0,6,1.7999999999999972,25
+4532,1994,3,imola,True,False,False,False,False,morbidelli,Italian,footwork,11,16,0,0,18,3,0,5,2.200000000000003,26
+4525,1994,3,imola,True,False,False,False,False,blundell,British,tyrrell,12,9,0,0,24,2,0,7,2.200000000000003,28
+4524,1994,3,imola,True,False,False,False,False,brundle,British,mclaren,13,8,0,0,20,0,0,13,2.4000000000000057,34
+4533,1994,3,imola,True,False,False,False,False,martini,Italian,minardi,14,17,0,0,13,0,0,10,2.5999999999999943,33
+4531,1994,3,imola,True,False,False,False,False,alboreto,Italian,minardi,15,15,0,0,21,0,0,10,2.799999999999997,37
+4529,1994,3,imola,True,False,False,False,False,fittipaldi,Brazilian,footwork,16,13,3,0,6,3,0,5,3.0,23
+4528,1994,3,imola,True,False,False,False,False,bernard,French,ligier,17,12,0,0,15,0,0,11,3.200000000000003,29
+4539,1994,3,imola,True,False,False,False,False,comas,French,larrousse,18,23,1,0,9,1,0,8,3.4000000000000057,30
+4527,1994,3,imola,True,False,False,False,False,panis,French,ligier,19,11,0,0,14,0,0,11,3.5,27
+4526,1994,3,imola,True,False,False,False,False,herbert,British,team_lotus,20,10,0,0,11,0,0,9,3.5999999999999943,29
+4530,1994,3,imola,True,False,False,False,False,cesaris,Italian,jordan,21,14,0,0,0,7,0,3,3.700000000000003,34
+4541,1994,3,imola,True,False,False,False,False,lamy,Portuguese,team_lotus,22,25,0,0,12,0,0,9,3.799999999999997,22
+4536,1994,3,imola,True,False,False,False,False,beretta,Monegasque,larrousse,23,20,0,0,27,1,0,8,4.5,24
+4534,1994,3,imola,True,False,False,False,False,brabham,Australian,simtek,24,18,0,0,17,0,0,12,5.299999999999997,28
+4535,1994,3,imola,True,False,False,False,False,gachot,Belgian,pacific,25,19,0,0,29,0,0,14,5.599999999999994,31

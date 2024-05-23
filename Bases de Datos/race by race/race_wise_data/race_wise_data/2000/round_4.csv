@@ -1,0 +1,23 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+6775,2000,4,silverstone,False,False,False,False,False,barrichello,Brazilian,ferrari,1,20,9,0,2,39,3,1,0.0,27
+6772,2000,4,silverstone,False,False,False,False,False,frentzen,German,jordan,2,17,4,0,8,7,0,4,0.0,32
+6757,2000,4,silverstone,False,False,False,False,False,hakkinen,Finnish,mclaren,3,2,6,0,4,10,0,2,0.0,31
+6756,2000,4,silverstone,False,False,False,False,False,coulthard,British,mclaren,4,1,4,0,7,10,0,2,0.3999999999999915,29
+6758,2000,4,silverstone,False,False,False,False,False,michael_schumacher,German,ferrari,5,3,30,3,1,39,3,1,0.5,31
+6760,2000,4,silverstone,False,False,False,False,False,button,British,williams,6,5,1,0,11,7,0,5,1.0,20
+6759,2000,4,silverstone,False,False,False,False,False,ralf_schumacher,German,williams,7,4,6,0,5,7,0,5,1.0999999999999943,24
+6777,2000,4,silverstone,False,False,False,False,False,verstappen,Dutch,arrows,8,22,0,0,14,0,0,8,1.0999999999999943,28
+6768,2000,4,silverstone,False,False,False,False,False,irvine,British,jaguar,9,13,0,0,15,0,0,9,1.0999999999999943,34
+6771,2000,4,silverstone,False,False,False,False,False,villeneuve,Canadian,bar,10,16,5,0,6,6,0,6,1.2999999999999972,29
+6761,2000,4,silverstone,False,False,False,False,False,trulli,Italian,jordan,11,6,3,0,9,7,0,4,1.5,25
+6762,2000,4,silverstone,False,False,False,False,False,fisichella,Italian,benetton,12,7,8,0,3,8,0,3,1.5999999999999943,27
+6766,2000,4,silverstone,False,False,False,False,False,diniz,Brazilian,sauber,13,11,0,0,17,1,0,7,1.5999999999999943,29
+6767,2000,4,silverstone,False,False,False,False,False,herbert,British,jaguar,14,12,0,0,21,0,0,9,1.7999999999999972,35
+6765,2000,4,silverstone,False,False,False,False,False,alesi,French,prost,15,10,0,0,0,0,0,11,1.8999999999999917,35
+6774,2000,4,silverstone,False,False,False,False,False,zonta,Brazilian,bar,16,19,1,0,10,6,0,6,2.0999999999999943,24
+6773,2000,4,silverstone,False,False,False,False,False,heidfeld,German,prost,17,18,0,0,19,0,0,11,2.0999999999999943,22
+6763,2000,4,silverstone,False,False,False,False,False,salo,Finnish,sauber,18,8,1,0,12,1,0,7,2.3999999999999915,33
+6776,2000,4,silverstone,False,False,False,False,False,rosa,Spanish,arrows,19,21,0,0,16,0,0,8,2.3999999999999915,29
+6764,2000,4,silverstone,False,False,False,False,False,wurz,Austrian,benetton,20,9,0,0,13,8,0,3,2.5,26
+6769,2000,4,silverstone,False,False,False,False,False,gene,Spanish,minardi,21,14,0,0,18,0,0,10,2.5999999999999943,26
+6770,2000,4,silverstone,False,False,False,False,False,mazzacane,Argentine,minardi,22,15,0,0,20,0,0,10,3.5,24

@@ -1,0 +1,23 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+7543,2002,6,osterreichring,False,False,False,False,False,barrichello,Brazilian,ferrari,1,2,6,0,6,50,4,1,0.0,29
+7545,2002,6,osterreichring,False,False,False,False,False,ralf_schumacher,German,williams,2,4,20,1,3,43,1,2,0.3000000000000113,26
+7542,2002,6,osterreichring,False,False,False,False,False,michael_schumacher,German,ferrari,3,1,44,4,1,50,4,1,0.6000000000000085,33
+7544,2002,6,osterreichring,False,False,False,False,False,montoya,Colombian,williams,4,3,23,0,2,43,1,2,1.0,26
+7557,2002,6,osterreichring,False,False,False,False,False,heidfeld,German,sauber,5,16,5,0,7,8,0,5,1.0,25
+7561,2002,6,osterreichring,False,False,False,False,False,raikkonen,Finnish,mclaren,6,20,4,0,8,13,0,3,1.1000000000000083,22
+7560,2002,6,osterreichring,False,False,False,False,False,massa,Brazilian,sauber,7,19,3,0,10,8,0,5,1.1000000000000083,21
+7547,2002,6,osterreichring,False,False,False,False,False,coulthard,British,mclaren,8,6,9,0,4,13,0,3,1.2000000000000028,31
+7559,2002,6,osterreichring,False,False,False,False,False,panis,French,bar,9,18,0,0,0,0,0,10,1.5,35
+7549,2002,6,osterreichring,False,False,False,False,False,salo,Finnish,toyota,10,8,2,0,12,2,0,8,1.6000000000000083,35
+7552,2002,6,osterreichring,False,False,False,False,False,frentzen,German,arrows,11,11,1,0,13,1,0,9,1.6000000000000083,34
+7562,2002,6,osterreichring,False,False,False,False,False,bernoldi,Brazilian,arrows,12,21,0,0,0,1,0,9,1.6000000000000083,23
+7548,2002,6,osterreichring,False,False,False,False,False,button,British,renault,13,7,8,0,5,8,0,4,1.7000000000000028,22
+7550,2002,6,osterreichring,False,False,False,False,False,mcnish,British,toyota,14,9,0,0,15,2,0,8,1.7000000000000028,32
+7546,2002,6,osterreichring,False,False,False,False,False,fisichella,Italian,jordan,15,5,0,0,20,0,0,11,1.8000000000000114,29
+7554,2002,6,osterreichring,False,False,False,False,False,trulli,Italian,renault,16,13,0,0,19,8,0,4,1.9000000000000057,27
+7551,2002,6,osterreichring,False,False,False,False,False,villeneuve,Canadian,bar,17,10,0,0,14,0,0,10,2.0,31
+7558,2002,6,osterreichring,False,False,False,False,False,sato,Japanese,jordan,18,17,0,0,18,0,0,11,2.0,25
+7563,2002,6,osterreichring,False,False,False,False,False,rosa,Spanish,jaguar,19,22,0,0,17,3,0,6,2.4000000000000057,31
+7556,2002,6,osterreichring,False,False,False,False,False,irvine,British,jaguar,20,15,3,0,9,3,0,6,2.6000000000000085,36
+7553,2002,6,osterreichring,False,False,False,False,False,webber,Australian,minardi,21,12,2,0,11,2,0,7,3.300000000000012,25
+7555,2002,6,osterreichring,False,False,False,False,False,yoong,Malaysian,minardi,22,14,0,0,16,2,0,7,4.200000000000003,25

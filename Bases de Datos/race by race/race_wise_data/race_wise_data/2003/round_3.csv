@@ -1,0 +1,21 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+7840,2003,3,interlagos,False,False,False,False,False,barrichello,Brazilian,ferrari,1,11,8,0,4,16,0,2,0.0,30
+7833,2003,3,interlagos,False,False,False,False,False,coulthard,British,mclaren,2,4,10,1,2,26,2,1,0.0,32
+7838,2003,3,interlagos,False,False,False,False,False,webber,Australian,jaguar,3,9,0,0,0,0,0,0,0.1000000000000085,26
+7831,2003,3,interlagos,False,False,False,False,False,raikkonen,Finnish,mclaren,4,2,16,1,1,26,2,1,0.1000000000000085,23
+7837,2003,3,interlagos,False,False,False,False,False,trulli,Italian,renault,5,8,8,0,7,16,0,3,0.2000000000000028,28
+7836,2003,3,interlagos,False,False,False,False,False,ralf_schumacher,German,williams,6,7,6,0,8,14,0,4,0.2999999999999971,27
+7843,2003,3,interlagos,False,False,False,False,False,michael_schumacher,German,ferrari,7,14,8,0,6,16,0,2,0.2999999999999971,34
+7830,2003,3,interlagos,False,False,False,False,False,fisichella,Italian,jordan,8,1,0,0,0,0,0,7,0.4000000000000057,30
+7844,2003,3,interlagos,False,False,False,False,False,montoya,Colombian,williams,9,15,8,0,3,14,0,4,0.4000000000000057,27
+7832,2003,3,interlagos,False,False,False,False,False,alonso,Spanish,renault,10,3,8,0,5,16,0,3,0.6000000000000085,21
+7841,2003,3,interlagos,False,False,False,False,False,button,British,bar,11,12,2,0,10,2,0,6,0.7000000000000028,23
+7849,2003,3,interlagos,False,False,False,False,False,heidfeld,German,sauber,12,20,1,0,11,4,0,5,0.7999999999999972,25
+7835,2003,3,interlagos,False,False,False,False,False,villeneuve,Canadian,bar,13,6,0,0,12,2,0,6,0.9000000000000057,31
+7834,2003,3,interlagos,False,False,False,False,False,frentzen,German,sauber,14,5,3,0,9,4,0,5,1.0,35
+7846,2003,3,interlagos,False,False,False,False,False,panis,French,toyota,15,17,0,0,0,0,0,9,1.0,36
+7847,2003,3,interlagos,False,False,False,False,False,firman,Irish,jordan,16,18,0,0,13,0,0,7,1.4000000000000057,27
+7845,2003,3,interlagos,False,False,False,False,False,pizzonia,Brazilian,jaguar,17,16,0,0,0,0,0,0,1.5,22
+7839,2003,3,interlagos,False,False,False,False,False,matta,Brazilian,toyota,18,10,0,0,15,0,0,9,1.7999999999999972,29
+7842,2003,3,interlagos,False,False,False,False,False,verstappen,Dutch,minardi,19,13,0,0,14,0,0,8,2.700000000000003,31
+7848,2003,3,interlagos,False,False,False,False,False,wilson,British,minardi,20,19,0,0,0,0,0,8,2.799999999999997,24

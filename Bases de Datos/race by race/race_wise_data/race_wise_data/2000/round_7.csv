@@ -1,0 +1,23 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+6832,2000,7,monaco,True,False,False,False,False,michael_schumacher,German,ferrari,1,12,46,4,1,62,4,1,0.0,31
+6835,2000,7,monaco,True,False,False,False,False,trulli,Italian,jordan,2,15,4,0,9,9,0,5,0.2000000000000028,25
+6821,2000,7,monaco,True,False,False,False,False,coulthard,British,mclaren,3,1,24,1,3,52,2,2,0.4000000000000057,29
+6830,2000,7,monaco,True,False,False,False,False,frentzen,German,jordan,4,10,5,0,7,9,0,5,0.5,33
+6826,2000,7,monaco,True,False,False,False,False,hakkinen,Finnish,mclaren,5,6,28,1,2,52,2,2,0.7000000000000028,31
+6822,2000,7,monaco,True,False,False,False,False,barrichello,Brazilian,ferrari,6,2,16,0,4,62,4,1,0.9000000000000057,28
+6837,2000,7,monaco,True,False,False,False,False,alesi,French,prost,7,17,0,0,20,0,0,11,1.0,35
+6823,2000,7,monaco,True,False,False,False,False,fisichella,Italian,benetton,8,3,10,0,6,10,0,4,1.2000000000000028,27
+6834,2000,7,monaco,True,False,False,False,False,ralf_schumacher,German,williams,9,14,12,0,5,15,0,3,1.2000000000000028,24
+6824,2000,7,monaco,True,False,False,False,False,irvine,British,jaguar,10,4,0,0,16,0,0,9,1.2000000000000028,34
+6829,2000,7,monaco,True,False,False,False,False,herbert,British,jaguar,11,9,0,0,22,0,0,9,1.2999999999999972,35
+6840,2000,7,monaco,True,False,False,False,False,wurz,Austrian,benetton,12,20,0,0,15,10,0,4,1.4000000000000057,26
+6825,2000,7,monaco,True,False,False,False,False,salo,Finnish,sauber,13,5,1,0,11,1,0,7,2.0999999999999943,33
+6841,2000,7,monaco,True,False,False,False,False,button,British,williams,14,21,3,0,10,15,0,3,2.0999999999999943,20
+6831,2000,7,monaco,True,False,False,False,False,verstappen,Dutch,arrows,15,11,0,0,17,1,0,8,2.200000000000003,28
+6842,2000,7,monaco,True,False,False,False,False,rosa,Spanish,arrows,16,22,1,0,13,1,0,8,2.299999999999997,29
+6827,2000,7,monaco,True,False,False,False,False,villeneuve,Canadian,bar,17,7,5,0,8,6,0,6,2.299999999999997,29
+6828,2000,7,monaco,True,False,False,False,False,heidfeld,German,prost,18,8,0,0,21,0,0,11,2.5,23
+6836,2000,7,monaco,True,False,False,False,False,diniz,Brazilian,sauber,19,16,0,0,14,1,0,7,2.5999999999999943,30
+6833,2000,7,monaco,True,False,False,False,False,zonta,Brazilian,bar,20,13,1,0,12,6,0,6,2.799999999999997,24
+6839,2000,7,monaco,True,False,False,False,False,gene,Spanish,minardi,21,19,0,0,19,0,0,10,4.200000000000003,26
+6838,2000,7,monaco,True,False,False,False,False,mazzacane,Argentine,minardi,22,18,0,0,18,0,0,10,4.299999999999997,25

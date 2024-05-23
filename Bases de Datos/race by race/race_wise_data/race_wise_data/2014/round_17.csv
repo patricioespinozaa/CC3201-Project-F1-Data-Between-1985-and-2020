@@ -1,0 +1,18 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+12439,2014,17,americas,False,False,False,False,False,rosberg,German,mercedes,1,2,274,4,2,565,13,1,0.0,29
+12438,2014,17,americas,False,False,False,False,False,hamilton,British,mercedes,2,1,291,9,1,565,13,1,0.3000000000000113,29
+12442,2014,17,americas,False,False,False,False,False,bottas,Finnish,williams,3,5,145,0,4,216,0,3,0.8000000000000114,25
+12441,2014,17,americas,False,False,False,False,False,massa,Brazilian,williams,4,4,71,0,9,216,0,3,1.1000000000000083,33
+12440,2014,17,americas,False,False,False,False,False,ricciardo,Australian,red_bull,5,3,199,3,3,342,3,2,1.1000000000000083,25
+12443,2014,17,americas,False,False,False,False,False,alonso,Spanish,ferrari,6,6,141,0,6,188,0,4,1.5,33
+12444,2014,17,americas,False,False,False,False,False,kevin_magnussen,Danish,mclaren,7,8,49,0,10,143,0,5,1.6000000000000083,22
+12449,2014,17,americas,False,False,False,False,False,raikkonen,Finnish,ferrari,8,13,47,0,12,188,0,4,1.7000000000000028,35
+12454,2014,17,americas,False,False,False,False,False,sutil,German,sauber,9,18,0,0,17,0,0,10,2.700000000000003,31
+12445,2014,17,americas,False,False,False,False,False,maldonado,Venezuelan,lotus_f1,10,9,0,0,19,8,0,8,2.4000000000000057,29
+12453,2014,17,americas,False,False,False,False,False,perez,Mexican,force_india,11,17,47,0,11,123,0,6,2.5,24
+12448,2014,17,americas,False,False,False,False,False,button,British,mclaren,12,12,94,0,7,143,0,5,1.6000000000000083,34
+12452,2014,17,americas,False,False,False,False,False,hulkenberg,German,force_india,13,16,76,0,8,123,0,6,2.5,27
+12446,2014,17,americas,False,False,False,False,False,vergne,French,toro_rosso,14,10,21,0,13,29,0,7,3.200000000000003,24
+12450,2014,17,americas,False,False,False,False,False,gutierrez,Mexican,sauber,15,14,0,0,20,0,0,10,3.5,23
+12447,2014,17,americas,False,False,False,False,False,grosjean,French,lotus_f1,16,11,8,0,14,8,0,8,3.6000000000000085,28
+12451,2014,17,americas,False,False,False,False,False,kvyat,Russian,toro_rosso,17,15,8,0,15,29,0,7,2.6000000000000085,20

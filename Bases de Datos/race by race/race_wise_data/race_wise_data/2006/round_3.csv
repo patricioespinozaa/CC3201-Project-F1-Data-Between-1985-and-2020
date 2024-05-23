@@ -1,0 +1,21 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+8895,2006,3,albert_park,True,False,False,False,True,button,British,honda,1,10,11,0,3,11,0,4,0.0,26
+8890,2006,3,albert_park,True,False,False,False,True,fisichella,Italian,renault,2,5,10,1,4,28,2,1,0.3999999999999915,33
+8886,2006,3,albert_park,True,False,False,False,True,alonso,Spanish,renault,3,1,18,1,1,28,2,1,0.5999999999999943,24
+8887,2006,3,albert_park,True,False,False,False,True,raikkonen,Finnish,mclaren,4,2,6,0,6,15,0,3,0.5999999999999943,26
+8899,2006,3,albert_park,True,False,False,False,True,montoya,Colombian,mclaren,5,14,9,0,5,15,0,3,0.7999999999999972,30
+8888,2006,3,albert_park,True,False,False,False,True,ralf_schumacher,German,toyota,6,3,1,0,11,1,0,7,1.3999999999999917,30
+8903,2006,3,albert_park,True,False,False,False,True,webber,Australian,williams,7,18,3,0,8,5,0,5,1.7000000000000028,29
+8889,2006,3,albert_park,True,False,False,False,True,heidfeld,German,bmw_sauber,8,4,0,0,18,2,0,6,2.3999999999999915,28
+8902,2006,3,albert_park,True,False,False,False,True,michael_schumacher,German,ferrari,10,17,11,0,2,15,0,2,1.5,37
+8893,2006,3,albert_park,True,False,False,False,True,coulthard,British,red_bull,11,8,0,0,15,1,0,8,1.7999999999999972,35
+8901,2006,3,albert_park,True,False,False,False,True,liuzzi,Italian,toro_rosso,12,16,0,0,16,0,0,9,2.0,25
+8904,2006,3,albert_park,True,False,False,False,True,klien,Austrian,red_bull,13,19,1,0,12,1,0,8,2.3999999999999915,23
+8906,2006,3,albert_park,True,False,False,False,True,rosberg,German,williams,14,21,2,0,9,5,0,5,4.200000000000003,20
+8892,2006,3,albert_park,True,False,False,False,True,barrichello,Brazilian,honda,16,7,0,0,14,11,0,4,4.700000000000003,33
+8896,2006,3,albert_park,True,False,False,False,True,albers,Dutch,mf1,17,11,0,0,17,0,0,10,5.0,26
+8894,2006,3,albert_park,True,False,False,False,True,speed,American,toro_rosso,18,9,0,0,20,0,0,9,5.200000000000003,23
+8891,2006,3,albert_park,True,False,False,False,True,villeneuve,Canadian,bmw_sauber,19,6,2,0,10,2,0,6,4.0,34
+8900,2006,3,albert_park,True,False,False,False,True,monteiro,Portuguese,mf1,20,15,0,0,19,0,0,10,5.5,29
+8897,2006,3,albert_park,True,False,False,False,True,sato,Japanese,super_aguri,21,12,0,0,21,0,0,11,7.099999999999994,29
+8898,2006,3,albert_park,True,False,False,False,True,ide,Japanese,super_aguri,22,13,0,0,0,0,0,11,11.0,31

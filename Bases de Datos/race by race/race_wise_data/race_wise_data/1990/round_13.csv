@@ -1,0 +1,26 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+3129,1990,13,estoril,False,False,False,False,False,mansell,British,ferrari,1,1,16,0,8,72,4,2,0.0,37
+3131,1990,13,estoril,False,False,False,False,False,prost,French,ferrari,2,3,56,4,2,72,4,2,0.0,35
+3130,1990,13,estoril,False,False,False,False,False,senna,Brazilian,mclaren,3,2,72,6,1,109,6,1,0.0,30
+3132,1990,13,estoril,False,False,False,False,False,berger,Austrian,mclaren,4,4,37,0,3,109,6,1,0.7000000000000028,31
+3135,1990,13,estoril,False,False,False,False,False,patrese,Italian,williams,5,7,17,1,6,44,2,3,1.1000000000000083,36
+3133,1990,13,estoril,False,False,False,False,False,piquet,Brazilian,benetton,6,5,24,0,5,40,0,4,1.1000000000000083,38
+3147,1990,13,estoril,False,False,False,False,False,boutsen,Belgian,williams,7,19,27,1,4,44,2,3,1.3000000000000114,33
+3136,1990,13,estoril,False,False,False,False,False,alesi,French,tyrrell,8,8,13,0,9,15,0,5,1.5,26
+3134,1990,13,estoril,False,False,False,False,False,nannini,Italian,benetton,9,6,16,0,7,40,0,4,1.8000000000000114,31
+3148,1990,13,estoril,False,False,False,False,False,bernard,French,larrousse,10,20,5,0,11,6,0,7,2.1000000000000085,26
+3142,1990,13,estoril,False,False,False,False,False,suzuki,Japanese,larrousse,11,14,1,0,16,6,0,7,2.4000000000000057,30
+3146,1990,13,estoril,False,False,False,False,False,capelli,Italian,leyton,12,18,6,0,10,7,0,6,2.700000000000003,27
+3143,1990,13,estoril,False,False,False,False,False,pirro,Italian,dallara,13,15,0,0,24,0,0,14,2.700000000000003,28
+3140,1990,13,estoril,False,False,False,False,False,gugelmin,Brazilian,leyton,14,12,1,0,17,7,0,6,2.700000000000003,27
+3150,1990,13,estoril,False,False,False,False,False,donnelly,British,team_lotus,15,22,0,0,18,3,0,8,3.200000000000003,26
+3139,1990,13,estoril,False,False,False,False,False,martini,Italian,minardi,16,11,0,0,19,0,0,11,3.200000000000003,29
+3141,1990,13,estoril,False,False,False,False,False,caffi,Italian,arrows,17,13,2,0,13,2,0,9,3.300000000000012,26
+3153,1990,13,estoril,False,False,False,False,False,cesaris,Italian,dallara,18,25,0,0,25,0,0,14,3.5,31
+3137,1990,13,estoril,False,False,False,False,False,alboreto,Italian,arrows,19,9,0,0,23,2,0,9,3.5,33
+3144,1990,13,estoril,False,False,False,False,False,alliot,French,ligier,20,16,0,0,21,0,0,13,3.5,36
+3151,1990,13,estoril,False,False,False,False,False,warwick,British,team_lotus,21,23,3,0,12,3,0,8,3.700000000000003,36
+3138,1990,13,estoril,False,False,False,False,False,larini,Italian,ligier,22,10,0,0,22,0,0,13,3.700000000000003,26
+3149,1990,13,estoril,False,False,False,False,False,modena,Italian,brabham,23,21,2,0,14,2,0,10,3.700000000000003,27
+3152,1990,13,estoril,False,False,False,False,False,dalmas,French,ags,24,24,0,0,0,0,0,16,4.0,29
+3145,1990,13,estoril,False,False,False,False,False,brabham,Australian,brabham,25,17,0,0,0,2,0,10,4.1000000000000085,25

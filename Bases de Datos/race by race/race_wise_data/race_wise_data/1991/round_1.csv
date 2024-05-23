@@ -1,0 +1,27 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+3230,1991,1,phoenix,False,False,False,False,False,senna,Brazilian,mclaren,1,1,0,0,0,0,0,0,0.0,30
+3231,1991,1,phoenix,False,False,False,False,False,prost,French,ferrari,2,2,0,0,0,0,0,0,1.1999999999999886,36
+3243,1991,1,phoenix,False,False,False,False,False,patrese,Italian,williams,3,14,0,0,0,0,0,0,1.3999999999999917,36
+3249,1991,1,phoenix,False,False,False,False,False,mansell,British,williams,4,20,0,0,0,0,0,0,1.7999999999999972,37
+3232,1991,1,phoenix,False,False,False,False,False,piquet,Brazilian,benetton,5,3,0,0,0,0,0,0,2.0,38
+3241,1991,1,phoenix,False,False,False,False,False,alesi,French,ferrari,6,12,0,0,0,0,0,0,2.0999999999999943,26
+3248,1991,1,phoenix,False,False,False,False,False,berger,Austrian,mclaren,7,19,0,0,0,0,0,0,2.299999999999997,31
+3244,1991,1,phoenix,False,False,False,False,False,moreno,Brazilian,benetton,8,15,0,0,0,0,0,0,2.5,32
+3252,1991,1,phoenix,False,False,False,False,False,pirro,Italian,dallara,9,23,0,0,0,0,0,0,3.3999999999999915,29
+3254,1991,1,phoenix,False,False,False,False,False,lehto,Finnish,dallara,10,25,0,0,0,0,0,0,3.5,25
+3233,1991,1,phoenix,False,False,False,False,False,modena,Italian,tyrrell,11,4,0,0,0,0,0,0,3.6999999999999886,27
+3240,1991,1,phoenix,False,False,False,False,False,brundle,British,brabham,12,11,0,0,0,0,0,0,4.0,31
+3242,1991,1,phoenix,False,False,False,False,False,hakkinen,Finnish,team_lotus,13,13,0,0,0,0,0,0,4.0,22
+3239,1991,1,phoenix,False,False,False,False,False,gachot,Belgian,jordan,14,10,0,0,0,0,0,0,4.299999999999997,28
+3238,1991,1,phoenix,False,False,False,False,False,martini,Italian,minardi,15,9,0,0,0,0,0,0,4.299999999999997,29
+3234,1991,1,phoenix,False,False,False,False,False,satoru_nakajima,Japanese,tyrrell,16,5,0,0,0,0,0,0,4.399999999999992,38
+3236,1991,1,phoenix,False,False,False,False,False,larini,Italian,lambo,17,7,0,0,0,0,0,0,4.399999999999992,26
+3246,1991,1,phoenix,False,False,False,False,False,capelli,Italian,leyton,18,17,0,0,0,0,0,0,4.699999999999989,27
+3255,1991,1,phoenix,False,False,False,False,False,bernard,French,larrousse,19,26,0,0,0,0,0,0,5.0,26
+3247,1991,1,phoenix,False,False,False,False,False,boutsen,Belgian,ligier,20,18,0,0,0,0,0,0,5.099999999999994,33
+3235,1991,1,phoenix,False,False,False,False,False,suzuki,Japanese,larrousse,21,6,0,0,0,0,0,0,5.099999999999994,30
+3237,1991,1,phoenix,False,False,False,False,False,tarquini,Italian,ags,22,8,0,0,0,0,0,0,5.5,29
+3250,1991,1,phoenix,False,False,False,False,False,gugelmin,Brazilian,leyton,23,21,0,0,0,0,0,0,5.5,27
+3251,1991,1,phoenix,False,False,False,False,False,blundell,British,brabham,24,22,0,0,0,0,0,0,5.5,24
+3245,1991,1,phoenix,False,False,False,False,False,alboreto,Italian,footwork,25,16,0,0,0,0,0,0,5.599999999999994,34
+3253,1991,1,phoenix,False,False,False,False,False,morbidelli,Italian,minardi,26,24,0,0,0,0,0,0,5.599999999999994,23

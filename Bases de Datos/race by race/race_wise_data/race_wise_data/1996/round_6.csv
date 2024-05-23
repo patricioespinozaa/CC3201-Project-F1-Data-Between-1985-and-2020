@@ -1,0 +1,23 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+5415,1996,6,monaco,False,False,False,True,False,michael_schumacher,German,ferrari,1,17,16,0,3,25,0,2,0.0,27
+5409,1996,6,monaco,False,False,False,True,False,damon_hill,British,williams,2,11,43,4,1,65,5,1,0.5,35
+5407,1996,6,monaco,False,False,False,True,False,alesi,French,benetton,3,9,11,0,4,18,0,3,0.5,31
+5411,1996,6,monaco,False,False,False,True,False,berger,Austrian,benetton,4,13,7,0,6,18,0,3,0.6999999999999886,36
+5400,1996,6,monaco,False,False,False,True,False,coulthard,British,mclaren,5,2,4,0,9,9,0,4,1.0999999999999943,25
+5416,1996,6,monaco,False,False,False,True,False,barrichello,Brazilian,jordan,6,18,7,0,7,8,0,5,1.0999999999999943,23
+5405,1996,6,monaco,False,False,False,True,False,irvine,British,ferrari,7,7,9,0,5,25,0,2,1.0999999999999943,30
+5404,1996,6,monaco,False,False,False,True,False,hakkinen,Finnish,mclaren,8,6,5,0,8,9,0,4,1.2999999999999972,27
+5402,1996,6,monaco,False,False,False,True,False,frentzen,German,sauber,9,4,0,0,16,0,0,9,1.5,29
+5406,1996,6,monaco,False,False,False,True,False,villeneuve,Canadian,williams,10,8,22,1,2,65,5,1,1.5999999999999943,25
+5403,1996,6,monaco,False,False,False,True,False,salo,Finnish,tyrrell,11,5,3,0,10,3,0,6,1.7999999999999972,29
+5419,1996,6,monaco,False,False,False,True,False,verstappen,Dutch,footwork,12,21,1,0,13,1,0,8,1.8999999999999917,24
+5401,1996,6,monaco,False,False,False,True,False,herbert,British,sauber,13,3,0,0,15,0,0,9,1.8999999999999917,31
+5399,1996,6,monaco,False,False,False,True,False,panis,French,ligier,14,1,1,0,11,1,0,7,2.0,29
+5414,1996,6,monaco,False,False,False,True,False,katayama,Japanese,tyrrell,15,16,0,0,18,3,0,6,2.0999999999999943,32
+5410,1996,6,monaco,False,False,False,True,False,brundle,British,jordan,16,12,1,0,12,8,0,5,2.0999999999999943,36
+5412,1996,6,monaco,False,False,False,True,False,diniz,Brazilian,ligier,17,14,0,0,14,1,0,7,2.299999999999997,25
+5418,1996,6,monaco,False,False,False,True,False,fisichella,Italian,minardi,18,20,0,0,22,0,0,10,2.299999999999997,23
+5417,1996,6,monaco,False,False,False,True,False,lamy,Portuguese,minardi,19,19,0,0,17,0,0,10,3.0,24
+5413,1996,6,monaco,False,False,False,True,False,rosset,Brazilian,footwork,20,15,0,0,19,1,0,8,4.599999999999994,27
+5408,1996,6,monaco,False,False,False,True,False,badoer,Italian,forti,21,10,0,0,20,0,0,11,4.699999999999989,25
+5420,1996,6,monaco,False,False,False,True,False,montermini,Italian,forti,22,22,0,0,21,0,0,11,5.0,31

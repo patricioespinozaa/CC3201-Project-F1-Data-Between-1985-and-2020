@@ -1,0 +1,27 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+1907,1987,14,rodriguez,True,False,False,False,False,mansell,British,williams,1,1,52,5,2,122,8,1,0.0,34
+1925,1987,14,rodriguez,True,False,False,False,False,berger,Austrian,ferrari,2,18,18,0,6,26,0,4,0.0,28
+1908,1987,14,rodriguez,True,False,False,False,False,piquet,Brazilian,williams,3,2,70,3,1,122,8,1,0.0999999999999943,35
+1926,1987,14,rodriguez,True,False,False,False,False,boutsen,Belgian,benetton,4,19,10,0,8,20,0,5,0.2999999999999971,30
+1932,1987,14,rodriguez,True,False,False,False,False,prost,French,mclaren,5,26,46,3,4,72,3,2,0.2999999999999971,32
+1912,1987,14,rodriguez,True,False,False,False,False,fabi,Italian,benetton,6,5,10,0,7,20,0,5,0.5999999999999943,32
+1917,1987,14,rodriguez,True,False,False,False,False,senna,Brazilian,team_lotus,7,10,51,2,3,57,2,3,0.6999999999999886,27
+1909,1987,14,rodriguez,True,False,False,False,False,patrese,Italian,brabham,8,3,2,0,17,6,0,8,1.5,33
+1928,1987,14,rodriguez,True,False,False,False,False,alboreto,Italian,ferrari,9,21,8,0,9,26,0,4,1.5999999999999943,30
+1924,1987,14,rodriguez,True,False,False,False,False,cesaris,Italian,brabham,10,17,4,0,12,6,0,8,1.6999999999999886,28
+1923,1987,14,rodriguez,True,False,False,False,False,warwick,British,arrows,11,16,3,0,15,8,0,7,3.299999999999997,33
+1910,1987,14,rodriguez,True,False,False,False,False,cheever,American,arrows,13,4,5,0,11,8,0,7,3.299999999999997,29
+1911,1987,14,rodriguez,True,False,False,False,False,brundle,British,zakspeed,13,22,2,0,16,2,0,9,3.299999999999997,28
+1927,1987,14,rodriguez,True,False,False,False,False,nannini,Italian,minardi,14,20,0,0,24,0,0,14,3.5999999999999943,28
+1929,1987,14,rodriguez,True,False,False,False,False,johansson,Swedish,mclaren,15,23,26,0,5,72,3,2,3.799999999999997,31
+1930,1987,14,rodriguez,True,False,False,False,False,satoru_nakajima,Japanese,team_lotus,16,24,6,0,10,57,2,3,3.799999999999997,34
+1931,1987,14,rodriguez,True,False,False,False,False,danner,German,zakspeed,17,25,0,0,22,2,0,9,4.199999999999989,29
+1922,1987,14,rodriguez,True,False,False,False,False,arnoux,French,ligier,18,15,1,0,20,1,0,11,4.699999999999989,39
+1921,1987,14,rodriguez,True,False,False,False,False,campos,Spanish,minardi,19,14,0,0,26,0,0,14,5.599999999999994,27
+1918,1987,14,rodriguez,True,False,False,False,False,capelli,Italian,march,20,11,1,0,19,1,0,12,6.0,24
+1920,1987,14,rodriguez,True,False,False,False,False,ghinzani,Italian,ligier,21,13,0,0,21,1,0,11,6.199999999999989,35
+1914,1987,14,rodriguez,True,False,False,False,False,palmer,British,tyrrell,22,7,4,0,14,8,0,6,6.299999999999997,30
+1916,1987,14,rodriguez,True,False,False,False,False,dalmas,French,larrousse,23,9,0,0,0,2,0,10,6.299999999999997,26
+1913,1987,14,rodriguez,True,False,False,False,False,alliot,French,larrousse,24,6,2,0,18,2,0,10,6.699999999999989,33
+1915,1987,14,rodriguez,True,False,False,False,False,streiff,French,tyrrell,25,8,4,0,13,8,0,6,7.899999999999991,32
+1919,1987,14,rodriguez,True,False,False,False,False,caffi,Italian,osella,26,12,0,0,25,0,0,15,9.299999999999995,23

@@ -1,0 +1,22 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+11533,2012,14,marina_bay,True,False,False,False,False,hamilton,British,mclaren,1,24,142,3,2,243,5,2,0.0,27
+11531,2012,14,marina_bay,True,False,False,False,False,maldonado,Venezuelan,williams,2,22,29,1,15,54,1,8,0.3999999999999915,27
+11510,2012,14,marina_bay,True,False,False,False,False,vettel,German,red_bull,3,1,140,1,4,272,3,1,0.5,25
+11511,2012,14,marina_bay,True,False,False,False,False,button,British,mclaren,4,2,101,2,6,243,5,2,0.5,32
+11512,2012,14,marina_bay,True,False,False,False,False,alonso,Spanish,ferrari,5,3,179,3,1,226,3,3,0.7999999999999972,31
+11513,2012,14,marina_bay,True,False,False,False,False,resta,British,force_india,6,4,32,0,13,63,0,7,0.7999999999999972,26
+11520,2012,14,marina_bay,True,False,False,False,False,webber,Australian,red_bull,7,11,132,2,5,272,3,1,1.0999999999999943,36
+11516,2012,14,marina_bay,True,False,False,False,False,grosjean,French,lotus_f1,8,7,76,0,8,217,0,4,1.3999999999999917,26
+11523,2012,14,marina_bay,True,False,False,False,False,hulkenberg,German,force_india,11,14,31,0,14,63,0,7,1.5999999999999943,25
+11515,2012,14,marina_bay,True,False,False,False,False,raikkonen,Finnish,lotus_f1,12,6,141,0,3,217,0,4,1.8999999999999917,32
+11517,2012,14,marina_bay,True,False,False,False,False,massa,Brazilian,ferrari,13,8,47,0,10,226,3,3,1.8999999999999917,31
+11519,2012,14,marina_bay,True,False,False,False,False,perez,Mexican,sauber,14,10,65,0,9,100,0,6,2.0999999999999943,22
+11518,2012,14,marina_bay,True,False,False,False,False,ricciardo,Australian,toro_rosso,15,9,4,0,18,12,0,9,2.3999999999999915,23
+11529,2012,14,marina_bay,True,False,False,False,False,vergne,French,toro_rosso,16,20,8,0,17,12,0,9,2.3999999999999915,22
+11522,2012,14,marina_bay,True,False,False,False,False,kobayashi,Japanese,sauber,17,13,35,0,12,100,0,6,3.5,26
+11528,2012,14,marina_bay,True,False,False,False,False,petrov,Russian,caterham,18,19,0,0,20,0,0,10,4.399999999999992,28
+11524,2012,14,marina_bay,True,False,False,False,False,kovalainen,Finnish,caterham,19,15,0,0,19,0,0,10,4.699999999999989,30
+11521,2012,14,marina_bay,True,False,False,False,False,glock,German,marussia,20,12,0,0,22,0,0,11,5.0,30
+11525,2012,14,marina_bay,True,False,False,False,False,pic,French,marussia,21,16,0,0,23,0,0,11,5.399999999999992,22
+11532,2012,14,marina_bay,True,False,False,False,False,karthikeyan,Indian,hrt,23,23,0,0,24,0,0,12,6.0,35
+11526,2012,14,marina_bay,True,False,False,False,False,rosa,Spanish,hrt,24,17,0,0,25,0,0,12,7.0,41

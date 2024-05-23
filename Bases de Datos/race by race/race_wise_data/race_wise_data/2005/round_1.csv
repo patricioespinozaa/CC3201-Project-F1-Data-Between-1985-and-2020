@@ -1,0 +1,19 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+8467,2005,1,albert_park,False,False,False,False,True,fisichella,Italian,renault,1,1,0,0,0,0,0,0,0.0,32
+8475,2005,1,albert_park,False,False,False,False,True,trulli,Italian,toyota,2,9,0,0,0,0,0,0,2.9000000000000057,30
+8471,2005,1,albert_park,False,False,False,False,True,webber,Australian,williams,3,5,0,0,0,0,0,0,3.5,28
+8479,2005,1,albert_park,False,False,False,False,True,villeneuve,Canadian,sauber,4,13,0,0,0,0,0,0,5.300000000000011,33
+8470,2005,1,albert_park,False,False,False,False,True,coulthard,British,red_bull,5,4,0,0,0,0,0,0,5.699999999999989,33
+8473,2005,1,albert_park,False,False,False,False,True,klien,Austrian,red_bull,6,7,0,0,0,0,0,0,6.0,22
+8485,2005,1,albert_park,False,False,False,False,True,heidfeld,German,williams,7,19,0,0,0,0,0,0,7.599999999999994,27
+8477,2005,1,albert_park,False,False,False,False,True,button,British,bar,8,11,0,0,0,0,0,0,10.599999999999994,25
+8472,2005,1,albert_park,False,False,False,False,True,montoya,Colombian,mclaren,9,6,0,0,0,0,0,0,13.099999999999994,29
+8474,2005,1,albert_park,False,False,False,False,True,raikkonen,Finnish,mclaren,10,8,0,0,0,0,0,0,14.099999999999994,25
+8468,2005,1,albert_park,False,False,False,False,True,barrichello,Brazilian,ferrari,11,2,0,0,0,0,0,0,15.300000000000011,32
+8481,2005,1,albert_park,False,False,False,False,True,karthikeyan,Indian,jordan,12,15,0,0,0,0,0,0,15.599999999999994,28
+8469,2005,1,albert_park,False,False,False,False,True,alonso,Spanish,renault,13,3,0,0,0,0,0,0,16.0,23
+8482,2005,1,albert_park,False,False,False,False,True,monteiro,Portuguese,jordan,14,16,0,0,0,0,0,0,18.80000000000001,28
+8478,2005,1,albert_park,False,False,False,False,True,ralf_schumacher,German,toyota,15,12,0,0,0,0,0,0,21.19999999999999,29
+8483,2005,1,albert_park,False,False,False,False,True,friesacher,Austrian,minardi,16,17,0,0,0,0,0,0,26.90000000000001,24
+8486,2005,1,albert_park,False,False,False,False,True,albers,Dutch,minardi,17,20,0,0,0,0,0,0,-72.3,25
+8484,2005,1,albert_park,False,False,False,False,True,michael_schumacher,German,ferrari,19,18,0,0,0,0,0,0,-63.6,36

@@ -1,0 +1,25 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+4418,1993,15,suzuka,False,False,False,False,True,prost,French,williams,1,2,87,7,1,149,10,1,0.0,38
+4417,1993,15,suzuka,False,False,False,False,True,senna,Brazilian,mclaren,2,1,53,3,3,60,3,3,0.0999999999999943,33
+4419,1993,15,suzuka,False,False,False,False,True,hakkinen,Finnish,mclaren,3,3,0,0,0,60,3,3,0.0999999999999943,25
+4438,1993,15,suzuka,False,False,False,False,True,michael_schumacher,German,benetton,4,22,52,1,4,72,1,2,0.2999999999999971,24
+4432,1993,15,suzuka,False,False,False,False,True,berger,Austrian,ferrari,5,16,10,0,10,23,0,4,0.3999999999999915,34
+4420,1993,15,suzuka,False,False,False,False,True,damon_hill,British,williams,6,4,62,3,2,149,10,1,1.2000000000000028,33
+4430,1993,15,suzuka,False,False,False,False,True,warwick,British,footwork,7,14,4,0,15,4,0,9,1.5999999999999943,39
+4422,1993,15,suzuka,False,False,False,False,True,irvine,British,jordan,8,6,0,0,0,0,0,11,1.7999999999999972,27
+4433,1993,15,suzuka,False,False,False,False,True,suzuki,Japanese,footwork,9,17,0,0,23,4,0,9,2.0999999999999943,33
+4431,1993,15,suzuka,False,False,False,False,True,patrese,Italian,benetton,10,15,20,0,5,72,1,2,2.0999999999999943,39
+4424,1993,15,suzuka,False,False,False,False,True,lehto,Finnish,sauber,11,8,5,0,13,12,0,7,2.200000000000003,27
+4421,1993,15,suzuka,False,False,False,False,True,barrichello,Brazilian,jordan,12,5,0,0,21,0,0,11,2.200000000000003,21
+4434,1993,15,suzuka,False,False,False,False,True,gounon,French,minardi,13,18,0,0,0,7,0,8,2.299999999999997,30
+4439,1993,15,suzuka,False,False,False,False,True,alesi,French,ferrari,14,23,13,0,6,23,0,4,2.299999999999997,29
+4425,1993,15,suzuka,False,False,False,False,True,brundle,British,ligier,15,9,12,0,7,22,0,5,2.799999999999997,34
+4436,1993,15,suzuka,False,False,False,False,True,wendlinger,Austrian,sauber,16,20,7,0,12,12,0,7,3.0,24
+4423,1993,15,suzuka,False,False,False,False,True,blundell,British,ligier,17,7,10,0,9,22,0,5,3.5,27
+4440,1993,15,suzuka,False,False,False,False,True,cesaris,Italian,tyrrell,18,24,0,0,25,0,0,13,3.5,34
+4427,1993,15,suzuka,False,False,False,False,True,herbert,British,team_lotus,19,11,11,0,8,12,0,6,4.299999999999997,29
+4429,1993,15,suzuka,False,False,False,False,True,lamy,Portuguese,team_lotus,20,13,0,0,28,12,0,6,4.399999999999992,21
+4437,1993,15,suzuka,False,False,False,False,True,comas,French,larrousse,21,21,1,0,19,3,0,10,4.599999999999994,30
+4426,1993,15,suzuka,False,False,False,False,True,martini,Italian,minardi,22,10,0,0,20,7,0,8,4.799999999999997,32
+4428,1993,15,suzuka,False,False,False,False,True,toshio_suzuki,Japanese,larrousse,23,12,0,0,0,3,0,10,5.0,38
+4435,1993,15,suzuka,False,False,False,False,True,katayama,Japanese,tyrrell,24,19,0,0,26,0,0,13,6.599999999999994,30

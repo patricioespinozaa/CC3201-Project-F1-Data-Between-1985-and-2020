@@ -1,0 +1,27 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+2064,1988,4,rodriguez,True,False,False,False,False,senna,Brazilian,mclaren,1,2,9,1,3,33,3,1,0.0,28
+2063,1988,4,rodriguez,True,False,False,False,False,prost,French,mclaren,2,1,24,2,1,33,3,1,0.5999999999999943,33
+2065,1988,4,rodriguez,True,False,False,False,False,berger,Austrian,ferrari,3,3,14,0,2,20,0,2,0.5999999999999943,28
+2079,1988,4,rodriguez,True,False,False,False,False,piquet,Brazilian,team_lotus,4,17,8,0,4,9,0,3,1.4000000000000057,35
+2066,1988,4,rodriguez,True,False,False,False,False,alboreto,Italian,ferrari,5,4,6,0,5,20,0,2,2.0999999999999943,31
+2081,1988,4,rodriguez,True,False,False,False,False,satoru_nakajima,Japanese,team_lotus,6,19,1,0,9,9,0,3,2.799999999999997,35
+2068,1988,4,rodriguez,True,False,False,False,False,cheever,American,arrows,7,6,0,0,12,6,0,4,3.0,30
+2069,1988,4,rodriguez,True,False,False,False,False,nannini,Italian,benetton,8,7,1,0,11,4,0,5,3.200000000000003,28
+2067,1988,4,rodriguez,True,False,False,False,False,warwick,British,arrows,9,5,6,0,6,6,0,4,3.299999999999997,33
+2078,1988,4,rodriguez,True,False,False,False,False,capelli,Italian,march,10,16,0,0,17,0,0,11,4.5,25
+2070,1988,4,rodriguez,True,False,False,False,False,boutsen,Belgian,benetton,11,8,3,0,7,4,0,5,4.5,30
+2080,1988,4,rodriguez,True,False,False,False,False,cesaris,Italian,rial,12,18,0,0,22,0,0,14,4.700000000000003,28
+2088,1988,4,rodriguez,True,False,False,False,False,alliot,French,larrousse,13,26,0,0,21,0,0,8,4.799999999999997,33
+2082,1988,4,rodriguez,True,False,False,False,False,mansell,British,williams,14,20,0,0,25,1,0,7,4.900000000000006,34
+2083,1988,4,rodriguez,True,False,False,False,False,schneider,German,zakspeed,15,21,0,0,0,0,0,16,5.099999999999994,23
+2087,1988,4,rodriguez,True,False,False,False,False,gugelmin,Brazilian,march,16,25,0,0,19,0,0,11,5.299999999999997,25
+2084,1988,4,rodriguez,True,False,False,False,False,patrese,Italian,williams,17,22,1,0,10,1,0,7,5.5,34
+2077,1988,4,rodriguez,True,False,False,False,False,ghinzani,Italian,zakspeed,18,15,0,0,24,0,0,16,5.599999999999994,36
+2074,1988,4,rodriguez,True,False,False,False,False,streiff,French,ags,19,12,0,0,16,0,0,12,5.700000000000003,32
+2085,1988,4,rodriguez,True,False,False,False,False,arnoux,French,ligier,20,23,0,0,26,0,0,9,5.799999999999997,39
+2076,1988,4,rodriguez,True,False,False,False,False,tarquini,Italian,coloni,21,14,0,0,23,0,0,15,6.099999999999994,26
+2071,1988,4,rodriguez,True,False,False,False,False,dalmas,French,larrousse,22,9,0,0,13,0,0,8,6.099999999999994,26
+2086,1988,4,rodriguez,True,False,False,False,False,caffi,Italian,dallara,23,24,0,0,0,0,0,18,6.200000000000003,24
+2072,1988,4,rodriguez,True,False,False,False,False,johansson,Swedish,ligier,24,10,0,0,14,0,0,9,6.200000000000003,31
+2073,1988,4,rodriguez,True,False,False,False,False,sala,Spanish,minardi,25,11,0,0,18,0,0,13,6.400000000000006,29
+2075,1988,4,rodriguez,True,False,False,False,False,larrauri,Argentine,eurobrun,26,13,0,0,28,0,0,17,6.5,33

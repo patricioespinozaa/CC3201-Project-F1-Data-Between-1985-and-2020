@@ -1,0 +1,27 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+3390,1991,7,magny_cours,False,False,False,False,False,patrese,Italian,williams,1,5,20,1,2,33,1,2,0.0,37
+3387,1991,7,magny_cours,False,False,False,False,False,prost,French,ferrari,2,2,11,0,5,16,0,4,0.2000000000000028,36
+3388,1991,7,magny_cours,False,False,False,False,False,senna,Brazilian,mclaren,3,3,44,4,1,54,4,1,0.3000000000000113,31
+3386,1991,7,magny_cours,False,False,False,False,False,mansell,British,williams,4,1,13,0,4,33,1,2,0.3000000000000113,37
+3410,1991,7,magny_cours,False,False,False,False,False,berger,Austrian,mclaren,5,25,10,0,6,54,4,1,0.8000000000000114,31
+3389,1991,7,magny_cours,False,False,False,False,False,alesi,French,ferrari,6,4,5,0,9,16,0,4,1.3000000000000114,27
+3393,1991,7,magny_cours,False,False,False,False,False,piquet,Brazilian,benetton,7,8,16,1,3,21,1,3,2.200000000000003,38
+3398,1991,7,magny_cours,False,False,False,False,False,moreno,Brazilian,benetton,8,13,5,0,10,21,1,3,2.4000000000000057,32
+3392,1991,7,magny_cours,False,False,False,False,False,gugelmin,Brazilian,leyton,9,7,0,0,29,0,0,16,2.4000000000000057,28
+3408,1991,7,magny_cours,False,False,False,False,False,morbidelli,Italian,minardi,10,23,0,0,21,3,0,8,2.4000000000000057,23
+3399,1991,7,magny_cours,False,False,False,False,False,modena,Italian,tyrrell,11,14,9,0,7,11,0,5,2.5,28
+3394,1991,7,magny_cours,False,False,False,False,False,martini,Italian,minardi,12,9,3,0,12,3,0,8,2.5,30
+3391,1991,7,magny_cours,False,False,False,False,False,cesaris,Italian,jordan,13,6,6,0,8,8,0,6,2.6000000000000085,32
+3396,1991,7,magny_cours,False,False,False,False,False,comas,French,ligier,14,11,0,0,23,0,0,12,2.9000000000000057,27
+3409,1991,7,magny_cours,False,False,False,False,False,capelli,Italian,leyton,15,24,0,0,0,0,0,16,2.9000000000000057,28
+3397,1991,7,magny_cours,False,False,False,False,False,boutsen,Belgian,ligier,16,12,0,0,20,0,0,12,3.200000000000003,33
+3403,1991,7,magny_cours,False,False,False,False,False,blundell,British,brabham,17,18,0,0,24,0,0,14,3.200000000000003,25
+3407,1991,7,magny_cours,False,False,False,False,False,satoru_nakajima,Japanese,tyrrell,18,22,2,0,15,11,0,5,3.5,38
+3411,1991,7,magny_cours,False,False,False,False,False,gachot,Belgian,jordan,19,26,2,0,13,8,0,6,3.5,28
+3395,1991,7,magny_cours,False,False,False,False,False,herbert,British,team_lotus,20,10,0,0,27,3,0,9,3.6000000000000085,27
+3400,1991,7,magny_cours,False,False,False,False,False,grouillard,French,fondmetal,21,15,0,0,0,0,0,18,3.6000000000000085,32
+3404,1991,7,magny_cours,False,False,False,False,False,suzuki,Japanese,lola,22,19,1,0,18,1,0,10,3.6000000000000085,30
+3401,1991,7,magny_cours,False,False,False,False,False,bernard,French,lola,23,16,1,0,17,1,0,10,3.9000000000000057,26
+3406,1991,7,magny_cours,False,False,False,False,False,brundle,British,brabham,24,21,0,0,28,0,0,14,4.200000000000003,32
+3405,1991,7,magny_cours,False,False,False,False,False,alboreto,Italian,footwork,25,20,0,0,0,0,0,17,4.200000000000003,34
+3402,1991,7,magny_cours,False,False,False,False,False,lehto,Finnish,dallara,26,17,4,0,11,5,0,7,4.700000000000003,25

@@ -1,0 +1,27 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+4055,1992,16,adelaide,False,False,False,False,True,mansell,British,williams,1,20,108,9,1,164,10,1,0.0,39
+4056,1992,16,adelaide,False,False,False,False,True,senna,Brazilian,mclaren,2,21,50,3,3,89,4,2,0.5,32
+4052,1992,16,adelaide,False,False,False,False,True,patrese,Italian,williams,3,17,56,1,2,164,10,1,0.7000000000000028,38
+4036,1992,16,adelaide,False,False,False,False,True,berger,Austrian,mclaren,4,1,39,1,5,89,4,2,1.3999999999999917,33
+4037,1992,16,adelaide,False,False,False,False,True,michael_schumacher,German,benetton,5,2,47,1,4,81,1,3,1.5,23
+4039,1992,16,adelaide,False,False,False,False,True,alesi,French,ferrari,6,4,15,0,7,18,0,4,2.3999999999999915,28
+4054,1992,16,adelaide,False,False,False,False,True,cesaris,Italian,tyrrell,7,19,8,0,9,8,0,6,2.700000000000003,33
+4038,1992,16,adelaide,False,False,False,False,True,brundle,British,benetton,8,3,34,0,6,81,1,3,2.8999999999999915,33
+4058,1992,16,adelaide,False,False,False,False,True,comas,French,ligier,9,23,4,0,11,4,0,8,3.0,29
+4042,1992,16,adelaide,False,False,False,False,True,hakkinen,Finnish,team_lotus,10,7,11,0,8,13,0,5,3.200000000000003,24
+4059,1992,16,adelaide,False,False,False,False,True,alboreto,Italian,footwork,11,24,6,0,10,6,0,7,3.200000000000003,35
+4048,1992,16,adelaide,False,False,False,False,True,herbert,British,team_lotus,12,13,2,0,14,13,0,5,3.200000000000003,28
+4061,1992,16,adelaide,False,False,False,False,True,grouillard,French,tyrrell,13,26,0,0,24,8,0,6,3.299999999999997,34
+4060,1992,16,adelaide,False,False,False,False,True,martini,Italian,dallara,14,25,2,0,15,2,0,10,3.299999999999997,31
+4041,1992,16,adelaide,False,False,False,False,True,modena,Italian,jordan,15,6,0,0,23,0,0,13,3.5,29
+4045,1992,16,adelaide,False,False,False,False,True,morbidelli,Italian,minardi,16,10,0,0,21,1,0,11,3.5999999999999943,24
+4044,1992,16,adelaide,False,False,False,False,True,fittipaldi,Brazilian,minardi,17,9,1,0,16,1,0,11,3.700000000000003,21
+4043,1992,16,adelaide,False,False,False,False,True,suzuki,Japanese,footwork,18,8,0,0,19,6,0,7,3.700000000000003,32
+4046,1992,16,adelaide,False,False,False,False,True,larini,Italian,ferrari,19,11,0,0,30,18,0,4,3.799999999999997,28
+4057,1992,16,adelaide,False,False,False,False,True,gugelmin,Brazilian,jordan,20,22,0,0,22,0,0,13,4.099999999999994,29
+4051,1992,16,adelaide,False,False,False,False,True,gachot,Belgian,larrousse,21,16,1,0,17,1,0,12,4.099999999999994,29
+4040,1992,16,adelaide,False,False,False,False,True,boutsen,Belgian,ligier,22,5,0,0,20,4,0,8,4.299999999999997,35
+4050,1992,16,adelaide,False,False,False,False,True,naspetti,Italian,march,23,15,0,0,28,3,0,9,4.399999999999992,24
+4049,1992,16,adelaide,False,False,False,False,True,lehto,Finnish,dallara,24,14,0,0,18,2,0,10,4.899999999999992,26
+4047,1992,16,adelaide,False,False,False,False,True,lammers,Dutch,march,25,12,0,0,0,3,0,9,5.099999999999994,36
+4053,1992,16,adelaide,False,False,False,False,True,katayama,Japanese,larrousse,26,18,0,0,25,1,0,12,5.200000000000003,29

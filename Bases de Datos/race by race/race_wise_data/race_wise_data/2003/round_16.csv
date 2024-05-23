@@ -1,0 +1,19 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+8088,2003,16,suzuka,False,False,False,False,False,barrichello,Brazilian,ferrari,1,1,55,1,5,147,7,1,0.0,31
+8107,2003,16,suzuka,False,False,False,False,False,montoya,Colombian,williams,2,20,82,2,3,144,4,2,0.7000000000000028,28
+8094,2003,16,suzuka,False,False,False,False,False,matta,Brazilian,toyota,3,7,8,0,13,14,0,8,0.7000000000000028,30
+8097,2003,16,suzuka,False,False,False,False,False,panis,French,toyota,4,10,6,0,15,14,0,8,1.2000000000000028,37
+8105,2003,16,suzuka,False,False,False,False,False,alonso,Spanish,renault,5,18,55,1,6,84,1,4,1.2999999999999972,22
+8098,2003,16,suzuka,False,False,False,False,False,webber,Australian,jaguar,6,11,17,0,9,18,0,7,1.3999999999999917,27
+8090,2003,16,suzuka,False,False,False,False,False,coulthard,British,mclaren,7,3,45,1,7,128,2,3,1.3999999999999917,32
+8089,2003,16,suzuka,False,False,False,False,False,raikkonen,Finnish,mclaren,8,2,83,1,2,128,2,3,1.5999999999999943,23
+8091,2003,16,suzuka,False,False,False,False,False,button,British,bar,9,4,12,0,12,18,0,6,1.7999999999999972,23
+8100,2003,16,suzuka,False,False,False,False,False,wilson,British,jaguar,10,13,1,0,19,18,0,7,1.8999999999999917,25
+8096,2003,16,suzuka,False,False,False,False,False,heidfeld,German,sauber,11,9,6,0,14,19,0,5,1.8999999999999917,26
+8106,2003,16,suzuka,False,False,False,False,False,frentzen,German,sauber,12,19,13,0,10,19,0,5,2.200000000000003,36
+8093,2003,16,suzuka,False,False,False,False,False,sato,Japanese,bar,13,6,0,0,0,18,0,6,2.200000000000003,26
+8095,2003,16,suzuka,False,False,False,False,False,michael_schumacher,German,ferrari,14,8,92,6,1,147,7,1,2.5999999999999943,34
+8101,2003,16,suzuka,False,False,False,False,False,firman,Irish,jordan,15,14,1,0,18,13,1,9,3.0999999999999943,28
+8104,2003,16,suzuka,False,False,False,False,False,fisichella,Italian,jordan,16,17,12,1,11,13,1,9,3.200000000000003,30
+8102,2003,16,suzuka,False,False,False,False,False,verstappen,Dutch,minardi,17,15,0,0,21,0,0,10,3.299999999999997,31
+8103,2003,16,suzuka,False,False,False,False,False,kiesa,Danish,minardi,18,16,0,0,22,0,0,10,5.5,25

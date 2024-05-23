@@ -1,0 +1,21 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+8487,2005,2,sepang,False,False,False,False,False,alonso,Spanish,renault,1,1,6,0,3,16,1,1,0.0,23
+8488,2005,2,sepang,False,False,False,False,False,trulli,Italian,toyota,2,2,0,0,9,0,0,6,0.200000000000017,30
+8501,2005,2,sepang,False,False,False,False,False,fisichella,Italian,renault,3,15,10,1,1,16,1,1,0.700000000000017,32
+8502,2005,2,sepang,False,False,False,False,False,webber,Australian,williams,4,16,4,0,5,4,0,4,1.200000000000017,28
+8491,2005,2,sepang,False,False,False,False,False,ralf_schumacher,German,toyota,5,5,0,0,11,0,0,6,1.3000000000000114,29
+8495,2005,2,sepang,False,False,False,False,False,raikkonen,Finnish,mclaren,6,9,1,0,8,4,0,5,1.8000000000000114,25
+8494,2005,2,sepang,False,False,False,False,False,klien,Austrian,red_bull,7,8,2,0,7,7,0,3,1.9000000000000057,22
+8492,2005,2,sepang,False,False,False,False,False,coulthard,British,red_bull,8,6,5,0,4,7,0,3,2.0,33
+8504,2005,2,sepang,False,False,False,False,False,button,British,bar,9,18,0,0,0,0,0,0,2.1000000000000227,25
+8489,2005,2,sepang,False,False,False,False,False,heidfeld,German,williams,10,3,0,0,0,4,0,4,2.200000000000017,27
+8490,2005,2,sepang,False,False,False,False,False,montoya,Colombian,mclaren,11,4,3,0,6,4,0,5,2.4000000000000057,29
+8500,2005,2,sepang,False,False,False,False,False,barrichello,Brazilian,ferrari,12,14,8,0,2,8,0,2,3.8000000000000114,32
+8493,2005,2,sepang,False,False,False,False,False,michael_schumacher,German,ferrari,13,7,0,0,0,8,0,2,3.9000000000000057,36
+8496,2005,2,sepang,False,False,False,False,False,massa,Brazilian,sauber,14,10,0,0,10,0,0,7,4.200000000000017,23
+8505,2005,2,sepang,False,False,False,False,False,davidson,British,bar,15,19,0,0,0,0,0,0,4.200000000000017,25
+8503,2005,2,sepang,False,False,False,False,False,villeneuve,Canadian,sauber,16,17,0,0,12,0,0,7,5.300000000000011,33
+8497,2005,2,sepang,False,False,False,False,False,karthikeyan,Indian,jordan,17,11,0,0,13,0,0,8,10.0,28
+8498,2005,2,sepang,False,False,False,False,False,monteiro,Portuguese,jordan,18,12,0,0,14,0,0,8,10.300000000000011,28
+8499,2005,2,sepang,False,False,False,False,False,albers,Dutch,minardi,19,13,0,0,0,0,0,9,15.300000000000011,25
+8506,2005,2,sepang,False,False,False,False,False,friesacher,Austrian,minardi,20,20,0,0,15,0,0,9,13.5,24

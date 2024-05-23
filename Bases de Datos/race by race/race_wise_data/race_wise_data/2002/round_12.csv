@@ -1,0 +1,22 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+7670,2002,12,hockenheimring,False,False,False,False,False,michael_schumacher,German,ferrari,1,1,96,8,1,128,9,1,0.0,33
+7672,2002,12,hockenheimring,False,False,False,False,False,ralf_schumacher,German,williams,2,3,32,1,4,66,1,2,0.1999999999999886,27
+7673,2002,12,hockenheimring,False,False,False,False,False,barrichello,Brazilian,ferrari,3,4,32,1,3,128,9,1,0.2999999999999971,30
+7671,2002,12,hockenheimring,False,False,False,False,False,montoya,Colombian,williams,4,2,34,0,2,66,1,2,0.6999999999999886,26
+7680,2002,12,hockenheimring,False,False,False,False,False,raikkonen,Finnish,mclaren,5,11,17,0,6,47,1,3,1.1999999999999886,22
+7679,2002,12,hockenheimring,False,False,False,False,False,fisichella,Italian,jordan,6,10,6,0,9,6,0,6,1.2999999999999972,29
+7683,2002,12,hockenheimring,False,False,False,False,False,panis,French,bar,7,14,2,0,14,5,0,7,1.5,35
+7684,2002,12,hockenheimring,False,False,False,False,False,trulli,Italian,renault,8,15,4,0,10,15,0,4,1.5,28
+7674,2002,12,hockenheimring,False,False,False,False,False,coulthard,British,mclaren,9,5,30,1,5,47,1,3,1.5,31
+7675,2002,12,hockenheimring,False,False,False,False,False,heidfeld,German,sauber,10,6,6,0,8,10,0,5,1.5999999999999943,25
+7685,2002,12,hockenheimring,False,False,False,False,False,villeneuve,Canadian,bar,11,16,3,0,12,5,0,7,1.6999999999999886,31
+7677,2002,12,hockenheimring,False,False,False,False,False,sato,Japanese,jordan,12,8,0,0,21,6,0,6,1.6999999999999886,25
+7686,2002,12,hockenheimring,False,False,False,False,False,button,British,renault,13,17,11,0,7,15,0,4,1.8999999999999917,22
+7676,2002,12,hockenheimring,False,False,False,False,False,massa,Brazilian,sauber,14,7,4,0,11,10,0,5,2.0,21
+7689,2002,12,hockenheimring,False,False,False,False,False,frentzen,German,arrows,15,20,2,0,17,2,0,11,2.0999999999999943,35
+7681,2002,12,hockenheimring,False,False,False,False,False,irvine,British,jaguar,16,12,3,0,13,3,0,8,2.0999999999999943,36
+7687,2002,12,hockenheimring,False,False,False,False,False,mcnish,British,toyota,17,18,0,0,18,2,0,10,2.1999999999999886,32
+7682,2002,12,hockenheimring,False,False,False,False,False,bernoldi,Brazilian,arrows,18,13,0,0,22,2,0,11,2.1999999999999886,23
+7678,2002,12,hockenheimring,False,False,False,False,False,salo,Finnish,toyota,19,9,2,0,16,2,0,10,2.299999999999997,35
+7690,2002,12,hockenheimring,False,False,False,False,False,rosa,Spanish,jaguar,20,21,0,0,20,3,0,8,2.6999999999999886,31
+7688,2002,12,hockenheimring,False,False,False,False,False,webber,Australian,minardi,21,19,2,0,15,2,0,9,3.5999999999999943,25

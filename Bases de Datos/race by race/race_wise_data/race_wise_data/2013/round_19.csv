@@ -1,0 +1,23 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+12073,2013,19,interlagos,False,False,False,False,False,vettel,German,red_bull,1,1,372,12,1,553,12,1,0.0,26
+12077,2013,19,interlagos,False,False,False,False,False,rosberg,German,mercedes,2,5,161,2,6,348,3,2,0.5999999999999943,28
+12075,2013,19,interlagos,False,False,False,False,False,alonso,Spanish,ferrari,3,3,227,2,2,333,2,3,1.0,32
+12074,2013,19,interlagos,False,False,False,False,False,webber,Australian,red_bull,4,2,181,0,5,553,12,1,1.0999999999999943,37
+12081,2013,19,interlagos,False,False,False,False,False,hamilton,British,mercedes,5,9,187,1,3,348,3,2,1.2000000000000028,28
+12094,2013,19,interlagos,False,False,False,False,False,grosjean,French,lotus_f1,6,22,132,0,7,315,1,4,1.2000000000000028,27
+12082,2013,19,interlagos,False,False,False,False,False,ricciardo,Australian,toro_rosso,7,10,19,0,14,32,0,8,1.5999999999999943,24
+12087,2013,19,interlagos,False,False,False,False,False,vergne,French,toro_rosso,8,15,13,0,15,32,0,8,1.5999999999999943,23
+12079,2013,19,interlagos,False,False,False,False,False,massa,Brazilian,ferrari,9,7,106,0,8,333,2,3,1.5999999999999943,32
+12080,2013,19,interlagos,False,False,False,False,False,hulkenberg,German,sauber,10,8,47,0,11,53,0,7,3.0999999999999943,26
+12086,2013,19,interlagos,False,False,False,False,False,kovalainen,Finnish,lotus_f1,11,14,0,0,23,315,1,4,1.0,32
+12083,2013,19,interlagos,False,False,False,False,False,resta,British,force_india,12,11,48,0,10,77,0,6,1.2999999999999972,27
+12093,2013,19,interlagos,False,False,False,False,False,bottas,Finnish,williams,13,21,4,0,17,5,0,9,1.5,24
+12076,2013,19,interlagos,False,False,False,False,False,button,British,mclaren,14,4,61,0,9,102,0,5,1.7999999999999972,33
+12085,2013,19,interlagos,False,False,False,False,False,sutil,German,force_india,15,13,29,0,13,77,0,6,2.0999999999999943,30
+12088,2013,19,interlagos,False,False,False,False,False,maldonado,Venezuelan,williams,16,16,1,0,18,5,0,9,0.9000000000000057,28
+12084,2013,19,interlagos,False,False,False,False,False,gutierrez,Mexican,sauber,17,12,6,0,16,53,0,7,0.9000000000000057,22
+12092,2013,19,interlagos,False,False,False,False,False,pic,French,caterham,18,20,0,0,20,0,0,11,1.2999999999999972,23
+12078,2013,19,interlagos,False,False,False,False,False,perez,Mexican,mclaren,19,6,41,0,12,102,0,5,1.7999999999999972,23
+12090,2013,19,interlagos,False,False,False,False,False,garde,Dutch,caterham,20,18,0,0,21,0,0,11,1.7999999999999972,28
+12089,2013,19,interlagos,False,False,False,False,False,jules_bianchi,French,marussia,21,17,0,0,19,0,0,10,1.9000000000000057,24
+12091,2013,19,interlagos,False,False,False,False,False,chilton,British,marussia,22,19,0,0,22,0,0,10,2.5,22

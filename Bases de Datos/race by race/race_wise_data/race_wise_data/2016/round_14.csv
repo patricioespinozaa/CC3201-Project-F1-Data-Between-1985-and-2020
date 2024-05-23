@@ -1,0 +1,22 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+13143,2016,14,monza,True,False,False,False,False,hamilton,British,mercedes,1,2,232,6,1,455,12,1,0.0,31
+13142,2016,14,monza,True,False,False,False,False,rosberg,German,mercedes,2,1,223,6,2,455,12,1,0.5,31
+13144,2016,14,monza,True,False,False,False,False,vettel,German,ferrari,3,3,128,0,4,252,0,3,0.9000000000000057,29
+13145,2016,14,monza,True,False,False,False,False,raikkonen,Finnish,ferrari,4,4,124,0,5,252,0,3,1.0,36
+13147,2016,14,monza,True,False,False,False,False,bottas,Finnish,williams,5,6,62,0,7,101,0,5,1.3000000000000114,27
+13146,2016,14,monza,True,False,False,False,False,ricciardo,Australian,red_bull,6,5,151,0,3,274,1,2,1.3000000000000114,27
+13148,2016,14,monza,True,False,False,False,False,max_verstappen,Dutch,red_bull,7,7,115,1,6,274,1,2,1.3000000000000114,18
+13149,2016,14,monza,True,False,False,False,False,perez,Mexican,force_india,8,8,58,0,8,103,0,4,1.7000000000000028,26
+13151,2016,14,monza,True,False,False,False,False,hulkenberg,German,force_india,9,10,45,0,9,103,0,4,1.7000000000000028,29
+13154,2016,14,monza,True,False,False,False,False,gutierrez,Mexican,haas,10,13,0,0,19,28,0,8,2.1000000000000085,25
+13150,2016,14,monza,True,False,False,False,False,massa,Brazilian,williams,11,9,39,0,10,101,0,5,1.9000000000000057,35
+13155,2016,14,monza,True,False,False,False,False,alonso,Spanish,mclaren,12,14,30,0,11,48,0,6,2.200000000000003,35
+13161,2016,14,monza,True,False,False,False,False,wehrlein,German,manor,13,20,1,0,17,1,0,10,2.200000000000003,21
+13153,2016,14,monza,True,False,False,False,False,button,British,mclaren,14,12,17,0,15,48,0,6,2.300000000000012,36
+13156,2016,14,monza,True,False,False,False,False,sainz,Spanish,toro_rosso,15,15,30,0,12,45,0,7,2.4000000000000057,22
+13160,2016,14,monza,True,False,False,False,False,kvyat,Russian,toro_rosso,16,19,23,0,14,45,0,7,2.700000000000003,22
+13152,2016,14,monza,True,False,False,False,False,grosjean,French,haas,17,11,28,0,13,28,0,8,2.0,30
+13163,2016,14,monza,True,False,False,False,False,nasr,Brazilian,sauber,18,22,0,0,22,0,0,11,2.9000000000000057,24
+13157,2016,14,monza,True,False,False,False,False,ericsson,Swedish,sauber,19,16,0,0,21,0,0,11,3.0,26
+13162,2016,14,monza,True,False,False,False,False,jolyon_palmer,British,renault,20,21,0,0,20,6,0,9,3.1000000000000085,25
+13158,2016,14,monza,True,False,False,False,False,kevin_magnussen,Danish,renault,21,17,6,0,16,6,0,9,3.300000000000012,23

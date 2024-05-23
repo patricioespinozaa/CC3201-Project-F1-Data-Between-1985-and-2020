@@ -1,0 +1,27 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+3103,1990,12,monza,True,False,False,False,False,senna,Brazilian,mclaren,1,1,63,5,1,96,5,1,0.0,30
+3104,1990,12,monza,True,False,False,False,False,prost,French,ferrari,2,2,50,4,2,63,4,2,0.4000000000000057,35
+3105,1990,12,monza,True,False,False,False,False,berger,Austrian,mclaren,3,3,33,0,3,96,5,1,0.4000000000000057,31
+3106,1990,12,monza,True,False,False,False,False,mansell,British,ferrari,4,4,13,0,9,63,4,2,0.5999999999999943,37
+3128,1990,12,monza,True,False,False,False,False,alesi,French,tyrrell,5,26,13,0,8,14,0,5,1.0,26
+3122,1990,12,monza,True,False,False,False,False,boutsen,Belgian,williams,6,20,27,1,4,42,2,3,1.5,33
+3107,1990,12,monza,True,False,False,False,False,patrese,Italian,williams,7,5,15,1,7,42,2,3,1.7999999999999972,36
+3110,1990,12,monza,True,False,False,False,False,nannini,Italian,benetton,8,8,16,0,6,40,0,4,2.0999999999999943,31
+3109,1990,12,monza,True,False,False,False,False,piquet,Brazilian,benetton,9,7,24,0,5,40,0,4,2.200000000000003,38
+3120,1990,12,monza,True,False,False,False,False,gugelmin,Brazilian,leyton,10,18,1,0,17,7,0,6,3.0999999999999943,27
+3125,1990,12,monza,True,False,False,False,False,donnelly,British,team_lotus,11,23,0,0,18,3,0,8,3.0999999999999943,26
+3123,1990,12,monza,True,False,False,False,False,warwick,British,team_lotus,12,21,3,0,12,3,0,8,3.200000000000003,36
+3126,1990,12,monza,True,False,False,False,False,bernard,French,larrousse,13,24,5,0,11,6,0,7,3.4000000000000057,26
+3108,1990,12,monza,True,False,False,False,False,satoru_nakajima,Japanese,tyrrell,14,6,1,0,16,14,0,5,3.5999999999999943,37
+3127,1990,12,monza,True,False,False,False,False,martini,Italian,minardi,15,25,0,0,19,0,0,11,3.799999999999997,29
+3117,1990,12,monza,True,False,False,False,False,capelli,Italian,leyton,16,15,6,0,10,7,0,6,4.200000000000003,27
+3121,1990,12,monza,True,False,False,False,False,modena,Italian,brabham,17,19,2,0,14,2,0,10,4.5,27
+3118,1990,12,monza,True,False,False,False,False,suzuki,Japanese,larrousse,18,16,1,0,15,6,0,7,4.5,30
+3124,1990,12,monza,True,False,False,False,False,pirro,Italian,dallara,19,22,0,0,24,0,0,14,4.5,28
+3115,1990,12,monza,True,False,False,False,False,alliot,French,ligier,20,13,0,0,21,0,0,13,4.5,36
+3111,1990,12,monza,True,False,False,False,False,caffi,Italian,arrows,21,9,2,0,13,2,0,9,4.900000000000006,26
+3114,1990,12,monza,True,False,False,False,False,alboreto,Italian,arrows,22,12,0,0,23,2,0,9,4.900000000000006,33
+3119,1990,12,monza,True,False,False,False,False,grouillard,French,osella,23,17,0,0,28,0,0,15,5.0,32
+3116,1990,12,monza,True,False,False,False,False,dalmas,French,ags,24,14,0,0,0,0,0,16,5.200000000000003,29
+3112,1990,12,monza,True,False,False,False,False,cesaris,Italian,dallara,25,10,0,0,29,0,0,14,5.200000000000003,31
+3113,1990,12,monza,True,False,False,False,False,larini,Italian,ligier,26,11,0,0,22,0,0,13,5.400000000000006,26

@@ -1,0 +1,27 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+4477,1994,1,interlagos,True,False,False,False,False,senna,Brazilian,williams,1,13,0,0,0,0,0,0,0.0,34
+4465,1994,1,interlagos,True,False,False,False,False,michael_schumacher,German,benetton,2,1,0,0,0,0,0,0,0.2999999999999971,25
+4467,1994,1,interlagos,True,False,False,False,False,alesi,French,ferrari,3,3,0,0,0,0,0,0,1.4000000000000057,29
+4466,1994,1,interlagos,True,False,False,False,False,damon_hill,British,williams,4,2,0,0,0,0,0,0,1.5999999999999943,33
+4484,1994,1,interlagos,True,False,False,False,False,frentzen,German,sauber,5,20,0,0,0,0,0,0,1.7999999999999972,26
+4487,1994,1,interlagos,True,False,False,False,False,morbidelli,Italian,footwork,6,23,0,0,0,0,0,0,1.9000000000000057,26
+4470,1994,1,interlagos,True,False,False,False,False,wendlinger,Austrian,sauber,7,6,0,0,0,0,0,0,1.9000000000000057,25
+4485,1994,1,interlagos,True,False,False,False,False,hakkinen,Finnish,mclaren,8,21,0,0,0,0,0,0,2.0999999999999943,25
+4480,1994,1,interlagos,True,False,False,False,False,verstappen,Dutch,benetton,9,16,0,0,0,0,0,0,2.200000000000003,22
+4469,1994,1,interlagos,True,False,False,False,False,katayama,Japanese,tyrrell,10,5,0,0,0,0,0,0,2.200000000000003,30
+4483,1994,1,interlagos,True,False,False,False,False,fittipaldi,Brazilian,footwork,11,19,0,0,0,0,0,0,2.200000000000003,23
+4482,1994,1,interlagos,True,False,False,False,False,blundell,British,tyrrell,12,18,0,0,0,0,0,0,2.200000000000003,27
+4473,1994,1,interlagos,True,False,False,False,False,comas,French,larrousse,13,9,0,0,0,0,0,0,2.299999999999997,30
+4468,1994,1,interlagos,True,False,False,False,False,barrichello,Brazilian,jordan,14,4,0,0,0,0,0,0,2.4000000000000057,21
+4472,1994,1,interlagos,True,False,False,False,False,martini,Italian,minardi,15,8,0,0,0,0,0,0,2.700000000000003,32
+4479,1994,1,interlagos,True,False,False,False,False,irvine,British,jordan,16,15,0,0,0,0,0,0,2.799999999999997,28
+4488,1994,1,interlagos,True,False,False,False,False,berger,Austrian,ferrari,17,24,0,0,0,0,0,0,2.9000000000000057,34
+4478,1994,1,interlagos,True,False,False,False,False,brundle,British,mclaren,18,14,0,0,0,0,0,0,2.9000000000000057,34
+4475,1994,1,interlagos,True,False,False,False,False,panis,French,ligier,19,11,0,0,0,0,0,0,3.299999999999997,27
+4481,1994,1,interlagos,True,False,False,False,False,bernard,French,ligier,20,17,0,0,0,0,0,0,3.4000000000000057,29
+4471,1994,1,interlagos,True,False,False,False,False,herbert,British,team_lotus,21,7,0,0,0,0,0,0,3.5,29
+4486,1994,1,interlagos,True,False,False,False,False,alboreto,Italian,minardi,22,22,0,0,0,0,0,0,3.5,37
+4489,1994,1,interlagos,True,False,False,False,False,beretta,Monegasque,larrousse,23,25,0,0,0,0,0,0,3.5,24
+4474,1994,1,interlagos,True,False,False,False,False,lamy,Portuguese,team_lotus,24,10,0,0,0,0,0,0,4.0,22
+4490,1994,1,interlagos,True,False,False,False,False,gachot,Belgian,pacific,25,26,0,0,0,0,0,0,4.700000000000003,31
+4476,1994,1,interlagos,True,False,False,False,False,brabham,Australian,simtek,26,12,0,0,0,0,0,0,5.200000000000003,28

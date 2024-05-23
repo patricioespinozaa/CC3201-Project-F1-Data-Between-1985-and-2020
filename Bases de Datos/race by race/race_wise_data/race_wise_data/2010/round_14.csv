@@ -1,0 +1,25 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+10606,2010,14,monza,True,False,False,False,False,alonso,Spanish,ferrari,1,1,141,2,5,250,2,3,0.0,29
+10607,2010,14,monza,True,False,False,False,False,button,British,mclaren,2,2,147,2,4,329,5,2,0.0999999999999943,30
+10608,2010,14,monza,True,False,False,False,False,massa,Brazilian,ferrari,3,3,109,0,6,250,2,3,0.2999999999999971,29
+10611,2010,14,monza,True,False,False,False,False,webber,Australian,red_bull,4,6,179,4,2,330,6,1,0.4000000000000057,34
+10628,2010,14,monza,True,False,False,False,False,hamilton,British,mclaren,5,23,182,3,1,329,5,2,0.5999999999999943,25
+10609,2010,14,monza,True,False,False,False,False,vettel,German,red_bull,6,4,151,2,3,330,6,1,0.7000000000000028,23
+10610,2010,14,monza,True,False,False,False,False,rosberg,German,mercedes,7,5,102,0,8,146,0,4,1.0,25
+10612,2010,14,monza,True,False,False,False,False,hulkenberg,German,williams,8,7,10,0,15,40,0,7,1.0,23
+10613,2010,14,monza,True,False,False,False,False,kubica,Polish,renault,9,8,104,0,7,123,0,5,1.0,25
+10615,2010,14,monza,True,False,False,False,False,barrichello,Brazilian,williams,10,10,30,0,11,40,0,7,1.2999999999999972,38
+10621,2010,14,monza,True,False,False,False,False,sutil,German,force_india,11,16,45,0,9,58,0,6,1.2000000000000028,27
+10614,2010,14,monza,True,False,False,False,False,michael_schumacher,German,mercedes,12,9,44,0,10,146,0,4,1.4000000000000057,41
+10629,2010,14,monza,True,False,False,False,False,kobayashi,Japanese,sauber,13,24,21,0,12,27,0,8,1.7000000000000028,23
+10616,2010,14,monza,True,False,False,False,False,buemi,Swiss,toro_rosso,14,11,7,0,16,10,0,9,1.7000000000000028,21
+10620,2010,14,monza,True,False,False,False,False,alguersuari,Spanish,toro_rosso,15,15,3,0,18,10,0,9,1.9000000000000057,20
+10619,2010,14,monza,True,False,False,False,False,rosa,Spanish,sauber,16,14,6,0,17,27,0,8,2.0,39
+10626,2010,14,monza,True,False,False,False,False,trulli,Italian,lotus_racing,17,21,0,0,22,0,0,10,3.5,36
+10623,2010,14,monza,True,False,False,False,False,kovalainen,Finnish,lotus_racing,18,18,0,0,19,0,0,10,3.700000000000003,28
+10617,2010,14,monza,True,False,False,False,False,liuzzi,Italian,force_india,19,12,13,0,14,58,0,6,3.799999999999997,30
+10618,2010,14,monza,True,False,False,False,False,petrov,Russian,renault,20,13,19,0,13,123,0,5,1.7999999999999972,26
+10625,2010,14,monza,True,False,False,False,False,grassi,Brazilian,virgin,21,20,0,0,21,0,0,12,4.0,26
+10627,2010,14,monza,True,False,False,False,False,bruno_senna,Brazilian,hrt,22,22,0,0,23,0,0,11,4.799999999999997,26
+10624,2010,14,monza,True,False,False,False,False,yamamoto,Japanese,hrt,23,19,0,0,25,0,0,11,5.0,28
+10622,2010,14,monza,True,False,False,False,False,glock,German,virgin,24,17,0,0,24,0,0,12,3.9000000000000057,28

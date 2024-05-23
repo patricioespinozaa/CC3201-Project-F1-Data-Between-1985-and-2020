@@ -1,0 +1,27 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+2047,1988,3,monaco,True,False,True,False,False,senna,Brazilian,mclaren,1,11,9,1,2,24,2,1,0.0,28
+2037,1988,3,monaco,True,False,True,False,False,prost,French,mclaren,2,1,15,1,1,24,2,1,1.4000000000000057,33
+2038,1988,3,monaco,True,False,True,False,False,berger,Austrian,ferrari,3,2,8,0,3,10,0,2,2.700000000000003,28
+2039,1988,3,monaco,True,False,True,False,False,alboreto,Italian,ferrari,4,3,2,0,7,10,0,2,3.299999999999997,31
+2053,1988,3,monaco,True,False,True,False,False,mansell,British,williams,5,17,0,0,24,0,0,10,3.700000000000003,34
+2051,1988,3,monaco,True,False,True,False,False,nannini,Italian,benetton,6,15,1,0,9,4,0,4,3.9000000000000057,28
+2040,1988,3,monaco,True,False,True,False,False,warwick,British,arrows,7,4,3,0,6,3,0,5,3.9000000000000057,33
+2042,1988,3,monaco,True,False,True,False,False,patrese,Italian,williams,8,6,0,0,15,0,0,10,4.0,34
+2057,1988,3,monaco,True,False,True,False,False,cheever,American,arrows,9,21,0,0,10,3,0,5,4.200000000000003,30
+2041,1988,3,monaco,True,False,True,False,False,palmer,British,tyrrell,10,5,0,0,16,0,0,11,4.400000000000006,31
+2060,1988,3,monaco,True,False,True,False,False,piquet,Brazilian,team_lotus,11,24,8,0,4,9,0,3,4.400000000000006,35
+2062,1988,3,monaco,True,False,True,False,False,streiff,French,ags,12,26,0,0,12,0,0,7,4.5,32
+2048,1988,3,monaco,True,False,True,False,False,alliot,French,larrousse,13,12,0,0,19,0,0,9,4.5,33
+2049,1988,3,monaco,True,False,True,False,False,gugelmin,Brazilian,march,14,13,0,0,17,0,0,12,4.599999999999994,25
+2052,1988,3,monaco,True,False,True,False,False,sala,Spanish,minardi,15,16,0,0,13,0,0,8,4.599999999999994,29
+2044,1988,3,monaco,True,False,True,False,False,boutsen,Belgian,benetton,16,8,3,0,5,4,0,4,4.599999999999994,30
+2061,1988,3,monaco,True,False,True,False,False,caffi,Italian,dallara,17,25,0,0,27,0,0,16,5.099999999999994,24
+2056,1988,3,monaco,True,False,True,False,False,larrauri,Argentine,eurobrun,18,20,0,0,29,0,0,15,5.099999999999994,33
+2054,1988,3,monaco,True,False,True,False,False,cesaris,Italian,rial,19,18,0,0,20,0,0,13,5.299999999999997,28
+2055,1988,3,monaco,True,False,True,False,False,arnoux,French,ligier,20,19,0,0,22,0,0,6,5.5,39
+2043,1988,3,monaco,True,False,True,False,False,dalmas,French,larrousse,21,7,0,0,14,0,0,9,5.599999999999994,26
+2046,1988,3,monaco,True,False,True,False,False,capelli,Italian,march,22,10,0,0,26,0,0,12,5.599999999999994,24
+2050,1988,3,monaco,True,False,True,False,False,ghinzani,Italian,zakspeed,23,14,0,0,28,0,0,17,6.099999999999994,36
+2059,1988,3,monaco,True,False,True,False,False,tarquini,Italian,coloni,24,23,0,0,21,0,0,14,6.299999999999997,26
+2045,1988,3,monaco,True,False,True,False,False,larini,Italian,osella,25,9,0,0,30,0,0,18,6.299999999999997,24
+2058,1988,3,monaco,True,False,True,False,False,johansson,Swedish,ligier,26,22,0,0,11,0,0,6,6.5,31

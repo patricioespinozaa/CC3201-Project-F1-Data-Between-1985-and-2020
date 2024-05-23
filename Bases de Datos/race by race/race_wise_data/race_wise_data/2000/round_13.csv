@@ -1,0 +1,23 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+6953,2000,13,spa,False,False,False,True,False,hakkinen,Finnish,mclaren,1,1,64,3,1,122,6,1,0.0,31
+6974,2000,13,spa,False,False,False,True,False,trulli,Italian,jordan,2,22,6,0,10,12,0,5,0.8000000000000114,26
+6957,2000,13,spa,False,False,False,True,False,button,British,williams,3,5,8,0,8,24,0,3,0.8000000000000114,20
+6954,2000,13,spa,False,False,False,True,False,michael_schumacher,German,ferrari,4,2,62,5,2,111,6,2,1.0,31
+6956,2000,13,spa,False,False,False,True,False,coulthard,British,mclaren,5,4,58,3,3,122,6,1,1.0,29
+6955,2000,13,spa,False,False,False,True,False,ralf_schumacher,German,williams,6,3,16,0,6,24,0,3,1.1000000000000083,25
+6959,2000,13,spa,False,False,False,True,False,villeneuve,Canadian,bar,7,7,11,0,7,12,0,6,1.2000000000000028,29
+6958,2000,13,spa,False,False,False,True,False,frentzen,German,jordan,8,6,6,0,9,12,0,5,1.3000000000000114,33
+6960,2000,13,spa,False,False,False,True,False,herbert,British,jaguar,9,8,0,0,18,3,0,9,1.6000000000000083,36
+6970,2000,13,spa,False,False,False,True,False,barrichello,Brazilian,ferrari,10,18,49,1,4,111,6,2,1.8000000000000114,28
+6973,2000,13,spa,False,False,False,True,False,fisichella,Italian,benetton,11,21,18,0,5,18,0,4,2.200000000000003,27
+6962,2000,13,spa,False,False,False,True,False,irvine,British,jaguar,12,10,3,0,12,3,0,9,2.300000000000012,34
+6964,2000,13,spa,False,False,False,True,False,zonta,Brazilian,bar,13,12,1,0,15,12,0,6,2.4000000000000057,24
+6972,2000,13,spa,False,False,False,True,False,heidfeld,German,prost,14,20,0,0,20,0,0,11,2.6000000000000085,23
+6963,2000,13,spa,False,False,False,True,False,diniz,Brazilian,sauber,15,11,0,0,16,6,0,7,2.6000000000000085,30
+6968,2000,13,spa,False,False,False,True,False,rosa,Spanish,arrows,16,16,2,0,14,4,0,8,2.6000000000000085,29
+6971,2000,13,spa,False,False,False,True,False,alesi,French,prost,17,19,0,0,22,0,0,11,2.700000000000003,36
+6961,2000,13,spa,False,False,False,True,False,salo,Finnish,sauber,18,9,6,0,11,6,0,7,2.800000000000012,33
+6965,2000,13,spa,False,False,False,True,False,wurz,Austrian,benetton,19,13,0,0,17,18,0,4,2.800000000000012,26
+6967,2000,13,spa,False,False,False,True,False,verstappen,Dutch,arrows,20,15,2,0,13,4,0,8,3.300000000000012,28
+6966,2000,13,spa,False,False,False,True,False,gene,Spanish,minardi,21,14,0,0,19,0,0,10,4.1000000000000085,26
+6969,2000,13,spa,False,False,False,True,False,mazzacane,Argentine,minardi,22,17,0,0,21,0,0,10,4.200000000000003,25

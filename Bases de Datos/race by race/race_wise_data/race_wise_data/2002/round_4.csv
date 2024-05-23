@@ -1,0 +1,21 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+7502,2002,4,imola,False,False,False,False,False,michael_schumacher,German,ferrari,1,1,24,2,1,24,2,2,0.0,33
+7503,2002,4,imola,False,False,False,False,False,barrichello,Brazilian,ferrari,2,2,0,0,0,24,2,2,0.1000000000000085,29
+7504,2002,4,imola,False,False,False,False,False,ralf_schumacher,German,williams,3,3,16,1,2,30,1,1,0.4000000000000057,26
+7505,2002,4,imola,False,False,False,False,False,montoya,Colombian,williams,4,4,14,0,3,30,1,1,0.5,26
+7515,2002,4,imola,False,False,False,False,False,raikkonen,Finnish,mclaren,5,14,4,0,5,8,0,3,1.0,22
+7507,2002,4,imola,False,False,False,False,False,coulthard,British,mclaren,6,6,4,0,6,8,0,3,1.4000000000000057,31
+7511,2002,4,imola,False,False,False,False,False,heidfeld,German,sauber,7,10,2,0,9,3,0,6,1.7000000000000028,24
+7510,2002,4,imola,False,False,False,False,False,trulli,Italian,renault,8,9,0,0,0,6,0,4,1.7000000000000028,27
+7506,2002,4,imola,False,False,False,False,False,button,British,renault,9,5,6,0,4,6,0,4,1.8000000000000114,22
+7508,2002,4,imola,False,False,False,False,False,villeneuve,Canadian,bar,10,7,0,0,15,0,0,9,2.0,31
+7509,2002,4,imola,False,False,False,False,False,massa,Brazilian,sauber,11,8,1,0,11,3,0,6,2.6000000000000085,20
+7516,2002,4,imola,False,False,False,False,False,panis,French,bar,12,15,0,0,0,0,0,9,2.700000000000003,35
+7518,2002,4,imola,False,False,False,False,False,frentzen,German,arrows,13,18,0,0,17,0,0,11,2.800000000000012,34
+7520,2002,4,imola,False,False,False,False,False,sato,Japanese,jordan,14,20,0,0,16,0,0,10,3.0,25
+7519,2002,4,imola,False,False,False,False,False,fisichella,Italian,jordan,15,19,0,0,18,0,0,10,3.200000000000003,29
+7517,2002,4,imola,False,False,False,False,False,salo,Finnish,toyota,16,17,2,0,10,2,0,8,3.200000000000003,35
+7521,2002,4,imola,False,False,False,False,False,mcnish,British,toyota,17,21,0,0,13,2,0,8,3.200000000000003,32
+7514,2002,4,imola,False,False,False,False,False,irvine,British,jaguar,18,13,3,0,7,3,0,5,3.5,36
+7512,2002,4,imola,False,False,False,False,False,webber,Australian,minardi,19,11,2,0,8,2,0,7,3.700000000000003,25
+7513,2002,4,imola,False,False,False,False,False,bernoldi,Brazilian,arrows,20,12,0,0,0,0,0,11,3.700000000000003,23

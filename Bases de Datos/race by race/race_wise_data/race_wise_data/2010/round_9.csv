@@ -1,0 +1,25 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+10486,2010,9,valencia,False,False,False,False,False,vettel,German,red_bull,1,1,90,1,5,193,3,2,0.0,22
+10509,2010,9,valencia,False,False,False,False,False,webber,Australian,red_bull,2,24,103,2,3,193,3,2,0.1000000000000085,33
+10487,2010,9,valencia,False,False,False,False,False,hamilton,British,mclaren,3,2,109,2,1,215,4,1,0.4000000000000057,25
+10493,2010,9,valencia,False,False,False,False,False,alonso,Spanish,ferrari,4,8,94,1,4,161,1,3,0.5,28
+10496,2010,9,valencia,False,False,False,False,False,massa,Brazilian,ferrari,5,11,67,0,8,161,1,3,0.5,29
+10490,2010,9,valencia,False,False,False,False,False,kubica,Polish,renault,6,5,73,0,7,79,0,5,0.5,25
+10488,2010,9,valencia,False,False,False,False,False,button,British,mclaren,7,3,106,2,2,215,4,1,0.6000000000000085,30
+10507,2010,9,valencia,False,False,False,False,False,hulkenberg,German,williams,8,22,1,0,17,8,0,8,0.8000000000000114,22
+10489,2010,9,valencia,False,False,False,False,False,barrichello,Brazilian,williams,9,4,7,0,12,8,0,8,0.8000000000000114,38
+10499,2010,9,valencia,False,False,False,False,False,petrov,Russian,renault,10,14,6,0,13,79,0,5,0.9000000000000057,25
+10494,2010,9,valencia,False,False,False,False,False,buemi,Swiss,toro_rosso,11,9,5,0,14,8,0,7,1.0,21
+10495,2010,9,valencia,False,False,False,False,False,rosberg,German,mercedes,12,10,74,0,6,108,0,4,1.0,25
+10491,2010,9,valencia,False,False,False,False,False,sutil,German,force_india,13,6,23,0,10,35,0,6,1.3000000000000114,27
+10501,2010,9,valencia,False,False,False,False,False,liuzzi,Italian,force_india,14,16,12,0,11,35,0,6,1.3000000000000114,29
+10500,2010,9,valencia,False,False,False,False,False,michael_schumacher,German,mercedes,15,15,34,0,9,108,0,4,1.6000000000000083,41
+10497,2010,9,valencia,False,False,False,False,False,rosa,Spanish,sauber,16,12,0,0,18,1,0,9,1.7000000000000028,39
+10498,2010,9,valencia,False,False,False,False,False,alguersuari,Spanish,toro_rosso,17,13,3,0,15,8,0,7,1.9000000000000057,20
+10492,2010,9,valencia,False,False,False,False,False,kobayashi,Japanese,sauber,18,7,1,0,16,1,0,9,1.7000000000000028,23
+10506,2010,9,valencia,False,False,False,False,False,trulli,Italian,lotus_racing,19,21,0,0,22,0,0,10,3.1000000000000085,35
+10508,2010,9,valencia,False,False,False,False,False,kovalainen,Finnish,lotus_racing,20,23,0,0,19,0,0,10,3.300000000000012,28
+10502,2010,9,valencia,False,False,False,False,False,grassi,Brazilian,virgin,21,17,0,0,21,0,0,12,4.5,25
+10504,2010,9,valencia,False,False,False,False,False,glock,German,virgin,22,19,0,0,24,0,0,12,4.5,28
+10503,2010,9,valencia,False,False,False,False,False,chandhok,Indian,hrt,23,18,0,0,20,0,0,11,5.0,26
+10505,2010,9,valencia,False,False,False,False,False,bruno_senna,Brazilian,hrt,24,20,0,0,23,0,0,11,5.300000000000011,26

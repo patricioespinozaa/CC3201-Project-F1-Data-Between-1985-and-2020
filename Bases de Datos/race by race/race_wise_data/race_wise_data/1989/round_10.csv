@@ -1,0 +1,27 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+2650,1989,10,hungaroring,False,False,False,False,True,patrese,Italian,williams,1,16,25,0,4,38,1,2,0.0,35
+2636,1989,10,hungaroring,False,False,False,False,True,senna,Brazilian,mclaren,2,2,36,4,2,89,7,1,0.2999999999999971,29
+2641,1989,10,hungaroring,False,False,False,False,True,caffi,Italian,dallara,3,7,4,0,15,8,0,7,1.0,25
+2637,1989,10,hungaroring,False,False,False,False,True,boutsen,Belgian,williams,4,3,13,1,5,38,1,2,1.2999999999999972,32
+2638,1989,10,hungaroring,False,False,False,False,True,prost,French,mclaren,5,4,53,3,1,89,7,1,1.3999999999999917,34
+2649,1989,10,hungaroring,False,False,False,False,True,berger,Austrian,ferrari,6,15,0,0,0,25,1,3,1.5999999999999943,29
+2652,1989,10,hungaroring,False,False,False,False,True,nannini,Italian,benetton,7,18,12,0,6,17,0,4,1.5999999999999943,30
+2645,1989,10,hungaroring,False,False,False,False,True,modena,Italian,brabham,8,11,4,0,13,5,0,9,1.7999999999999972,26
+2644,1989,10,hungaroring,False,False,False,False,True,warwick,British,arrows,9,10,5,0,10,9,0,6,1.8999999999999917,34
+2659,1989,10,hungaroring,False,False,False,False,True,martini,Italian,minardi,10,25,2,0,18,3,0,13,2.0,28
+2643,1989,10,hungaroring,False,False,False,False,True,alesi,French,tyrrell,11,9,3,0,17,10,0,5,2.0999999999999943,25
+2635,1989,10,hungaroring,False,False,False,False,True,mansell,British,ferrari,12,1,25,1,3,25,1,3,2.299999999999997,36
+2655,1989,10,hungaroring,False,False,False,False,True,gugelmin,Brazilian,march,13,21,4,0,14,4,0,10,2.3999999999999915,26
+2656,1989,10,hungaroring,False,False,False,False,True,capelli,Italian,march,14,22,0,0,28,4,0,10,2.3999999999999915,26
+2646,1989,10,hungaroring,False,False,False,False,True,brundle,British,brabham,15,12,1,0,24,5,0,9,2.5999999999999943,30
+2639,1989,10,hungaroring,False,False,False,False,True,cheever,American,arrows,16,5,4,0,11,9,0,6,2.700000000000003,31
+2640,1989,10,hungaroring,False,False,False,False,True,piquet,Brazilian,team_lotus,17,6,8,0,7,8,0,8,2.700000000000003,36
+2660,1989,10,hungaroring,False,False,False,False,True,cesaris,Italian,dallara,18,26,4,0,12,8,0,7,2.700000000000003,30
+2647,1989,10,hungaroring,False,False,False,False,True,palmer,British,tyrrell,19,13,1,0,23,10,0,5,2.8999999999999915,32
+2654,1989,10,hungaroring,False,False,False,False,True,satoru_nakajima,Japanese,team_lotus,20,20,0,0,26,8,0,8,2.8999999999999915,36
+2653,1989,10,hungaroring,False,False,False,False,True,gachot,Belgian,onyx,21,19,0,0,30,2,0,14,2.8999999999999915,26
+2658,1989,10,hungaroring,False,False,False,False,True,ghinzani,Italian,osella,22,24,0,0,0,0,0,17,3.0999999999999943,37
+2648,1989,10,hungaroring,False,False,False,False,True,sala,Spanish,minardi,23,14,1,0,25,3,0,13,3.299999999999997,30
+2651,1989,10,hungaroring,False,False,False,False,True,johansson,Swedish,onyx,24,17,2,0,20,2,0,14,3.3999999999999915,32
+2642,1989,10,hungaroring,False,False,False,False,True,pirro,Italian,benetton,25,8,0,0,27,17,0,4,3.700000000000003,27
+2657,1989,10,hungaroring,False,False,False,False,True,alboreto,Italian,larrousse,26,23,6,0,8,0,0,16,4.0,32

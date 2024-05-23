@@ -1,0 +1,27 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+3594,1991,15,suzuka,True,False,False,False,False,berger,Austrian,mclaren,1,1,31,0,5,116,6,2,0.0,32
+3595,1991,15,suzuka,True,False,False,False,False,senna,Brazilian,mclaren,2,2,85,6,1,116,6,2,0.2000000000000028,31
+3612,1991,15,suzuka,True,False,False,False,False,mansell,British,williams,3,19,69,5,2,117,7,1,0.2000000000000028,38
+3597,1991,15,suzuka,True,False,False,False,False,prost,French,ferrari,4,4,31,0,4,52,0,3,2.0,36
+3596,1991,15,suzuka,True,False,False,False,False,patrese,Italian,williams,5,3,48,2,3,117,7,1,2.200000000000003,37
+3619,1991,15,suzuka,True,False,False,False,False,alesi,French,ferrari,6,26,21,0,7,52,0,3,2.3999999999999915,27
+3606,1991,15,suzuka,True,False,False,False,False,martini,Italian,minardi,7,13,6,0,11,6,0,7,3.5,30
+3611,1991,15,suzuka,True,False,False,False,False,morbidelli,Italian,minardi,8,18,0,0,25,6,0,7,3.5,23
+3607,1991,15,suzuka,True,False,False,False,False,michael_schumacher,German,benetton,9,14,4,0,14,37,1,4,3.700000000000003,22
+3600,1991,15,suzuka,True,False,False,False,False,piquet,Brazilian,benetton,10,7,25,1,6,37,1,4,3.899999999999992,39
+3615,1991,15,suzuka,True,False,False,False,False,cesaris,Italian,jordan,11,22,9,0,9,13,0,5,4.099999999999994,32
+3616,1991,15,suzuka,True,False,False,False,False,lehto,Finnish,dallara,12,23,4,0,12,5,0,8,4.200000000000003,25
+3613,1991,15,suzuka,True,False,False,False,False,zanardi,Italian,jordan,13,20,0,0,0,13,0,5,4.200000000000003,24
+3599,1991,15,suzuka,True,False,False,False,False,modena,Italian,tyrrell,14,6,9,0,8,11,0,6,4.200000000000003,28
+3609,1991,15,suzuka,True,False,False,False,False,satoru_nakajima,Japanese,tyrrell,15,16,2,0,15,11,0,6,4.399999999999992,38
+3617,1991,15,suzuka,True,False,False,False,False,pirro,Italian,dallara,16,24,1,0,17,5,0,8,4.5,29
+3602,1991,15,suzuka,True,False,False,False,False,boutsen,Belgian,ligier,17,9,0,0,24,0,0,14,4.799999999999997,34
+3601,1991,15,suzuka,True,False,False,False,False,gugelmin,Brazilian,leyton,18,8,0,0,23,1,0,10,4.799999999999997,28
+3598,1991,15,suzuka,True,False,False,False,False,brundle,British,brabham,19,5,0,0,30,1,0,11,5.0,32
+3605,1991,15,suzuka,True,False,False,False,False,comas,French,ligier,20,12,0,0,28,0,0,14,5.099999999999994,28
+3614,1991,15,suzuka,True,False,False,False,False,hakkinen,Finnish,team_lotus,21,21,2,0,16,3,0,9,5.299999999999997,23
+3618,1991,15,suzuka,True,False,False,False,False,wendlinger,Austrian,leyton,22,25,0,0,0,1,0,10,5.399999999999992,22
+3608,1991,15,suzuka,True,False,False,False,False,herbert,British,team_lotus,23,15,0,0,26,3,0,9,5.5,27
+3604,1991,15,suzuka,True,False,False,False,False,tarquini,Italian,fondmetal,24,11,0,0,29,0,0,17,5.5,29
+3610,1991,15,suzuka,True,False,False,False,False,suzuki,Japanese,lola,25,17,1,0,21,1,0,12,5.599999999999994,31
+3603,1991,15,suzuka,True,False,False,False,False,caffi,Italian,footwork,26,10,0,0,0,0,0,18,5.700000000000003,27

@@ -1,0 +1,22 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+9542,2007,15,fuji,False,False,False,True,False,hamilton,British,mclaren,1,1,97,3,1,192,7,11,0.0,22
+9562,2007,15,fuji,False,False,False,True,False,alonso,Spanish,mclaren,2,21,95,4,2,192,7,11,0.0,26
+9544,2007,15,fuji,False,False,False,True,False,raikkonen,Finnish,ferrari,3,3,84,4,3,161,7,1,0.0999999999999943,27
+9547,2007,15,fuji,False,False,False,True,False,massa,Brazilian,ferrari,4,6,77,3,4,161,7,1,0.3999999999999915,26
+9555,2007,15,fuji,False,False,False,True,False,heidfeld,German,bmw_sauber,5,14,56,0,5,90,0,2,1.0999999999999943,30
+9552,2007,15,fuji,False,False,False,True,False,button,British,honda,6,11,2,0,16,2,0,8,1.5,27
+9561,2007,15,fuji,False,False,False,True,False,webber,Australian,red_bull,7,20,10,0,11,18,0,5,1.5,31
+9560,2007,15,fuji,False,False,False,True,False,vettel,German,toro_rosso,8,19,1,0,17,0,0,9,1.5999999999999943,20
+9548,2007,15,fuji,False,False,False,True,False,kubica,Polish,bmw_sauber,9,7,33,0,6,90,0,2,1.7999999999999972,22
+9546,2007,15,fuji,False,False,False,True,False,fisichella,Italian,renault,10,5,17,0,8,39,0,3,0.5999999999999943,34
+9543,2007,15,fuji,False,False,False,True,False,kovalainen,Finnish,renault,11,2,22,0,7,39,0,3,0.7999999999999972,25
+9545,2007,15,fuji,False,False,False,True,False,coulthard,British,red_bull,12,4,8,0,12,18,0,5,0.7999999999999972,36
+9554,2007,15,fuji,False,False,False,True,False,trulli,Italian,toyota,13,13,7,0,13,12,0,6,0.8999999999999915,33
+9550,2007,15,fuji,False,False,False,True,False,liuzzi,Italian,toro_rosso,14,9,0,0,21,0,0,9,1.5,27
+9559,2007,15,fuji,False,False,False,True,False,rosberg,German,williams,16,18,15,0,9,28,0,4,1.2999999999999972,22
+9551,2007,15,fuji,False,False,False,True,False,barrichello,Brazilian,honda,17,10,0,0,18,2,0,8,1.8999999999999917,35
+9563,2007,15,fuji,False,False,False,True,False,wurz,Austrian,williams,18,22,13,0,10,28,0,4,2.0999999999999943,33
+9558,2007,15,fuji,False,False,False,True,False,davidson,British,super_aguri,19,17,0,0,20,4,0,7,2.1999999999999886,28
+9549,2007,15,fuji,False,False,False,True,False,sutil,German,spyker,20,8,0,0,22,0,0,10,3.1999999999999886,24
+9556,2007,15,fuji,False,False,False,True,False,sato,Japanese,super_aguri,21,15,4,0,15,4,0,7,3.3999999999999915,30
+9553,2007,15,fuji,False,False,False,True,False,yamamoto,Japanese,spyker,22,12,0,0,24,0,0,10,4.299999999999997,25

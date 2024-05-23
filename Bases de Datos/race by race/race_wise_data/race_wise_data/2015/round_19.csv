@@ -1,0 +1,19 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+12845,2015,19,yas_marina,False,False,False,False,False,rosberg,German,mercedes,1,1,297,5,2,660,15,1,0.0,30
+12846,2015,19,yas_marina,False,False,False,False,False,hamilton,British,mercedes,2,2,363,10,1,660,15,1,0.3999999999999915,30
+12847,2015,19,yas_marina,False,False,False,False,False,raikkonen,Finnish,ferrari,3,3,135,0,5,401,3,2,0.8999999999999915,36
+12849,2015,19,yas_marina,False,False,False,False,False,perez,Mexican,force_india,4,5,68,0,9,120,0,5,1.0,25
+12850,2015,19,yas_marina,False,False,False,False,False,ricciardo,Australian,red_bull,5,6,84,0,8,178,0,4,1.2000000000000028,26
+12857,2015,19,yas_marina,False,False,False,False,False,bottas,Finnish,williams,6,13,136,0,4,253,0,3,1.5,26
+12851,2015,19,yas_marina,False,False,False,False,False,hulkenberg,German,force_india,7,7,52,0,10,120,0,5,1.5,28
+12852,2015,19,yas_marina,False,False,False,False,False,massa,Brazilian,williams,8,8,117,0,6,253,0,3,1.5999999999999943,34
+12854,2015,19,yas_marina,False,False,False,False,False,kvyat,Russian,red_bull,9,10,94,0,7,178,0,4,1.7000000000000028,21
+12855,2015,19,yas_marina,False,False,False,False,False,sainz,Spanish,toro_rosso,10,11,18,0,15,67,0,7,2.5,21
+12860,2015,19,yas_marina,False,False,False,False,False,max_verstappen,Dutch,toro_rosso,11,16,49,0,12,67,0,7,2.299999999999997,18
+12856,2015,19,yas_marina,False,False,False,False,False,button,British,mclaren,12,12,16,0,16,27,0,9,2.5,35
+12863,2015,19,yas_marina,False,False,False,False,False,maldonado,Venezuelan,lotus_f1,13,20,27,0,14,76,0,6,2.5999999999999943,30
+12859,2015,19,yas_marina,False,False,False,False,False,nasr,Brazilian,sauber,14,15,27,0,13,36,0,8,3.3999999999999915,23
+12848,2015,19,yas_marina,False,False,False,False,False,vettel,German,ferrari,15,4,266,3,3,401,3,2,2.700000000000003,28
+12861,2015,19,yas_marina,False,False,False,False,False,alonso,Spanish,mclaren,16,17,11,0,17,27,0,9,3.0,34
+12858,2015,19,yas_marina,False,False,False,False,False,ericsson,Swedish,sauber,17,14,9,0,18,36,0,8,3.5999999999999943,25
+12862,2015,19,yas_marina,False,False,False,False,False,stevens,British,manor,19,18,0,0,21,0,0,10,6.099999999999994,24

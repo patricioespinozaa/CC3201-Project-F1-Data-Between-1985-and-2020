@@ -1,0 +1,20 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+10067,2009,6,monaco,True,False,False,False,False,button,British,brawn,1,1,41,4,1,68,4,1,0.0,29
+10069,2009,6,monaco,True,False,False,False,False,raikkonen,Finnish,ferrari,2,3,3,0,13,6,0,7,0.0,29
+10068,2009,6,monaco,True,False,False,False,False,barrichello,Brazilian,brawn,3,2,27,0,2,68,4,1,0.1999999999999886,37
+10083,2009,6,monaco,True,False,False,False,False,vettel,German,red_bull,4,18,23,1,3,0,1,2,0.3999999999999915,21
+10070,2009,6,monaco,True,False,False,False,False,massa,Brazilian,ferrari,5,4,3,0,12,6,0,7,0.5,28
+10072,2009,6,monaco,True,False,False,False,False,rosberg,German,williams,6,6,0,0,10,0,0,8,0.5999999999999943,23
+10081,2009,6,monaco,True,False,False,False,False,kovalainen,Finnish,mclaren,7,16,4,0,11,13,0,4,0.5999999999999943,27
+10071,2009,6,monaco,True,False,False,False,False,webber,Australian,red_bull,8,5,0,0,4,0,1,2,0.7999999999999972,32
+10073,2009,6,monaco,True,False,False,False,False,alonso,Spanish,renault,9,7,9,0,8,9,0,5,1.0999999999999943,27
+10080,2009,6,monaco,True,False,False,False,False,nakajima,Japanese,williams,10,15,0,0,20,0,0,8,2.3999999999999915,24
+10085,2009,6,monaco,True,False,False,False,False,buemi,Swiss,toro_rosso,11,20,3,0,14,4,0,9,0.8999999999999915,20
+10084,2009,6,monaco,True,False,False,False,False,piquet_jr,Brazilian,renault,12,19,0,0,17,9,0,5,0.8999999999999915,23
+10075,2009,6,monaco,True,False,False,False,False,fisichella,Italian,force_india,13,9,0,0,19,0,0,10,1.1999999999999886,36
+10074,2009,6,monaco,True,False,False,False,False,bourdais,French,toro_rosso,14,8,1,0,15,4,0,9,1.3999999999999917,30
+10079,2009,6,monaco,True,False,False,False,False,sutil,German,force_india,15,14,0,0,16,0,0,10,1.5999999999999943,26
+10076,2009,6,monaco,True,False,False,False,False,heidfeld,German,bmw_sauber,16,11,6,0,9,6,0,6,1.3999999999999917,32
+10082,2009,6,monaco,True,False,False,False,False,kubica,Polish,bmw_sauber,17,17,0,0,18,6,0,6,1.5,24
+10078,2009,6,monaco,True,False,False,False,False,trulli,Italian,toyota,18,13,0,0,5,0,0,3,1.5999999999999943,34
+10077,2009,6,monaco,True,False,False,False,False,hamilton,British,mclaren,19,12,9,0,7,13,0,4,1.3999999999999917,24

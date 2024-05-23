@@ -1,0 +1,21 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+8542,2005,4,imola,True,False,False,False,True,raikkonen,Finnish,mclaren,1,16,7,0,8,19,0,3,0.0,25
+8527,2005,4,imola,True,False,False,False,True,alonso,Spanish,renault,2,1,26,2,1,36,3,1,0.5,23
+8545,2005,4,imola,True,False,False,False,True,button,British,bar,3,19,0,0,0,0,0,0,1.1999999999999886,25
+8533,2005,4,imola,True,False,False,False,True,webber,Australian,williams,4,7,7,0,9,13,0,4,1.5999999999999943,28
+8531,2005,4,imola,True,False,False,False,True,trulli,Italian,toyota,5,5,16,0,2,25,0,2,1.5999999999999943,30
+8546,2005,4,imola,True,False,False,False,True,sato,Japanese,bar,6,20,0,0,0,0,0,0,1.799999999999983,28
+8529,2005,4,imola,True,False,False,False,True,wurz,Austrian,mclaren,7,3,0,0,0,19,0,3,1.799999999999983,31
+8532,2005,4,imola,True,False,False,False,True,heidfeld,German,williams,8,6,6,0,10,13,0,4,2.299999999999983,27
+8541,2005,4,imola,True,False,False,False,True,barrichello,Brazilian,ferrari,9,15,8,0,6,10,0,6,2.299999999999983,32
+8535,2005,4,imola,True,False,False,False,True,ralf_schumacher,German,toyota,10,9,9,0,4,25,0,2,2.5,29
+8530,2005,4,imola,True,False,False,False,True,villeneuve,Canadian,sauber,11,4,0,0,16,2,0,7,3.4000000000000057,34
+8544,2005,4,imola,True,False,False,False,True,fisichella,Italian,renault,12,18,10,1,3,36,3,1,3.799999999999983,32
+8528,2005,4,imola,True,False,False,False,True,michael_schumacher,German,ferrari,13,2,2,0,14,10,0,6,4.299999999999983,36
+8537,2005,4,imola,True,False,False,False,True,coulthard,British,red_bull,14,11,9,0,5,12,0,5,5.199999999999989,34
+8534,2005,4,imola,True,False,False,False,True,liuzzi,Italian,red_bull,15,8,0,0,0,12,0,5,5.299999999999983,24
+8538,2005,4,imola,True,False,False,False,True,karthikeyan,Indian,jordan,16,12,0,0,17,0,0,8,9.199999999999989,28
+8539,2005,4,imola,True,False,False,False,True,monteiro,Portuguese,jordan,17,13,0,0,15,0,0,8,11.400000000000006,28
+8536,2005,4,imola,True,False,False,False,True,massa,Brazilian,sauber,18,10,2,0,13,2,0,7,2.0,23
+8543,2005,4,imola,True,False,False,False,True,friesacher,Austrian,minardi,19,17,0,0,18,0,0,9,14.099999999999994,24
+8540,2005,4,imola,True,False,False,False,True,albers,Dutch,minardi,20,14,0,0,19,0,0,9,-77.0,26

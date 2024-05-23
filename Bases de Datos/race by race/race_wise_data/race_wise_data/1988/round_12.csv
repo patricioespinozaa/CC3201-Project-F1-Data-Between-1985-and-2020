@@ -1,0 +1,27 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+2280,1988,12,monza,True,False,False,False,False,senna,Brazilian,mclaren,1,10,75,7,1,147,11,1,0.0,28
+2284,1988,12,monza,True,False,False,False,False,prost,French,mclaren,2,14,72,4,2,147,11,1,0.2999999999999971,33
+2271,1988,12,monza,True,False,False,False,False,berger,Austrian,ferrari,3,1,28,0,3,44,0,2,0.7000000000000028,29
+2272,1988,12,monza,True,False,False,False,False,alboreto,Italian,ferrari,4,2,16,0,6,44,0,2,1.0,31
+2273,1988,12,monza,True,False,False,False,False,cheever,American,arrows,5,3,2,0,14,13,0,6,1.7000000000000028,30
+2274,1988,12,monza,True,False,False,False,False,warwick,British,arrows,6,4,11,0,7,13,0,6,1.7999999999999972,34
+2295,1988,12,monza,True,False,False,False,False,piquet,Brazilian,team_lotus,7,25,18,0,4,19,0,4,2.0,36
+2276,1988,12,monza,True,False,False,False,False,boutsen,Belgian,benetton,8,6,16,0,5,22,0,3,2.9000000000000057,31
+2279,1988,12,monza,True,False,False,False,False,nannini,Italian,benetton,9,9,6,0,10,22,0,3,3.0,29
+2277,1988,12,monza,True,False,False,False,False,patrese,Italian,williams,10,7,2,0,15,8,0,7,3.4000000000000057,34
+2275,1988,12,monza,True,False,False,False,False,capelli,Italian,march,11,5,8,0,8,13,0,5,3.5,25
+2293,1988,12,monza,True,False,False,False,False,satoru_nakajima,Japanese,team_lotus,12,23,1,0,16,19,0,4,3.5,35
+2278,1988,12,monza,True,False,False,False,False,gugelmin,Brazilian,march,13,8,5,0,11,13,0,5,4.0,25
+2292,1988,12,monza,True,False,False,False,False,martini,Italian,minardi,14,22,1,0,17,1,0,10,4.099999999999994,27
+2287,1988,12,monza,True,False,False,False,False,schneider,German,zakspeed,15,17,0,0,29,0,0,18,4.200000000000003,24
+2289,1988,12,monza,True,False,False,False,False,ghinzani,Italian,zakspeed,16,19,0,0,0,0,0,18,4.5,36
+2296,1988,12,monza,True,False,False,False,False,larini,Italian,osella,17,26,0,0,25,0,0,15,4.5,24
+2288,1988,12,monza,True,False,False,False,False,cesaris,Italian,rial,18,18,3,0,13,3,0,9,4.599999999999994,29
+2294,1988,12,monza,True,False,False,False,False,sala,Spanish,minardi,19,24,0,0,27,1,0,10,4.700000000000003,29
+2285,1988,12,monza,True,False,False,False,False,alliot,French,larrousse,20,15,0,0,23,0,0,11,5.0,34
+2290,1988,12,monza,True,False,False,False,False,caffi,Italian,dallara,21,20,0,0,20,0,0,12,5.0,24
+2281,1988,12,monza,True,False,False,False,False,schlesser,French,williams,22,11,0,0,0,8,0,7,5.5,39
+2286,1988,12,monza,True,False,False,False,False,streiff,French,ags,23,16,0,0,26,0,0,16,5.700000000000003,33
+2283,1988,12,monza,True,False,False,False,False,arnoux,French,ligier,24,13,0,0,0,0,0,14,6.0,40
+2291,1988,12,monza,True,False,False,False,False,dalmas,French,larrousse,25,21,0,0,18,0,0,11,6.200000000000003,27
+2282,1988,12,monza,True,False,False,False,False,bailey,British,tyrrell,26,12,0,0,24,5,0,8,6.299999999999997,26

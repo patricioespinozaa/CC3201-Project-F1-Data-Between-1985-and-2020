@@ -1,0 +1,21 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+8507,2005,3,bahrain,False,False,False,False,False,alonso,Spanish,renault,1,1,16,1,1,26,2,1,0.0,23
+8523,2005,3,bahrain,False,False,False,False,False,michael_schumacher,German,ferrari,2,17,2,0,11,10,0,4,0.5,36
+8508,2005,3,bahrain,False,False,False,False,False,trulli,Italian,toyota,3,2,8,0,3,12,0,2,0.799999999999983,30
+8522,2005,3,bahrain,False,False,False,False,False,heidfeld,German,williams,4,16,6,0,7,10,0,5,1.299999999999983,27
+8512,2005,3,bahrain,False,False,False,False,False,webber,Australian,williams,5,6,4,0,9,10,0,5,1.4000000000000057,28
+8510,2005,3,bahrain,False,False,False,False,False,ralf_schumacher,German,toyota,6,4,4,0,8,12,0,2,1.4000000000000057,29
+8526,2005,3,bahrain,False,False,False,False,False,klien,Austrian,red_bull,7,20,3,0,10,11,0,3,1.5,22
+8511,2005,3,bahrain,False,False,False,False,False,rosa,Spanish,mclaren,8,5,0,0,0,9,0,6,1.5,34
+8509,2005,3,bahrain,False,False,False,False,False,raikkonen,Finnish,mclaren,9,3,1,0,12,9,0,6,1.5999999999999943,25
+8524,2005,3,bahrain,False,False,False,False,False,fisichella,Italian,renault,10,18,10,1,2,26,2,1,1.9000000000000057,32
+8520,2005,3,bahrain,False,False,False,False,False,button,British,bar,11,14,0,0,0,0,0,0,2.4000000000000057,25
+8513,2005,3,bahrain,False,False,False,False,False,massa,Brazilian,sauber,12,7,0,0,13,0,0,7,3.299999999999983,23
+8521,2005,3,bahrain,False,False,False,False,False,sato,Japanese,bar,13,15,0,0,0,0,0,0,3.6999999999999886,28
+8514,2005,3,bahrain,False,False,False,False,False,coulthard,British,red_bull,14,8,8,0,5,11,0,3,3.9000000000000057,34
+8517,2005,3,bahrain,False,False,False,False,False,villeneuve,Canadian,sauber,15,11,0,0,17,0,0,7,6.099999999999994,33
+8516,2005,3,bahrain,False,False,False,False,False,monteiro,Portuguese,jordan,16,10,0,0,15,0,0,8,7.5,28
+8525,2005,3,bahrain,False,False,False,False,False,karthikeyan,Indian,jordan,17,19,0,0,14,0,0,8,8.199999999999989,28
+8519,2005,3,bahrain,False,False,False,False,False,albers,Dutch,minardi,18,13,0,0,16,0,0,9,8.5,25
+8518,2005,3,bahrain,False,False,False,False,False,friesacher,Austrian,minardi,19,12,0,0,18,0,0,9,9.400000000000006,24
+8515,2005,3,bahrain,False,False,False,False,False,barrichello,Brazilian,ferrari,20,9,8,0,4,10,0,4,5.799999999999983,32

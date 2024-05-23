@@ -1,0 +1,19 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+9608,2008,1,albert_park,True,False,False,False,False,hamilton,British,mclaren,1,1,0,0,0,0,0,0,0.0,23
+9616,2008,1,albert_park,True,False,False,False,False,kubica,Polish,bmw_sauber,2,9,0,0,0,0,0,0,0.2000000000000028,23
+9612,2008,1,albert_park,True,False,False,False,False,kovalainen,Finnish,mclaren,3,5,0,0,0,0,0,0,0.3999999999999915,26
+9620,2008,1,albert_park,True,False,False,False,False,massa,Brazilian,ferrari,4,13,0,0,0,0,0,0,0.5,26
+9609,2008,1,albert_park,True,False,False,False,False,heidfeld,German,bmw_sauber,5,2,0,0,0,0,0,0,0.5,30
+9622,2008,1,albert_park,True,False,False,False,False,trulli,Italian,toyota,6,15,0,0,0,0,0,0,1.7999999999999972,33
+9610,2008,1,albert_park,True,False,False,False,False,rosberg,German,williams,7,3,0,0,0,0,0,0,2.0,22
+9621,2008,1,albert_park,True,False,False,False,False,coulthard,British,red_bull,8,14,0,0,0,0,0,0,2.299999999999997,36
+9628,2008,1,albert_park,True,False,False,False,False,barrichello,Brazilian,honda,10,22,0,0,0,0,0,0,-0.5,35
+9611,2008,1,albert_park,True,False,False,False,False,alonso,Spanish,renault,11,4,0,0,0,0,0,0,-0.5,26
+9624,2008,1,albert_park,True,False,False,False,False,button,British,honda,12,18,0,0,0,0,0,0,-0.4000000000000057,28
+9613,2008,1,albert_park,True,False,False,False,False,nakajima,Japanese,williams,13,6,0,0,0,0,0,0,-0.2999999999999971,23
+9627,2008,1,albert_park,True,False,False,False,False,fisichella,Italian,force_india,16,21,0,0,0,0,0,0,0.5,35
+9614,2008,1,albert_park,True,False,False,False,False,bourdais,French,toro_rosso,17,7,0,0,0,0,0,0,0.7000000000000028,29
+9617,2008,1,albert_park,True,False,False,False,False,glock,German,toyota,18,10,0,0,0,0,0,0,2.8999999999999915,25
+9618,2008,1,albert_park,True,False,False,False,False,sato,Japanese,super_aguri,19,11,0,0,0,0,0,0,1.5,31
+9619,2008,1,albert_park,True,False,False,False,False,piquet_jr,Brazilian,renault,20,12,0,0,0,0,0,0,1.5999999999999943,22
+9625,2008,1,albert_park,True,False,False,False,False,davidson,British,super_aguri,21,19,0,0,0,0,0,0,2.3999999999999915,28

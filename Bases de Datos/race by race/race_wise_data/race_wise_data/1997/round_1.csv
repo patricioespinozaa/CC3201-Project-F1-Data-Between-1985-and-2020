@@ -1,0 +1,23 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+5640,1997,1,albert_park,False,False,True,False,False,villeneuve,Canadian,williams,1,19,0,0,0,0,0,0,0.0,25
+5629,1997,1,albert_park,False,False,True,False,False,frentzen,German,williams,2,8,0,0,0,0,0,0,1.6999999999999886,29
+5623,1997,1,albert_park,False,False,True,False,False,michael_schumacher,German,ferrari,3,2,0,0,0,0,0,0,2.0999999999999943,28
+5622,1997,1,albert_park,False,False,True,False,False,coulthard,British,mclaren,4,1,0,0,0,0,0,0,2.0999999999999943,25
+5641,1997,1,albert_park,False,False,True,False,False,irvine,British,ferrari,5,20,0,0,0,0,0,0,2.5,31
+5624,1997,1,albert_park,False,False,True,False,False,hakkinen,Finnish,mclaren,6,3,0,0,0,0,0,0,2.5999999999999943,28
+5642,1997,1,albert_park,False,False,True,False,False,herbert,British,sauber,7,21,0,0,0,0,0,0,2.8999999999999915,32
+5635,1997,1,albert_park,False,False,True,False,False,alesi,French,benetton,8,14,0,0,0,0,0,0,3.1999999999999886,32
+5626,1997,1,albert_park,False,False,True,False,False,panis,French,prost,9,5,0,0,0,0,0,0,3.3999999999999915,30
+5625,1997,1,albert_park,False,False,True,False,False,berger,Austrian,benetton,10,4,0,0,0,0,0,0,3.5,37
+5632,1997,1,albert_park,False,False,True,False,False,barrichello,Brazilian,stewart,11,11,0,0,0,0,0,0,3.6999999999999886,24
+5639,1997,1,albert_park,False,False,True,False,False,ralf_schumacher,German,jordan,12,18,0,0,0,0,0,0,3.6999999999999886,21
+5627,1997,1,albert_park,False,False,True,False,False,larini,Italian,sauber,13,6,0,0,0,0,0,0,3.899999999999992,32
+5637,1997,1,albert_park,False,False,True,False,False,fisichella,Italian,jordan,14,16,0,0,0,0,0,0,4.199999999999989,24
+5636,1997,1,albert_park,False,False,True,False,False,katayama,Japanese,minardi,15,15,0,0,0,0,0,0,4.399999999999992,33
+5628,1997,1,albert_park,False,False,True,False,False,nakano,Japanese,prost,16,7,0,0,0,0,0,0,4.599999999999994,25
+5630,1997,1,albert_park,False,False,True,False,False,trulli,Italian,minardi,17,9,0,0,0,0,0,0,4.699999999999989,22
+5633,1997,1,albert_park,False,False,True,False,False,salo,Finnish,tyrrell,18,12,0,0,0,0,0,0,4.799999999999997,30
+5634,1997,1,albert_park,False,False,True,False,False,magnussen,Danish,stewart,19,13,0,0,0,0,0,0,5.199999999999989,23
+5643,1997,1,albert_park,False,False,True,False,False,damon_hill,British,arrows,20,22,0,0,0,0,0,0,5.399999999999992,36
+5638,1997,1,albert_park,False,False,True,False,False,verstappen,Dutch,tyrrell,21,17,0,0,0,0,0,0,5.5,25
+5631,1997,1,albert_park,False,False,True,False,False,diniz,Brazilian,arrows,22,10,0,0,0,0,0,0,6.599999999999994,26

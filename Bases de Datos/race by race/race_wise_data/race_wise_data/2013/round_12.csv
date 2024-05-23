@@ -1,0 +1,23 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+11919,2013,12,monza,False,False,False,False,True,vettel,German,red_bull,1,1,197,5,1,312,5,1,0.0,26
+11921,2013,12,monza,False,False,False,False,True,webber,Australian,red_bull,2,3,115,0,5,312,5,1,0.2000000000000028,37
+11923,2013,12,monza,False,False,False,False,True,hulkenberg,German,sauber,3,5,7,0,15,7,0,8,0.2999999999999971,26
+11922,2013,12,monza,False,False,False,False,True,massa,Brazilian,ferrari,4,4,67,0,7,218,2,3,0.2999999999999971,32
+11920,2013,12,monza,False,False,False,False,True,alonso,Spanish,ferrari,5,2,151,2,2,218,2,3,0.2999999999999971,32
+11924,2013,12,monza,False,False,False,False,True,rosberg,German,mercedes,6,6,96,2,6,235,3,2,0.4000000000000057,28
+11925,2013,12,monza,False,False,False,False,True,ricciardo,Australian,toro_rosso,7,7,12,0,14,25,0,7,0.4000000000000057,24
+11930,2013,12,monza,False,False,False,False,True,perez,Mexican,mclaren,8,12,18,0,12,65,0,5,0.7000000000000028,23
+11928,2013,12,monza,False,False,False,False,True,button,British,mclaren,9,10,47,0,9,65,0,5,0.7000000000000028,33
+11939,2013,12,monza,False,False,False,False,True,vergne,French,toro_rosso,10,21,13,0,13,25,0,7,4.299999999999997,23
+11929,2013,12,monza,False,False,False,False,True,raikkonen,Finnish,lotus_f1,11,11,134,1,4,187,1,4,0.7999999999999972,33
+11927,2013,12,monza,False,False,False,False,True,hamilton,British,mercedes,12,9,139,1,3,235,3,2,1.0,28
+11926,2013,12,monza,False,False,False,False,True,grosjean,French,lotus_f1,13,8,53,0,8,187,1,4,1.0,27
+11932,2013,12,monza,False,False,False,False,True,maldonado,Venezuelan,williams,14,14,1,0,16,1,0,9,1.2000000000000028,28
+11940,2013,12,monza,False,False,False,False,True,resta,British,force_india,15,22,36,0,10,61,0,6,1.2999999999999972,27
+11931,2013,12,monza,False,False,False,False,True,gutierrez,Mexican,sauber,16,13,0,0,18,7,0,8,1.4000000000000057,22
+11934,2013,12,monza,False,False,False,False,True,sutil,German,force_india,17,16,25,0,11,61,0,6,1.1000000000000083,30
+11933,2013,12,monza,False,False,False,False,True,bottas,Finnish,williams,18,15,0,0,17,1,0,9,1.5,24
+11936,2013,12,monza,False,False,False,False,True,garde,Dutch,caterham,19,18,0,0,21,0,0,11,2.6000000000000085,28
+11935,2013,12,monza,False,False,False,False,True,pic,French,caterham,20,17,0,0,20,0,0,11,2.799999999999997,23
+11937,2013,12,monza,False,False,False,False,True,jules_bianchi,French,marussia,21,19,0,0,19,0,0,10,3.299999999999997,24
+11938,2013,12,monza,False,False,False,False,True,chilton,British,marussia,22,20,0,0,22,0,0,10,3.700000000000003,22

@@ -1,0 +1,21 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+8008,2003,12,hockenheimring,True,False,False,False,False,montoya,Colombian,williams,1,1,55,1,3,108,3,2,0.0,27
+8023,2003,12,hockenheimring,True,False,False,False,False,ralf_schumacher,German,williams,2,16,53,2,4,108,3,2,0.0,28
+8025,2003,12,hockenheimring,True,False,False,False,False,barrichello,Brazilian,ferrari,3,18,49,1,5,118,5,1,0.2999999999999971,31
+8010,2003,12,hockenheimring,True,False,False,False,False,trulli,Italian,renault,4,3,16,0,8,55,0,4,0.5,29
+8026,2003,12,hockenheimring,True,False,False,False,False,raikkonen,Finnish,mclaren,5,19,62,1,2,95,2,3,0.7000000000000028,23
+8014,2003,12,hockenheimring,True,False,False,False,False,michael_schumacher,German,ferrari,6,7,69,4,1,118,5,1,0.7000000000000028,34
+8012,2003,12,hockenheimring,True,False,False,False,False,panis,French,toyota,7,5,2,0,15,7,0,9,0.7999999999999972,36
+8011,2003,12,hockenheimring,True,False,False,False,False,alonso,Spanish,renault,8,4,39,0,6,55,0,4,1.2999999999999972,22
+8013,2003,12,hockenheimring,True,False,False,False,False,matta,Brazilian,toyota,9,6,5,0,13,7,0,9,1.2999999999999972,29
+8009,2003,12,hockenheimring,True,False,False,False,False,coulthard,British,mclaren,10,2,33,1,7,95,2,3,1.5,32
+8019,2003,12,hockenheimring,True,False,False,False,False,webber,Australian,jaguar,11,11,12,0,9,12,0,6,1.5999999999999943,26
+8016,2003,12,hockenheimring,True,False,False,False,False,villeneuve,Canadian,bar,13,9,3,0,14,14,0,5,1.8999999999999917,32
+8017,2003,12,hockenheimring,True,False,False,False,False,fisichella,Italian,jordan,13,13,10,1,11,11,1,7,1.8999999999999917,30
+8024,2003,12,hockenheimring,True,False,False,False,False,frentzen,German,sauber,14,17,7,0,12,9,0,8,2.0,36
+8018,2003,12,hockenheimring,True,False,False,False,False,heidfeld,German,sauber,15,10,2,0,16,9,0,8,2.3999999999999915,26
+8022,2003,12,hockenheimring,True,False,False,False,False,wilson,British,jaguar,16,15,0,0,20,12,0,6,2.799999999999997,25
+8015,2003,12,hockenheimring,True,False,False,False,False,button,British,bar,17,8,11,0,10,14,0,5,2.8999999999999915,23
+8027,2003,12,hockenheimring,True,False,False,False,False,firman,Irish,jordan,18,20,1,0,17,11,1,7,3.0999999999999943,28
+8021,2003,12,hockenheimring,True,False,False,False,False,verstappen,Dutch,minardi,19,14,0,0,19,0,0,10,3.799999999999997,31
+8020,2003,12,hockenheimring,True,False,False,False,False,kiesa,Danish,minardi,20,12,0,0,0,0,0,10,4.0,25

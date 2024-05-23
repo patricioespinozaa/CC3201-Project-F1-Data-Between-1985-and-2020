@@ -1,0 +1,23 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+9647,2008,2,sepang,False,False,False,False,True,massa,Brazilian,ferrari,1,19,0,0,0,1,0,6,0.0,26
+9629,2008,2,sepang,False,False,False,False,True,raikkonen,Finnish,ferrari,2,1,1,0,8,1,0,6,0.5,28
+9632,2008,2,sepang,False,False,False,False,True,trulli,Italian,toyota,3,4,0,0,0,0,0,0,1.0,33
+9630,2008,2,sepang,False,False,False,False,True,kubica,Polish,bmw_sauber,4,2,0,0,0,8,0,3,1.0,23
+9634,2008,2,sepang,False,False,False,False,True,heidfeld,German,bmw_sauber,5,6,8,0,2,8,0,3,1.0999999999999943,30
+9635,2008,2,sepang,False,False,False,False,True,webber,Australian,red_bull,6,7,0,0,0,0,0,0,1.2999999999999972,31
+9636,2008,2,sepang,False,False,False,False,True,alonso,Spanish,renault,7,8,5,0,4,5,0,4,2.799999999999997,26
+9631,2008,2,sepang,False,False,False,False,True,kovalainen,Finnish,mclaren,8,3,4,0,5,14,1,1,0.8999999999999915,26
+9633,2008,2,sepang,False,False,False,False,True,hamilton,British,mclaren,9,5,10,1,1,14,1,1,1.0,23
+9649,2008,2,sepang,False,False,False,False,True,glock,German,toyota,10,21,0,0,0,0,0,0,4.0,26
+9638,2008,2,sepang,False,False,False,False,True,button,British,honda,11,10,0,0,0,0,0,0,-0.5,28
+9637,2008,2,sepang,False,False,False,False,True,coulthard,British,red_bull,12,9,0,0,0,0,0,0,-0.2999999999999971,36
+9639,2008,2,sepang,False,False,False,False,True,piquet_jr,Brazilian,renault,13,11,0,0,0,5,0,4,-0.1000000000000085,22
+9641,2008,2,sepang,False,False,False,False,True,barrichello,Brazilian,honda,14,13,0,0,0,0,0,0,-0.1000000000000085,35
+9646,2008,2,sepang,False,False,False,False,True,vettel,German,toro_rosso,15,18,0,0,0,2,0,5,-0.1000000000000085,20
+9642,2008,2,sepang,False,False,False,False,True,rosberg,German,williams,16,14,6,0,3,9,0,2,0.0,22
+9640,2008,2,sepang,False,False,False,False,True,fisichella,Italian,force_india,17,12,0,0,0,0,0,0,0.5,35
+9650,2008,2,sepang,False,False,False,False,True,bourdais,French,toro_rosso,18,22,2,0,7,2,0,5,1.0,29
+9644,2008,2,sepang,False,False,False,False,True,sato,Japanese,super_aguri,19,16,0,0,0,0,0,0,1.3999999999999917,31
+9648,2008,2,sepang,False,False,False,False,True,sutil,German,force_india,20,20,0,0,0,0,0,0,1.3999999999999917,25
+9643,2008,2,sepang,False,False,False,False,True,davidson,British,super_aguri,21,15,0,0,0,0,0,0,1.7999999999999972,28
+9645,2008,2,sepang,False,False,False,False,True,nakajima,Japanese,williams,22,17,3,0,6,9,0,2,0.7000000000000028,23

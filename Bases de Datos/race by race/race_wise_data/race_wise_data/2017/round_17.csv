@@ -1,0 +1,20 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+13632,2017,17,americas,True,False,False,False,False,hamilton,British,mercedes,1,1,306,8,1,540,10,1,0.0,32
+13633,2017,17,americas,True,False,False,False,False,vettel,German,ferrari,2,2,247,4,2,395,4,2,0.2000000000000028,30
+13636,2017,17,americas,True,False,False,False,False,bottas,Finnish,mercedes,3,5,234,2,3,540,10,1,0.5,28
+13649,2017,17,americas,True,False,False,False,False,ricciardo,Australian,red_bull,4,18,192,1,4,303,2,3,0.5,28
+13634,2017,17,americas,True,False,False,False,False,raikkonen,Finnish,ferrari,5,3,148,0,5,395,4,2,0.5,38
+13637,2017,17,americas,True,False,False,False,False,ocon,French,force_india,6,6,65,0,8,147,0,4,1.5,21
+13638,2017,17,americas,True,False,False,False,False,sainz,Spanish,renault,7,7,48,0,9,42,0,8,1.8000000000000114,23
+13648,2017,17,americas,True,False,False,False,False,alonso,Spanish,mclaren,8,17,10,0,16,23,0,9,1.9000000000000057,36
+13639,2017,17,americas,True,False,False,False,False,perez,Mexican,force_india,9,8,82,0,7,147,0,4,2.0,27
+13640,2017,17,americas,True,False,False,False,False,massa,Brazilian,williams,10,9,34,0,11,66,0,5,2.1000000000000085,36
+13641,2017,17,americas,True,False,False,False,False,kvyat,Russian,toro_rosso,11,10,4,0,19,52,0,6,2.4000000000000057,23
+13645,2017,17,americas,True,False,False,False,False,grosjean,French,haas,12,14,28,0,13,43,0,7,2.800000000000012,31
+13646,2017,17,americas,True,False,False,False,False,ericsson,Swedish,sauber,13,15,0,0,20,5,0,10,3.700000000000003,27
+13650,2017,17,americas,True,False,False,False,False,wehrlein,German,sauber,14,19,5,0,18,5,0,10,4.1000000000000085,23
+13642,2017,17,americas,True,False,False,False,False,stroll,Canadian,williams,15,11,32,0,12,66,0,5,3.8000000000000114,18
+13635,2017,17,americas,True,False,False,False,False,max_verstappen,Dutch,red_bull,16,4,111,1,6,303,2,3,0.6000000000000085,20
+13647,2017,17,americas,True,False,False,False,False,kevin_magnussen,Danish,haas,17,16,15,0,14,43,0,7,4.300000000000011,25
+13644,2017,17,americas,True,False,False,False,False,brendon_hartley,New Zealander,toro_rosso,19,13,0,0,0,52,0,6,3.8000000000000114,27
+13643,2017,17,americas,True,False,False,False,False,vandoorne,Belgian,mclaren,20,12,13,0,15,23,0,9,2.5,25

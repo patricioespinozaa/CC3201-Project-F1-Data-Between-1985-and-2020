@@ -1,0 +1,21 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+10007,2009,3,shanghai,False,False,False,True,False,vettel,German,red_bull,1,1,0,0,16,0,0,7,0.0,21
+10015,2009,3,shanghai,False,False,False,True,False,alonso,Spanish,renault,2,9,4,0,6,4,0,4,0.2000000000000028,27
+10008,2009,3,shanghai,False,False,False,True,False,webber,Australian,red_bull,3,2,0,0,9,0,0,7,0.2999999999999971,32
+10010,2009,3,shanghai,False,False,False,True,False,barrichello,Brazilian,brawn,4,4,10,0,2,25,2,1,0.2999999999999971,36
+10009,2009,3,shanghai,False,False,False,True,False,button,British,brawn,5,3,15,2,1,25,2,1,0.2999999999999971,29
+10026,2009,3,shanghai,False,False,False,True,False,trulli,Italian,toyota,6,20,0,0,3,0,0,2,0.5999999999999943,34
+10021,2009,3,shanghai,False,False,False,True,False,rosberg,German,williams,7,15,0,0,7,0,0,5,1.2000000000000028,23
+10016,2009,3,shanghai,False,False,False,True,False,raikkonen,Finnish,ferrari,8,10,0,0,18,0,0,10,1.8999999999999917,29
+10012,2009,3,shanghai,False,False,False,True,False,hamilton,British,mclaren,9,6,1,0,10,1,0,8,2.3999999999999915,24
+10014,2009,3,shanghai,False,False,False,True,False,buemi,Swiss,toro_rosso,10,8,2,0,8,3,0,6,3.0999999999999943,20
+10018,2009,3,shanghai,False,False,False,True,False,heidfeld,German,bmw_sauber,11,12,4,0,5,4,0,3,-0.2000000000000028,31
+10011,2009,3,shanghai,False,False,False,True,False,kovalainen,Finnish,mclaren,12,5,0,0,20,1,0,8,-0.2000000000000028,27
+10025,2009,3,shanghai,False,False,False,True,False,massa,Brazilian,ferrari,13,19,0,0,13,0,0,10,-0.2000000000000028,27
+10024,2009,3,shanghai,False,False,False,True,False,nakajima,Japanese,williams,14,18,0,0,15,0,0,5,0.0,24
+10017,2009,3,shanghai,False,False,False,True,False,bourdais,French,toro_rosso,15,11,1,0,11,3,0,6,0.7000000000000028,30
+10022,2009,3,shanghai,False,False,False,True,False,piquet_jr,Brazilian,renault,16,16,0,0,17,4,0,4,0.7000000000000028,23
+10019,2009,3,shanghai,False,False,False,True,False,kubica,Polish,bmw_sauber,17,13,0,0,19,4,0,3,0.7999999999999972,24
+10023,2009,3,shanghai,False,False,False,True,False,sutil,German,force_india,18,17,0,0,12,0,0,9,1.5,26
+10013,2009,3,shanghai,False,False,False,True,False,glock,German,toyota,19,7,8,0,4,0,0,2,-0.1000000000000085,27
+10020,2009,3,shanghai,False,False,False,True,False,fisichella,Italian,force_india,20,14,0,0,14,0,0,9,1.5,36

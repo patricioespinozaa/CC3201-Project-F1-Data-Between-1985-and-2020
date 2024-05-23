@@ -1,0 +1,20 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+13336,2017,2,shanghai,False,False,False,True,False,hamilton,British,mercedes,1,1,18,0,2,33,0,2,0.0,32
+13337,2017,2,shanghai,False,False,False,True,False,vettel,German,ferrari,2,2,25,1,1,37,1,1,0.2000000000000028,29
+13341,2017,2,shanghai,False,False,False,True,False,bottas,Finnish,mercedes,3,6,15,0,3,33,0,2,0.2000000000000028,27
+13340,2017,2,shanghai,False,False,False,True,False,raikkonen,Finnish,ferrari,4,5,12,0,4,37,1,1,0.3999999999999915,37
+13339,2017,2,shanghai,False,False,False,True,False,ricciardo,Australian,red_bull,5,4,0,0,17,10,0,3,1.2999999999999972,27
+13349,2017,2,shanghai,False,False,False,True,False,massa,Brazilian,williams,6,14,8,0,6,8,0,4,1.7999999999999972,35
+13347,2017,2,shanghai,False,False,False,True,False,hulkenberg,German,renault,7,12,0,0,11,0,0,7,1.8999999999999917,29
+13344,2017,2,shanghai,False,False,False,True,False,perez,Mexican,force_india,8,9,6,0,7,7,0,5,2.0,27
+13352,2017,2,shanghai,False,False,False,True,False,kvyat,Russian,toro_rosso,9,17,2,0,9,6,0,6,2.0,22
+13355,2017,2,shanghai,False,False,False,True,False,stroll,Canadian,williams,10,20,0,0,16,8,0,4,2.5,18
+13342,2017,2,shanghai,False,False,False,True,False,sainz,Spanish,toro_rosso,11,7,4,0,8,6,0,6,2.5,22
+13343,2017,2,shanghai,False,False,False,True,False,kevin_magnussen,Danish,haas,12,8,0,0,15,0,0,10,2.5,24
+13351,2017,2,shanghai,False,False,False,True,False,alonso,Spanish,mclaren,13,16,0,0,14,0,0,9,2.700000000000003,35
+13350,2017,2,shanghai,False,False,False,True,False,ericsson,Swedish,sauber,14,15,0,0,18,0,0,8,3.299999999999997,26
+13353,2017,2,shanghai,False,False,False,True,False,vandoorne,Belgian,mclaren,15,18,0,0,13,0,0,9,3.299999999999997,25
+13338,2017,2,shanghai,False,False,False,True,False,max_verstappen,Dutch,red_bull,16,3,10,0,5,10,0,3,3.700000000000003,19
+13345,2017,2,shanghai,False,False,False,True,False,ocon,French,force_india,17,10,1,0,10,7,0,5,3.799999999999997,20
+13346,2017,2,shanghai,False,False,False,True,False,grosjean,French,haas,19,11,0,0,20,0,0,10,3.5,30
+13348,2017,2,shanghai,False,False,False,True,False,jolyon_palmer,British,renault,20,13,0,0,19,0,0,7,3.5999999999999943,26

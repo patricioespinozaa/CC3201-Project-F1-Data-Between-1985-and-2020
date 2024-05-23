@@ -1,0 +1,19 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+8169,2004,4,imola,False,False,False,False,False,button,British,bar,1,2,15,0,3,19,0,4,0.0,24
+8168,2004,4,imola,False,False,False,False,False,michael_schumacher,German,ferrari,2,1,30,3,1,51,3,1,0.2000000000000028,35
+8170,2004,4,imola,False,False,False,False,False,montoya,Colombian,williams,3,3,12,0,4,19,0,3,0.4000000000000057,28
+8173,2004,4,imola,False,False,False,False,False,barrichello,Brazilian,ferrari,4,6,21,0,2,51,3,1,0.7000000000000028,31
+8174,2004,4,imola,False,False,False,False,False,ralf_schumacher,German,williams,5,7,7,0,7,19,0,3,0.7000000000000028,28
+8171,2004,4,imola,False,False,False,False,False,alonso,Spanish,renault,6,4,11,0,5,22,0,2,1.1000000000000083,22
+8183,2004,4,imola,False,False,False,False,False,sato,Japanese,bar,7,16,4,0,8,19,0,4,1.1000000000000083,27
+8180,2004,4,imola,False,False,False,False,False,webber,Australian,jaguar,8,13,1,0,11,1,0,7,1.1000000000000083,27
+8172,2004,4,imola,False,False,False,False,False,trulli,Italian,renault,9,5,11,0,6,22,0,2,1.2000000000000028,29
+8185,2004,4,imola,False,False,False,False,False,matta,Brazilian,toyota,10,18,0,0,12,0,0,8,1.2999999999999972,30
+8179,2004,4,imola,False,False,False,False,False,coulthard,British,mclaren,11,12,4,0,9,4,0,5,1.2999999999999972,33
+8177,2004,4,imola,False,False,False,False,False,massa,Brazilian,sauber,12,10,1,0,10,1,0,6,1.7000000000000028,23
+8178,2004,4,imola,False,False,False,False,False,panis,French,toyota,13,11,0,0,13,0,0,8,1.7999999999999972,37
+8181,2004,4,imola,False,False,False,False,False,klien,Austrian,jaguar,14,14,0,0,15,1,0,7,2.1000000000000085,21
+8187,2004,4,imola,False,False,False,False,False,pantano,Italian,jordan,15,20,0,0,16,0,0,9,3.6000000000000085,25
+8184,2004,4,imola,False,False,False,False,False,heidfeld,German,jordan,16,17,0,0,18,0,0,9,3.700000000000003,26
+8186,2004,4,imola,False,False,False,False,False,bruni,Italian,minardi,17,19,0,0,17,0,0,10,7.1000000000000085,22
+8182,2004,4,imola,False,False,False,False,False,baumgartner,Hungarian,minardi,19,15,0,0,19,0,0,10,26.5,23

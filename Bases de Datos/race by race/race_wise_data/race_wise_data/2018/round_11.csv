@@ -1,0 +1,21 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+13925,2018,11,hockenheimring,False,False,False,True,True,vettel,German,ferrari,1,18,171,4,1,287,4,1,0.0,31
+13909,2018,11,hockenheimring,False,False,False,True,True,bottas,Finnish,mercedes,2,2,104,0,5,267,3,2,0.2000000000000028,28
+13910,2018,11,hockenheimring,False,False,False,True,True,raikkonen,Finnish,ferrari,3,3,116,0,3,287,4,1,0.2999999999999971,38
+13911,2018,11,hockenheimring,False,False,False,True,True,max_verstappen,Dutch,red_bull,4,4,93,1,6,199,3,3,0.5999999999999943,20
+13918,2018,11,hockenheimring,False,False,False,True,True,kevin_magnussen,Danish,haas,5,11,39,0,9,51,0,5,1.0,25
+13913,2018,11,hockenheimring,False,False,False,True,True,grosjean,French,haas,6,6,12,0,15,51,0,5,1.2999999999999972,32
+13912,2018,11,hockenheimring,False,False,False,True,True,hulkenberg,German,renault,7,5,42,0,7,70,0,4,1.3999999999999917,30
+13919,2018,11,hockenheimring,False,False,False,True,True,sainz,Spanish,renault,8,12,28,0,10,70,0,4,1.5,23
+13922,2018,11,hockenheimring,False,False,False,True,True,leclerc,Monegasque,sauber,9,15,13,0,14,16,0,9,1.5,20
+13914,2018,11,hockenheimring,False,False,False,True,True,perez,Mexican,force_india,10,7,24,0,12,49,0,6,1.5999999999999943,28
+13923,2018,11,hockenheimring,False,False,False,True,True,alonso,Spanish,mclaren,11,16,40,0,8,48,0,7,2.5,36
+13926,2018,11,hockenheimring,False,False,False,True,True,sirotkin,Russian,williams,12,19,0,0,20,4,0,10,2.5,22
+13916,2018,11,hockenheimring,False,False,False,True,True,ericsson,Swedish,sauber,13,9,3,0,18,16,0,9,2.5,27
+13908,2018,11,hockenheimring,False,False,False,True,True,hamilton,British,mercedes,14,1,163,3,2,267,3,2,1.7999999999999972,33
+13915,2018,11,hockenheimring,False,False,False,True,True,ocon,French,force_india,15,8,25,0,11,49,0,6,2.5,21
+13921,2018,11,hockenheimring,False,False,False,True,True,gasly,French,toro_rosso,16,14,18,0,13,19,0,8,2.799999999999997,22
+13917,2018,11,hockenheimring,False,False,False,True,True,brendon_hartley,New Zealander,toro_rosso,17,10,1,0,19,19,0,8,3.0,28
+13924,2018,11,hockenheimring,False,False,False,True,True,stroll,Canadian,williams,18,17,4,0,17,4,0,10,3.200000000000003,19
+13920,2018,11,hockenheimring,False,False,False,True,True,vandoorne,Belgian,mclaren,19,13,8,0,16,48,0,7,2.0999999999999943,26
+13927,2018,11,hockenheimring,False,False,False,True,True,ricciardo,Australian,red_bull,20,20,106,2,4,199,3,3,2.5,29

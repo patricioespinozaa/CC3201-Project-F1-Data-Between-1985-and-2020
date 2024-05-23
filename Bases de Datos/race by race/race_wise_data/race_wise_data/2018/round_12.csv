@@ -1,0 +1,20 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+13928,2018,12,hungaroring,False,False,False,False,False,hamilton,British,mercedes,1,1,188,4,1,310,4,1,0.0,33
+13932,2018,12,hungaroring,False,False,False,False,False,bottas,Finnish,mercedes,2,5,122,0,4,310,4,1,0.2000000000000028,28
+13930,2018,12,hungaroring,False,False,False,False,False,raikkonen,Finnish,ferrari,3,3,131,0,3,302,4,2,0.5,38
+13929,2018,12,hungaroring,False,False,False,False,False,vettel,German,ferrari,4,2,171,4,2,302,4,2,0.5,31
+13936,2018,12,hungaroring,False,False,False,False,False,sainz,Spanish,renault,5,9,28,0,12,80,0,4,1.0,23
+13933,2018,12,hungaroring,False,False,False,False,False,gasly,French,toro_rosso,6,6,18,0,14,20,0,8,1.8999999999999917,22
+13946,2018,12,hungaroring,False,False,False,False,False,max_verstappen,Dutch,red_bull,7,19,105,1,6,211,3,3,2.299999999999997,20
+13938,2018,12,hungaroring,False,False,False,False,False,brendon_hartley,New Zealander,toro_rosso,8,11,2,0,19,20,0,8,2.3999999999999915,28
+13934,2018,12,hungaroring,False,False,False,False,False,kevin_magnussen,Danish,haas,9,7,39,0,9,59,0,6,4.200000000000003,25
+13937,2018,12,hungaroring,False,False,False,False,False,grosjean,French,haas,10,10,20,0,13,59,0,6,4.899999999999992,32
+13935,2018,12,hungaroring,False,False,False,False,False,alonso,Spanish,mclaren,11,8,40,0,8,48,0,7,-0.5,37
+13931,2018,12,hungaroring,False,False,False,False,False,ricciardo,Australian,red_bull,12,4,106,2,5,211,3,3,0.7000000000000028,29
+13939,2018,12,hungaroring,False,False,False,False,False,hulkenberg,German,renault,13,12,52,0,7,80,0,4,0.7999999999999972,30
+13942,2018,12,hungaroring,False,False,False,False,False,ericsson,Swedish,sauber,14,15,5,0,17,18,0,9,1.3999999999999917,27
+13944,2018,12,hungaroring,False,False,False,False,False,stroll,Canadian,williams,15,17,4,0,18,4,0,10,-16.900000000000006,19
+13945,2018,12,hungaroring,False,False,False,False,False,vandoorne,Belgian,mclaren,16,18,8,0,16,48,0,7,-16.900000000000006,26
+13947,2018,12,hungaroring,False,False,False,False,False,leclerc,Monegasque,sauber,17,20,13,0,15,18,0,9,-16.60000000000001,20
+13940,2018,12,hungaroring,False,False,False,False,False,ocon,French,force_india,18,13,29,0,11,59,0,5,-16.5,21
+13941,2018,12,hungaroring,False,False,False,False,False,perez,Mexican,force_india,19,14,30,0,10,59,0,5,-16.400000000000006,28

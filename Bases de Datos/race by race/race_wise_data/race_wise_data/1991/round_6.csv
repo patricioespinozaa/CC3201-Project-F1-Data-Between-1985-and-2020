@@ -1,0 +1,27 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+3360,1991,6,rodriguez,False,False,False,False,False,patrese,Italian,williams,1,1,10,0,4,17,0,3,0.0,37
+3361,1991,6,rodriguez,False,False,False,False,False,mansell,British,williams,2,2,7,0,7,17,0,3,0.2999999999999971,37
+3362,1991,6,rodriguez,False,False,False,False,False,senna,Brazilian,mclaren,3,3,40,4,1,50,4,1,0.5999999999999943,31
+3376,1991,6,rodriguez,False,False,False,False,False,alesi,French,ferrari,4,17,5,0,8,16,0,4,1.3999999999999917,27
+3384,1991,6,rodriguez,False,False,False,False,False,berger,Austrian,mclaren,5,25,10,0,5,50,4,1,1.5,31
+3375,1991,6,rodriguez,False,False,False,False,False,piquet,Brazilian,benetton,6,16,16,1,2,19,1,2,1.5,38
+3381,1991,6,rodriguez,False,False,False,False,False,prost,French,ferrari,7,22,11,0,3,16,0,4,1.5,36
+3370,1991,6,rodriguez,False,False,False,False,False,modena,Italian,tyrrell,8,11,9,0,6,11,0,5,1.5,28
+3364,1991,6,rodriguez,False,False,False,False,False,moreno,Brazilian,benetton,9,5,3,0,11,19,1,2,1.7000000000000028,32
+3367,1991,6,rodriguez,False,False,False,False,False,boutsen,Belgian,ligier,10,8,0,0,19,0,0,11,1.7999999999999972,33
+3363,1991,6,rodriguez,False,False,False,False,False,cesaris,Italian,jordan,11,4,3,0,12,5,0,7,2.200000000000003,32
+3372,1991,6,rodriguez,False,False,False,False,False,blundell,British,brabham,12,13,0,0,23,0,0,13,2.3999999999999915,25
+3371,1991,6,rodriguez,False,False,False,False,False,satoru_nakajima,Japanese,tyrrell,13,12,2,0,15,11,0,5,2.3999999999999915,38
+3366,1991,6,rodriguez,False,False,False,False,False,morbidelli,Italian,minardi,14,7,0,0,22,3,0,8,2.5,23
+3385,1991,6,rodriguez,False,False,False,False,False,martini,Italian,minardi,15,26,3,0,10,3,0,8,2.5,30
+3377,1991,6,rodriguez,False,False,False,False,False,lehto,Finnish,dallara,16,18,4,0,9,5,0,6,2.5999999999999943,25
+3379,1991,6,rodriguez,False,False,False,False,False,brundle,British,brabham,17,20,0,0,27,0,0,13,2.8999999999999915,32
+3382,1991,6,rodriguez,False,False,False,False,False,gugelmin,Brazilian,leyton,18,23,0,0,28,0,0,16,3.0999999999999943,28
+3374,1991,6,rodriguez,False,False,False,False,False,suzuki,Japanese,lola,19,15,1,0,17,0,0,15,3.299999999999997,30
+3373,1991,6,rodriguez,False,False,False,False,False,gachot,Belgian,jordan,20,14,2,0,13,5,0,7,3.299999999999997,28
+3383,1991,6,rodriguez,False,False,False,False,False,grouillard,French,fondmetal,21,24,0,0,0,0,0,18,3.5,32
+3380,1991,6,rodriguez,False,False,False,False,False,capelli,Italian,leyton,22,21,0,0,0,0,0,16,3.5999999999999943,28
+3365,1991,6,rodriguez,False,False,False,False,False,bernard,French,lola,23,6,0,0,25,0,0,15,3.5999999999999943,26
+3368,1991,6,rodriguez,False,False,False,False,False,hakkinen,Finnish,team_lotus,24,9,2,0,14,3,0,9,4.099999999999994,22
+3369,1991,6,rodriguez,False,False,False,False,False,herbert,British,team_lotus,25,10,0,0,0,3,0,9,4.099999999999994,26
+3378,1991,6,rodriguez,False,False,False,False,False,alboreto,Italian,footwork,26,19,0,0,0,0,0,17,4.5,34

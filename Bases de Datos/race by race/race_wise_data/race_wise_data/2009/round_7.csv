@@ -1,0 +1,21 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+10088,2009,7,istanbul,True,False,False,False,False,vettel,German,red_bull,1,3,23,1,3,0,1,2,0.0,21
+10086,2009,7,istanbul,True,False,False,False,False,button,British,brawn,2,1,51,5,1,86,5,1,0.1000000000000085,29
+10104,2009,7,istanbul,True,False,False,False,False,barrichello,Brazilian,brawn,3,19,35,0,2,86,5,1,0.2999999999999971,37
+10087,2009,7,istanbul,True,False,False,False,False,webber,Australian,red_bull,4,2,0,0,4,0,1,2,0.2999999999999971,32
+10089,2009,7,istanbul,True,False,False,False,False,trulli,Italian,toyota,5,4,0,0,5,0,0,3,0.4000000000000057,34
+10094,2009,7,istanbul,True,False,False,False,False,raikkonen,Finnish,ferrari,6,9,9,0,8,17,0,4,0.5,29
+10091,2009,7,istanbul,True,False,False,False,False,massa,Brazilian,ferrari,7,6,8,0,10,17,0,4,0.6000000000000085,28
+10095,2009,7,istanbul,True,False,False,False,False,alonso,Spanish,renault,8,10,11,0,7,11,0,6,0.7999999999999972,27
+10090,2009,7,istanbul,True,False,False,False,False,rosberg,German,williams,9,5,0,0,11,0,0,7,0.9000000000000057,23
+10092,2009,7,istanbul,True,False,False,False,False,kubica,Polish,bmw_sauber,10,7,0,0,19,6,0,8,1.1000000000000083,24
+10096,2009,7,istanbul,True,False,False,False,False,heidfeld,German,bmw_sauber,11,11,6,0,12,6,0,8,-0.7999999999999972,32
+10097,2009,7,istanbul,True,False,False,False,False,nakajima,Japanese,williams,12,12,0,0,20,0,0,7,-0.7000000000000028,24
+10093,2009,7,istanbul,True,False,False,False,False,glock,German,toyota,13,8,12,0,6,0,0,3,-0.5,27
+10099,2009,7,istanbul,True,False,False,False,False,kovalainen,Finnish,mclaren,14,14,4,0,13,13,0,5,-0.0999999999999943,27
+10102,2009,7,istanbul,True,False,False,False,False,sutil,German,force_india,15,17,0,0,17,0,0,10,0.1000000000000085,26
+10098,2009,7,istanbul,True,False,False,False,False,hamilton,British,mclaren,16,13,9,0,9,13,0,5,0.0,24
+10101,2009,7,istanbul,True,False,False,False,False,piquet_jr,Brazilian,renault,17,16,0,0,18,11,0,6,0.2999999999999971,23
+10100,2009,7,istanbul,True,False,False,False,False,buemi,Swiss,toro_rosso,18,15,3,0,14,5,0,9,0.4000000000000057,20
+10105,2009,7,istanbul,True,False,False,False,False,fisichella,Italian,force_india,19,20,0,0,16,0,0,10,0.4000000000000057,36
+10103,2009,7,istanbul,True,False,False,False,False,bourdais,French,toro_rosso,20,18,2,0,15,5,0,9,0.6000000000000085,30

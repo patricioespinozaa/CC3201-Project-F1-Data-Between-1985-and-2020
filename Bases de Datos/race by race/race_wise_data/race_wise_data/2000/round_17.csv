@@ -1,0 +1,23 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+7041,2000,17,sepang,False,False,True,False,False,michael_schumacher,German,ferrari,1,1,98,8,1,156,9,1,0.0,31
+7044,2000,17,sepang,False,False,True,False,False,hakkinen,Finnish,mclaren,2,4,86,4,2,153,7,2,0.5,32
+7042,2000,17,sepang,False,False,True,False,False,coulthard,British,mclaren,3,2,67,3,3,153,7,2,0.5,29
+7043,2000,17,sepang,False,False,True,False,False,barrichello,Brazilian,ferrari,4,3,58,1,4,156,9,1,0.5,28
+7047,2000,17,sepang,False,False,True,False,False,wurz,Austrian,benetton,5,7,2,0,15,20,0,4,1.1999999999999886,26
+7045,2000,17,sepang,False,False,True,False,False,villeneuve,Canadian,bar,6,5,15,0,7,18,0,5,1.2999999999999972,29
+7046,2000,17,sepang,False,False,True,False,False,irvine,British,jaguar,7,6,3,0,13,3,0,9,1.2999999999999972,34
+7056,2000,17,sepang,False,False,True,False,False,ralf_schumacher,German,williams,8,16,24,0,5,36,0,3,1.2999999999999972,25
+7052,2000,17,sepang,False,False,True,False,False,trulli,Italian,jordan,9,12,6,0,10,17,0,6,1.5,26
+7059,2000,17,sepang,False,False,True,False,False,frentzen,German,jordan,10,19,11,0,9,17,0,6,1.5999999999999943,33
+7055,2000,17,sepang,False,False,True,False,False,zonta,Brazilian,bar,11,15,3,0,14,18,0,5,1.7999999999999972,24
+7054,2000,17,sepang,False,False,True,False,False,herbert,British,jaguar,12,14,0,0,17,3,0,9,1.8999999999999917,36
+7049,2000,17,sepang,False,False,True,False,False,fisichella,Italian,benetton,13,9,18,0,6,20,0,4,2.0,27
+7060,2000,17,sepang,False,False,True,False,False,rosa,Spanish,arrows,14,20,2,0,16,7,0,7,2.0,29
+7050,2000,17,sepang,False,False,True,False,False,verstappen,Dutch,arrows,15,10,5,0,12,7,0,7,2.0999999999999943,28
+7058,2000,17,sepang,False,False,True,False,False,button,British,williams,16,18,12,0,8,36,0,3,2.1999999999999886,20
+7048,2000,17,sepang,False,False,True,False,False,salo,Finnish,sauber,17,8,6,0,11,6,0,8,2.1999999999999886,33
+7051,2000,17,sepang,False,False,True,False,False,alesi,French,prost,18,11,0,0,22,0,0,11,2.6999999999999886,36
+7061,2000,17,sepang,False,False,True,False,False,heidfeld,German,prost,19,21,0,0,20,0,0,11,2.6999999999999886,23
+7062,2000,17,sepang,False,False,True,False,False,diniz,Brazilian,sauber,20,22,0,0,18,6,0,8,3.0999999999999943,30
+7057,2000,17,sepang,False,False,True,False,False,gene,Spanish,minardi,21,17,0,0,19,0,0,10,3.299999999999997,26
+7053,2000,17,sepang,False,False,True,False,False,mazzacane,Argentine,minardi,22,13,0,0,21,0,0,10,4.699999999999989,25

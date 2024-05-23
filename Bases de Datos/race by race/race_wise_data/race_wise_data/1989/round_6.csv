@@ -1,0 +1,27 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+2551,1989,6,villeneuve,False,True,False,True,False,prost,French,mclaren,1,21,29,1,1,56,4,1,0.0,34
+2537,1989,6,villeneuve,False,True,False,True,False,senna,Brazilian,mclaren,2,7,27,3,2,56,4,1,0.0,29
+2532,1989,6,villeneuve,False,True,False,True,False,patrese,Italian,williams,3,2,12,0,3,16,0,2,0.7999999999999972,35
+2548,1989,6,villeneuve,False,True,False,True,False,berger,Austrian,ferrari,4,18,0,0,26,9,1,4,0.9000000000000057,29
+2552,1989,6,villeneuve,False,True,False,True,False,mansell,British,ferrari,5,22,9,1,4,9,1,4,1.2000000000000028,35
+2531,1989,6,villeneuve,False,True,False,True,False,boutsen,Belgian,williams,6,1,4,0,11,16,0,2,1.2999999999999972,31
+2553,1989,6,villeneuve,False,True,False,True,False,modena,Italian,brabham,7,23,4,0,9,5,0,7,1.5999999999999943,26
+2536,1989,6,villeneuve,False,True,False,True,False,caffi,Italian,dallara,8,6,3,0,13,3,0,9,1.9000000000000057,25
+2533,1989,6,villeneuve,False,True,False,True,False,cesaris,Italian,dallara,9,3,0,0,19,3,0,9,2.0999999999999943,30
+2544,1989,6,villeneuve,False,True,False,True,False,alliot,French,larrousse,10,14,0,0,24,0,0,14,2.0999999999999943,34
+2554,1989,6,villeneuve,False,True,False,True,False,martini,Italian,minardi,11,24,0,0,29,0,0,17,2.299999999999997,28
+2540,1989,6,villeneuve,False,True,False,True,False,warwick,British,arrows,12,10,4,0,12,8,0,5,2.299999999999997,34
+2555,1989,6,villeneuve,False,True,False,True,False,nannini,Italian,benetton,13,25,8,0,5,13,0,3,2.5,29
+2541,1989,6,villeneuve,False,True,False,True,False,palmer,British,tyrrell,14,11,1,0,16,7,0,6,2.700000000000003,32
+2542,1989,6,villeneuve,False,True,False,True,False,larini,Italian,osella,15,12,0,0,25,0,0,15,2.799999999999997,25
+2550,1989,6,villeneuve,False,True,False,True,False,cheever,American,arrows,16,20,4,0,8,8,0,5,2.799999999999997,31
+2547,1989,6,villeneuve,False,True,False,True,False,gugelmin,Brazilian,march,17,17,4,0,10,4,0,8,2.9000000000000057,26
+2545,1989,6,villeneuve,False,True,False,True,False,johansson,Swedish,onyx,18,15,0,0,27,0,0,16,3.0,32
+2534,1989,6,villeneuve,False,True,False,True,False,piquet,Brazilian,team_lotus,19,4,0,0,21,0,0,13,3.0,36
+2556,1989,6,villeneuve,False,True,False,True,False,alboreto,Italian,tyrrell,20,26,6,0,6,7,0,6,3.299999999999997,32
+2543,1989,6,villeneuve,False,True,False,True,False,capelli,Italian,march,21,13,0,0,22,4,0,8,3.4000000000000057,26
+2535,1989,6,villeneuve,False,True,False,True,False,arnoux,French,ligier,22,5,0,0,23,0,0,12,3.5999999999999943,40
+2538,1989,6,villeneuve,False,True,False,True,False,danner,German,rial,23,8,3,0,14,3,0,10,3.700000000000003,31
+2546,1989,6,villeneuve,False,True,False,True,False,sala,Spanish,minardi,24,16,0,0,28,0,0,17,3.799999999999997,30
+2549,1989,6,villeneuve,False,True,False,True,False,tarquini,Italian,ags,25,19,1,0,15,1,0,11,3.799999999999997,27
+2539,1989,6,villeneuve,False,True,False,True,False,moreno,Brazilian,coloni,26,9,0,0,0,0,0,19,4.0,30

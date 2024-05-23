@@ -1,0 +1,21 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+5584,1996,15,estoril,True,False,False,False,False,damon_hill,British,williams,1,2,81,7,1,149,10,1,0.0,36
+5583,1996,15,estoril,True,False,False,False,False,villeneuve,Canadian,williams,2,1,68,3,2,149,10,1,0.0,25
+5586,1996,15,estoril,True,False,False,False,False,alesi,French,benetton,3,4,44,0,4,61,0,2,0.7999999999999972,32
+5585,1996,15,estoril,True,False,False,False,False,michael_schumacher,German,ferrari,4,3,49,3,3,58,3,3,0.9000000000000057,27
+5588,1996,15,estoril,True,False,False,False,False,berger,Austrian,benetton,5,6,17,0,7,61,0,2,1.0,37
+5587,1996,15,estoril,True,False,False,False,False,irvine,British,ferrari,6,5,9,0,10,58,3,3,1.1000000000000083,30
+5599,1996,15,estoril,True,False,False,False,False,hakkinen,Finnish,mclaren,7,17,27,0,5,45,0,4,1.2999999999999972,27
+5595,1996,15,estoril,True,False,False,False,False,coulthard,British,mclaren,8,13,18,0,6,45,0,4,1.7999999999999972,25
+5602,1996,15,estoril,True,False,False,False,False,barrichello,Brazilian,jordan,9,20,14,0,8,20,0,5,1.9000000000000057,24
+5591,1996,15,estoril,True,False,False,False,False,brundle,British,jordan,10,9,6,0,12,20,0,5,2.0,37
+5589,1996,15,estoril,True,False,False,False,False,frentzen,German,sauber,11,7,6,0,11,10,0,7,2.0,29
+5590,1996,15,estoril,True,False,False,False,False,herbert,British,sauber,12,8,4,0,14,10,0,7,2.4000000000000057,32
+5593,1996,15,estoril,True,False,False,False,False,salo,Finnish,tyrrell,13,11,5,0,13,5,0,8,2.5,29
+5594,1996,15,estoril,True,False,False,False,False,katayama,Japanese,tyrrell,14,12,0,0,17,5,0,8,2.700000000000003,33
+5592,1996,15,estoril,True,False,False,False,False,panis,French,ligier,15,10,13,1,9,15,1,6,2.799999999999997,30
+5600,1996,15,estoril,True,False,False,False,False,verstappen,Dutch,footwork,16,18,1,0,16,1,0,9,3.200000000000003,24
+5596,1996,15,estoril,True,False,False,False,False,rosset,Brazilian,footwork,17,14,0,0,18,1,0,9,3.9000000000000057,28
+5601,1996,15,estoril,True,False,False,False,False,diniz,Brazilian,ligier,18,19,2,0,15,15,1,6,4.0,26
+5598,1996,15,estoril,True,False,False,False,False,lamy,Portuguese,minardi,19,16,0,0,20,0,0,10,4.200000000000003,24
+5597,1996,15,estoril,True,False,False,False,False,lavaggi,Italian,minardi,20,15,0,0,22,0,0,10,5.299999999999997,38

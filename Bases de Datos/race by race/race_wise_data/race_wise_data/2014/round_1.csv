@@ -1,0 +1,21 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+12112,2014,1,albert_park,False,False,False,False,False,hamilton,British,mercedes,1,19,0,0,0,0,0,0,0.0,29
+12115,2014,1,albert_park,False,False,False,False,False,ricciardo,Australian,red_bull,2,22,0,0,0,0,0,0,0.2999999999999971,24
+12095,2014,1,albert_park,False,False,False,False,False,rosberg,German,mercedes,3,1,0,0,0,0,0,0,0.3999999999999915,28
+12096,2014,1,albert_park,False,False,False,False,False,kevin_magnussen,Danish,mclaren,4,2,0,0,0,0,0,0,1.5,21
+12098,2014,1,albert_park,False,False,False,False,False,alonso,Spanish,ferrari,5,4,0,0,0,0,0,0,1.5999999999999943,32
+12102,2014,1,albert_park,False,False,False,False,False,vergne,French,toro_rosso,6,8,0,0,0,0,0,0,1.7000000000000028,23
+12100,2014,1,albert_park,False,False,False,False,False,hulkenberg,German,force_india,7,6,0,0,0,0,0,0,1.7999999999999972,26
+12103,2014,1,albert_park,False,False,False,False,False,kvyat,Russian,toro_rosso,8,9,0,0,0,0,0,0,3.200000000000003,19
+12113,2014,1,albert_park,False,False,False,False,False,massa,Brazilian,williams,9,20,0,0,0,0,0,0,3.899999999999992,32
+12097,2014,1,albert_park,False,False,False,False,False,button,British,mclaren,10,3,0,0,0,0,0,0,0.2000000000000028,34
+12101,2014,1,albert_park,False,False,False,False,False,raikkonen,Finnish,ferrari,11,7,0,0,0,0,0,0,0.2999999999999971,34
+12111,2014,1,albert_park,False,False,False,False,False,vettel,German,red_bull,12,18,0,0,0,0,0,0,0.5,26
+12105,2014,1,albert_park,False,False,False,False,False,sutil,German,sauber,13,11,0,0,0,0,0,0,1.5,31
+12114,2014,1,albert_park,False,False,False,False,False,kobayashi,Japanese,caterham,14,21,0,0,0,0,0,0,1.7000000000000028,27
+12099,2014,1,albert_park,False,False,False,False,False,bottas,Finnish,williams,15,5,0,0,0,0,0,0,3.899999999999992,24
+12104,2014,1,albert_park,False,False,False,False,False,perez,Mexican,force_india,16,10,0,0,0,0,0,0,3.0999999999999943,24
+12107,2014,1,albert_park,False,False,False,False,False,chilton,British,marussia,17,13,0,0,0,0,0,0,-9.900000000000006,22
+12108,2014,1,albert_park,False,False,False,False,False,jules_bianchi,French,marussia,18,14,0,0,0,0,0,0,-9.400000000000006,24
+12110,2014,1,albert_park,False,False,False,False,False,ericsson,Swedish,caterham,19,17,0,0,0,0,0,0,-9.0,23
+12106,2014,1,albert_park,False,False,False,False,False,gutierrez,Mexican,sauber,20,12,0,0,0,0,0,0,-9.100000000000009,22

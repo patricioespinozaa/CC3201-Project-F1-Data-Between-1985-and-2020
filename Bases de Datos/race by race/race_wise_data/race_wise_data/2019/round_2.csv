@@ -1,0 +1,21 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+14150,2019,2,bahrain,True,False,False,False,False,leclerc,Monegasque,ferrari,1,3,10,0,5,22,0,2,0.0,21
+14152,2019,2,bahrain,True,False,False,False,False,vettel,German,ferrari,2,5,12,0,4,22,0,2,0.2999999999999971,31
+14148,2019,2,bahrain,True,False,False,False,False,hamilton,British,mercedes,3,1,18,0,2,44,1,1,0.2999999999999971,34
+14149,2019,2,bahrain,True,False,False,False,False,bottas,Finnish,mercedes,4,2,26,1,1,44,1,1,0.3999999999999915,29
+14151,2019,2,bahrain,True,False,False,False,False,max_verstappen,Dutch,red_bull,5,4,15,0,3,15,0,3,0.8999999999999915,21
+14160,2019,2,bahrain,True,False,False,False,False,kevin_magnussen,Danish,haas,6,13,8,0,6,8,0,4,0.8999999999999915,26
+14166,2019,2,bahrain,True,False,False,False,False,sainz,Spanish,mclaren,7,19,0,0,20,0,0,9,0.8999999999999915,24
+14154,2019,2,bahrain,True,False,False,False,False,raikkonen,Finnish,alfa,8,7,4,0,8,4,0,6,1.0999999999999943,39
+14153,2019,2,bahrain,True,False,False,False,False,norris,British,mclaren,9,6,0,0,12,0,0,9,1.0999999999999943,19
+14165,2019,2,bahrain,True,False,False,False,False,ricciardo,Australian,renault,10,18,0,0,19,6,0,5,1.5999999999999943,29
+14167,2019,2,bahrain,True,False,False,False,False,grosjean,French,haas,11,20,0,0,18,8,0,4,1.0999999999999943,32
+14156,2019,2,bahrain,True,False,False,False,False,albon,Thai,toro_rosso,12,9,0,0,14,1,0,8,1.5999999999999943,23
+14155,2019,2,bahrain,True,False,False,False,False,gasly,French,red_bull,13,8,0,0,11,15,0,3,1.5999999999999943,23
+14157,2019,2,bahrain,True,False,False,False,False,perez,Mexican,racing_point,14,10,0,0,13,2,0,7,1.8999999999999917,29
+14159,2019,2,bahrain,True,False,False,False,False,kvyat,Russian,toro_rosso,15,12,1,0,10,1,0,8,2.0,24
+14158,2019,2,bahrain,True,False,False,False,False,giovinazzi,Italian,alfa,16,11,0,0,15,4,0,6,2.0999999999999943,25
+14164,2019,2,bahrain,True,False,False,False,False,hulkenberg,German,renault,17,17,6,0,7,6,0,5,2.0999999999999943,31
+14161,2019,2,bahrain,True,False,False,False,False,stroll,Canadian,racing_point,18,14,2,0,9,2,0,7,2.299999999999997,20
+14162,2019,2,bahrain,True,False,False,False,False,russell,British,williams,19,15,0,0,16,0,0,10,3.899999999999992,21
+14163,2019,2,bahrain,True,False,False,False,False,kubica,Polish,williams,20,16,0,0,17,0,0,10,3.899999999999992,34

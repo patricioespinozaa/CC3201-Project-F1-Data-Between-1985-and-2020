@@ -1,0 +1,27 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+2890,1990,3,imola,True,False,False,False,False,senna,Brazilian,mclaren,1,22,13,1,1,19,1,1,0.0,30
+2870,1990,3,imola,True,False,False,False,False,berger,Austrian,mclaren,2,2,6,0,4,19,1,1,0.5999999999999943,30
+2869,1990,3,imola,True,False,False,False,False,patrese,Italian,williams,3,1,0,0,12,6,0,4,1.2000000000000028,36
+2888,1990,3,imola,True,False,False,False,False,boutsen,Belgian,williams,4,20,6,0,5,6,0,4,1.7999999999999972,32
+2883,1990,3,imola,True,False,False,False,False,mansell,British,ferrari,5,15,3,0,7,12,1,2,1.8999999999999917,36
+2872,1990,3,imola,True,False,False,False,False,prost,French,ferrari,6,4,9,1,2,12,1,2,2.0,35
+2874,1990,3,imola,True,False,False,False,False,alesi,French,tyrrell,7,6,6,0,3,7,0,3,2.0,25
+2873,1990,3,imola,True,False,False,False,False,piquet,Brazilian,benetton,8,5,4,0,6,4,0,5,2.5999999999999943,37
+2871,1990,3,imola,True,False,False,False,False,nannini,Italian,benetton,9,3,0,0,13,4,0,5,2.799999999999997,30
+2875,1990,3,imola,True,False,False,False,False,warwick,British,team_lotus,10,7,0,0,27,0,0,14,3.5,35
+2876,1990,3,imola,True,False,False,False,False,donnelly,British,team_lotus,11,8,0,0,24,0,0,14,3.5,26
+2887,1990,3,imola,True,False,False,False,False,gugelmin,Brazilian,leyton,12,19,0,0,20,0,0,13,3.5999999999999943,27
+2881,1990,3,imola,True,False,False,False,False,bernard,French,larrousse,13,13,0,0,11,0,0,8,3.5999999999999943,25
+2885,1990,3,imola,True,False,False,False,False,modena,Italian,brabham,14,17,2,0,8,2,0,6,3.799999999999997,27
+2889,1990,3,imola,True,False,False,False,False,suzuki,Japanese,larrousse,15,21,0,0,23,0,0,8,3.899999999999992,29
+2877,1990,3,imola,True,False,False,False,False,alliot,French,ligier,16,9,0,0,16,0,0,10,4.0,35
+2886,1990,3,imola,True,False,False,False,False,cesaris,Italian,dallara,17,18,0,0,29,0,0,12,4.0,30
+2892,1990,3,imola,True,False,False,False,False,capelli,Italian,leyton,18,24,0,0,0,0,0,13,4.299999999999997,26
+2893,1990,3,imola,True,False,False,False,False,satoru_nakajima,Japanese,tyrrell,19,25,1,0,9,7,0,3,4.299999999999997,37
+2878,1990,3,imola,True,False,False,False,False,larini,Italian,ligier,20,10,0,0,15,0,0,10,4.399999999999992,26
+2891,1990,3,imola,True,False,False,False,False,pirro,Italian,dallara,21,23,0,0,0,0,0,12,4.399999999999992,28
+2882,1990,3,imola,True,False,False,False,False,grouillard,French,osella,22,14,0,0,28,0,0,16,4.799999999999997,31
+2884,1990,3,imola,True,False,False,False,False,foitek,Swiss,onyx,23,16,0,0,25,0,0,17,4.899999999999992,25
+2894,1990,3,imola,True,False,False,False,False,moreno,Brazilian,eurobrun,24,26,0,0,18,0,0,11,5.399999999999992,31
+2880,1990,3,imola,True,False,False,False,False,lehto,Finnish,onyx,25,12,0,0,0,0,0,17,5.399999999999992,24
+2879,1990,3,imola,True,False,False,False,False,barilla,Italian,minardi,26,11,0,0,21,0,0,7,5.5,29

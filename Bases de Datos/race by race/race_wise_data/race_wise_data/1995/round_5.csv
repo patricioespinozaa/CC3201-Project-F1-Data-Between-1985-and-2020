@@ -1,0 +1,27 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+4983,1995,5,monaco,True,False,False,False,False,damon_hill,British,williams,1,2,23,2,2,32,2,2,0.0,34
+4982,1995,5,monaco,True,False,False,False,False,michael_schumacher,German,benetton,2,1,24,2,1,33,2,1,0.7000000000000028,26
+5003,1995,5,monaco,True,False,False,False,False,coulthard,British,williams,3,22,9,0,6,32,2,2,1.0999999999999943,24
+4984,1995,5,monaco,True,False,False,False,False,berger,Austrian,ferrari,4,3,13,0,4,27,0,3,1.2000000000000028,35
+4997,1995,5,monaco,True,False,False,False,False,alesi,French,ferrari,5,16,14,0,3,27,0,3,1.7999999999999972,30
+5005,1995,5,monaco,True,False,False,False,False,hakkinen,Finnish,mclaren,6,24,5,0,7,6,0,4,1.9000000000000057,26
+4985,1995,5,monaco,True,False,False,False,False,herbert,British,benetton,7,4,9,0,5,33,2,1,1.9000000000000057,30
+4998,1995,5,monaco,True,False,False,False,False,brundle,British,ligier,8,17,0,0,17,1,0,7,2.4000000000000057,35
+5002,1995,5,monaco,True,False,False,False,False,irvine,British,jordan,9,21,2,0,9,2,0,6,2.9000000000000057,29
+4986,1995,5,monaco,True,False,False,False,False,blundell,British,mclaren,10,5,1,0,11,6,0,4,2.9000000000000057,29
+4995,1995,5,monaco,True,False,False,False,False,barrichello,Brazilian,jordan,11,14,0,0,13,2,0,6,3.0999999999999943,23
+4993,1995,5,monaco,True,False,False,False,False,panis,French,ligier,12,12,1,0,10,1,0,7,3.0999999999999943,28
+4990,1995,5,monaco,True,False,False,False,False,morbidelli,Italian,footwork,13,9,0,0,21,0,0,12,3.4000000000000057,27
+4987,1995,5,monaco,True,False,False,False,False,frentzen,German,sauber,14,6,3,0,8,3,0,5,3.700000000000003,28
+5000,1995,5,monaco,True,False,False,False,False,katayama,Japanese,tyrrell,15,19,0,0,15,0,0,8,3.799999999999997,31
+4992,1995,5,monaco,True,False,False,False,False,badoer,Italian,minardi,16,11,0,0,25,0,0,13,4.0,24
+4994,1995,5,monaco,True,False,False,False,False,salo,Finnish,tyrrell,17,13,0,0,12,0,0,8,4.5,28
+4988,1995,5,monaco,True,False,False,False,False,martini,Italian,minardi,18,7,0,0,22,0,0,13,4.900000000000006,34
+4989,1995,5,monaco,True,False,False,False,False,boullion,French,sauber,19,8,0,0,0,3,0,5,5.099999999999994,25
+5007,1995,5,monaco,True,False,False,False,False,schiattarella,Italian,simtek,20,26,0,0,16,0,0,9,6.299999999999997,27
+4996,1995,5,monaco,True,False,False,False,False,gachot,Belgian,pacific,21,15,0,0,0,0,0,10,7.0,32
+4991,1995,5,monaco,True,False,False,False,False,diniz,Brazilian,forti,22,10,0,0,19,0,0,11,7.200000000000003,25
+5006,1995,5,monaco,True,False,False,False,False,verstappen,Dutch,simtek,23,25,0,0,23,0,0,9,7.400000000000006,23
+5004,1995,5,monaco,True,False,False,False,False,moreno,Brazilian,forti,24,23,0,0,0,0,0,11,7.599999999999994,36
+5001,1995,5,monaco,True,False,False,False,False,montermini,Italian,pacific,25,20,0,0,18,0,0,10,8.099999999999994,30
+4999,1995,5,monaco,True,False,False,False,False,inoue,Japanese,footwork,26,18,0,0,0,0,0,12,9.5,31

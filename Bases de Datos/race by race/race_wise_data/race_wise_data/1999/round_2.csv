@@ -1,0 +1,21 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+6363,1999,2,interlagos,False,False,True,False,False,hakkinen,Finnish,mclaren,1,1,0,0,0,0,0,0,0.0,30
+6380,1999,2,interlagos,False,False,True,False,False,coulthard,British,mclaren,2,18,0,0,0,0,0,0,0.1000000000000085,28
+6375,1999,2,interlagos,False,False,True,False,False,barrichello,Brazilian,stewart,3,13,2,0,5,2,0,5,0.7000000000000028,26
+6364,1999,2,interlagos,False,False,True,False,False,michael_schumacher,German,ferrari,4,2,0,0,8,10,1,1,1.0,30
+6377,1999,2,interlagos,False,False,True,False,False,fisichella,Italian,benetton,5,15,3,0,4,3,0,4,1.2000000000000028,26
+6367,1999,2,interlagos,False,False,True,False,False,irvine,British,ferrari,6,5,10,1,1,10,1,1,1.2000000000000028,33
+6383,1999,2,interlagos,False,False,True,False,False,damon_hill,British,jordan,7,21,0,0,0,6,0,2,1.3000000000000114,38
+6365,1999,2,interlagos,False,False,True,False,False,frentzen,German,jordan,8,3,6,0,2,6,0,2,1.3000000000000114,31
+6369,1999,2,interlagos,False,False,True,False,False,wurz,Austrian,benetton,9,7,0,0,0,3,0,4,1.7000000000000028,25
+6382,1999,2,interlagos,False,False,True,False,False,herbert,British,stewart,10,20,0,0,0,2,0,5,1.8000000000000114,34
+6366,1999,2,interlagos,False,False,True,False,False,ralf_schumacher,German,williams,11,4,4,0,3,4,0,3,1.9000000000000057,23
+6368,1999,2,interlagos,False,False,True,False,False,panis,French,prost,12,6,0,0,0,0,0,0,2.0,32
+6381,1999,2,interlagos,False,False,True,False,False,trulli,Italian,prost,13,19,0,0,0,0,0,0,2.1000000000000085,24
+6379,1999,2,interlagos,False,False,True,False,False,alesi,French,sauber,14,17,0,0,0,0,0,0,2.1000000000000085,34
+6376,1999,2,interlagos,False,False,True,False,False,diniz,Brazilian,sauber,15,14,0,0,0,0,0,0,2.6000000000000085,28
+6374,1999,2,interlagos,False,False,True,False,False,zanardi,Italian,williams,16,12,0,0,0,4,0,3,2.9000000000000057,32
+6372,1999,2,interlagos,False,False,True,False,False,rosa,Spanish,arrows,17,10,1,0,6,1,0,6,3.4000000000000057,28
+6378,1999,2,interlagos,False,False,True,False,False,sarrazin,French,minardi,18,16,0,0,0,0,0,0,3.5,23
+6370,1999,2,interlagos,False,False,True,False,False,takagi,Japanese,arrows,19,8,0,0,7,1,0,6,3.5,25
+6371,1999,2,interlagos,False,False,True,False,False,gene,Spanish,minardi,20,9,0,0,0,0,0,0,4.1000000000000085,25

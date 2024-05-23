@@ -1,0 +1,21 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+14516,2019,21,yas_marina,True,False,False,False,False,hamilton,British,mercedes,1,1,387,10,1,701,14,1,0.0,34
+14517,2019,21,yas_marina,True,False,False,False,False,max_verstappen,Dutch,red_bull,2,2,260,3,3,391,3,3,0.2999999999999971,22
+14518,2019,21,yas_marina,True,False,False,False,False,leclerc,Monegasque,ferrari,3,3,249,2,4,479,3,2,0.4000000000000057,22
+14520,2019,21,yas_marina,True,False,False,False,False,vettel,German,ferrari,4,5,230,1,5,479,3,2,0.5,32
+14521,2019,21,yas_marina,True,False,False,False,False,albon,Thai,red_bull,5,6,84,0,8,391,3,3,0.9000000000000057,23
+14523,2019,21,yas_marina,True,False,False,False,False,norris,British,mclaren,6,8,45,0,11,140,0,4,1.6000000000000083,20
+14526,2019,21,yas_marina,True,False,False,False,False,ricciardo,Australian,renault,7,11,54,0,9,91,0,5,1.7000000000000028,30
+14525,2019,21,yas_marina,True,False,False,False,False,sainz,Spanish,mclaren,8,10,95,0,7,140,0,4,1.7000000000000028,25
+14527,2019,21,yas_marina,True,False,False,False,False,hulkenberg,German,renault,9,12,37,0,13,91,0,5,1.9000000000000057,32
+14522,2019,21,yas_marina,True,False,False,False,False,perez,Mexican,racing_point,10,7,46,0,10,67,0,7,2.299999999999997,29
+14533,2019,21,yas_marina,True,False,False,False,False,gasly,French,toro_rosso,11,18,95,0,6,83,0,6,2.299999999999997,23
+14535,2019,21,yas_marina,True,False,False,False,False,stroll,Canadian,racing_point,12,20,21,0,15,67,0,7,2.299999999999997,21
+14524,2019,21,yas_marina,True,False,False,False,False,kvyat,Russian,toro_rosso,13,9,35,0,14,83,0,6,2.299999999999997,25
+14529,2019,21,yas_marina,True,False,False,False,False,kevin_magnussen,Danish,haas,14,14,20,0,16,28,0,9,2.5,27
+14530,2019,21,yas_marina,True,False,False,False,False,grosjean,French,haas,15,15,8,0,18,28,0,9,3.299999999999997,33
+14531,2019,21,yas_marina,True,False,False,False,False,giovinazzi,Italian,alfa,16,16,14,0,17,57,0,8,3.299999999999997,25
+14528,2019,21,yas_marina,True,False,False,False,False,raikkonen,Finnish,alfa,17,13,43,0,12,57,0,8,3.6000000000000085,40
+14532,2019,21,yas_marina,True,False,False,False,False,russell,British,williams,18,17,0,0,20,1,0,10,3.9000000000000057,21
+14534,2019,21,yas_marina,True,False,False,False,False,kubica,Polish,williams,19,19,1,0,19,1,0,10,4.400000000000006,34
+14519,2019,21,yas_marina,True,False,False,False,False,bottas,Finnish,mercedes,20,4,314,4,2,701,14,1,0.2000000000000028,30

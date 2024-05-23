@@ -1,0 +1,27 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+3854,1992,9,silverstone,False,False,True,False,False,mansell,British,williams,1,1,66,6,1,100,6,1,0.0,38
+3855,1992,9,silverstone,False,False,True,False,False,patrese,Italian,williams,2,2,34,0,2,100,6,1,1.9000000000000057,38
+3871,1992,9,silverstone,False,False,True,False,False,senna,Brazilian,mclaren,3,18,18,1,4,36,2,2,2.700000000000003,32
+3857,1992,9,silverstone,False,False,True,False,False,michael_schumacher,German,benetton,4,4,26,0,3,35,0,3,3.0999999999999943,23
+3858,1992,9,silverstone,False,False,True,False,False,berger,Austrian,mclaren,5,5,18,1,5,36,2,2,3.299999999999997,32
+3856,1992,9,silverstone,False,False,True,False,False,brundle,British,benetton,6,3,9,0,7,35,0,3,4.5,33
+3877,1992,9,silverstone,False,False,True,False,False,herbert,British,team_lotus,7,24,2,0,14,6,0,5,4.599999999999994,28
+3873,1992,9,silverstone,False,False,True,False,False,alesi,French,ferrari,8,20,11,0,6,13,0,4,4.700000000000003,28
+3859,1992,9,silverstone,False,False,True,False,False,hakkinen,Finnish,team_lotus,9,6,4,0,9,6,0,5,4.799999999999997,23
+3861,1992,9,silverstone,False,False,True,False,False,comas,French,ligier,10,8,3,0,12,3,0,9,5.0,28
+3876,1992,9,silverstone,False,False,True,False,False,gachot,Belgian,larrousse,11,23,1,0,16,1,0,11,5.099999999999994,29
+3860,1992,9,silverstone,False,False,True,False,False,alboreto,Italian,footwork,12,7,5,0,8,5,0,6,5.200000000000003,35
+3863,1992,9,silverstone,False,False,True,False,False,boutsen,Belgian,ligier,13,10,0,0,24,3,0,9,5.5,34
+3862,1992,9,silverstone,False,False,True,False,False,capelli,Italian,ferrari,14,9,2,0,13,13,0,4,5.599999999999994,29
+3867,1992,9,silverstone,False,False,True,False,False,tarquini,Italian,fondmetal,15,14,0,0,0,0,0,0,5.799999999999997,30
+3879,1992,9,silverstone,False,False,True,False,False,katayama,Japanese,larrousse,16,26,0,0,23,1,0,11,5.900000000000006,29
+3865,1992,9,silverstone,False,False,True,False,False,suzuki,Japanese,footwork,17,12,0,0,17,5,0,6,5.900000000000006,31
+3872,1992,9,silverstone,False,False,True,False,False,cesaris,Italian,tyrrell,18,19,4,0,10,4,0,7,6.0,33
+3866,1992,9,silverstone,False,False,True,False,False,lehto,Finnish,dallara,19,13,0,0,20,2,0,10,6.0,26
+3864,1992,9,silverstone,False,False,True,False,False,grouillard,French,tyrrell,20,11,0,0,21,4,0,7,6.099999999999994,33
+3878,1992,9,silverstone,False,False,True,False,False,wendlinger,Austrian,march,21,25,3,0,11,3,0,8,6.099999999999994,23
+3868,1992,9,silverstone,False,False,True,False,False,martini,Italian,dallara,22,15,2,0,15,2,0,10,6.200000000000003,31
+3874,1992,9,silverstone,False,False,True,False,False,modena,Italian,jordan,23,21,0,0,0,0,0,13,6.400000000000006,29
+3875,1992,9,silverstone,False,False,True,False,False,gugelmin,Brazilian,jordan,24,22,0,0,19,0,0,13,7.0,29
+3870,1992,9,silverstone,False,False,True,False,False,morbidelli,Italian,minardi,25,17,0,0,18,0,0,12,7.0,24
+3869,1992,9,silverstone,False,False,True,False,False,damon_hill,British,brabham,26,16,0,0,0,0,0,14,7.400000000000006,31

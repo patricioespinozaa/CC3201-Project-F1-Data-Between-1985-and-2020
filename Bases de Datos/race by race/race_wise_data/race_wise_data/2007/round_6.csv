@@ -1,0 +1,23 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+9345,2007,6,villeneuve,True,False,False,False,False,hamilton,British,mclaren,1,1,38,0,2,76,2,11,0.0,22
+9351,2007,6,villeneuve,True,False,False,False,False,alonso,Spanish,mclaren,2,7,38,2,1,76,2,11,0.5,25
+9346,2007,6,villeneuve,True,False,False,False,False,heidfeld,German,bmw_sauber,3,2,18,0,5,30,0,2,0.5999999999999943,30
+9349,2007,6,villeneuve,True,False,False,False,False,raikkonen,Finnish,ferrari,4,5,23,1,4,56,3,1,0.7000000000000028,27
+9365,2007,6,villeneuve,True,False,False,False,False,massa,Brazilian,ferrari,5,21,33,2,3,56,3,1,0.8999999999999915,26
+9353,2007,6,villeneuve,True,False,False,False,False,webber,Australian,red_bull,6,9,0,0,17,4,0,6,1.2000000000000028,30
+9354,2007,6,villeneuve,True,False,False,False,False,rosberg,German,williams,7,10,5,0,8,7,0,4,1.2000000000000028,21
+9361,2007,6,villeneuve,True,False,False,False,False,kubica,Polish,bmw_sauber,8,17,12,0,7,30,0,2,1.2999999999999972,22
+9366,2007,6,villeneuve,True,False,False,False,False,fisichella,Italian,renault,9,22,13,0,6,16,0,3,1.5,34
+9357,2007,6,villeneuve,True,False,False,False,False,trulli,Italian,toyota,10,13,4,0,10,5,0,5,2.0,32
+9350,2007,6,villeneuve,True,False,False,False,False,sato,Japanese,super_aguri,11,6,1,0,13,1,0,7,1.0,30
+9358,2007,6,villeneuve,True,False,False,False,False,liuzzi,Italian,toro_rosso,12,14,0,0,22,0,0,8,1.0999999999999943,26
+9356,2007,6,villeneuve,True,False,False,False,False,barrichello,Brazilian,honda,13,12,0,0,16,0,0,9,1.3999999999999917,35
+9360,2007,6,villeneuve,True,False,False,False,False,coulthard,British,red_bull,14,16,4,0,9,4,0,6,1.5999999999999943,36
+9364,2007,6,villeneuve,True,False,False,False,False,button,British,honda,15,20,0,0,18,0,0,9,1.7999999999999972,27
+9363,2007,6,villeneuve,True,False,False,False,False,speed,American,toro_rosso,16,19,0,0,15,0,0,8,1.8999999999999917,24
+9355,2007,6,villeneuve,True,False,False,False,False,davidson,British,super_aguri,17,11,0,0,19,1,0,7,1.7999999999999972,28
+9352,2007,6,villeneuve,True,False,False,False,False,ralf_schumacher,German,toyota,18,8,1,0,14,5,0,5,1.8999999999999917,31
+9347,2007,6,villeneuve,True,False,False,False,False,wurz,Austrian,williams,19,3,2,0,12,7,0,4,2.3999999999999915,33
+9362,2007,6,villeneuve,True,False,False,False,False,sutil,German,spyker,20,18,0,0,20,0,0,10,2.799999999999997,24
+9359,2007,6,villeneuve,True,False,False,False,False,albers,Dutch,spyker,21,15,0,0,21,0,0,10,3.5,28
+9348,2007,6,villeneuve,True,False,False,False,False,kovalainen,Finnish,renault,22,4,3,0,11,16,0,3,2.0999999999999943,25

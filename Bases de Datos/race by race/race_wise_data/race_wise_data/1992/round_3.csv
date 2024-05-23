@@ -1,0 +1,27 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+3698,1992,3,interlagos,False,False,True,False,False,mansell,British,williams,1,1,20,2,1,32,2,1,0.0,38
+3699,1992,3,interlagos,False,False,True,False,False,patrese,Italian,williams,2,2,12,0,2,32,2,1,1.2000000000000028,37
+3720,1992,3,interlagos,False,False,True,False,False,senna,Brazilian,mclaren,3,23,4,0,5,9,0,2,2.200000000000003,32
+3721,1992,3,interlagos,False,False,True,False,False,berger,Austrian,mclaren,4,24,5,0,4,9,0,2,2.700000000000003,32
+3700,1992,3,interlagos,False,False,True,False,False,michael_schumacher,German,benetton,5,3,7,0,3,7,0,3,2.799999999999997,23
+3701,1992,3,interlagos,False,False,True,False,False,alesi,French,ferrari,6,4,0,0,0,0,0,0,2.8999999999999915,27
+3716,1992,3,interlagos,False,False,True,False,False,brundle,British,benetton,7,19,0,0,0,7,0,3,3.0,32
+3717,1992,3,interlagos,False,False,True,False,False,martini,Italian,dallara,8,20,0,0,0,0,0,8,3.299999999999997,30
+3709,1992,3,interlagos,False,False,True,False,False,wendlinger,Austrian,march,9,12,0,0,0,0,0,0,3.299999999999997,23
+3714,1992,3,interlagos,False,False,True,False,False,boutsen,Belgian,ligier,10,17,0,0,13,0,0,6,3.299999999999997,34
+3702,1992,3,interlagos,False,False,True,False,False,capelli,Italian,ferrari,11,5,0,0,0,0,0,0,3.5999999999999943,28
+3723,1992,3,interlagos,False,False,True,False,False,modena,Italian,jordan,12,26,0,0,0,0,0,10,3.5999999999999943,28
+3719,1992,3,interlagos,False,False,True,False,False,cesaris,Italian,tyrrell,13,22,2,0,6,2,0,4,3.5999999999999943,32
+3703,1992,3,interlagos,False,False,True,False,False,alboreto,Italian,footwork,14,6,0,0,12,0,0,7,3.799999999999997,35
+3712,1992,3,interlagos,False,False,True,False,False,comas,French,ligier,15,15,0,0,9,0,0,6,3.799999999999997,28
+3705,1992,3,interlagos,False,False,True,False,False,lehto,Finnish,dallara,16,8,0,0,10,0,0,8,4.099999999999994,26
+3711,1992,3,interlagos,False,False,True,False,False,grouillard,French,tyrrell,17,14,0,0,0,2,0,4,4.099999999999994,33
+3718,1992,3,interlagos,False,False,True,False,False,gachot,Belgian,larrousse,18,21,0,0,14,0,0,9,4.200000000000003,29
+3708,1992,3,interlagos,False,False,True,False,False,tarquini,Italian,fondmetal,19,11,0,0,0,0,0,0,4.299999999999997,30
+3710,1992,3,interlagos,False,False,True,False,False,fittipaldi,Brazilian,minardi,20,13,0,0,0,0,0,0,4.399999999999992,21
+3715,1992,3,interlagos,False,False,True,False,False,gugelmin,Brazilian,jordan,21,18,0,0,15,0,0,10,4.599999999999994,28
+3722,1992,3,interlagos,False,False,True,False,False,suzuki,Japanese,footwork,22,25,0,0,11,0,0,7,4.700000000000003,31
+3704,1992,3,interlagos,False,False,True,False,False,morbidelli,Italian,minardi,23,7,0,0,0,0,0,0,4.700000000000003,24
+3707,1992,3,interlagos,False,False,True,False,False,hakkinen,Finnish,team_lotus,24,10,1,0,8,2,0,5,4.899999999999992,23
+3706,1992,3,interlagos,False,False,True,False,False,katayama,Japanese,larrousse,25,9,0,0,16,0,0,9,4.899999999999992,28
+3713,1992,3,interlagos,False,False,True,False,False,herbert,British,team_lotus,26,16,1,0,7,2,0,5,5.0,27

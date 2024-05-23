@@ -1,0 +1,23 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+10820,2011,4,istanbul,True,False,False,False,False,vettel,German,red_bull,1,1,68,2,1,105,2,1,0.0,23
+10821,2011,4,istanbul,True,False,False,False,False,webber,Australian,red_bull,2,2,37,0,4,105,2,1,0.5,34
+10824,2011,4,istanbul,True,False,False,False,False,rosberg,German,mercedes,3,5,10,0,9,16,0,5,0.5999999999999943,25
+10823,2011,4,istanbul,True,False,False,False,False,hamilton,British,mclaren,4,4,47,1,2,85,1,2,0.5999999999999943,26
+10822,2011,4,istanbul,True,False,False,False,False,alonso,Spanish,ferrari,5,3,26,0,5,50,0,3,0.9000000000000057,29
+10825,2011,4,istanbul,True,False,False,False,False,button,British,mclaren,6,6,38,0,3,85,1,2,1.0,31
+10827,2011,4,istanbul,True,False,False,False,False,petrov,Russian,renault,7,8,17,0,7,32,0,4,1.2999999999999972,26
+10831,2011,4,istanbul,True,False,False,False,False,michael_schumacher,German,mercedes,8,12,6,0,11,16,0,5,1.5999999999999943,42
+10826,2011,4,istanbul,True,False,False,False,False,heidfeld,German,renault,9,7,15,0,8,32,0,4,1.7000000000000028,33
+10834,2011,4,istanbul,True,False,False,False,False,barrichello,Brazilian,williams,11,15,0,0,17,0,0,10,1.7999999999999972,38
+10832,2011,4,istanbul,True,False,False,False,False,sutil,German,force_india,12,13,2,0,13,4,0,8,2.0,28
+10842,2011,4,istanbul,True,False,False,False,False,resta,British,force_india,13,23,2,0,14,4,0,8,2.0999999999999943,25
+10836,2011,4,istanbul,True,False,False,False,False,maldonado,Venezuelan,williams,14,17,0,0,22,0,0,10,2.200000000000003,26
+10833,2011,4,istanbul,True,False,False,False,False,perez,Mexican,sauber,15,14,0,0,21,7,0,6,2.200000000000003,21
+10828,2011,4,istanbul,True,False,False,False,False,buemi,Swiss,toro_rosso,16,9,4,0,12,4,0,7,2.299999999999997,22
+10835,2011,4,istanbul,True,False,False,False,False,alguersuari,Spanish,toro_rosso,17,16,0,0,15,4,0,7,2.5999999999999943,21
+10838,2011,4,istanbul,True,False,False,False,False,kovalainen,Finnish,lotus_racing,18,19,0,0,19,0,0,9,3.799999999999997,29
+10837,2011,4,istanbul,True,False,False,False,False,trulli,Italian,lotus_racing,19,18,0,0,16,0,0,9,4.700000000000003,36
+10841,2011,4,istanbul,True,False,False,False,False,liuzzi,Italian,hrt,20,22,0,0,23,0,0,12,5.700000000000003,30
+10843,2011,4,istanbul,True,False,False,False,False,glock,German,virgin,21,24,0,0,20,0,0,11,5.799999999999997,29
+10840,2011,4,istanbul,True,False,False,False,False,karthikeyan,Indian,hrt,22,21,0,0,24,0,0,12,6.599999999999994,34
+10839,2011,4,istanbul,True,False,False,False,False,ambrosio,Belgian,virgin,23,20,0,0,18,0,0,11,5.400000000000006,25

@@ -1,0 +1,19 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+14361,2019,13,spa,False,False,False,False,True,leclerc,Monegasque,ferrari,1,1,132,0,5,288,0,2,0.0,21
+14364,2019,13,spa,False,False,False,False,True,vettel,German,ferrari,2,4,156,0,4,288,0,2,0.7999999999999972,32
+14362,2019,13,spa,False,False,False,False,True,hamilton,British,mercedes,3,2,250,8,1,438,10,1,0.7999999999999972,34
+14363,2019,13,spa,False,False,False,False,True,bottas,Finnish,mercedes,4,3,188,2,2,438,10,1,0.9000000000000057,30
+14379,2019,13,spa,False,False,False,False,True,max_verstappen,Dutch,red_bull,5,20,181,2,3,244,2,3,1.2000000000000028,21
+14376,2019,13,spa,False,False,False,False,True,raikkonen,Finnish,alfa,6,16,31,0,8,32,0,7,2.0999999999999943,39
+14366,2019,13,spa,False,False,False,False,True,perez,Mexican,racing_point,7,6,13,0,16,31,0,8,2.200000000000003,29
+14372,2019,13,spa,False,False,False,False,True,kevin_magnussen,Danish,haas,8,12,18,0,13,26,0,9,2.5999999999999943,26
+14373,2019,13,spa,False,False,False,False,True,grosjean,French,haas,9,13,8,0,17,26,0,9,2.299999999999997,33
+14374,2019,13,spa,False,False,False,False,True,ricciardo,Australian,renault,10,14,22,0,11,39,0,6,1.7999999999999972,30
+14371,2019,13,spa,False,False,False,False,True,norris,British,mclaren,11,11,24,0,10,82,0,4,2.299999999999997,19
+14368,2019,13,spa,False,False,False,False,True,hulkenberg,German,renault,12,8,17,0,14,39,0,6,2.0,32
+14369,2019,13,spa,False,False,False,False,True,gasly,French,toro_rosso,13,9,63,0,6,43,0,5,3.9000000000000057,23
+14375,2019,13,spa,False,False,False,False,True,russell,British,williams,14,15,0,0,20,1,0,10,5.0,21
+14378,2019,13,spa,False,False,False,False,True,sainz,Spanish,mclaren,15,19,58,0,7,82,0,4,4.0,25
+14370,2019,13,spa,False,False,False,False,True,stroll,Canadian,racing_point,16,10,18,0,12,31,0,8,2.5,20
+14365,2019,13,spa,False,False,False,False,True,albon,Thai,red_bull,17,5,16,0,15,244,2,3,3.299999999999997,23
+14367,2019,13,spa,False,False,False,False,True,kvyat,Russian,toro_rosso,19,7,27,0,9,43,0,5,4.0,25

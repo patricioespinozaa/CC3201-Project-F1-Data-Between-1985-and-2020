@@ -1,0 +1,23 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+5441,1996,8,villeneuve,True,False,False,False,False,damon_hill,British,williams,1,1,43,4,1,69,5,1,0.0,35
+5442,1996,8,villeneuve,True,False,False,False,False,villeneuve,Canadian,williams,2,2,26,1,2,69,5,1,0.0,25
+5452,1996,8,villeneuve,True,False,False,False,False,michael_schumacher,German,ferrari,3,12,26,1,3,35,1,2,0.1000000000000085,27
+5443,1996,8,villeneuve,True,False,False,False,False,alesi,French,benetton,4,3,17,0,4,24,0,3,0.4000000000000057,32
+5462,1996,8,villeneuve,True,False,False,False,False,irvine,British,ferrari,5,22,9,0,7,35,1,2,0.6000000000000085,30
+5445,1996,8,villeneuve,True,False,False,False,False,hakkinen,Finnish,mclaren,6,5,8,0,8,18,0,4,0.7000000000000028,27
+5451,1996,8,villeneuve,True,False,False,False,False,berger,Austrian,benetton,7,11,7,0,9,24,0,3,0.8000000000000114,36
+5456,1996,8,villeneuve,True,False,False,False,False,barrichello,Brazilian,jordan,8,16,7,0,10,8,0,7,0.9000000000000057,24
+5446,1996,8,villeneuve,True,False,False,False,False,brundle,British,jordan,9,6,1,0,15,8,0,7,1.2000000000000028,37
+5444,1996,8,villeneuve,True,False,False,False,False,coulthard,British,mclaren,10,4,10,0,6,18,0,4,1.2000000000000028,25
+5453,1996,8,villeneuve,True,False,False,False,False,panis,French,ligier,11,13,11,1,5,12,1,5,1.4000000000000057,29
+5458,1996,8,villeneuve,True,False,False,False,False,frentzen,German,sauber,12,18,6,0,11,10,0,6,1.8000000000000114,29
+5459,1996,8,villeneuve,True,False,False,False,False,verstappen,Dutch,footwork,13,19,1,0,16,1,0,9,2.0,24
+5454,1996,8,villeneuve,True,False,False,False,False,salo,Finnish,tyrrell,14,14,5,0,12,5,0,8,2.0,29
+5447,1996,8,villeneuve,True,False,False,False,False,herbert,British,sauber,15,7,4,0,13,10,0,6,2.1000000000000085,31
+5448,1996,8,villeneuve,True,False,False,False,False,fisichella,Italian,minardi,16,8,0,0,22,0,0,10,2.4000000000000057,23
+5461,1996,8,villeneuve,True,False,False,False,False,katayama,Japanese,tyrrell,17,21,0,0,18,5,0,8,2.5,33
+5455,1996,8,villeneuve,True,False,False,False,False,diniz,Brazilian,ligier,18,15,1,0,14,12,1,5,2.9000000000000057,26
+5449,1996,8,villeneuve,True,False,False,False,False,lamy,Portuguese,minardi,19,9,0,0,17,0,0,10,3.200000000000003,24
+5450,1996,8,villeneuve,True,False,False,False,False,badoer,Italian,forti,20,10,0,0,20,0,0,11,3.9000000000000057,25
+5460,1996,8,villeneuve,True,False,False,False,False,rosset,Brazilian,footwork,21,20,0,0,19,1,0,9,4.1000000000000085,27
+5457,1996,8,villeneuve,True,False,False,False,False,montermini,Italian,forti,22,17,0,0,21,0,0,11,5.0,32

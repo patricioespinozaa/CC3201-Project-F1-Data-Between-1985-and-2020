@@ -1,0 +1,23 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+7370,2001,15,monza,False,False,False,False,False,montoya,Colombian,williams,1,1,15,0,6,59,3,3,0.0,25
+7371,2001,15,monza,False,False,False,False,False,barrichello,Brazilian,ferrari,2,2,48,0,3,152,8,1,0.2999999999999971,29
+7373,2001,15,monza,False,False,False,False,False,michael_schumacher,German,ferrari,3,4,104,8,1,152,8,1,0.3999999999999915,32
+7372,2001,15,monza,False,False,False,False,False,ralf_schumacher,German,williams,4,3,44,3,4,59,3,3,0.5999999999999943,26
+7391,2001,15,monza,False,False,False,False,False,trulli,Italian,jordan,5,22,9,0,10,16,0,6,0.8999999999999915,27
+7389,2001,15,monza,False,False,False,False,False,coulthard,British,mclaren,6,20,57,2,2,81,3,2,0.8999999999999915,30
+7387,2001,15,monza,False,False,False,False,False,hakkinen,Finnish,mclaren,7,18,24,1,5,81,3,2,1.2000000000000028,32
+7380,2001,15,monza,False,False,False,False,False,heidfeld,German,sauber,8,11,11,0,8,20,0,4,1.2000000000000028,24
+7376,2001,15,monza,False,False,False,False,False,raikkonen,Finnish,sauber,9,7,9,0,9,20,0,4,1.3999999999999917,21
+7374,2001,15,monza,False,False,False,False,False,rosa,Spanish,jaguar,10,5,1,0,18,5,0,8,1.5,30
+7390,2001,15,monza,False,False,False,False,False,button,British,benetton,11,21,2,0,16,10,0,7,1.7000000000000028,21
+7385,2001,15,monza,False,False,False,False,False,frentzen,German,prost,12,16,6,0,12,4,0,9,1.7000000000000028,34
+7388,2001,15,monza,False,False,False,False,False,irvine,British,jaguar,13,19,4,0,15,5,0,8,1.7999999999999972,35
+7379,2001,15,monza,False,False,False,False,False,fisichella,Italian,benetton,14,10,8,0,11,10,0,7,1.8999999999999917,28
+7375,2001,15,monza,False,False,False,False,False,villeneuve,Canadian,bar,15,6,11,0,7,16,0,5,2.0,30
+7377,2001,15,monza,False,False,False,False,False,alesi,French,jordan,16,8,5,0,14,16,0,6,2.0,37
+7378,2001,15,monza,False,False,False,False,False,panis,French,bar,17,9,5,0,13,16,0,5,2.5,35
+7383,2001,15,monza,False,False,False,False,False,bernoldi,Brazilian,arrows,18,14,0,0,21,1,0,10,3.200000000000003,22
+7386,2001,15,monza,False,False,False,False,False,verstappen,Dutch,arrows,19,17,1,0,17,1,0,10,3.299999999999997,29
+7381,2001,15,monza,False,False,False,False,False,enge,Czech,prost,20,12,0,0,0,4,0,9,3.799999999999997,25
+7382,2001,15,monza,False,False,False,False,False,alonso,Spanish,minardi,21,13,0,0,23,0,0,11,4.0,20
+7384,2001,15,monza,False,False,False,False,False,yoong,Malaysian,minardi,22,15,0,0,0,0,0,11,5.299999999999997,25

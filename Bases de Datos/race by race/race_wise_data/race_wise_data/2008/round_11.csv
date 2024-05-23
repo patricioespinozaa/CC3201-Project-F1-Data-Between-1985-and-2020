@@ -1,0 +1,20 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+9816,2008,11,hungaroring,False,False,False,False,False,hamilton,British,mclaren,1,5,58,4,1,86,4,3,0.0,23
+9812,2008,11,hungaroring,False,False,False,False,False,kovalainen,Finnish,mclaren,2,1,28,0,6,86,4,3,0.1999999999999886,26
+9828,2008,11,hungaroring,False,False,False,False,False,massa,Brazilian,ferrari,3,17,54,3,2,105,5,1,0.2999999999999971,27
+9819,2008,11,hungaroring,False,False,False,False,False,kubica,Polish,bmw_sauber,4,8,48,1,4,89,1,2,0.3999999999999915,23
+9813,2008,11,hungaroring,False,False,False,False,False,glock,German,toyota,5,2,5,0,16,25,0,4,0.3999999999999915,26
+9814,2008,11,hungaroring,False,False,False,False,False,raikkonen,Finnish,ferrari,6,3,51,2,3,105,5,1,0.5999999999999943,28
+9815,2008,11,hungaroring,False,False,False,False,False,alonso,Spanish,renault,7,4,13,0,9,23,0,6,0.7999999999999972,27
+9820,2008,11,hungaroring,False,False,False,False,False,webber,Australian,red_bull,8,9,18,0,8,24,0,5,0.7999999999999972,31
+9818,2008,11,hungaroring,False,False,False,False,False,trulli,Italian,toyota,9,7,20,0,7,25,0,4,0.8999999999999915,34
+9817,2008,11,hungaroring,False,False,False,False,False,piquet_jr,Brazilian,renault,10,6,10,0,11,23,0,6,1.5,23
+9831,2008,11,hungaroring,False,False,False,False,False,vettel,German,toro_rosso,11,20,6,0,15,8,0,9,-0.8000000000000114,21
+9823,2008,11,hungaroring,False,False,False,False,False,button,British,honda,12,12,3,0,17,14,0,8,-0.6000000000000085,28
+9822,2008,11,hungaroring,False,False,False,False,False,coulthard,British,red_bull,13,11,6,0,14,24,0,5,-0.4000000000000057,37
+9821,2008,11,hungaroring,False,False,False,False,False,heidfeld,German,bmw_sauber,15,10,41,0,5,89,1,2,0.0999999999999943,31
+9824,2008,11,hungaroring,False,False,False,False,False,nakajima,Japanese,williams,16,13,8,0,13,16,0,7,0.1999999999999886,23
+9827,2008,11,hungaroring,False,False,False,False,False,barrichello,Brazilian,honda,17,16,11,0,10,14,0,8,0.3999999999999915,36
+9826,2008,11,hungaroring,False,False,False,False,False,fisichella,Italian,force_india,18,15,0,0,19,0,0,10,0.7999999999999972,35
+9829,2008,11,hungaroring,False,False,False,False,False,bourdais,French,toro_rosso,19,18,2,0,18,8,0,9,0.0999999999999943,29
+9830,2008,11,hungaroring,False,False,False,False,False,sutil,German,force_india,20,19,0,0,21,0,0,10,1.1999999999999886,25

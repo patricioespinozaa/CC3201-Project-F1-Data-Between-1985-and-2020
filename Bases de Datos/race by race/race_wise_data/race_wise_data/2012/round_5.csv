@@ -1,0 +1,20 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+11295,2012,5,catalunya,False,False,False,False,False,maldonado,Venezuelan,williams,1,1,4,0,14,18,0,7,0.0,27
+11296,2012,5,catalunya,False,False,False,False,False,alonso,Spanish,ferrari,2,2,43,1,5,45,1,4,0.0,30
+11298,2012,5,catalunya,False,False,False,False,False,grosjean,French,lotus_f1,3,4,23,0,8,57,0,3,0.1000000000000085,26
+11297,2012,5,catalunya,False,False,False,False,False,raikkonen,Finnish,lotus_f1,4,3,34,0,7,57,0,3,0.2000000000000028,32
+11314,2012,5,catalunya,False,False,False,False,False,perez,Mexican,sauber,5,20,22,0,9,31,0,6,0.2000000000000028,22
+11301,2012,5,catalunya,False,False,False,False,False,rosberg,German,mercedes,6,7,35,1,6,37,1,5,0.7000000000000028,26
+11303,2012,5,catalunya,False,False,False,False,False,button,British,mclaren,10,9,43,1,4,92,1,2,0.6000000000000085,32
+11305,2012,5,catalunya,False,False,False,False,False,webber,Australian,red_bull,11,11,48,0,3,101,1,1,0.7000000000000028,35
+11308,2012,5,catalunya,False,False,False,False,False,resta,British,force_india,12,14,15,0,10,17,0,8,0.7999999999999972,26
+11304,2012,5,catalunya,False,False,False,False,False,hulkenberg,German,force_india,13,10,2,0,16,17,0,8,0.9000000000000057,24
+11306,2012,5,catalunya,False,False,False,False,False,vergne,French,toro_rosso,14,12,4,0,13,6,0,9,1.0,22
+11307,2012,5,catalunya,False,False,False,False,False,ricciardo,Australian,toro_rosso,15,13,2,0,15,6,0,9,1.1000000000000083,22
+11309,2012,5,catalunya,False,False,False,False,False,massa,Brazilian,ferrari,16,15,2,0,17,45,1,4,1.1000000000000083,31
+11317,2012,5,catalunya,False,False,False,False,False,bruno_senna,Brazilian,williams,17,23,14,0,11,18,0,7,2.700000000000003,28
+11311,2012,5,catalunya,False,False,False,False,False,petrov,Russian,caterham,18,17,0,0,21,0,0,11,3.0,27
+11310,2012,5,catalunya,False,False,False,False,False,kovalainen,Finnish,caterham,19,16,0,0,22,0,0,11,3.200000000000003,30
+11315,2012,5,catalunya,False,False,False,False,False,pic,French,marussia,20,21,0,0,20,0,0,10,4.299999999999997,22
+11312,2012,5,catalunya,False,False,False,False,False,glock,German,marussia,21,18,0,0,19,0,0,10,4.700000000000003,30
+11313,2012,5,catalunya,False,False,False,False,False,rosa,Spanish,hrt,22,19,0,0,23,0,0,12,5.299999999999997,41

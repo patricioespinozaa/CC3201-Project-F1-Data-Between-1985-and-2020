@@ -1,0 +1,25 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+10654,2010,16,suzuka,True,False,False,False,False,vettel,German,red_bull,1,1,181,2,4,383,6,1,0.0,23
+10655,2010,16,suzuka,True,False,False,False,False,webber,Australian,red_bull,2,2,202,4,1,383,6,1,0.1000000000000085,34
+10672,2010,16,suzuka,True,False,False,False,False,kubica,Polish,renault,3,19,114,0,8,133,0,5,0.4000000000000057,25
+10656,2010,16,suzuka,True,False,False,False,False,alonso,Spanish,ferrari,4,3,191,4,2,319,4,3,0.6000000000000085,29
+10657,2010,16,suzuka,True,False,False,False,False,button,British,mclaren,5,4,177,2,5,359,5,2,0.6000000000000085,30
+10670,2010,16,suzuka,True,False,False,False,False,rosberg,German,mercedes,6,17,122,0,7,168,0,4,0.7000000000000028,25
+10662,2010,16,suzuka,True,False,False,False,False,barrichello,Brazilian,williams,7,9,39,0,11,56,0,7,0.7000000000000028,38
+10658,2010,16,suzuka,True,False,False,False,False,hamilton,British,mclaren,8,5,182,3,3,359,5,2,0.4000000000000057,25
+10673,2010,16,suzuka,True,False,False,False,False,hulkenberg,German,williams,9,20,17,0,14,56,0,7,0.7999999999999972,23
+10659,2010,16,suzuka,True,False,False,False,False,michael_schumacher,German,mercedes,10,6,46,0,10,168,0,4,1.0,41
+10661,2010,16,suzuka,True,False,False,False,False,heidfeld,German,sauber,11,8,0,0,26,27,0,8,1.4000000000000057,33
+10674,2010,16,suzuka,True,False,False,False,False,massa,Brazilian,ferrari,12,21,128,0,6,319,4,3,1.5,29
+10675,2010,16,suzuka,True,False,False,False,False,petrov,Russian,renault,13,22,19,0,13,133,0,5,1.6000000000000083,26
+10660,2010,16,suzuka,True,False,False,False,False,kobayashi,Japanese,sauber,14,7,21,0,12,27,0,8,1.6000000000000083,24
+10671,2010,16,suzuka,True,False,False,False,False,sutil,German,force_india,15,18,47,0,9,60,0,6,1.9000000000000057,27
+10664,2010,16,suzuka,True,False,False,False,False,alguersuari,Spanish,toro_rosso,16,11,3,0,18,10,0,9,2.299999999999997,20
+10676,2010,16,suzuka,True,False,False,False,False,liuzzi,Italian,force_india,17,23,13,0,15,60,0,6,2.4000000000000057,30
+10663,2010,16,suzuka,True,False,False,False,False,buemi,Swiss,toro_rosso,18,10,7,0,16,10,0,9,2.799999999999997,21
+10666,2010,16,suzuka,True,False,False,False,False,trulli,Italian,lotus_racing,19,13,0,0,22,0,0,10,4.5,36
+10665,2010,16,suzuka,True,False,False,False,False,kovalainen,Finnish,lotus_racing,20,12,0,0,19,0,0,10,4.700000000000003,28
+10677,2010,16,suzuka,True,False,False,False,False,grassi,Brazilian,virgin,21,24,0,0,21,0,0,12,5.5,26
+10667,2010,16,suzuka,True,False,False,False,False,glock,German,virgin,22,14,0,0,24,0,0,12,5.5,28
+10668,2010,16,suzuka,True,False,False,False,False,bruno_senna,Brazilian,hrt,23,15,0,0,23,0,0,11,6.5,26
+10669,2010,16,suzuka,True,False,False,False,False,yamamoto,Japanese,hrt,24,16,0,0,25,0,0,11,6.6000000000000085,28

@@ -1,0 +1,26 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+3167,1990,14,jerez,True,False,False,False,False,senna,Brazilian,mclaren,1,14,78,6,1,118,6,1,0.0,30
+3154,1990,14,jerez,True,False,False,False,False,prost,French,ferrari,2,1,60,4,2,85,5,2,0.3999999999999915,35
+3155,1990,14,jerez,True,False,False,False,False,mansell,British,ferrari,3,2,25,1,6,85,5,2,0.6999999999999886,37
+3177,1990,14,jerez,True,False,False,False,False,alesi,French,tyrrell,4,24,13,0,9,15,0,5,1.1999999999999886,26
+3166,1990,14,jerez,True,False,False,False,False,berger,Austrian,mclaren,5,13,40,0,3,118,6,1,1.1999999999999886,31
+3158,1990,14,jerez,True,False,False,False,False,patrese,Italian,williams,6,5,17,1,7,44,2,3,1.1999999999999886,36
+3157,1990,14,jerez,True,False,False,False,False,boutsen,Belgian,williams,7,4,27,1,4,44,2,3,1.2999999999999972,33
+3168,1990,14,jerez,True,False,False,False,False,piquet,Brazilian,benetton,8,15,26,0,5,43,0,4,1.2999999999999972,38
+3156,1990,14,jerez,True,False,False,False,False,nannini,Italian,benetton,9,3,17,0,8,43,0,4,2.0,31
+3164,1990,14,jerez,True,False,False,False,False,warwick,British,team_lotus,10,11,3,0,12,3,0,8,2.1999999999999886,36
+3171,1990,14,jerez,True,False,False,False,False,martini,Italian,minardi,11,18,0,0,19,0,0,11,2.6999999999999886,29
+3161,1990,14,jerez,True,False,False,False,False,gugelmin,Brazilian,leyton,12,8,1,0,17,7,0,6,2.799999999999997,27
+3172,1990,14,jerez,True,False,False,False,False,alliot,French,ligier,13,19,0,0,21,0,0,13,2.799999999999997,36
+3174,1990,14,jerez,True,False,False,False,False,satoru_nakajima,Japanese,tyrrell,14,21,2,0,15,15,0,5,2.799999999999997,37
+3159,1990,14,jerez,True,False,False,False,False,suzuki,Japanese,larrousse,15,6,1,0,16,6,0,7,2.799999999999997,30
+3178,1990,14,jerez,True,False,False,False,False,pirro,Italian,dallara,16,25,0,0,24,0,0,14,2.8999999999999915,28
+3169,1990,14,jerez,True,False,False,False,False,cesaris,Italian,dallara,17,16,0,0,25,0,0,14,3.0999999999999943,31
+3173,1990,14,jerez,True,False,False,False,False,bernard,French,larrousse,18,20,5,0,11,6,0,7,3.1999999999999886,26
+3165,1990,14,jerez,True,False,False,False,False,capelli,Italian,leyton,19,12,6,0,10,7,0,6,3.5,27
+3160,1990,14,jerez,True,False,False,False,False,larini,Italian,ligier,20,7,0,0,23,0,0,13,3.5999999999999943,26
+3170,1990,14,jerez,True,False,False,False,False,grouillard,French,osella,21,17,0,0,29,0,0,15,3.899999999999992,32
+3175,1990,14,jerez,True,False,False,False,False,tarquini,Italian,ags,22,22,0,0,0,0,0,16,4.099999999999994,28
+3162,1990,14,jerez,True,False,False,False,False,dalmas,French,ags,23,9,0,0,0,0,0,16,4.299999999999997,29
+3176,1990,14,jerez,True,False,False,False,False,modena,Italian,brabham,24,23,2,0,14,2,0,10,4.699999999999989,27
+3163,1990,14,jerez,True,False,False,False,False,alboreto,Italian,arrows,25,10,0,0,22,2,0,9,4.799999999999997,33

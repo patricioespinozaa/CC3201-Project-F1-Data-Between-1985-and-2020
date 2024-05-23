@@ -1,0 +1,23 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+12331,2014,12,spa,False,False,False,False,True,rosberg,German,mercedes,1,2,202,4,1,393,9,1,0.0,29
+12348,2014,12,spa,False,False,False,False,True,hamilton,British,mercedes,2,19,191,5,2,393,9,1,0.2000000000000028,29
+12334,2014,12,spa,False,False,False,False,True,vettel,German,red_bull,3,5,88,0,6,219,2,2,2.1000000000000085,27
+12336,2014,12,spa,False,False,False,False,True,alonso,Spanish,ferrari,4,7,115,0,4,142,0,3,2.200000000000003,33
+12330,2014,12,spa,False,False,False,False,True,ricciardo,Australian,red_bull,5,1,131,2,3,219,2,2,2.300000000000012,25
+12332,2014,12,spa,False,False,False,False,True,bottas,Finnish,williams,6,3,95,0,5,135,0,4,2.4000000000000057,24
+12341,2014,12,spa,False,False,False,False,True,kevin_magnussen,Danish,mclaren,7,12,37,0,10,97,0,6,3.0999999999999943,21
+12333,2014,12,spa,False,False,False,False,True,raikkonen,Finnish,ferrari,8,4,27,0,12,142,0,3,3.200000000000017,34
+12342,2014,12,spa,False,False,False,False,True,massa,Brazilian,williams,9,13,40,0,9,135,0,4,3.5999999999999943,33
+12335,2014,12,spa,False,False,False,False,True,button,British,mclaren,10,6,60,0,8,97,0,6,4.200000000000017,34
+12338,2014,12,spa,False,False,False,False,True,kvyat,Russian,toro_rosso,11,9,6,0,15,17,0,7,3.8000000000000114,20
+12340,2014,12,spa,False,False,False,False,True,vergne,French,toro_rosso,12,11,11,0,13,17,0,7,4.200000000000017,24
+12337,2014,12,spa,False,False,False,False,True,perez,Mexican,force_india,13,8,29,0,11,98,0,5,4.5,24
+12343,2014,12,spa,False,False,False,False,True,sutil,German,sauber,14,14,0,0,17,0,0,10,4.599999999999994,31
+12349,2014,12,spa,False,False,False,False,True,grosjean,French,lotus_f1,15,20,8,0,14,8,0,8,5.5,28
+12347,2014,12,spa,False,False,False,False,True,jules_bianchi,French,marussia,16,18,2,0,16,2,0,9,6.900000000000006,25
+12350,2014,12,spa,False,False,False,False,True,maldonado,Venezuelan,lotus_f1,17,21,0,0,19,8,0,8,5.700000000000017,29
+12339,2014,12,spa,False,False,False,False,True,hulkenberg,German,force_india,18,10,69,0,7,98,0,5,5.700000000000017,27
+12345,2014,12,spa,False,False,False,False,True,chilton,British,marussia,19,16,0,0,21,2,0,9,7.0,23
+12344,2014,12,spa,False,False,False,False,True,gutierrez,Mexican,sauber,20,15,0,0,20,0,0,10,7.800000000000011,23
+12351,2014,12,spa,False,False,False,False,True,lotterer,German,caterham,21,22,0,0,0,0,0,11,7.900000000000006,32
+12346,2014,12,spa,False,False,False,False,True,ericsson,Swedish,caterham,22,17,0,0,18,0,0,11,8.800000000000011,23

@@ -1,0 +1,27 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+1726,1987,7,silverstone,True,False,False,False,False,piquet,Brazilian,williams,1,2,24,0,3,45,2,1,0.0,34
+1725,1987,7,silverstone,True,False,False,False,False,mansell,British,williams,2,1,21,2,4,45,2,1,0.1000000000000085,33
+1727,1987,7,silverstone,True,False,False,False,False,senna,Brazilian,team_lotus,3,3,27,2,1,30,2,3,1.1000000000000083,27
+1736,1987,7,silverstone,True,False,False,False,False,prost,French,mclaren,4,12,26,2,2,39,2,2,1.5,32
+1731,1987,7,silverstone,True,False,False,False,False,boutsen,Belgian,benetton,5,7,2,0,14,4,0,7,1.9000000000000057,29
+1730,1987,7,silverstone,True,False,False,False,False,fabi,Italian,benetton,6,6,2,0,13,4,0,7,2.1000000000000085,32
+1737,1987,7,silverstone,True,False,False,False,False,alboreto,Italian,ferrari,7,13,8,0,7,17,0,4,2.200000000000003,30
+1747,1987,7,silverstone,True,False,False,False,False,berger,Austrian,ferrari,8,22,9,0,6,17,0,4,2.300000000000012,27
+1746,1987,7,silverstone,True,False,False,False,False,cesaris,Italian,brabham,9,21,4,0,8,4,0,5,2.4000000000000057,28
+1744,1987,7,silverstone,True,False,False,False,False,johansson,Swedish,mclaren,10,19,13,0,5,39,2,2,2.4000000000000057,30
+1743,1987,7,silverstone,True,False,False,False,False,patrese,Italian,brabham,11,18,0,0,21,4,0,5,2.9000000000000057,33
+1728,1987,7,silverstone,True,False,False,False,False,satoru_nakajima,Japanese,team_lotus,12,4,3,0,10,30,2,3,3.5,34
+1729,1987,7,silverstone,True,False,False,False,False,warwick,British,arrows,13,5,0,0,23,4,0,6,3.6000000000000085,32
+1738,1987,7,silverstone,True,False,False,False,False,cheever,American,arrows,14,14,4,0,9,4,0,6,4.0,29
+1745,1987,7,silverstone,True,False,False,False,False,nannini,Italian,minardi,15,20,0,0,26,0,0,15,5.200000000000003,28
+1749,1987,7,silverstone,True,False,False,False,False,arnoux,French,ligier,16,24,1,0,16,1,0,10,5.300000000000011,39
+1735,1987,7,silverstone,True,False,False,False,False,brundle,British,zakspeed,17,11,2,0,12,2,0,9,5.5,28
+1742,1987,7,silverstone,True,False,False,False,False,danner,German,zakspeed,18,17,0,0,18,2,0,9,6.200000000000003,29
+1739,1987,7,silverstone,True,False,False,False,False,campos,Spanish,minardi,19,15,0,0,25,0,0,15,6.300000000000011,27
+1740,1987,7,silverstone,True,False,False,False,False,ghinzani,Italian,ligier,19,26,0,0,19,1,0,10,6.300000000000011,35
+1741,1987,7,silverstone,True,False,False,False,False,caffi,Italian,osella,20,16,0,0,24,0,0,14,6.700000000000003,23
+1748,1987,7,silverstone,True,False,False,False,False,alliot,French,larrousse,21,23,0,0,20,0,0,12,8.5,32
+1734,1987,7,silverstone,True,False,False,False,False,streiff,French,tyrrell,22,10,1,0,15,3,0,8,8.800000000000011,32
+1732,1987,7,silverstone,True,False,False,False,False,palmer,British,tyrrell,23,8,2,0,11,3,0,8,9.400000000000006,30
+1750,1987,7,silverstone,True,False,False,False,False,capelli,Italian,march,24,25,1,0,17,1,0,11,9.5,24
+1733,1987,7,silverstone,True,False,False,False,False,fabre,French,ags,25,9,0,0,22,0,0,13,9.600000000000009,27

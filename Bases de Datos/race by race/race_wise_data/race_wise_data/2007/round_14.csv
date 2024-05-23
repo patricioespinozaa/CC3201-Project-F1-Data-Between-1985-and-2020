@@ -1,0 +1,23 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+9520,2007,14,spa,True,False,True,False,False,raikkonen,Finnish,ferrari,1,1,74,3,3,143,6,1,0.0,27
+9521,2007,14,spa,True,False,True,False,False,massa,Brazilian,ferrari,2,2,69,3,4,143,6,1,0.0,26
+9522,2007,14,spa,True,False,True,False,False,alonso,Spanish,mclaren,3,3,89,4,2,166,7,11,0.0999999999999943,26
+9523,2007,14,spa,True,False,True,False,False,hamilton,British,mclaren,4,4,92,3,1,166,7,11,0.4000000000000057,22
+9525,2007,14,spa,True,False,True,False,False,rosberg,German,williams,5,6,12,0,10,25,0,4,1.2999999999999972,22
+9524,2007,14,spa,True,False,True,False,False,heidfeld,German,bmw_sauber,6,5,52,0,5,86,0,2,1.4000000000000057,30
+9526,2007,14,spa,True,False,True,False,False,webber,Australian,red_bull,7,7,8,0,11,16,0,5,1.5,31
+9530,2007,14,spa,True,False,True,False,False,trulli,Italian,toyota,8,11,7,0,13,12,0,6,1.7999999999999972,33
+9527,2007,14,spa,True,False,True,False,False,kovalainen,Finnish,renault,9,8,21,0,7,38,0,3,2.5,25
+9529,2007,14,spa,True,False,True,False,False,ralf_schumacher,German,toyota,10,10,5,0,14,12,0,6,0.5999999999999943,32
+9539,2007,14,spa,True,False,True,False,False,coulthard,British,red_bull,11,20,8,0,12,16,0,5,0.7999999999999972,36
+9537,2007,14,spa,True,False,True,False,False,button,British,honda,12,18,2,0,16,2,0,8,1.0,27
+9531,2007,14,spa,True,False,True,False,False,liuzzi,Italian,toro_rosso,13,12,0,0,23,0,0,9,1.0999999999999943,27
+9528,2007,14,spa,True,False,True,False,False,kubica,Polish,bmw_sauber,14,9,33,0,6,86,0,2,1.0,22
+9538,2007,14,spa,True,False,True,False,False,wurz,Austrian,williams,15,19,13,0,9,25,0,4,1.4000000000000057,33
+9540,2007,14,spa,True,False,True,False,False,vettel,German,toro_rosso,16,21,1,0,17,0,0,9,1.5999999999999943,20
+9532,2007,14,spa,True,False,True,False,False,barrichello,Brazilian,honda,17,13,0,0,18,2,0,8,2.0,35
+9534,2007,14,spa,True,False,True,False,False,sato,Japanese,super_aguri,18,15,4,0,15,4,0,7,2.0,30
+9533,2007,14,spa,True,False,True,False,False,sutil,German,spyker,19,14,0,0,21,0,0,10,2.0,24
+9535,2007,14,spa,True,False,True,False,False,davidson,British,super_aguri,20,16,0,0,20,4,0,7,2.200000000000003,28
+9536,2007,14,spa,True,False,True,False,False,yamamoto,Japanese,spyker,21,17,0,0,24,0,0,10,3.5999999999999943,25
+9541,2007,14,spa,True,False,True,False,False,fisichella,Italian,renault,22,22,17,0,8,38,0,3,0.5999999999999943,34

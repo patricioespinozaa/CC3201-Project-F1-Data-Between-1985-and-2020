@@ -1,0 +1,27 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+1762,1987,8,hockenheimring,False,False,False,False,False,mansell,British,williams,1,12,30,3,2,60,3,1,0.0,33
+1753,1987,8,hockenheimring,False,False,False,False,False,senna,Brazilian,team_lotus,2,3,31,2,1,37,2,3,0.3000000000000113,27
+1757,1987,8,hockenheimring,False,False,False,False,False,prost,French,mclaren,3,7,26,2,4,39,2,2,0.6000000000000085,32
+1751,1987,8,hockenheimring,False,False,False,False,False,piquet,Brazilian,williams,4,1,30,0,3,60,3,1,1.1000000000000083,34
+1770,1987,8,hockenheimring,False,False,False,False,False,alboreto,Italian,ferrari,5,20,8,0,7,17,0,4,1.3000000000000114,30
+1761,1987,8,hockenheimring,False,False,False,False,False,boutsen,Belgian,benetton,6,11,2,0,14,5,0,6,2.5,30
+1769,1987,8,hockenheimring,False,False,False,False,False,cesaris,Italian,brabham,7,19,4,0,9,4,0,7,2.800000000000012,28
+1752,1987,8,hockenheimring,False,False,False,False,False,johansson,Swedish,mclaren,8,2,13,0,5,39,2,2,2.800000000000012,30
+1767,1987,8,hockenheimring,False,False,False,False,False,fabi,Italian,benetton,9,17,3,0,11,5,0,6,2.9000000000000057,32
+1766,1987,8,hockenheimring,False,False,False,False,False,berger,Austrian,ferrari,10,16,9,0,6,17,0,4,3.300000000000012,27
+1776,1987,8,hockenheimring,False,False,False,False,False,patrese,Italian,brabham,11,26,0,0,23,4,0,7,3.5,33
+1775,1987,8,hockenheimring,False,False,False,False,False,arnoux,French,ligier,12,25,1,0,17,1,0,10,3.700000000000003,39
+1764,1987,8,hockenheimring,False,False,False,False,False,warwick,British,arrows,13,14,2,0,15,6,0,5,3.9000000000000057,32
+1773,1987,8,hockenheimring,False,False,False,False,False,satoru_nakajima,Japanese,team_lotus,14,23,6,0,8,37,2,3,4.200000000000003,34
+1772,1987,8,hockenheimring,False,False,False,False,False,cheever,American,arrows,15,22,4,0,10,6,0,5,5.200000000000003,29
+1763,1987,8,hockenheimring,False,False,False,False,False,nannini,Italian,minardi,16,13,0,0,26,0,0,15,5.300000000000011,28
+1759,1987,8,hockenheimring,False,False,False,False,False,ghinzani,Italian,ligier,17,9,0,0,20,1,0,10,6.6000000000000085,35
+1760,1987,8,hockenheimring,False,False,False,False,False,campos,Spanish,minardi,18,10,0,0,25,0,0,15,7.1000000000000085,27
+1758,1987,8,hockenheimring,False,False,False,False,False,brundle,British,zakspeed,19,8,2,0,13,2,0,9,8.5,28
+1765,1987,8,hockenheimring,False,False,False,False,False,danner,German,zakspeed,20,15,0,0,19,2,0,9,8.800000000000011,29
+1756,1987,8,hockenheimring,False,False,False,False,False,alliot,French,larrousse,21,6,0,0,21,0,0,12,10.200000000000005,32
+1754,1987,8,hockenheimring,False,False,False,False,False,streiff,French,tyrrell,22,4,1,0,16,3,0,8,10.900000000000006,32
+1755,1987,8,hockenheimring,False,False,False,False,False,palmer,British,tyrrell,23,5,2,0,12,3,0,8,11.900000000000006,30
+1774,1987,8,hockenheimring,False,False,False,False,False,capelli,Italian,march,24,24,1,0,18,1,0,11,12.0,24
+1771,1987,8,hockenheimring,False,False,False,False,False,fabre,French,ags,25,21,0,0,22,0,0,13,12.400000000000006,27
+1768,1987,8,hockenheimring,False,False,False,False,False,caffi,Italian,osella,26,18,0,0,24,0,0,14,25.200000000000003,23

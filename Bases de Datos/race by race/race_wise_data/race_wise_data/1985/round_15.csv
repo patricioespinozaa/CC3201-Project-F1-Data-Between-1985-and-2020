@@ -1,0 +1,21 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+1124,1985,15,kyalami,False,False,True,False,False,mansell,British,williams,1,1,22,1,6,47,2,4,0.0,32
+1137,1985,15,kyalami,False,False,True,False,False,piquet,Brazilian,brabham,2,14,21,1,7,26,1,5,0.1000000000000014,33
+1125,1985,15,kyalami,False,False,True,False,False,keke_rosberg,Finnish,williams,3,2,25,1,5,47,2,4,0.1000000000000014,36
+1135,1985,15,kyalami,False,False,True,False,False,senna,Brazilian,team_lotus,4,12,38,2,3,71,3,3,0.3999999999999986,25
+1140,1985,15,kyalami,False,False,True,False,False,surer,Swiss,brabham,5,17,5,0,13,26,1,5,1.6999999999999955,34
+1131,1985,15,kyalami,False,False,True,False,False,angelis,Italian,team_lotus,6,8,33,1,4,71,3,3,1.6999999999999955,27
+1139,1985,15,kyalami,False,False,True,False,False,fabi,Italian,toleman,7,16,0,0,30,0,0,15,1.8000000000000045,30
+1133,1985,15,kyalami,False,False,True,False,False,lauda,Austrian,mclaren,8,10,14,1,9,86,6,1,1.8999999999999984,36
+1126,1985,15,kyalami,False,False,True,False,False,prost,French,mclaren,9,3,72,5,1,86,6,1,2.000000000000007,30
+1129,1985,15,kyalami,False,False,True,False,False,boutsen,Belgian,arrows,10,6,10,0,11,10,0,8,2.1000000000000014,28
+1128,1985,15,kyalami,False,False,True,False,False,berger,Austrian,arrows,11,5,0,0,19,10,0,8,2.3999999999999986,26
+1141,1985,15,kyalami,False,False,True,False,False,patrese,Italian,alfa,12,19,0,0,22,0,0,10,2.500000000000007,31
+1138,1985,15,kyalami,False,False,True,False,False,ghinzani,Italian,toleman,13,15,0,0,24,0,0,15,2.699999999999996,33
+1142,1985,15,kyalami,False,False,True,False,False,cheever,American,alfa,14,20,0,0,23,0,0,10,2.8999999999999986,27
+1136,1985,15,kyalami,False,False,True,False,False,alboreto,Italian,ferrari,15,13,53,2,2,77,2,2,2.8999999999999986,28
+1127,1985,15,kyalami,False,False,True,False,False,johansson,Swedish,ferrari,16,4,21,0,8,77,2,2,3.000000000000007,29
+1130,1985,15,kyalami,False,False,True,False,False,brundle,British,tyrrell,17,7,0,0,18,4,0,9,3.199999999999996,26
+1143,1985,15,kyalami,False,False,True,False,False,jones,Australian,lola,18,21,0,0,0,0,0,17,3.800000000000004,38
+1134,1985,15,kyalami,False,False,True,False,False,streiff,French,tyrrell,19,11,0,0,21,4,0,9,6.300000000000004,30
+1132,1985,15,kyalami,False,False,True,False,False,martini,Italian,minardi,20,9,0,0,27,0,0,13,7.500000000000007,24

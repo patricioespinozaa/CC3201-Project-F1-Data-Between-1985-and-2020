@@ -1,0 +1,24 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+10583,2010,13,spa,False,False,False,True,False,webber,Australian,red_bull,1,2,161,4,1,312,6,1,0.0,34
+10582,2010,13,spa,False,False,False,True,False,hamilton,British,mclaren,2,1,157,2,2,304,4,2,0.1000000000000085,25
+10584,2010,13,spa,False,False,False,True,False,kubica,Polish,renault,3,3,89,0,8,106,0,5,0.2999999999999971,25
+10596,2010,13,spa,False,False,False,True,False,vettel,German,red_bull,4,15,151,2,3,312,6,1,0.2999999999999971,23
+10603,2010,13,spa,False,False,False,True,False,button,British,mclaren,5,22,147,2,4,304,4,2,0.4000000000000057,30
+10585,2010,13,spa,False,False,False,True,False,massa,Brazilian,ferrari,6,4,97,0,6,238,2,3,0.5,29
+10605,2010,13,spa,False,False,False,True,False,barrichello,Brazilian,williams,7,24,30,0,11,40,0,7,0.7999999999999972,38
+10586,2010,13,spa,False,False,False,True,False,sutil,German,force_india,8,5,35,0,10,47,0,6,0.9000000000000057,27
+10595,2010,13,spa,False,False,False,True,False,hulkenberg,German,williams,9,14,10,0,15,40,0,7,1.2999999999999972,23
+10602,2010,13,spa,False,False,False,True,False,alonso,Spanish,ferrari,10,21,141,2,5,238,2,3,1.6000000000000083,29
+10594,2010,13,spa,False,False,False,True,False,alguersuari,Spanish,toro_rosso,11,13,3,0,18,10,0,9,2.5,20
+10591,2010,13,spa,False,False,False,True,False,liuzzi,Italian,force_india,12,10,12,0,14,47,0,6,2.9000000000000057,30
+10597,2010,13,spa,False,False,False,True,False,kovalainen,Finnish,lotus_racing,13,16,0,0,19,0,0,10,5.200000000000003,28
+10587,2010,13,spa,False,False,False,True,False,rosberg,German,mercedes,14,6,94,0,7,132,0,4,2.1000000000000085,25
+10600,2010,13,spa,False,False,False,True,False,trulli,Italian,lotus_racing,15,19,0,0,22,0,0,10,15.700000000000005,36
+10593,2010,13,spa,False,False,False,True,False,buemi,Swiss,toro_rosso,16,12,7,0,16,10,0,9,3.4000000000000057,21
+10589,2010,13,spa,False,False,False,True,False,kobayashi,Japanese,sauber,17,8,17,0,13,23,0,8,16.5,23
+10604,2010,13,spa,False,False,False,True,False,bruno_senna,Brazilian,hrt,18,23,0,0,23,0,0,11,17.799999999999997,26
+10601,2010,13,spa,False,False,False,True,False,yamamoto,Japanese,hrt,19,20,0,0,25,0,0,11,18.10000000000001,28
+10599,2010,13,spa,False,False,False,True,False,glock,German,virgin,20,18,0,0,24,0,0,12,6.200000000000003,28
+10588,2010,13,spa,False,False,False,True,False,michael_schumacher,German,mercedes,21,7,38,0,9,132,0,4,2.1000000000000085,41
+10598,2010,13,spa,False,False,False,True,False,grassi,Brazilian,virgin,22,17,0,0,21,0,0,12,33.000000000000014,26
+10592,2010,13,spa,False,False,False,True,False,rosa,Spanish,sauber,24,11,6,0,17,23,0,8,19.5,39

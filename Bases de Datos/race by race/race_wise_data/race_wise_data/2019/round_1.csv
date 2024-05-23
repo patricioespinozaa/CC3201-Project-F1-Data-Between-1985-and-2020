@@ -1,0 +1,21 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+14129,2019,1,albert_park,False,False,False,False,False,hamilton,British,mercedes,1,2,0,0,0,0,0,0,0.0,34
+14128,2019,1,albert_park,False,False,False,False,False,bottas,Finnish,mercedes,2,1,0,0,0,0,0,0,0.0999999999999943,29
+14131,2019,1,albert_park,False,False,False,False,False,vettel,German,ferrari,3,4,0,0,0,0,0,0,0.7000000000000028,31
+14130,2019,1,albert_park,False,False,False,False,False,max_verstappen,Dutch,red_bull,4,3,0,0,0,0,0,0,0.7999999999999972,21
+14132,2019,1,albert_park,False,False,False,False,False,leclerc,Monegasque,ferrari,5,5,0,0,0,0,0,0,0.9000000000000057,21
+14145,2019,1,albert_park,False,False,False,False,False,grosjean,French,haas,6,18,0,0,0,0,0,0,1.2999999999999972,32
+14133,2019,1,albert_park,False,False,False,False,False,kevin_magnussen,Danish,haas,7,6,0,0,0,0,0,0,1.5999999999999943,26
+14139,2019,1,albert_park,False,False,False,False,False,norris,British,mclaren,8,12,0,0,0,0,0,0,1.7999999999999972,19
+14135,2019,1,albert_park,False,False,False,False,False,raikkonen,Finnish,alfa,9,8,0,0,0,0,0,0,1.7999999999999972,39
+14140,2019,1,albert_park,False,False,False,False,False,perez,Mexican,racing_point,10,13,0,0,0,0,0,0,2.299999999999997,29
+14134,2019,1,albert_park,False,False,False,False,False,hulkenberg,German,renault,11,7,0,0,0,0,0,0,2.0999999999999943,31
+14146,2019,1,albert_park,False,False,False,False,False,ricciardo,Australian,renault,12,19,0,0,0,0,0,0,2.0999999999999943,29
+14141,2019,1,albert_park,False,False,False,False,False,albon,Thai,toro_rosso,13,14,0,0,0,0,0,0,2.0999999999999943,22
+14142,2019,1,albert_park,False,False,False,False,False,giovinazzi,Italian,alfa,14,15,0,0,0,0,0,0,2.200000000000003,25
+14137,2019,1,albert_park,False,False,False,False,False,kvyat,Russian,toro_rosso,15,10,0,0,0,0,0,0,2.299999999999997,24
+14136,2019,1,albert_park,False,False,False,False,False,stroll,Canadian,racing_point,16,9,0,0,0,0,0,0,2.5,20
+14138,2019,1,albert_park,False,False,False,False,False,gasly,French,red_bull,17,11,0,0,0,0,0,0,2.5,23
+14147,2019,1,albert_park,False,False,False,False,False,sainz,Spanish,mclaren,18,20,0,0,0,0,0,0,2.5999999999999943,24
+14143,2019,1,albert_park,False,False,False,False,False,russell,British,williams,19,16,0,0,0,0,0,0,3.9000000000000057,21
+14144,2019,1,albert_park,False,False,False,False,False,kubica,Polish,williams,20,17,0,0,0,0,0,0,5.599999999999994,34

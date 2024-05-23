@@ -1,0 +1,27 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+2175,1988,8,silverstone,False,True,False,True,False,berger,Austrian,ferrari,1,9,21,0,3,34,0,2,0.0,28
+2183,1988,8,silverstone,False,True,False,True,False,alboreto,Italian,ferrari,2,17,13,0,4,34,0,2,0.2000000000000028,31
+2167,1988,8,silverstone,False,True,False,True,False,senna,Brazilian,mclaren,3,1,39,3,2,93,7,1,0.5,28
+2188,1988,8,silverstone,False,True,False,True,False,prost,French,mclaren,4,22,54,4,1,93,7,1,0.6000000000000085,33
+2170,1988,8,silverstone,False,True,False,True,False,gugelmin,Brazilian,march,5,4,0,0,19,2,0,8,1.6000000000000083,25
+2187,1988,8,silverstone,False,True,False,True,False,capelli,Italian,march,6,21,2,0,10,2,0,8,1.9000000000000057,25
+2171,1988,8,silverstone,False,True,False,True,False,piquet,Brazilian,team_lotus,7,5,13,0,5,14,0,3,1.9000000000000057,35
+2169,1988,8,silverstone,False,True,False,True,False,nannini,Italian,benetton,8,3,2,0,11,13,0,4,2.6000000000000085,29
+2172,1988,8,silverstone,False,True,False,True,False,warwick,British,arrows,9,6,8,0,7,9,0,5,2.700000000000003,33
+2176,1988,8,silverstone,False,True,False,True,False,satoru_nakajima,Japanese,team_lotus,10,10,1,0,12,14,0,3,2.800000000000012,35
+2168,1988,8,silverstone,False,True,False,True,False,mansell,British,williams,11,2,0,0,0,1,0,10,2.800000000000012,34
+2186,1988,8,silverstone,False,True,False,True,False,boutsen,Belgian,benetton,12,20,11,0,6,13,0,4,2.9000000000000057,30
+2173,1988,8,silverstone,False,True,False,True,False,cheever,American,arrows,13,7,1,0,13,9,0,5,2.9000000000000057,30
+2190,1988,8,silverstone,False,True,False,True,False,cesaris,Italian,rial,14,24,3,0,9,3,0,7,3.300000000000012,29
+2174,1988,8,silverstone,False,True,False,True,False,patrese,Italian,williams,15,8,1,0,14,1,0,10,3.6000000000000085,34
+2191,1988,8,silverstone,False,True,False,True,False,streiff,French,ags,16,25,0,0,23,0,0,16,4.200000000000003,33
+2189,1988,8,silverstone,False,True,False,True,False,palmer,British,tyrrell,17,23,5,0,8,5,0,6,4.400000000000006,31
+2192,1988,8,silverstone,False,True,False,True,False,sala,Spanish,minardi,18,26,0,0,25,1,0,9,4.5,29
+2181,1988,8,silverstone,False,True,False,True,False,martini,Italian,minardi,19,15,1,0,15,1,0,9,4.6000000000000085,27
+2178,1988,8,silverstone,False,True,False,True,False,modena,Italian,eurobrun,20,12,0,0,26,0,0,17,4.800000000000011,25
+2177,1988,8,silverstone,False,True,False,True,False,caffi,Italian,dallara,21,11,0,0,17,0,0,12,4.800000000000011,24
+2180,1988,8,silverstone,False,True,False,True,False,alliot,French,larrousse,22,14,0,0,24,0,0,11,4.900000000000006,33
+2179,1988,8,silverstone,False,True,False,True,False,dalmas,French,larrousse,23,13,0,0,16,0,0,11,4.900000000000006,26
+2182,1988,8,silverstone,False,True,False,True,False,bailey,British,tyrrell,24,16,0,0,22,5,0,6,5.0,26
+2184,1988,8,silverstone,False,True,False,True,False,arnoux,French,ligier,25,18,0,0,0,0,0,14,5.300000000000011,40
+2185,1988,8,silverstone,False,True,False,True,False,larini,Italian,osella,26,19,0,0,21,0,0,15,5.400000000000006,24

@@ -1,0 +1,21 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+5295,1996,1,albert_park,False,False,True,False,False,villeneuve,Canadian,williams,1,2,0,0,0,0,0,0,0.0,24
+5294,1996,1,albert_park,False,False,True,False,False,damon_hill,British,williams,2,1,0,0,0,0,0,0,0.0999999999999943,35
+5296,1996,1,albert_park,False,False,True,False,False,irvine,British,ferrari,3,3,0,0,0,0,0,0,0.5,30
+5306,1996,1,albert_park,False,False,True,False,False,michael_schumacher,German,ferrari,4,13,0,0,0,0,0,0,0.6999999999999886,27
+5298,1996,1,albert_park,False,False,True,False,False,hakkinen,Finnish,mclaren,5,5,0,0,0,0,0,0,1.6999999999999886,27
+5311,1996,1,albert_park,False,False,True,False,False,alesi,French,benetton,6,18,0,0,0,0,0,0,1.8999999999999917,31
+5297,1996,1,albert_park,False,False,True,False,False,berger,Austrian,benetton,7,4,0,0,0,0,0,0,1.8999999999999917,36
+5308,1996,1,albert_park,False,False,True,False,False,barrichello,Brazilian,jordan,8,15,0,0,0,0,0,0,2.0999999999999943,23
+5301,1996,1,albert_park,False,False,True,False,False,frentzen,German,sauber,9,8,0,0,0,0,0,0,2.0999999999999943,28
+5299,1996,1,albert_park,False,False,True,False,False,salo,Finnish,tyrrell,10,6,0,0,0,0,0,0,2.3999999999999915,29
+5300,1996,1,albert_park,False,False,True,False,False,panis,French,ligier,11,7,0,0,0,0,0,0,2.8999999999999915,29
+5310,1996,1,albert_park,False,False,True,False,False,verstappen,Dutch,footwork,12,17,0,0,0,0,0,0,2.8999999999999915,24
+5309,1996,1,albert_park,False,False,True,False,False,coulthard,British,mclaren,13,16,0,0,0,0,0,0,3.0,24
+5313,1996,1,albert_park,False,False,True,False,False,herbert,British,sauber,14,20,0,0,0,0,0,0,3.0999999999999943,31
+5304,1996,1,albert_park,False,False,True,False,False,katayama,Japanese,tyrrell,15,11,0,0,0,0,0,0,3.299999999999997,32
+5307,1996,1,albert_park,False,False,True,False,False,fisichella,Italian,minardi,16,14,0,0,0,0,0,0,3.5,23
+5305,1996,1,albert_park,False,False,True,False,False,lamy,Portuguese,minardi,17,12,0,0,0,0,0,0,3.6999999999999886,23
+5302,1996,1,albert_park,False,False,True,False,False,rosset,Brazilian,footwork,18,9,0,0,0,0,0,0,3.799999999999997,27
+5312,1996,1,albert_park,False,False,True,False,False,brundle,British,jordan,19,19,0,0,0,0,0,0,3.899999999999992,36
+5303,1996,1,albert_park,False,False,True,False,False,diniz,Brazilian,ligier,20,10,0,0,0,0,0,0,3.899999999999992,25

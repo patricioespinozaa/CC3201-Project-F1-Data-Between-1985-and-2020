@@ -1,0 +1,27 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+2011,1988,2,imola,True,False,False,False,False,senna,Brazilian,mclaren,1,1,0,0,0,9,1,1,0.0,28
+2012,1988,2,imola,True,False,False,False,False,prost,French,mclaren,2,2,9,1,1,9,1,1,0.8000000000000114,33
+2013,1988,2,imola,True,False,False,False,False,piquet,Brazilian,team_lotus,3,3,4,0,3,5,0,3,3.4000000000000057,35
+2016,1988,2,imola,True,False,False,False,False,nannini,Italian,benetton,4,6,0,0,20,0,0,5,3.5,28
+2015,1988,2,imola,True,False,False,False,False,berger,Austrian,ferrari,5,5,6,0,2,8,0,2,3.6000000000000085,28
+2023,1988,2,imola,True,False,False,False,False,patrese,Italian,williams,6,13,0,0,21,0,0,14,3.9000000000000057,34
+2017,1988,2,imola,True,False,False,False,False,cheever,American,arrows,7,7,0,0,8,3,0,4,4.200000000000003,30
+2014,1988,2,imola,True,False,False,False,False,boutsen,Belgian,benetton,8,4,0,0,7,0,0,5,4.300000000000011,30
+2035,1988,2,imola,True,False,False,False,False,capelli,Italian,march,9,25,0,0,22,0,0,15,4.400000000000006,24
+2028,1988,2,imola,True,False,False,False,False,alboreto,Italian,ferrari,10,18,2,0,5,8,0,2,4.400000000000006,31
+2031,1988,2,imola,True,False,False,False,False,mansell,British,williams,11,21,0,0,19,0,0,14,4.5,34
+2018,1988,2,imola,True,False,False,False,False,satoru_nakajima,Japanese,team_lotus,12,8,1,0,6,5,0,3,4.5,35
+2020,1988,2,imola,True,False,False,False,False,streiff,French,ags,13,10,0,0,15,0,0,12,4.900000000000006,32
+2019,1988,2,imola,True,False,False,False,False,warwick,British,arrows,14,9,3,0,4,3,0,4,5.400000000000006,33
+2027,1988,2,imola,True,False,False,False,False,alliot,French,larrousse,15,17,0,0,13,0,0,10,5.6000000000000085,33
+2036,1988,2,imola,True,False,False,False,False,cesaris,Italian,rial,16,26,0,0,10,0,0,7,5.900000000000006,28
+2032,1988,2,imola,True,False,False,False,False,tarquini,Italian,coloni,17,22,0,0,14,0,0,11,6.1000000000000085,26
+2021,1988,2,imola,True,False,False,False,False,sala,Spanish,minardi,18,11,0,0,12,0,0,9,6.1000000000000085,28
+2022,1988,2,imola,True,False,False,False,False,dalmas,French,larrousse,19,12,0,0,16,0,0,10,6.300000000000011,26
+2025,1988,2,imola,True,False,False,False,False,gugelmin,Brazilian,march,20,15,0,0,24,0,0,15,6.300000000000011,25
+2030,1988,2,imola,True,False,False,False,False,bailey,British,tyrrell,21,20,0,0,26,0,0,8,6.800000000000011,26
+2026,1988,2,imola,True,False,False,False,False,campos,Spanish,minardi,22,16,0,0,23,0,0,9,6.800000000000011,27
+2024,1988,2,imola,True,False,False,False,False,palmer,British,tyrrell,23,14,0,0,11,0,0,8,6.900000000000006,31
+2033,1988,2,imola,True,False,False,False,False,caffi,Italian,dallara,24,23,0,0,30,0,0,18,7.1000000000000085,24
+2034,1988,2,imola,True,False,False,False,False,ghinzani,Italian,zakspeed,25,24,0,0,27,0,0,16,7.5,36
+2029,1988,2,imola,True,False,False,False,False,modena,Italian,eurobrun,26,19,0,0,18,0,0,13,7.700000000000003,24

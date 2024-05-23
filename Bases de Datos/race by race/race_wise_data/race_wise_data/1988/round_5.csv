@@ -1,0 +1,27 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+2089,1988,5,villeneuve,True,False,False,False,False,senna,Brazilian,mclaren,1,1,15,1,3,48,4,1,0.0,28
+2090,1988,5,villeneuve,True,False,False,False,False,prost,French,mclaren,2,2,33,3,1,48,4,1,0.2000000000000028,33
+2111,1988,5,villeneuve,True,False,False,False,False,berger,Austrian,ferrari,3,23,18,0,2,27,0,2,1.0,28
+2106,1988,5,villeneuve,True,False,False,False,False,alboreto,Italian,ferrari,4,18,9,0,4,27,0,2,1.5999999999999943,31
+2112,1988,5,villeneuve,True,False,False,False,False,nannini,Italian,benetton,5,24,1,0,10,4,0,5,2.299999999999997,28
+2092,1988,5,villeneuve,True,False,False,False,False,piquet,Brazilian,team_lotus,6,4,8,0,5,9,0,3,2.299999999999997,35
+2091,1988,5,villeneuve,True,False,False,False,False,boutsen,Belgian,benetton,7,3,3,0,7,4,0,5,2.3999999999999915,30
+2108,1988,5,villeneuve,True,False,False,False,False,cheever,American,arrows,8,20,1,0,9,9,0,4,3.0,30
+2109,1988,5,villeneuve,True,False,False,False,False,mansell,British,williams,9,21,0,0,26,1,0,7,3.0999999999999943,34
+2104,1988,5,villeneuve,True,False,False,False,False,streiff,French,ags,10,16,0,0,16,0,0,11,3.299999999999997,32
+2107,1988,5,villeneuve,True,False,False,False,False,patrese,Italian,williams,11,19,1,0,12,1,0,7,3.299999999999997,34
+2097,1988,5,villeneuve,True,False,False,False,False,cesaris,Italian,rial,12,9,0,0,25,0,0,17,3.299999999999997,29
+2099,1988,5,villeneuve,True,False,False,False,False,satoru_nakajima,Japanese,team_lotus,13,11,1,0,11,9,0,3,3.700000000000003,35
+2093,1988,5,villeneuve,True,False,False,False,False,capelli,Italian,march,14,5,0,0,17,0,0,12,3.899999999999992,25
+2100,1988,5,villeneuve,True,False,False,False,False,modena,Italian,eurobrun,15,12,0,0,28,0,0,14,4.0,25
+2095,1988,5,villeneuve,True,False,False,False,False,warwick,British,arrows,16,7,8,0,6,9,0,4,4.0,33
+2098,1988,5,villeneuve,True,False,False,False,False,alliot,French,larrousse,17,10,0,0,24,0,0,8,4.099999999999994,33
+2103,1988,5,villeneuve,True,False,False,False,False,gugelmin,Brazilian,march,18,15,0,0,21,0,0,12,4.200000000000003,25
+2094,1988,5,villeneuve,True,False,False,False,False,palmer,British,tyrrell,19,6,2,0,8,2,0,6,4.399999999999992,31
+2105,1988,5,villeneuve,True,False,False,False,False,arnoux,French,ligier,20,17,0,0,27,0,0,9,4.599999999999994,39
+2101,1988,5,villeneuve,True,False,False,False,False,sala,Spanish,minardi,21,13,0,0,18,0,0,13,4.700000000000003,29
+2102,1988,5,villeneuve,True,False,False,False,False,ghinzani,Italian,zakspeed,22,14,0,0,22,0,0,16,5.099999999999994,36
+2114,1988,5,villeneuve,True,False,False,False,False,bailey,British,tyrrell,23,26,0,0,29,2,0,6,5.399999999999992,26
+2113,1988,5,villeneuve,True,False,False,False,False,larrauri,Argentine,eurobrun,24,25,0,0,19,0,0,14,5.599999999999994,33
+2110,1988,5,villeneuve,True,False,False,False,False,johansson,Swedish,ligier,25,22,0,0,14,0,0,9,5.899999999999992,31
+2096,1988,5,villeneuve,True,False,False,False,False,tarquini,Italian,coloni,26,8,0,0,20,0,0,15,6.0,26

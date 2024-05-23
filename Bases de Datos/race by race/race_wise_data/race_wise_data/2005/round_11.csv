@@ -1,0 +1,20 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+8664,2005,11,silverstone,False,False,False,False,False,alonso,Spanish,renault,1,2,69,5,1,89,6,1,0.0,23
+8667,2005,11,silverstone,False,False,False,False,False,button,British,bar,2,5,5,0,16,5,0,10,0.2999999999999971,25
+8663,2005,11,silverstone,False,False,False,False,False,montoya,Colombian,mclaren,3,1,16,0,11,71,3,2,0.5,29
+8671,2005,11,silverstone,False,False,False,False,False,trulli,Italian,toyota,4,9,31,0,4,53,0,4,0.5999999999999943,30
+8669,2005,11,silverstone,False,False,False,False,False,barrichello,Brazilian,ferrari,5,7,29,0,5,69,1,3,1.0,33
+8666,2005,11,silverstone,False,False,False,False,False,fisichella,Italian,renault,6,4,20,1,9,89,6,1,1.0999999999999943,32
+8678,2005,11,silverstone,False,False,False,False,False,sato,Japanese,bar,7,16,0,0,23,5,0,10,1.1999999999999886,28
+8670,2005,11,silverstone,False,False,False,False,False,ralf_schumacher,German,toyota,8,8,22,0,8,53,0,4,1.2999999999999972,30
+8668,2005,11,silverstone,False,False,False,False,False,michael_schumacher,German,ferrari,9,6,40,1,3,69,1,3,1.3999999999999917,36
+8676,2005,11,silverstone,False,False,False,False,False,villeneuve,Canadian,sauber,10,14,6,0,15,13,0,7,1.5,34
+8673,2005,11,silverstone,False,False,False,False,False,webber,Australian,williams,11,11,22,0,7,47,0,5,2.0999999999999943,28
+8665,2005,11,silverstone,False,False,False,False,False,raikkonen,Finnish,mclaren,12,3,45,3,2,71,3,2,0.0,25
+8675,2005,11,silverstone,False,False,False,False,False,coulthard,British,red_bull,13,13,17,0,10,22,0,6,2.1999999999999886,34
+8674,2005,11,silverstone,False,False,False,False,False,heidfeld,German,williams,14,12,25,0,6,47,0,5,2.1999999999999886,28
+8677,2005,11,silverstone,False,False,False,False,False,klien,Austrian,red_bull,15,15,4,0,20,22,0,6,2.299999999999997,22
+8672,2005,11,silverstone,False,False,False,False,False,massa,Brazilian,sauber,16,10,7,0,12,13,0,7,2.5999999999999943,24
+8682,2005,11,silverstone,False,False,False,False,False,karthikeyan,Indian,jordan,17,20,5,0,17,11,0,8,3.6999999999999886,28
+8680,2005,11,silverstone,False,False,False,False,False,albers,Dutch,minardi,18,18,4,0,18,7,0,9,4.699999999999989,26
+8681,2005,11,silverstone,False,False,False,False,False,friesacher,Austrian,minardi,19,19,3,0,21,7,0,9,5.699999999999989,24

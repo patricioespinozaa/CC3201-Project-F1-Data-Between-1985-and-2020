@@ -1,0 +1,23 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+5644,1997,2,interlagos,False,False,True,False,True,villeneuve,Canadian,williams,1,1,0,0,0,0,0,6,0.0,25
+5648,1997,2,interlagos,False,False,True,False,True,michael_schumacher,German,ferrari,2,5,6,0,2,6,0,2,0.5999999999999943,28
+5645,1997,2,interlagos,False,False,True,False,True,berger,Austrian,benetton,3,2,3,0,4,3,0,3,0.5999999999999943,37
+5647,1997,2,interlagos,False,False,True,False,True,hakkinen,Finnish,mclaren,4,4,4,0,3,14,1,1,0.7000000000000028,28
+5646,1997,2,interlagos,False,False,True,False,True,panis,French,prost,5,3,2,0,5,2,0,4,0.7999999999999972,30
+5649,1997,2,interlagos,False,False,True,False,True,alesi,French,benetton,6,6,0,0,0,3,0,3,0.7999999999999972,32
+5651,1997,2,interlagos,False,False,True,False,True,fisichella,Italian,jordan,7,8,0,0,0,0,0,0,0.9000000000000057,24
+5652,1997,2,interlagos,False,False,True,False,True,frentzen,German,williams,8,9,0,0,8,0,0,6,1.0,29
+5660,1997,2,interlagos,False,False,True,False,True,damon_hill,British,arrows,9,17,0,0,0,0,0,8,1.0999999999999943,36
+5662,1997,2,interlagos,False,False,True,False,True,ralf_schumacher,German,jordan,10,19,0,0,0,0,0,0,1.2000000000000028,21
+5663,1997,2,interlagos,False,False,True,False,True,barrichello,Brazilian,stewart,11,20,0,0,0,0,0,0,1.2999999999999972,24
+5653,1997,2,interlagos,False,False,True,False,True,coulthard,British,mclaren,12,10,10,1,1,14,1,1,1.2999999999999972,26
+5650,1997,2,interlagos,False,False,True,False,True,herbert,British,sauber,13,7,0,0,0,1,0,5,1.4000000000000057,32
+5659,1997,2,interlagos,False,False,True,False,True,irvine,British,ferrari,14,16,0,0,0,6,0,2,1.5,31
+5657,1997,2,interlagos,False,False,True,False,True,nakano,Japanese,prost,15,14,0,0,7,2,0,4,2.0,25
+5664,1997,2,interlagos,False,False,True,False,True,diniz,Brazilian,arrows,16,21,0,0,10,0,0,8,2.0999999999999943,26
+5655,1997,2,interlagos,False,False,True,False,True,trulli,Italian,minardi,17,12,0,0,9,0,0,7,2.299999999999997,22
+5661,1997,2,interlagos,False,False,True,False,True,katayama,Japanese,minardi,18,18,0,0,0,0,0,7,2.5999999999999943,33
+5654,1997,2,interlagos,False,False,True,False,True,larini,Italian,sauber,19,11,1,0,6,1,0,5,2.5999999999999943,33
+5665,1997,2,interlagos,False,False,True,False,True,magnussen,Danish,stewart,20,22,0,0,0,0,0,0,2.799999999999997,23
+5658,1997,2,interlagos,False,False,True,False,True,verstappen,Dutch,tyrrell,21,15,0,0,0,0,0,0,2.9000000000000057,25
+5656,1997,2,interlagos,False,False,True,False,True,salo,Finnish,tyrrell,22,13,0,0,0,0,0,0,3.299999999999997,30

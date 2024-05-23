@@ -1,0 +1,27 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+4922,1995,2,galvez,False,False,False,False,True,coulthard,British,williams,1,19,6,0,2,6,0,2,0.0,24
+4904,1995,2,galvez,False,False,False,False,True,damon_hill,British,williams,2,1,0,0,0,6,0,2,0.8999999999999915,34
+4906,1995,2,galvez,False,False,False,False,True,michael_schumacher,German,benetton,3,3,10,1,1,10,1,1,1.0999999999999943,26
+4924,1995,2,galvez,False,False,False,False,True,irvine,British,jordan,4,21,0,0,0,0,0,0,1.2000000000000028,29
+4926,1995,2,galvez,False,False,False,False,True,hakkinen,Finnish,mclaren,5,23,3,0,4,4,0,4,1.2999999999999972,26
+4905,1995,2,galvez,False,False,False,False,True,alesi,French,ferrari,6,2,2,0,5,6,0,3,1.3999999999999917,30
+4915,1995,2,galvez,False,False,False,False,True,salo,Finnish,tyrrell,7,12,0,0,7,0,0,5,1.5999999999999943,28
+4909,1995,2,galvez,False,False,False,False,True,berger,Austrian,ferrari,8,6,4,0,3,6,0,3,2.0999999999999943,35
+4908,1995,2,galvez,False,False,False,False,True,frentzen,German,sauber,9,5,0,0,0,0,0,0,2.3999999999999915,27
+4920,1995,2,galvez,False,False,False,False,True,barrichello,Brazilian,jordan,10,17,0,0,0,0,0,0,2.8999999999999915,22
+4907,1995,2,galvez,False,False,False,False,True,herbert,British,benetton,11,4,0,0,0,10,1,1,3.899999999999992,30
+4918,1995,2,galvez,False,False,False,False,True,morbidelli,Italian,footwork,12,15,0,0,0,0,0,0,3.899999999999992,27
+4929,1995,2,galvez,False,False,False,False,True,badoer,Italian,minardi,13,26,0,0,0,0,0,0,4.0,24
+4921,1995,2,galvez,False,False,False,False,True,verstappen,Dutch,simtek,14,18,0,0,0,0,0,0,4.0,23
+4911,1995,2,galvez,False,False,False,False,True,katayama,Japanese,tyrrell,15,8,0,0,0,0,0,5,4.299999999999997,31
+4917,1995,2,galvez,False,False,False,False,True,martini,Italian,minardi,16,14,0,0,0,0,0,0,4.899999999999992,33
+4923,1995,2,galvez,False,False,False,False,True,blundell,British,mclaren,17,20,1,0,6,4,0,4,5.5,29
+4910,1995,2,galvez,False,False,False,False,True,panis,French,ligier,18,7,0,0,0,0,0,6,5.599999999999994,28
+4916,1995,2,galvez,False,False,False,False,True,suzuki,Japanese,ligier,19,13,0,0,8,0,0,6,5.700000000000003,34
+4912,1995,2,galvez,False,False,False,False,True,schiattarella,Italian,simtek,20,9,0,0,0,0,0,0,6.299999999999997,27
+4928,1995,2,galvez,False,False,False,False,True,wendlinger,Austrian,sauber,21,25,0,0,0,0,0,0,7.599999999999994,26
+4925,1995,2,galvez,False,False,False,False,True,montermini,Italian,pacific,22,22,0,0,9,0,0,7,8.599999999999994,30
+4927,1995,2,galvez,False,False,False,False,True,gachot,Belgian,pacific,23,24,0,0,0,0,0,7,10.899999999999991,32
+4914,1995,2,galvez,False,False,False,False,True,moreno,Brazilian,forti,24,11,0,0,0,0,0,8,11.299999999999995,36
+4913,1995,2,galvez,False,False,False,False,True,diniz,Brazilian,forti,25,10,0,0,10,0,0,8,12.700000000000005,24
+4919,1995,2,galvez,False,False,False,False,True,inoue,Japanese,footwork,26,16,0,0,0,0,0,0,14.099999999999994,31

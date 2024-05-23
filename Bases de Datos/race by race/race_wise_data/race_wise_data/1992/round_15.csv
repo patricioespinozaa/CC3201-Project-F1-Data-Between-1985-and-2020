@@ -1,0 +1,27 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+4025,1992,15,suzuka,False,False,False,False,True,mansell,British,williams,1,16,108,9,1,154,9,1,0.0,39
+4010,1992,15,suzuka,False,False,False,False,True,patrese,Italian,williams,2,1,46,0,4,154,9,1,0.7999999999999972,38
+4035,1992,15,suzuka,False,False,False,False,True,senna,Brazilian,mclaren,3,26,50,3,2,83,4,2,1.0,32
+4011,1992,15,suzuka,False,False,False,False,True,berger,Austrian,mclaren,4,2,33,1,5,83,4,2,2.8999999999999915,33
+4032,1992,15,suzuka,False,False,False,False,True,michael_schumacher,German,benetton,5,23,47,1,3,77,1,3,3.5,23
+4031,1992,15,suzuka,False,False,False,False,True,herbert,British,team_lotus,6,22,2,0,14,13,0,5,3.5999999999999943,28
+4026,1992,15,suzuka,False,False,False,False,True,hakkinen,Finnish,team_lotus,7,17,11,0,8,13,0,5,4.0,24
+4028,1992,15,suzuka,False,False,False,False,True,comas,French,ligier,8,19,4,0,11,4,0,8,4.799999999999997,29
+4013,1992,15,suzuka,False,False,False,False,True,cesaris,Italian,tyrrell,9,4,5,0,10,5,0,7,5.0,33
+4034,1992,15,suzuka,False,False,False,False,True,boutsen,Belgian,ligier,10,25,0,0,19,4,0,8,5.0,35
+4021,1992,15,suzuka,False,False,False,False,True,larini,Italian,ferrari,11,12,0,0,0,16,0,4,5.099999999999994,28
+4015,1992,15,suzuka,False,False,False,False,True,fittipaldi,Brazilian,minardi,12,6,0,0,23,0,0,12,5.199999999999989,21
+4012,1992,15,suzuka,False,False,False,False,True,brundle,British,benetton,13,3,30,0,6,77,1,3,5.199999999999989,33
+4023,1992,15,suzuka,False,False,False,False,True,morbidelli,Italian,minardi,14,14,0,0,20,0,0,12,5.199999999999989,24
+4014,1992,15,suzuka,False,False,False,False,True,alesi,French,ferrari,15,5,13,0,7,16,0,4,5.399999999999992,28
+4017,1992,15,suzuka,False,False,False,False,True,suzuki,Japanese,footwork,16,8,0,0,18,6,0,6,5.599999999999994,32
+4016,1992,15,suzuka,False,False,False,False,True,modena,Italian,jordan,17,7,0,0,29,0,0,13,5.699999999999989,29
+4027,1992,15,suzuka,False,False,False,False,True,gachot,Belgian,larrousse,18,18,1,0,16,1,0,11,5.799999999999997,29
+4019,1992,15,suzuka,False,False,False,False,True,martini,Italian,dallara,19,10,2,0,15,2,0,10,5.899999999999992,31
+4020,1992,15,suzuka,False,False,False,False,True,katayama,Japanese,larrousse,20,11,0,0,24,1,0,11,6.099999999999994,29
+4033,1992,15,suzuka,False,False,False,False,True,grouillard,French,tyrrell,21,24,0,0,22,5,0,7,6.5,34
+4018,1992,15,suzuka,False,False,False,False,True,lehto,Finnish,dallara,22,9,0,0,17,2,0,10,6.599999999999994,26
+4029,1992,15,suzuka,False,False,False,False,True,lammers,Dutch,march,23,20,0,0,0,3,0,9,6.699999999999989,36
+4024,1992,15,suzuka,False,False,False,False,True,alboreto,Italian,footwork,24,15,6,0,9,6,0,6,6.699999999999989,35
+4030,1992,15,suzuka,False,False,False,False,True,gugelmin,Brazilian,jordan,25,21,0,0,21,0,0,13,6.899999999999992,29
+4022,1992,15,suzuka,False,False,False,False,True,naspetti,Italian,march,26,13,0,0,27,3,0,9,9.899999999999991,24

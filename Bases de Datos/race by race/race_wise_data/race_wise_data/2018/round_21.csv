@@ -1,0 +1,21 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+14108,2018,21,yas_marina,False,False,False,False,False,hamilton,British,mercedes,1,1,383,10,1,620,10,1,0.0,33
+14112,2018,21,yas_marina,False,False,False,False,False,bottas,Finnish,mercedes,2,5,237,0,4,620,10,1,0.2000000000000028,29
+14109,2018,21,yas_marina,False,False,False,False,False,vettel,German,ferrari,3,2,302,5,2,553,6,2,0.2999999999999971,31
+14126,2018,21,yas_marina,False,False,False,False,False,raikkonen,Finnish,ferrari,4,19,251,1,3,553,6,2,0.6000000000000085,39
+14111,2018,21,yas_marina,False,False,False,False,False,ricciardo,Australian,red_bull,5,4,158,2,6,392,4,3,0.6000000000000085,29
+14110,2018,21,yas_marina,False,False,False,False,False,max_verstappen,Dutch,red_bull,6,3,234,2,5,392,4,3,0.7999999999999972,21
+14116,2018,21,yas_marina,False,False,False,False,False,grosjean,French,haas,7,9,35,0,13,90,0,5,1.4000000000000057,32
+14114,2018,21,yas_marina,False,False,False,False,False,leclerc,Monegasque,sauber,8,7,33,0,14,42,0,8,1.4000000000000057,21
+14124,2018,21,yas_marina,False,False,False,False,False,ocon,French,force_india,9,17,49,0,11,48,0,7,1.7000000000000028,22
+14127,2018,21,yas_marina,False,False,False,False,False,hulkenberg,German,renault,10,20,69,0,7,114,0,4,1.7000000000000028,31
+14113,2018,21,yas_marina,False,False,False,False,False,sainz,Spanish,renault,11,6,45,0,12,114,0,4,2.200000000000003,24
+14125,2018,21,yas_marina,False,False,False,False,False,ericsson,Swedish,sauber,12,18,9,0,17,42,0,8,2.299999999999997,28
+14117,2018,21,yas_marina,False,False,False,False,False,kevin_magnussen,Danish,haas,13,10,55,0,9,90,0,5,2.5,26
+14115,2018,21,yas_marina,False,False,False,False,False,perez,Mexican,force_india,14,8,58,0,8,48,0,7,2.700000000000003,28
+14118,2018,21,yas_marina,False,False,False,False,False,alonso,Spanish,mclaren,15,11,50,0,10,62,0,6,2.9000000000000057,37
+14119,2018,21,yas_marina,False,False,False,False,False,brendon_hartley,New Zealander,toro_rosso,16,12,4,0,19,33,0,9,3.200000000000003,29
+14123,2018,21,yas_marina,False,False,False,False,False,gasly,French,toro_rosso,17,16,29,0,15,33,0,9,3.4000000000000057,22
+14121,2018,21,yas_marina,False,False,False,False,False,vandoorne,Belgian,mclaren,18,14,12,0,16,62,0,6,3.799999999999997,26
+14122,2018,21,yas_marina,False,False,False,False,False,sirotkin,Russian,williams,19,15,1,0,20,7,0,10,3.799999999999997,23
+14120,2018,21,yas_marina,False,False,False,False,False,stroll,Canadian,williams,20,13,6,0,18,7,0,10,3.9000000000000057,20

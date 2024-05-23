@@ -1,0 +1,24 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+1580,1987,1,jacarepagua,True,False,False,False,False,mansell,British,williams,1,6,0,0,0,0,0,0,0.0,33
+1576,1987,1,jacarepagua,True,False,False,False,False,piquet,Brazilian,williams,2,2,0,0,0,0,0,0,0.5,34
+1588,1987,1,jacarepagua,True,False,False,False,False,senna,Brazilian,team_lotus,3,14,0,0,0,0,0,0,2.300000000000012,27
+1595,1987,1,jacarepagua,True,False,False,False,False,fabi,Italian,benetton,4,21,0,0,0,0,0,0,2.300000000000012,32
+1575,1987,1,jacarepagua,True,False,False,False,False,prost,French,mclaren,5,1,0,0,0,0,0,0,3.1000000000000085,32
+1579,1987,1,jacarepagua,True,False,False,False,False,boutsen,Belgian,benetton,6,5,0,0,0,0,0,0,3.4000000000000057,29
+1578,1987,1,jacarepagua,True,False,False,False,False,berger,Austrian,ferrari,7,4,0,0,0,0,0,0,4.300000000000011,27
+1591,1987,1,jacarepagua,True,False,False,False,False,warwick,British,arrows,8,17,0,0,0,0,0,0,4.400000000000006,32
+1582,1987,1,jacarepagua,True,False,False,False,False,alboreto,Italian,ferrari,9,8,0,0,0,0,0,0,4.400000000000006,30
+1577,1987,1,jacarepagua,True,False,False,False,False,johansson,Swedish,mclaren,10,3,0,0,0,0,0,0,4.400000000000006,30
+1589,1987,1,jacarepagua,True,False,False,False,False,patrese,Italian,brabham,11,15,0,0,0,0,0,0,5.1000000000000085,32
+1581,1987,1,jacarepagua,True,False,False,False,False,satoru_nakajima,Japanese,team_lotus,12,7,0,0,0,0,0,0,6.200000000000003,34
+1590,1987,1,jacarepagua,True,False,False,False,False,cesaris,Italian,brabham,13,16,0,0,0,0,0,0,6.300000000000011,27
+1587,1987,1,jacarepagua,True,False,False,False,False,cheever,American,arrows,14,13,0,0,0,0,0,0,6.700000000000003,29
+1593,1987,1,jacarepagua,True,False,False,False,False,nannini,Italian,minardi,15,19,0,0,0,0,0,0,7.600000000000008,27
+1596,1987,1,jacarepagua,True,False,False,False,False,campos,Spanish,minardi,16,22,0,0,0,0,0,0,7.700000000000003,26
+1583,1987,1,jacarepagua,True,False,False,False,False,danner,German,zakspeed,17,9,0,0,0,0,0,0,9.100000000000009,29
+1584,1987,1,jacarepagua,True,False,False,False,False,palmer,British,tyrrell,18,10,0,0,0,0,0,0,10.0,30
+1594,1987,1,jacarepagua,True,False,False,False,False,brundle,British,zakspeed,19,20,0,0,0,0,0,0,10.100000000000009,27
+1585,1987,1,jacarepagua,True,False,False,False,False,streiff,French,tyrrell,20,11,0,0,0,0,0,0,10.200000000000005,31
+1592,1987,1,jacarepagua,True,False,False,False,False,caffi,Italian,osella,21,18,0,0,0,0,0,0,12.700000000000005,23
+1586,1987,1,jacarepagua,True,False,False,False,False,fabre,French,ags,22,12,0,0,0,0,0,0,13.700000000000005,27
+1597,1987,1,jacarepagua,True,False,False,False,False,capelli,Italian,march,23,23,0,0,0,0,0,0,17.5,23

@@ -1,0 +1,27 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+4893,1995,1,interlagos,False,False,False,False,True,damon_hill,British,williams,1,16,0,0,0,0,0,0,0.0,34
+4878,1995,1,interlagos,False,False,False,False,True,michael_schumacher,German,benetton,2,1,0,0,0,0,0,0,0.3000000000000113,26
+4879,1995,1,interlagos,False,False,False,False,True,coulthard,British,williams,3,2,0,0,0,0,0,0,0.3000000000000113,23
+4894,1995,1,interlagos,False,False,False,False,True,herbert,British,benetton,4,17,0,0,0,0,0,0,0.8000000000000114,30
+4880,1995,1,interlagos,False,False,False,False,True,berger,Austrian,ferrari,5,3,0,0,0,0,0,0,0.8000000000000114,35
+4882,1995,1,interlagos,False,False,False,False,True,alesi,French,ferrari,6,5,0,0,0,0,0,0,0.9000000000000057,30
+4881,1995,1,interlagos,False,False,False,False,True,hakkinen,Finnish,mclaren,7,4,0,0,0,0,0,0,1.3000000000000114,26
+4899,1995,1,interlagos,False,False,False,False,True,irvine,British,jordan,8,22,0,0,0,0,0,0,1.6000000000000083,29
+4883,1995,1,interlagos,False,False,False,False,True,blundell,British,mclaren,9,6,0,0,0,0,0,0,1.7000000000000028,28
+4902,1995,1,interlagos,False,False,False,False,True,panis,French,ligier,10,25,0,0,0,0,0,0,1.8000000000000114,28
+4898,1995,1,interlagos,False,False,False,False,True,katayama,Japanese,tyrrell,11,21,0,0,0,0,0,0,2.200000000000003,31
+4884,1995,1,interlagos,False,False,False,False,True,salo,Finnish,tyrrell,12,7,0,0,0,0,0,0,2.300000000000012,28
+4888,1995,1,interlagos,False,False,False,False,True,morbidelli,Italian,footwork,13,11,0,0,0,0,0,0,2.4000000000000057,27
+4901,1995,1,interlagos,False,False,False,False,True,frentzen,German,sauber,14,24,0,0,0,0,0,0,2.800000000000012,27
+4885,1995,1,interlagos,False,False,False,False,True,suzuki,Japanese,ligier,15,8,0,0,0,0,0,0,2.9000000000000057,34
+4896,1995,1,interlagos,False,False,False,False,True,barrichello,Brazilian,jordan,16,19,0,0,0,0,0,0,2.9000000000000057,22
+4903,1995,1,interlagos,False,False,False,False,True,martini,Italian,minardi,17,26,0,0,0,0,0,0,4.300000000000011,33
+4890,1995,1,interlagos,False,False,False,False,True,badoer,Italian,minardi,18,13,0,0,0,0,0,0,4.300000000000011,24
+4892,1995,1,interlagos,False,False,False,False,True,wendlinger,Austrian,sauber,19,15,0,0,0,0,0,0,4.6000000000000085,26
+4895,1995,1,interlagos,False,False,False,False,True,gachot,Belgian,pacific,20,18,0,0,0,0,0,0,5.0,32
+4889,1995,1,interlagos,False,False,False,False,True,inoue,Japanese,footwork,21,12,0,0,0,0,0,0,5.1000000000000085,31
+4886,1995,1,interlagos,False,False,False,False,True,montermini,Italian,pacific,22,9,0,0,0,0,0,0,5.800000000000011,30
+4891,1995,1,interlagos,False,False,False,False,True,moreno,Brazilian,forti,23,14,0,0,0,0,0,0,6.200000000000003,36
+4897,1995,1,interlagos,False,False,False,False,True,verstappen,Dutch,simtek,24,20,0,0,0,0,0,0,6.200000000000003,23
+4887,1995,1,interlagos,False,False,False,False,True,diniz,Brazilian,forti,25,10,0,0,0,0,0,0,7.700000000000003,24
+4900,1995,1,interlagos,False,False,False,False,True,schiattarella,Italian,simtek,26,23,0,0,0,0,0,0,8.0,27

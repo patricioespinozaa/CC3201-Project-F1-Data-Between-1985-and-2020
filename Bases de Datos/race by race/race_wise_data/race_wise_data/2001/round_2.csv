@@ -1,0 +1,22 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+7085,2001,2,sepang,False,False,True,True,False,michael_schumacher,German,ferrari,1,1,10,1,1,14,1,1,0.0,32
+7086,2001,2,sepang,False,False,True,True,False,barrichello,Brazilian,ferrari,2,2,4,0,3,14,1,1,0.0999999999999943,28
+7089,2001,2,sepang,False,False,True,True,False,ralf_schumacher,German,williams,3,5,0,0,0,0,0,0,0.2999999999999971,25
+7090,2001,2,sepang,False,False,True,True,False,hakkinen,Finnish,mclaren,4,6,0,0,0,6,0,2,0.7999999999999972,32
+7092,2001,2,sepang,False,False,True,True,False,trulli,Italian,jordan,5,8,0,0,0,2,0,4,1.0,26
+7103,2001,2,sepang,False,False,True,True,False,montoya,Colombian,williams,6,19,0,0,0,0,0,0,1.0,25
+7100,2001,2,sepang,False,False,True,True,False,villeneuve,Canadian,bar,7,16,0,0,0,0,0,5,1.2000000000000028,29
+7087,2001,2,sepang,False,False,True,True,False,coulthard,British,mclaren,8,3,6,0,2,6,0,2,1.2000000000000028,29
+7088,2001,2,sepang,False,False,True,True,False,frentzen,German,jordan,9,4,2,0,5,2,0,4,1.3999999999999917,33
+7105,2001,2,sepang,False,False,True,True,False,panis,French,bar,10,21,0,0,7,0,0,5,1.5,34
+7101,2001,2,sepang,False,False,True,True,False,heidfeld,German,sauber,11,17,3,0,4,4,0,3,1.7000000000000028,23
+7104,2001,2,sepang,False,False,True,True,False,irvine,British,jaguar,12,20,0,0,11,0,0,6,1.8999999999999917,35
+7093,2001,2,sepang,False,False,True,True,False,alesi,French,prost,13,9,0,0,9,0,0,7,2.200000000000003,36
+7106,2001,2,sepang,False,False,True,True,False,raikkonen,Finnish,sauber,14,22,1,0,6,4,0,3,2.5,21
+7094,2001,2,sepang,False,False,True,True,False,burti,Brazilian,jaguar,15,10,0,0,8,0,0,6,2.799999999999997,26
+7099,2001,2,sepang,False,False,True,True,False,fisichella,Italian,benetton,16,15,0,0,13,0,0,10,2.8999999999999915,28
+7095,2001,2,sepang,False,False,True,True,False,button,British,benetton,17,11,0,0,0,0,0,10,3.0999999999999943,21
+7091,2001,2,sepang,False,False,True,True,False,verstappen,Dutch,arrows,18,7,0,0,10,0,0,8,3.299999999999997,29
+7096,2001,2,sepang,False,False,True,True,False,mazzacane,Argentine,prost,19,12,0,0,0,0,0,7,3.799999999999997,25
+7098,2001,2,sepang,False,False,True,True,False,marques,Brazilian,minardi,20,14,0,0,0,0,0,9,4.5,25
+7097,2001,2,sepang,False,False,True,True,False,alonso,Spanish,minardi,21,13,0,0,12,0,0,9,5.0,19

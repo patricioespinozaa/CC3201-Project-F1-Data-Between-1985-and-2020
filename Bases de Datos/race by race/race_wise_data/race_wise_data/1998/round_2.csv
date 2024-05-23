@@ -1,0 +1,23 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+6016,1998,2,interlagos,False,False,False,False,False,hakkinen,Finnish,mclaren,1,1,10,1,1,16,1,1,0.0,29
+6017,1998,2,interlagos,False,False,False,False,False,coulthard,British,mclaren,2,2,6,0,2,16,1,1,0.7000000000000028,27
+6020,1998,2,interlagos,False,False,False,False,False,frentzen,German,williams,3,5,4,0,3,6,0,2,1.0,30
+6018,1998,2,interlagos,False,False,False,False,False,michael_schumacher,German,ferrari,4,3,0,0,0,3,0,3,1.2000000000000028,29
+6019,1998,2,interlagos,False,False,False,False,False,wurz,Austrian,benetton,5,4,0,0,7,0,0,5,1.2000000000000028,24
+6023,1998,2,interlagos,False,False,False,False,False,irvine,British,ferrari,6,8,3,0,4,3,0,3,1.3000000000000114,32
+6021,1998,2,interlagos,False,False,False,False,False,fisichella,Italian,benetton,7,6,0,0,0,0,0,5,1.6000000000000083,25
+6037,1998,2,interlagos,False,False,False,False,False,ralf_schumacher,German,jordan,8,22,0,0,0,0,0,6,1.6000000000000083,22
+6028,1998,2,interlagos,False,False,False,False,False,panis,French,prost,9,13,0,0,9,0,0,7,1.7000000000000028,31
+6022,1998,2,interlagos,False,False,False,False,False,villeneuve,Canadian,williams,10,7,2,0,5,6,0,2,1.7000000000000028,26
+6027,1998,2,interlagos,False,False,False,False,False,damon_hill,British,jordan,11,12,0,0,8,0,0,6,1.9000000000000057,37
+6035,1998,2,interlagos,False,False,False,False,False,trulli,Italian,prost,12,20,0,0,0,0,0,7,2.0,23
+6029,1998,2,interlagos,False,False,False,False,False,barrichello,Brazilian,stewart,13,14,0,0,0,0,0,0,2.200000000000003,25
+6026,1998,2,interlagos,False,False,False,False,False,herbert,British,sauber,14,11,1,0,6,1,0,4,2.300000000000012,33
+6024,1998,2,interlagos,False,False,False,False,False,alesi,French,sauber,15,9,0,0,0,1,0,4,2.300000000000012,33
+6025,1998,2,interlagos,False,False,False,False,False,magnussen,Danish,stewart,16,10,0,0,0,0,0,0,2.5,24
+6033,1998,2,interlagos,False,False,False,False,False,takagi,Japanese,tyrrell,17,18,0,0,0,0,0,0,3.1000000000000085,24
+6036,1998,2,interlagos,False,False,False,False,False,nakano,Japanese,minardi,18,21,0,0,0,0,0,0,3.300000000000012,26
+6031,1998,2,interlagos,False,False,False,False,False,tuero,Argentine,minardi,19,16,0,0,0,0,0,0,3.4000000000000057,19
+6034,1998,2,interlagos,False,False,False,False,False,salo,Finnish,arrows,20,19,0,0,0,0,0,0,3.4000000000000057,31
+6030,1998,2,interlagos,False,False,False,False,False,rosset,Brazilian,tyrrell,21,15,0,0,0,0,0,0,3.6000000000000085,29
+6032,1998,2,interlagos,False,False,False,False,False,diniz,Brazilian,arrows,22,17,0,0,0,0,0,0,3.700000000000003,27

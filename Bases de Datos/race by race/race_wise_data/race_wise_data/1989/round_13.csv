@@ -1,0 +1,27 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+2729,1989,13,estoril,True,False,False,False,False,senna,Brazilian,mclaren,1,17,51,5,2,122,9,1,0.0,29
+2713,1989,13,estoril,True,False,False,False,False,berger,Austrian,ferrari,2,1,6,0,8,44,2,3,0.5999999999999943,30
+2730,1989,13,estoril,True,False,False,False,False,mansell,British,ferrari,3,18,38,2,3,44,2,3,0.7000000000000028,36
+2714,1989,13,estoril,True,False,False,False,False,prost,French,mclaren,4,2,71,4,1,122,9,1,0.7000000000000028,34
+2717,1989,13,estoril,True,False,False,False,False,martini,Italian,minardi,5,5,2,0,19,3,0,13,1.4000000000000057,28
+2727,1989,13,estoril,True,False,False,False,False,patrese,Italian,williams,6,15,28,0,4,52,1,2,1.7999999999999972,35
+2733,1989,13,estoril,True,False,False,False,False,caffi,Italian,dallara,7,21,4,0,17,8,0,8,2.200000000000003,25
+2728,1989,13,estoril,True,False,False,False,False,boutsen,Belgian,williams,8,16,24,1,5,52,1,2,2.299999999999997,32
+2724,1989,13,estoril,True,False,False,False,False,sala,Spanish,minardi,9,12,1,0,26,3,0,13,2.299999999999997,30
+2720,1989,13,estoril,True,False,False,False,False,brundle,British,brabham,10,8,2,0,22,6,0,9,2.4000000000000057,30
+2726,1989,13,estoril,True,False,False,False,False,modena,Italian,brabham,11,14,4,0,16,6,0,9,2.5999999999999943,26
+2715,1989,13,estoril,True,False,False,False,False,johansson,Swedish,onyx,12,3,2,0,20,2,0,14,2.5999999999999943,33
+2716,1989,13,estoril,True,False,False,False,False,nannini,Italian,benetton,13,4,14,0,6,19,0,4,2.5999999999999943,30
+2722,1989,13,estoril,True,False,False,False,False,gugelmin,Brazilian,march,14,10,4,0,15,4,0,10,2.5999999999999943,26
+2738,1989,13,estoril,True,False,False,False,False,moreno,Brazilian,coloni,15,26,0,0,0,0,0,18,2.700000000000003,30
+2734,1989,13,estoril,True,False,False,False,False,pirro,Italian,benetton,16,22,0,0,28,19,0,4,2.799999999999997,27
+2721,1989,13,estoril,True,False,False,False,False,alliot,French,larrousse,17,9,0,0,0,0,0,16,2.9000000000000057,35
+2718,1989,13,estoril,True,False,False,False,False,palmer,British,tyrrell,18,6,1,0,25,12,0,5,2.9000000000000057,32
+2737,1989,13,estoril,True,False,False,False,False,cesaris,Italian,dallara,19,25,4,0,14,8,0,8,2.9000000000000057,30
+2732,1989,13,estoril,True,False,False,False,False,piquet,Brazilian,team_lotus,20,20,9,0,7,9,0,7,3.0,37
+2723,1989,13,estoril,True,False,False,False,False,alboreto,Italian,larrousse,21,11,6,0,10,0,0,16,3.0999999999999943,32
+2731,1989,13,estoril,True,False,False,False,False,warwick,British,arrows,22,19,6,0,11,12,0,6,3.200000000000003,35
+2725,1989,13,estoril,True,False,False,False,False,arnoux,French,ligier,23,13,2,0,21,3,0,12,3.299999999999997,41
+2735,1989,13,estoril,True,False,False,False,False,capelli,Italian,march,24,23,0,0,29,4,0,10,3.299999999999997,26
+2719,1989,13,estoril,True,False,False,False,False,satoru_nakajima,Japanese,team_lotus,25,7,0,0,27,9,0,7,3.700000000000003,36
+2736,1989,13,estoril,True,False,False,False,False,cheever,American,arrows,26,24,6,0,9,12,0,6,3.700000000000003,31

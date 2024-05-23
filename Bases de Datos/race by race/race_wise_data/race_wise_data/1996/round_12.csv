@@ -1,0 +1,21 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+5532,1996,12,hungaroring,True,False,False,False,False,michael_schumacher,German,ferrari,1,9,29,1,4,38,1,3,0.0,27
+5525,1996,12,hungaroring,True,False,False,False,False,damon_hill,British,williams,2,2,73,7,1,125,9,1,0.1000000000000085,35
+5524,1996,12,hungaroring,True,False,False,False,False,villeneuve,Canadian,williams,3,1,52,2,2,125,9,1,0.2000000000000028,25
+5537,1996,12,hungaroring,True,False,False,False,False,irvine,British,ferrari,4,14,9,0,10,38,1,3,1.5,30
+5526,1996,12,hungaroring,True,False,False,False,False,alesi,French,benetton,5,3,31,0,3,47,0,2,1.7000000000000028,32
+5534,1996,12,hungaroring,True,False,False,False,False,berger,Austrian,benetton,6,11,16,0,6,47,0,2,1.7000000000000028,36
+5527,1996,12,hungaroring,True,False,False,False,False,hakkinen,Finnish,mclaren,7,4,16,0,7,34,0,4,2.0,27
+5536,1996,12,hungaroring,True,False,False,False,False,herbert,British,sauber,8,13,4,0,13,10,0,7,2.200000000000003,32
+5539,1996,12,hungaroring,True,False,False,False,False,coulthard,British,mclaren,9,16,18,0,5,34,0,4,2.300000000000012,25
+5535,1996,12,hungaroring,True,False,False,False,False,frentzen,German,sauber,10,12,6,0,11,10,0,7,2.300000000000012,29
+5528,1996,12,hungaroring,True,False,False,False,False,panis,French,ligier,11,5,11,1,8,12,1,6,2.4000000000000057,29
+5541,1996,12,hungaroring,True,False,False,False,False,brundle,British,jordan,12,18,3,0,14,14,0,5,2.700000000000003,37
+5529,1996,12,hungaroring,True,False,False,False,False,barrichello,Brazilian,jordan,13,6,11,0,9,14,0,5,2.9000000000000057,24
+5530,1996,12,hungaroring,True,False,False,False,False,katayama,Japanese,tyrrell,14,7,0,0,20,5,0,8,3.4000000000000057,33
+5542,1996,12,hungaroring,True,False,False,False,False,diniz,Brazilian,ligier,15,19,1,0,15,12,1,6,3.6000000000000085,26
+5543,1996,12,hungaroring,True,False,False,False,False,salo,Finnish,tyrrell,16,20,5,0,12,5,0,8,3.6000000000000085,29
+5540,1996,12,hungaroring,True,False,False,False,False,verstappen,Dutch,footwork,17,17,1,0,16,1,0,9,3.700000000000003,24
+5531,1996,12,hungaroring,True,False,False,False,False,rosset,Brazilian,footwork,18,8,0,0,19,1,0,9,4.5,28
+5538,1996,12,hungaroring,True,False,False,False,False,lamy,Portuguese,minardi,19,15,0,0,18,0,0,10,4.6000000000000085,24
+5533,1996,12,hungaroring,True,False,False,False,False,lavaggi,Italian,minardi,20,10,0,0,0,0,0,10,5.400000000000006,38

@@ -1,0 +1,20 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+5618,1996,16,suzuka,True,False,True,False,False,villeneuve,Canadian,williams,1,16,78,4,2,165,11,1,0.0,25
+5603,1996,16,suzuka,True,False,True,False,False,damon_hill,British,williams,2,1,87,7,1,165,11,1,0.5,36
+5604,1996,16,suzuka,True,False,True,False,False,michael_schumacher,German,ferrari,3,2,53,3,3,64,3,3,1.1999999999999886,27
+5606,1996,16,suzuka,True,False,True,False,False,berger,Austrian,benetton,4,4,18,0,6,65,0,2,1.5,37
+5605,1996,16,suzuka,True,False,True,False,False,hakkinen,Finnish,mclaren,5,3,27,0,5,45,0,4,1.5999999999999943,28
+5616,1996,16,suzuka,True,False,True,False,False,irvine,British,ferrari,6,14,11,0,10,64,3,3,2.0999999999999943,30
+5608,1996,16,suzuka,True,False,True,False,False,frentzen,German,sauber,7,6,6,0,11,10,0,7,2.3999999999999915,29
+5610,1996,16,suzuka,True,False,True,False,False,coulthard,British,mclaren,8,8,18,0,7,45,0,4,2.5,25
+5621,1996,16,suzuka,True,False,True,False,False,alesi,French,benetton,9,19,47,0,4,65,0,2,2.6999999999999886,32
+5607,1996,16,suzuka,True,False,True,False,False,brundle,British,jordan,10,5,6,0,12,20,0,5,2.6999999999999886,37
+5611,1996,16,suzuka,True,False,True,False,False,barrichello,Brazilian,jordan,11,9,14,0,8,20,0,5,3.0,24
+5609,1996,16,suzuka,True,False,True,False,False,panis,French,ligier,12,7,13,1,9,15,1,6,3.299999999999997,30
+5612,1996,16,suzuka,True,False,True,False,False,herbert,British,sauber,13,10,4,0,14,10,0,7,3.799999999999997,32
+5617,1996,16,suzuka,True,False,True,False,False,katayama,Japanese,tyrrell,14,15,0,0,17,5,0,8,3.799999999999997,33
+5619,1996,16,suzuka,True,False,True,False,False,salo,Finnish,tyrrell,15,17,5,0,13,5,0,8,3.899999999999992,29
+5620,1996,16,suzuka,True,False,True,False,False,diniz,Brazilian,ligier,16,18,2,0,15,15,1,6,4.299999999999997,26
+5613,1996,16,suzuka,True,False,True,False,False,verstappen,Dutch,footwork,17,11,1,0,16,1,0,9,4.5,24
+5614,1996,16,suzuka,True,False,True,False,False,lamy,Portuguese,minardi,18,12,0,0,20,0,0,10,6.0,24
+5615,1996,16,suzuka,True,False,True,False,False,rosset,Brazilian,footwork,19,13,0,0,18,1,0,9,6.5,28

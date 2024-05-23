@@ -1,0 +1,18 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+12491,2015,1,albert_park,False,False,False,False,False,hamilton,British,mercedes,1,1,0,0,0,0,0,0,0.0,30
+12492,2015,1,albert_park,False,False,False,False,False,rosberg,German,mercedes,2,2,0,0,0,0,0,0,0.6000000000000085,29
+12494,2015,1,albert_park,False,False,False,False,False,massa,Brazilian,williams,3,4,0,0,0,0,0,0,1.4000000000000057,33
+12493,2015,1,albert_park,False,False,False,False,False,vettel,German,ferrari,4,3,0,0,0,0,0,0,1.5,27
+12502,2015,1,albert_park,False,False,False,False,False,raikkonen,Finnish,ferrari,5,12,0,0,0,0,0,0,1.5,35
+12496,2015,1,albert_park,False,False,False,False,False,ricciardo,Australian,red_bull,6,6,0,0,0,0,0,0,2.0,25
+12499,2015,1,albert_park,False,False,False,False,False,sainz,Spanish,toro_rosso,7,9,0,0,0,0,0,0,2.200000000000003,20
+12504,2015,1,albert_park,False,False,False,False,False,grosjean,French,lotus_f1,8,14,0,0,0,0,0,0,2.299999999999997,28
+12505,2015,1,albert_park,False,False,False,False,False,maldonado,Venezuelan,lotus_f1,9,15,0,0,0,0,0,0,3.200000000000003,30
+12495,2015,1,albert_park,False,False,False,False,False,nasr,Brazilian,sauber,10,5,0,0,0,0,0,0,2.5,22
+12503,2015,1,albert_park,False,False,False,False,False,max_verstappen,Dutch,toro_rosso,11,13,0,0,0,0,0,0,2.6000000000000085,17
+12506,2015,1,albert_park,False,False,False,False,False,kvyat,Russian,red_bull,12,16,0,0,0,0,0,0,2.799999999999997,20
+12497,2015,1,albert_park,False,False,False,False,False,hulkenberg,German,force_india,13,7,0,0,0,0,0,0,2.9000000000000057,27
+12500,2015,1,albert_park,False,False,False,False,False,perez,Mexican,force_india,14,10,0,0,0,0,0,0,2.9000000000000057,25
+12498,2015,1,albert_park,False,False,False,False,False,ericsson,Swedish,sauber,15,8,0,0,0,0,0,0,5.1000000000000085,24
+12501,2015,1,albert_park,False,False,False,False,False,button,British,mclaren,16,11,0,0,0,0,0,0,5.1000000000000085,35
+12507,2015,1,albert_park,False,False,False,False,False,kevin_magnussen,Danish,mclaren,17,17,0,0,0,0,0,0,5.700000000000003,22

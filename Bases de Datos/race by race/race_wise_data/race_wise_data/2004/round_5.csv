@@ -1,0 +1,21 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+8188,2004,5,catalunya,True,False,False,False,False,michael_schumacher,German,ferrari,1,1,40,4,1,64,4,1,0.0,35
+8202,2004,5,catalunya,True,False,False,False,False,montoya,Colombian,williams,2,15,18,0,4,27,0,4,0.5999999999999943,28
+8192,2004,5,catalunya,True,False,False,False,False,sato,Japanese,bar,3,5,4,0,8,27,0,3,0.7999999999999972,27
+8190,2004,5,catalunya,True,False,False,False,False,trulli,Italian,renault,4,3,15,0,6,31,0,2,1.0999999999999943,29
+8189,2004,5,catalunya,True,False,False,False,False,barrichello,Brazilian,ferrari,5,2,24,0,2,64,4,1,1.2999999999999972,31
+8193,2004,5,catalunya,True,False,False,False,False,ralf_schumacher,German,williams,6,6,9,0,7,27,0,4,1.2999999999999972,28
+8204,2004,5,catalunya,True,False,False,False,False,panis,French,toyota,7,17,0,0,15,0,0,8,1.2999999999999972,37
+8191,2004,5,catalunya,True,False,False,False,False,alonso,Spanish,renault,8,4,16,0,5,31,0,2,1.4000000000000057,22
+8199,2004,5,catalunya,True,False,False,False,False,webber,Australian,jaguar,9,12,1,0,11,1,0,7,1.5,27
+8197,2004,5,catalunya,True,False,False,False,False,coulthard,British,mclaren,10,10,4,0,9,5,0,5,1.5999999999999943,33
+8200,2004,5,catalunya,True,False,False,False,False,matta,Brazilian,toyota,11,13,0,0,14,0,0,8,2.0,30
+8194,2004,5,catalunya,True,False,False,False,False,fisichella,Italian,sauber,12,7,0,0,13,1,0,6,2.4000000000000057,31
+8198,2004,5,catalunya,True,False,False,False,False,raikkonen,Finnish,mclaren,13,11,1,0,12,5,0,5,2.4000000000000057,24
+8195,2004,5,catalunya,True,False,False,False,False,button,British,bar,14,8,23,0,3,27,0,3,2.5999999999999943,24
+8205,2004,5,catalunya,True,False,False,False,False,heidfeld,German,jordan,15,18,0,0,20,0,0,9,2.799999999999997,26
+8203,2004,5,catalunya,True,False,False,False,False,klien,Austrian,jaguar,16,16,0,0,16,1,0,7,2.799999999999997,21
+8196,2004,5,catalunya,True,False,False,False,False,massa,Brazilian,sauber,17,9,1,0,10,1,0,6,2.9000000000000057,23
+8206,2004,5,catalunya,True,False,False,False,False,bruni,Italian,minardi,18,19,0,0,18,0,0,10,4.799999999999997,22
+8201,2004,5,catalunya,True,False,False,False,False,pantano,Italian,jordan,19,14,0,0,17,0,0,9,5.599999999999994,25
+8207,2004,5,catalunya,True,False,False,False,False,baumgartner,Hungarian,minardi,20,20,0,0,19,0,0,10,6.5,23

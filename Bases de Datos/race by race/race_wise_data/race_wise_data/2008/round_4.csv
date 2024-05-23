@@ -1,0 +1,23 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+9673,2008,4,catalunya,True,False,False,False,False,raikkonen,Finnish,ferrari,1,1,19,1,1,29,2,2,0.0,28
+9687,2008,4,catalunya,True,False,False,False,False,alonso,Spanish,renault,2,15,6,0,9,6,0,6,0.1000000000000085,26
+9674,2008,4,catalunya,True,False,False,False,False,massa,Brazilian,ferrari,3,2,10,1,6,29,2,2,0.2999999999999971,27
+9676,2008,4,catalunya,True,False,False,False,False,kubica,Polish,bmw_sauber,4,4,14,0,4,30,0,1,0.2999999999999971,23
+9675,2008,4,catalunya,True,False,False,False,False,hamilton,British,mclaren,5,3,14,1,3,28,1,3,0.2999999999999971,23
+9689,2008,4,catalunya,True,False,False,False,False,kovalainen,Finnish,mclaren,6,17,14,0,5,28,1,3,0.4000000000000057,26
+9677,2008,4,catalunya,True,False,False,False,False,webber,Australian,red_bull,7,5,4,0,10,4,0,7,0.6000000000000085,31
+9680,2008,4,catalunya,True,False,False,False,False,trulli,Italian,toyota,8,8,8,0,7,8,0,5,0.7000000000000028,33
+9681,2008,4,catalunya,True,False,False,False,False,heidfeld,German,bmw_sauber,9,9,16,0,2,30,0,1,0.7000000000000028,30
+9692,2008,4,catalunya,True,False,False,False,False,piquet_jr,Brazilian,renault,10,20,0,0,17,6,0,6,0.9000000000000057,22
+9688,2008,4,catalunya,True,False,False,False,False,barrichello,Brazilian,honda,11,16,0,0,16,0,0,9,-0.7999999999999972,35
+9679,2008,4,catalunya,True,False,False,False,False,nakajima,Japanese,williams,12,7,3,0,11,10,0,4,-0.7000000000000028,23
+9678,2008,4,catalunya,True,False,False,False,False,button,British,honda,13,6,0,0,15,0,0,9,-0.5999999999999943,28
+9683,2008,4,catalunya,True,False,False,False,False,glock,German,toyota,14,11,0,0,14,8,0,5,-0.5999999999999943,26
+9686,2008,4,catalunya,True,False,False,False,False,rosberg,German,williams,15,14,7,0,8,10,0,4,-0.5,22
+9691,2008,4,catalunya,True,False,False,False,False,bourdais,French,toro_rosso,16,19,2,0,12,2,0,8,-0.0999999999999943,29
+9684,2008,4,catalunya,True,False,False,False,False,coulthard,British,red_bull,17,12,0,0,13,4,0,7,0.0,37
+9694,2008,4,catalunya,True,False,False,False,False,vettel,German,toro_rosso,18,22,0,0,0,2,0,8,0.2999999999999971,20
+9682,2008,4,catalunya,True,False,False,False,False,fisichella,Italian,force_india,19,10,0,0,18,0,0,10,0.7000000000000028,35
+9693,2008,4,catalunya,True,False,False,False,False,sutil,German,force_india,20,21,0,0,21,0,0,10,1.4000000000000057,25
+9690,2008,4,catalunya,True,False,False,False,False,davidson,British,super_aguri,21,18,0,0,19,0,0,11,1.5,29
+9685,2008,4,catalunya,True,False,False,False,False,sato,Japanese,super_aguri,22,13,0,0,20,0,0,11,1.7000000000000028,31

@@ -1,0 +1,27 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+1314,1986,7,detroit,True,False,False,False,True,senna,Brazilian,team_lotus,1,1,27,1,3,27,1,3,0.0,26
+1318,1986,7,detroit,True,False,False,False,True,mansell,British,williams,2,5,27,2,2,46,3,1,0.5,32
+1328,1986,7,detroit,True,False,False,False,True,piquet,Brazilian,williams,3,15,19,1,4,46,3,1,0.7999999999999972,33
+1325,1986,7,detroit,True,False,False,False,True,arnoux,French,ligier,4,12,6,0,9,13,0,4,1.4000000000000057,37
+1329,1986,7,detroit,True,False,False,False,True,johansson,Swedish,ferrari,5,16,7,0,6,10,0,5,2.0,29
+1315,1986,7,detroit,True,False,False,False,True,laffite,French,ligier,6,2,7,0,7,13,0,4,2.4000000000000057,42
+1316,1986,7,detroit,True,False,False,False,True,prost,French,mclaren,7,3,29,2,1,43,2,2,2.4000000000000057,31
+1319,1986,7,detroit,True,False,False,False,True,patrese,Italian,brabham,8,6,1,0,13,1,0,8,2.5,32
+1336,1986,7,detroit,True,False,False,False,True,keke_rosberg,Finnish,mclaren,9,23,14,0,5,43,2,2,2.5,37
+1331,1986,7,detroit,True,False,False,False,True,cheever,American,lola,10,18,0,0,0,0,0,10,3.200000000000003,28
+1317,1986,7,detroit,True,False,False,False,True,alboreto,Italian,ferrari,11,4,3,0,10,10,0,5,3.299999999999997,29
+1337,1986,7,detroit,True,False,False,False,True,berger,Austrian,benetton,12,24,6,0,8,8,0,6,3.5,26
+1326,1986,7,detroit,True,False,False,False,True,boutsen,Belgian,arrows,13,13,0,0,14,0,0,9,4.0,28
+1320,1986,7,detroit,True,False,False,False,True,dumfries,British,team_lotus,14,7,0,0,19,27,1,3,4.200000000000003,28
+1323,1986,7,detroit,True,False,False,False,True,warwick,British,brabham,15,10,0,0,27,1,0,8,4.299999999999997,31
+1334,1986,7,detroit,True,False,False,False,True,brundle,British,tyrrell,16,21,2,0,12,2,0,7,4.5,27
+1330,1986,7,detroit,True,False,False,False,True,fabi,Italian,benetton,17,17,2,0,11,8,0,6,5.400000000000006,31
+1322,1986,7,detroit,True,False,False,False,True,streiff,French,tyrrell,18,9,0,0,15,2,0,7,5.5,30
+1324,1986,7,detroit,True,False,False,False,True,danner,German,arrows,19,11,0,0,25,0,0,9,6.0,28
+1321,1986,7,detroit,True,False,False,False,True,palmer,British,zakspeed,20,8,0,0,21,0,0,11,6.1000000000000085,29
+1332,1986,7,detroit,True,False,False,False,True,jones,Australian,lola,21,19,0,0,20,0,0,10,6.200000000000003,39
+1335,1986,7,detroit,True,False,False,False,True,ghinzani,Italian,osella,22,22,0,0,23,0,0,12,6.799999999999997,34
+1327,1986,7,detroit,True,False,False,False,True,cesaris,Italian,minardi,23,14,0,0,24,0,0,13,8.400000000000006,27
+1338,1986,7,detroit,True,False,False,False,True,nannini,Italian,minardi,24,25,0,0,26,0,0,13,8.900000000000006,26
+1333,1986,7,detroit,True,False,False,False,True,berg,Canadian,osella,25,20,0,0,0,0,0,12,10.400000000000006,24
+1339,1986,7,detroit,True,False,False,False,True,rothengatter,Dutch,zakspeed,26,26,0,0,22,0,0,11,11.400000000000006,31

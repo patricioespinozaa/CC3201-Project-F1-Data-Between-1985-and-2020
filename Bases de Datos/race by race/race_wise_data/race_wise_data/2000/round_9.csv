@@ -1,0 +1,23 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+6880,2000,9,magny_cours,False,False,False,False,False,michael_schumacher,German,ferrari,1,16,56,5,1,84,5,1,0.0,31
+6865,2000,9,magny_cours,False,False,False,False,False,coulthard,British,mclaren,2,1,34,2,2,66,3,2,0.1000000000000085,29
+6867,2000,9,magny_cours,False,False,False,False,False,barrichello,Brazilian,ferrari,3,3,28,0,4,84,5,1,0.4000000000000057,28
+6866,2000,9,magny_cours,False,False,False,False,False,hakkinen,Finnish,mclaren,4,2,32,1,3,66,3,2,0.5,31
+6869,2000,9,magny_cours,False,False,False,False,False,ralf_schumacher,German,williams,5,5,12,0,6,15,0,4,0.7000000000000028,25
+6877,2000,9,magny_cours,False,False,False,False,False,irvine,British,jaguar,6,13,3,0,10,3,0,7,0.8000000000000114,34
+6868,2000,9,magny_cours,False,False,False,False,False,villeneuve,Canadian,bar,7,4,5,0,8,6,0,6,1.1000000000000083,29
+6871,2000,9,magny_cours,False,False,False,False,False,frentzen,German,jordan,8,7,5,0,7,10,0,5,1.1000000000000083,33
+6870,2000,9,magny_cours,False,False,False,False,False,trulli,Italian,jordan,9,6,5,0,9,10,0,5,1.1000000000000083,25
+6872,2000,9,magny_cours,False,False,False,False,False,button,British,williams,10,8,3,0,12,15,0,4,1.3000000000000114,20
+6885,2000,9,magny_cours,False,False,False,False,False,herbert,British,jaguar,11,21,0,0,21,3,0,7,1.6000000000000083,36
+6874,2000,9,magny_cours,False,False,False,False,False,salo,Finnish,sauber,12,10,3,0,11,3,0,8,1.6000000000000083,33
+6881,2000,9,magny_cours,False,False,False,False,False,rosa,Spanish,arrows,13,17,1,0,15,3,0,9,1.7000000000000028,29
+6873,2000,9,magny_cours,False,False,False,False,False,fisichella,Italian,benetton,14,9,18,0,5,18,0,3,1.7000000000000028,27
+6875,2000,9,magny_cours,False,False,False,False,False,diniz,Brazilian,sauber,15,11,0,0,16,3,0,8,1.8000000000000114,30
+6876,2000,9,magny_cours,False,False,False,False,False,heidfeld,German,prost,16,12,0,0,18,0,0,11,1.8000000000000114,23
+6882,2000,9,magny_cours,False,False,False,False,False,wurz,Austrian,benetton,17,18,0,0,17,18,0,3,1.8000000000000114,26
+6878,2000,9,magny_cours,False,False,False,False,False,alesi,French,prost,18,14,0,0,22,0,0,11,2.0,36
+6886,2000,9,magny_cours,False,False,False,False,False,zonta,Brazilian,bar,19,22,1,0,14,6,0,6,2.1000000000000085,24
+6884,2000,9,magny_cours,False,False,False,False,False,verstappen,Dutch,arrows,20,20,2,0,13,3,0,9,2.300000000000012,28
+6879,2000,9,magny_cours,False,False,False,False,False,gene,Spanish,minardi,21,15,0,0,20,0,0,10,2.5,26
+6883,2000,9,magny_cours,False,False,False,False,False,mazzacane,Argentine,minardi,22,19,0,0,19,0,0,10,2.700000000000003,25

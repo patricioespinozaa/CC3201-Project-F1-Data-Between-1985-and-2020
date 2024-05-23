@@ -1,0 +1,21 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+14460,2019,18,rodriguez,False,False,False,False,True,leclerc,Monegasque,ferrari,1,4,223,2,3,435,3,2,0.0,22
+14458,2019,18,rodriguez,False,False,False,False,True,vettel,German,ferrari,2,2,212,1,5,435,3,2,0.2000000000000028,32
+14457,2019,18,rodriguez,False,False,False,False,True,hamilton,British,mercedes,3,1,338,9,1,612,12,1,0.2999999999999971,34
+14462,2019,18,rodriguez,False,False,False,False,True,max_verstappen,Dutch,red_bull,4,6,212,2,4,323,2,3,-0.2000000000000028,22
+14461,2019,18,rodriguez,False,False,False,False,True,albon,Thai,red_bull,5,5,64,0,8,323,2,3,0.2999999999999971,23
+14459,2019,18,rodriguez,False,False,False,False,True,bottas,Finnish,mercedes,6,3,274,3,2,612,12,1,0.2999999999999971,30
+14469,2019,18,rodriguez,False,False,False,False,True,sainz,Spanish,mclaren,7,13,76,0,6,111,0,4,1.0,25
+14476,2019,18,rodriguez,False,False,False,False,True,norris,British,mclaren,8,20,35,0,10,111,0,4,1.2999999999999972,19
+14467,2019,18,rodriguez,False,False,False,False,True,kvyat,Russian,toro_rosso,9,11,34,0,11,62,0,6,1.5,25
+14465,2019,18,rodriguez,False,False,False,False,True,gasly,French,toro_rosso,10,9,75,0,7,62,0,6,1.5999999999999943,23
+14463,2019,18,rodriguez,False,False,False,False,True,perez,Mexican,racing_point,11,7,37,0,9,58,0,7,1.7000000000000028,29
+14466,2019,18,rodriguez,False,False,False,False,True,hulkenberg,German,renault,12,10,34,0,13,68,0,5,1.9000000000000057,32
+14464,2019,18,rodriguez,False,False,False,False,True,ricciardo,Australian,renault,13,8,34,0,12,68,0,5,1.9000000000000057,30
+14475,2019,18,rodriguez,False,False,False,False,True,raikkonen,Finnish,alfa,14,19,31,0,14,35,0,8,2.0,40
+14470,2019,18,rodriguez,False,False,False,False,True,giovinazzi,Italian,alfa,15,14,4,0,18,35,0,8,2.299999999999997,25
+14468,2019,18,rodriguez,False,False,False,False,True,stroll,Canadian,racing_point,16,12,21,0,15,58,0,7,3.0999999999999943,20
+14471,2019,18,rodriguez,False,False,False,False,True,kevin_magnussen,Danish,haas,17,15,20,0,16,28,0,9,3.4000000000000057,27
+14473,2019,18,rodriguez,False,False,False,False,True,grosjean,French,haas,18,17,8,0,17,28,0,9,3.5999999999999943,33
+14472,2019,18,rodriguez,False,False,False,False,True,russell,British,williams,19,16,0,0,20,1,0,10,3.799999999999997,21
+14474,2019,18,rodriguez,False,False,False,False,True,kubica,Polish,williams,20,18,1,0,19,1,0,10,5.200000000000003,34

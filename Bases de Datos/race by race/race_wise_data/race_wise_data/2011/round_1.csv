@@ -1,0 +1,22 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+10750,2011,1,albert_park,False,False,False,False,False,vettel,German,red_bull,1,1,0,0,0,0,0,0,0.0,23
+10751,2011,1,albert_park,False,False,False,False,False,hamilton,British,mclaren,2,2,0,0,0,0,0,0,0.7999999999999972,26
+10754,2011,1,albert_park,False,False,False,False,False,webber,Australian,red_bull,3,5,0,0,0,0,0,0,0.9000000000000057,34
+10755,2011,1,albert_park,False,False,False,False,False,button,British,mclaren,4,6,0,0,0,0,0,0,1.2999999999999972,31
+10753,2011,1,albert_park,False,False,False,False,False,alonso,Spanish,ferrari,5,4,0,0,0,0,0,0,1.5,29
+10752,2011,1,albert_park,False,False,False,False,False,petrov,Russian,renault,6,3,0,0,0,0,0,0,1.7000000000000028,26
+10766,2011,1,albert_park,False,False,False,False,False,rosberg,German,mercedes,7,17,0,0,0,0,0,0,1.9000000000000057,25
+10756,2011,1,albert_park,False,False,False,False,False,massa,Brazilian,ferrari,8,7,0,0,0,0,0,0,2.0999999999999943,29
+10770,2011,1,albert_park,False,False,False,False,False,kobayashi,Japanese,sauber,9,21,0,0,0,0,0,0,2.0999999999999943,24
+10757,2011,1,albert_park,False,False,False,False,False,buemi,Swiss,toro_rosso,10,8,0,0,0,0,0,0,3.5999999999999943,22
+10768,2011,1,albert_park,False,False,False,False,False,michael_schumacher,German,mercedes,11,19,0,0,0,0,0,0,2.5,42
+10760,2011,1,albert_park,False,False,False,False,False,alguersuari,Spanish,toro_rosso,12,11,0,0,0,0,0,0,2.5999999999999943,21
+10771,2011,1,albert_park,False,False,False,False,False,perez,Mexican,sauber,13,22,0,0,0,0,0,0,2.5999999999999943,21
+10759,2011,1,albert_park,False,False,False,False,False,resta,British,force_india,14,10,0,0,0,0,0,0,3.200000000000003,24
+10769,2011,1,albert_park,False,False,False,False,False,maldonado,Venezuelan,williams,15,20,0,0,0,0,0,0,3.299999999999997,26
+10758,2011,1,albert_park,False,False,False,False,False,sutil,German,force_india,16,9,0,0,0,0,0,0,7.900000000000006,28
+10761,2011,1,albert_park,False,False,False,False,False,heidfeld,German,renault,18,12,0,0,0,0,0,0,3.700000000000003,33
+10767,2011,1,albert_park,False,False,False,False,False,kovalainen,Finnish,lotus_racing,19,18,0,0,0,0,0,0,5.799999999999997,29
+10762,2011,1,albert_park,False,False,False,False,False,trulli,Italian,lotus_racing,20,13,0,0,0,0,0,0,5.799999999999997,36
+10764,2011,1,albert_park,False,False,False,False,False,glock,German,virgin,21,15,0,0,0,0,0,0,6.400000000000006,29
+10763,2011,1,albert_park,False,False,False,False,False,ambrosio,Belgian,virgin,22,14,0,0,0,0,0,0,7.299999999999997,25

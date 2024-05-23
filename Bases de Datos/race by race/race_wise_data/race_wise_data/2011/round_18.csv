@@ -1,0 +1,23 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+11177,2011,18,yas_marina,True,False,True,False,False,vettel,German,red_bull,1,24,374,11,1,595,11,1,0.0,24
+11154,2011,18,yas_marina,True,False,True,False,False,hamilton,British,mclaren,2,1,202,2,5,442,5,2,0.0999999999999943,26
+11156,2011,18,yas_marina,True,False,True,False,False,button,British,mclaren,3,3,240,3,2,442,5,2,0.0999999999999943,31
+11157,2011,18,yas_marina,True,False,True,False,False,webber,Australian,red_bull,4,4,221,0,4,595,11,1,0.4000000000000057,35
+11155,2011,18,yas_marina,True,False,True,False,False,alonso,Spanish,ferrari,5,2,227,1,3,325,1,3,0.5999999999999943,30
+11158,2011,18,yas_marina,True,False,True,False,False,massa,Brazilian,ferrari,6,5,98,0,6,325,1,3,1.2000000000000028,30
+11159,2011,18,yas_marina,True,False,True,False,False,rosberg,German,mercedes,7,6,75,0,7,145,0,4,1.2999999999999972,26
+11160,2011,18,yas_marina,True,False,True,False,False,michael_schumacher,German,mercedes,8,7,70,0,8,145,0,4,2.200000000000003,42
+11161,2011,18,yas_marina,True,False,True,False,False,sutil,German,force_india,9,8,30,0,11,51,0,6,2.299999999999997,28
+11164,2011,18,yas_marina,True,False,True,False,False,perez,Mexican,sauber,11,11,14,0,16,41,0,7,2.4000000000000057,21
+11166,2011,18,yas_marina,True,False,True,False,False,petrov,Russian,renault,12,13,36,0,9,72,0,5,2.4000000000000057,27
+11175,2011,18,yas_marina,True,False,True,False,False,buemi,Swiss,toro_rosso,13,22,15,0,15,41,0,8,2.5,23
+11169,2011,18,yas_marina,True,False,True,False,False,bruno_senna,Brazilian,renault,14,16,2,0,18,72,0,5,2.5999999999999943,28
+11168,2011,18,yas_marina,True,False,True,False,False,alguersuari,Spanish,toro_rosso,15,15,26,0,13,41,0,8,2.700000000000003,21
+11163,2011,18,yas_marina,True,False,True,False,False,kobayashi,Japanese,sauber,16,10,27,0,12,41,0,7,2.700000000000003,25
+11170,2011,18,yas_marina,True,False,True,False,False,kovalainen,Finnish,lotus_racing,17,17,0,0,22,0,0,10,4.5,30
+11171,2011,18,yas_marina,True,False,True,False,False,trulli,Italian,lotus_racing,18,18,0,0,21,0,0,10,5.400000000000006,37
+11172,2011,18,yas_marina,True,False,True,False,False,glock,German,virgin,19,19,0,0,25,0,0,12,6.0,29
+11174,2011,18,yas_marina,True,False,True,False,False,ricciardo,Australian,hrt,20,21,0,0,27,0,0,11,6.099999999999994,22
+11176,2011,18,yas_marina,True,False,True,False,False,ambrosio,Belgian,virgin,21,23,0,0,24,0,0,12,6.200000000000003,25
+11173,2011,18,yas_marina,True,False,True,False,False,liuzzi,Italian,hrt,22,20,0,0,23,0,0,11,6.700000000000003,31
+11167,2011,18,yas_marina,True,False,True,False,False,maldonado,Venezuelan,williams,23,14,1,0,19,5,0,9,3.299999999999997,26

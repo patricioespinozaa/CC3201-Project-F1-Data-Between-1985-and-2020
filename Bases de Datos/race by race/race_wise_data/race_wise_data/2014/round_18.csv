@@ -1,0 +1,18 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+12455,2014,18,interlagos,False,False,False,False,False,rosberg,German,mercedes,1,1,292,4,2,608,14,1,0.0,29
+12456,2014,18,interlagos,False,False,False,False,False,hamilton,British,mercedes,2,2,316,10,1,608,14,1,0.0999999999999943,29
+12457,2014,18,interlagos,False,False,False,False,False,massa,Brazilian,williams,3,3,83,0,8,238,0,3,0.2000000000000028,33
+12464,2014,18,interlagos,False,False,False,False,False,bottas,Finnish,williams,4,10,155,0,4,238,0,3,0.2999999999999971,25
+12458,2014,18,interlagos,False,False,False,False,False,button,British,mclaren,5,4,94,0,7,147,0,5,0.9000000000000057,34
+12459,2014,18,interlagos,False,False,False,False,False,vettel,German,red_bull,6,5,149,0,5,363,3,2,0.9000000000000057,27
+12463,2014,18,interlagos,False,False,False,False,False,kevin_magnussen,Danish,mclaren,7,9,53,0,10,147,0,5,1.0,22
+12460,2014,18,interlagos,False,False,False,False,False,alonso,Spanish,ferrari,8,6,149,0,6,196,0,4,1.0,33
+12472,2014,18,interlagos,False,False,False,False,False,ricciardo,Australian,red_bull,9,18,214,3,3,363,3,2,1.0999999999999943,25
+12461,2014,18,interlagos,False,False,False,False,False,raikkonen,Finnish,ferrari,10,7,47,0,12,196,0,4,1.0999999999999943,35
+12468,2014,18,interlagos,False,False,False,False,False,gutierrez,Mexican,sauber,11,14,0,0,20,0,0,10,1.5999999999999943,23
+12462,2014,18,interlagos,False,False,False,False,False,hulkenberg,German,force_india,12,8,76,0,9,123,0,6,2.0,27
+12470,2014,18,interlagos,False,False,False,False,False,sutil,German,sauber,13,16,0,0,18,0,0,10,2.0999999999999943,31
+12471,2014,18,interlagos,False,False,False,False,False,grosjean,French,lotus_f1,14,17,8,0,14,10,0,8,2.0,28
+12467,2014,18,interlagos,False,False,False,False,False,vergne,French,toro_rosso,15,13,22,0,13,30,0,7,2.0,24
+12466,2014,18,interlagos,False,False,False,False,False,maldonado,Venezuelan,lotus_f1,16,12,2,0,16,10,0,8,2.200000000000003,29
+12469,2014,18,interlagos,False,False,False,False,False,perez,Mexican,force_india,18,15,47,0,11,123,0,6,2.0999999999999943,24

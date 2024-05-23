@@ -1,0 +1,24 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+11559,2012,16,yeongam,True,False,False,False,False,webber,Australian,red_bull,1,2,134,2,5,324,5,1,0.0,36
+11558,2012,16,yeongam,True,False,False,False,False,vettel,German,red_bull,2,1,190,3,2,324,5,1,0.0999999999999943,25
+11567,2012,16,yeongam,True,False,False,False,False,hamilton,British,mclaren,3,10,152,3,4,283,5,2,0.2999999999999971,27
+11560,2012,16,yeongam,True,False,False,False,False,alonso,Spanish,ferrari,4,3,194,3,1,263,3,3,0.2999999999999971,31
+11562,2012,16,yeongam,True,False,False,False,False,raikkonen,Finnish,lotus_f1,5,5,157,0,3,239,0,4,0.3999999999999915,32
+11561,2012,16,yeongam,True,False,False,False,False,massa,Brazilian,ferrari,6,4,69,0,9,263,3,3,0.7000000000000028,31
+11564,2012,16,yeongam,True,False,False,False,False,grosjean,French,lotus_f1,7,7,82,0,8,239,0,4,0.7000000000000028,26
+11563,2012,16,yeongam,True,False,False,False,False,hulkenberg,German,force_india,8,6,37,0,14,81,0,7,1.0999999999999943,25
+11580,2012,16,yeongam,True,False,False,False,False,rosberg,German,mercedes,9,23,93,1,7,136,1,5,1.2000000000000028,27
+11570,2012,16,yeongam,True,False,False,False,False,michael_schumacher,German,mercedes,10,13,43,0,13,136,1,5,1.2999999999999972,43
+11581,2012,16,yeongam,True,False,False,False,False,button,British,mclaren,11,24,131,2,6,283,5,2,1.2000000000000028,32
+11568,2012,16,yeongam,True,False,False,False,False,perez,Mexican,sauber,12,11,66,0,10,116,0,6,1.2999999999999972,22
+11579,2012,16,yeongam,True,False,False,False,False,kobayashi,Japanese,sauber,13,22,50,0,11,116,0,6,1.3999999999999917,26
+11569,2012,16,yeongam,True,False,False,False,False,resta,British,force_india,14,12,44,0,12,81,0,7,1.3999999999999917,26
+11571,2012,16,yeongam,True,False,False,False,False,maldonado,Venezuelan,williams,15,14,33,1,15,58,1,8,1.5,27
+11565,2012,16,yeongam,True,False,False,False,False,vergne,French,toro_rosso,16,8,8,0,17,15,0,9,2.0999999999999943,22
+11572,2012,16,yeongam,True,False,False,False,False,bruno_senna,Brazilian,williams,17,15,25,0,16,58,1,8,2.200000000000003,28
+11573,2012,16,yeongam,True,False,False,False,False,petrov,Russian,caterham,18,16,0,0,21,0,0,11,3.0,28
+11574,2012,16,yeongam,True,False,False,False,False,kovalainen,Finnish,caterham,19,17,0,0,20,0,0,11,3.0999999999999943,30
+11575,2012,16,yeongam,True,False,False,False,False,glock,German,marussia,20,18,0,0,19,0,0,10,4.200000000000003,30
+11566,2012,16,yeongam,True,False,False,False,False,ricciardo,Australian,toro_rosso,21,9,7,0,18,15,0,9,1.8999999999999917,23
+11578,2012,16,yeongam,True,False,False,False,False,rosa,Spanish,hrt,22,21,0,0,25,0,0,12,5.700000000000003,41
+11576,2012,16,yeongam,True,False,False,False,False,pic,French,marussia,24,19,0,0,23,0,0,10,4.099999999999994,22

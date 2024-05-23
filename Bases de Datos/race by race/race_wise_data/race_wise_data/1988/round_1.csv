@@ -1,0 +1,27 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+2001,1988,1,jacarepagua,True,False,False,False,True,senna,Brazilian,mclaren,1,17,0,0,0,0,0,0,0.0,28
+2004,1988,1,jacarepagua,True,False,False,False,True,mansell,British,williams,2,20,0,0,0,0,0,0,0.5,34
+1985,1988,1,jacarepagua,True,False,False,False,True,prost,French,mclaren,3,1,0,0,0,0,0,0,0.7000000000000028,33
+1986,1988,1,jacarepagua,True,False,False,False,True,berger,Austrian,ferrari,4,2,0,0,0,0,0,0,0.9000000000000057,28
+1987,1988,1,jacarepagua,True,False,False,False,True,piquet,Brazilian,team_lotus,5,3,0,0,0,0,0,0,2.0,35
+1989,1988,1,jacarepagua,True,False,False,False,True,alboreto,Italian,ferrari,6,5,0,0,0,0,0,0,2.0,31
+1991,1988,1,jacarepagua,True,False,False,False,True,boutsen,Belgian,benetton,7,7,0,0,0,0,0,0,2.0,30
+2006,1988,1,jacarepagua,True,False,False,False,True,patrese,Italian,williams,8,22,0,0,0,0,0,0,2.300000000000012,33
+2007,1988,1,jacarepagua,True,False,False,False,True,capelli,Italian,march,9,23,0,0,0,0,0,0,2.800000000000012,24
+1990,1988,1,jacarepagua,True,False,False,False,True,satoru_nakajima,Japanese,team_lotus,10,6,0,0,0,0,0,0,3.200000000000003,35
+1988,1988,1,jacarepagua,True,False,False,False,True,warwick,British,arrows,11,4,0,0,0,0,0,0,3.6000000000000085,33
+2005,1988,1,jacarepagua,True,False,False,False,True,nannini,Italian,benetton,12,21,0,0,0,0,0,0,3.700000000000003,28
+2009,1988,1,jacarepagua,True,False,False,False,True,gugelmin,Brazilian,march,13,25,0,0,0,0,0,0,3.700000000000003,24
+1994,1988,1,jacarepagua,True,False,False,False,True,cesaris,Italian,rial,14,10,0,0,0,0,0,0,4.200000000000003,28
+1992,1988,1,jacarepagua,True,False,False,False,True,cheever,American,arrows,15,8,0,0,0,0,0,0,4.700000000000003,30
+1997,1988,1,jacarepagua,True,False,False,False,True,alliot,French,larrousse,16,13,0,0,0,0,0,0,4.800000000000011,33
+2000,1988,1,jacarepagua,True,False,False,False,True,dalmas,French,larrousse,17,16,0,0,0,0,0,0,5.300000000000011,26
+2002,1988,1,jacarepagua,True,False,False,False,True,arnoux,French,ligier,18,18,0,0,0,0,0,0,6.400000000000006,39
+1999,1988,1,jacarepagua,True,False,False,False,True,streiff,French,ags,19,15,0,0,0,0,0,0,6.400000000000006,32
+1996,1988,1,jacarepagua,True,False,False,False,True,sala,Spanish,minardi,20,12,0,0,0,0,0,0,6.400000000000006,28
+1993,1988,1,jacarepagua,True,False,False,False,True,johansson,Swedish,ligier,21,9,0,0,0,0,0,0,6.5,31
+1995,1988,1,jacarepagua,True,False,False,False,True,palmer,British,tyrrell,22,11,0,0,0,0,0,0,6.6000000000000085,31
+2008,1988,1,jacarepagua,True,False,False,False,True,campos,Spanish,minardi,23,24,0,0,0,0,0,0,6.800000000000011,27
+2003,1988,1,jacarepagua,True,False,False,False,True,modena,Italian,eurobrun,24,19,0,0,0,0,0,0,6.800000000000011,24
+1998,1988,1,jacarepagua,True,False,False,False,True,tarquini,Italian,coloni,25,14,0,0,0,0,0,0,7.300000000000011,26
+2010,1988,1,jacarepagua,True,False,False,False,True,larrauri,Argentine,eurobrun,26,26,0,0,0,0,0,0,7.600000000000008,33

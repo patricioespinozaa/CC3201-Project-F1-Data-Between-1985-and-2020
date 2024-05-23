@@ -1,0 +1,26 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+798,1985,2,estoril,False,False,False,True,False,senna,Brazilian,team_lotus,1,1,0,0,15,4,0,3,0.0,25
+810,1985,2,estoril,False,False,False,True,False,prost,French,mclaren,2,13,9,1,1,9,1,1,0.4000000000000057,30
+815,1985,2,estoril,False,False,False,True,False,keke_rosberg,Finnish,williams,3,19,0,0,21,0,0,12,0.9000000000000057,36
+801,1985,2,estoril,False,False,False,True,False,angelis,Italian,team_lotus,4,4,4,0,3,4,0,3,1.2000000000000028,27
+799,1985,2,estoril,False,False,False,True,False,alboreto,Italian,ferrari,5,2,6,0,2,9,0,2,1.5999999999999943,28
+804,1985,2,estoril,False,False,False,True,False,warwick,British,renault,6,7,0,0,10,2,0,4,2.0999999999999943,30
+808,1985,2,estoril,False,False,False,True,False,lauda,Austrian,mclaren,7,11,0,0,18,9,1,1,2.299999999999997,36
+811,1985,2,estoril,False,False,False,True,False,cesaris,Italian,ligier,8,14,0,0,19,1,0,5,2.299999999999997,25
+802,1985,2,estoril,False,False,False,True,False,mansell,British,williams,9,5,0,0,23,0,0,12,2.5999999999999943,31
+813,1985,2,estoril,False,False,False,True,False,boutsen,Belgian,arrows,10,16,0,0,11,0,0,8,2.5999999999999943,27
+805,1985,2,estoril,False,False,False,True,False,johansson,Swedish,ferrari,11,8,0,0,7,9,0,2,2.700000000000003,28
+800,1985,2,estoril,False,False,False,True,False,tambay,French,renault,12,3,2,0,5,2,0,4,3.0999999999999943,35
+819,1985,2,estoril,False,False,False,True,False,patrese,Italian,alfa,13,23,0,0,20,0,0,10,3.200000000000003,31
+809,1985,2,estoril,False,False,False,True,False,cheever,American,alfa,14,12,0,0,16,0,0,10,3.5999999999999943,27
+807,1985,2,estoril,False,False,False,True,False,manfred_winkelhock,German,ram,15,10,0,0,13,0,0,7,3.700000000000003,33
+812,1985,2,estoril,False,False,False,True,False,piquet,Brazilian,brabham,16,15,0,0,25,0,0,13,3.700000000000003,32
+817,1985,2,estoril,False,False,False,True,False,berger,Austrian,arrows,17,21,0,0,14,0,0,8,3.799999999999997,25
+816,1985,2,estoril,False,False,False,True,False,laffite,French,ligier,18,20,1,0,6,1,0,5,3.9000000000000057,41
+821,1985,2,estoril,False,False,False,True,False,hesnault,French,brabham,19,25,0,0,22,0,0,13,4.700000000000003,28
+820,1985,2,estoril,False,False,False,True,False,alliot,French,ram,20,24,0,0,9,0,0,7,5.200000000000003,30
+803,1985,2,estoril,False,False,False,True,False,bellof,German,tyrrell,21,6,0,0,0,0,0,6,6.299999999999997,27
+814,1985,2,estoril,False,False,False,True,False,brundle,British,tyrrell,22,17,0,0,8,0,0,6,6.599999999999994,25
+822,1985,2,estoril,False,False,False,True,False,palmer,British,zakspeed,23,26,0,0,0,0,0,0,7.200000000000003,28
+818,1985,2,estoril,False,False,False,True,False,martini,Italian,minardi,25,22,0,0,17,0,0,11,7.599999999999994,23
+806,1985,2,estoril,False,False,False,True,False,ghinzani,Italian,osella,26,9,0,0,12,0,0,9,9.900000000000006,33

@@ -1,0 +1,19 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+8427,2004,17,suzuka,True,False,False,False,False,michael_schumacher,German,ferrari,1,1,136,12,1,244,14,1,0.0,35
+8428,2004,17,suzuka,True,False,False,False,False,ralf_schumacher,German,williams,2,2,12,0,11,64,0,4,0.5,29
+8446,2004,17,suzuka,True,False,False,False,False,webber,Australian,jaguar,3,20,7,0,13,10,0,7,1.0999999999999943,28
+8430,2004,17,suzuka,True,False,False,False,False,sato,Japanese,bar,4,4,26,0,8,105,0,2,1.4000000000000057,27
+8429,2004,17,suzuka,True,False,False,False,False,button,British,bar,5,3,79,0,3,105,0,2,1.7000000000000028,24
+8437,2004,17,suzuka,True,False,False,False,False,trulli,Italian,toyota,6,11,46,1,5,9,0,8,1.7000000000000028,30
+8434,2004,17,suzuka,True,False,False,False,False,fisichella,Italian,sauber,7,8,21,0,10,32,0,6,2.5999999999999943,31
+8444,2004,17,suzuka,True,False,False,False,False,coulthard,British,mclaren,8,18,24,0,9,58,1,5,2.700000000000003,33
+8436,2004,17,suzuka,True,False,False,False,False,villeneuve,Canadian,renault,9,10,0,0,23,96,1,3,2.799999999999997,33
+8440,2004,17,suzuka,True,False,False,False,False,panis,French,toyota,10,14,6,0,14,9,0,8,2.9000000000000057,38
+8431,2004,17,suzuka,True,False,False,False,False,alonso,Spanish,renault,11,5,50,0,4,96,1,3,3.200000000000003,23
+8432,2004,17,suzuka,True,False,False,False,False,raikkonen,Finnish,mclaren,12,6,34,1,7,58,1,5,3.299999999999997,24
+8433,2004,17,suzuka,True,False,False,False,False,montoya,Colombian,williams,13,7,46,0,6,64,0,4,4.200000000000003,29
+8438,2004,17,suzuka,True,False,False,False,False,klien,Austrian,jaguar,14,12,3,0,16,10,0,7,4.799999999999997,21
+8445,2004,17,suzuka,True,False,False,False,False,barrichello,Brazilian,ferrari,15,19,108,2,2,244,14,1,5.099999999999994,32
+8439,2004,17,suzuka,True,False,False,False,False,heidfeld,German,jordan,16,13,3,0,18,5,0,9,8.5,27
+8441,2004,17,suzuka,True,False,False,False,False,glock,German,jordan,17,15,2,0,19,5,0,9,10.0,22
+8442,2004,17,suzuka,True,False,False,False,False,bruni,Italian,minardi,18,16,0,0,25,1,0,10,14.599999999999994,23

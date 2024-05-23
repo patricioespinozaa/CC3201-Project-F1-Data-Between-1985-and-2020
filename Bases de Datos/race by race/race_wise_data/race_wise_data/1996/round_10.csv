@@ -1,0 +1,21 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+5499,1996,10,silverstone,True,False,False,False,False,damon_hill,British,williams,1,15,63,6,1,101,7,1,0.0,35
+5485,1996,10,silverstone,True,False,False,False,False,villeneuve,Canadian,williams,2,1,38,1,2,101,7,1,0.1999999999999886,25
+5504,1996,10,silverstone,True,False,False,False,False,michael_schumacher,German,ferrari,3,20,26,1,3,35,1,2,0.7999999999999972,27
+5487,1996,10,silverstone,True,False,False,False,False,hakkinen,Finnish,mclaren,4,3,12,0,6,26,0,4,1.0,27
+5496,1996,10,silverstone,True,False,False,False,False,alesi,French,benetton,5,12,25,0,4,35,0,3,1.3999999999999917,32
+5488,1996,10,silverstone,True,False,False,False,False,barrichello,Brazilian,jordan,6,4,7,0,10,9,0,7,1.5,24
+5486,1996,10,silverstone,True,False,False,False,False,berger,Austrian,benetton,7,2,10,0,8,35,0,3,1.7999999999999972,36
+5490,1996,10,silverstone,True,False,False,False,False,brundle,British,jordan,8,6,2,0,14,9,0,7,2.0,37
+5489,1996,10,silverstone,True,False,False,False,False,coulthard,British,mclaren,9,5,14,0,5,26,0,4,2.0999999999999943,25
+5503,1996,10,silverstone,True,False,False,False,False,irvine,British,ferrari,10,19,9,0,9,35,1,2,2.299999999999997,30
+5492,1996,10,silverstone,True,False,False,False,False,frentzen,German,sauber,11,8,6,0,11,10,0,6,2.6999999999999886,29
+5502,1996,10,silverstone,True,False,False,False,False,katayama,Japanese,tyrrell,12,18,0,0,20,5,0,8,3.0,33
+5493,1996,10,silverstone,True,False,False,False,False,herbert,British,sauber,13,9,4,0,13,10,0,6,3.0,32
+5491,1996,10,silverstone,True,False,False,False,False,salo,Finnish,tyrrell,14,7,5,0,12,5,0,8,3.0,29
+5494,1996,10,silverstone,True,False,False,False,False,verstappen,Dutch,footwork,15,10,1,0,16,1,0,9,3.1999999999999886,24
+5497,1996,10,silverstone,True,False,False,False,False,panis,French,ligier,16,13,11,1,7,12,1,5,3.299999999999997,29
+5498,1996,10,silverstone,True,False,False,False,False,diniz,Brazilian,ligier,17,14,1,0,15,12,1,5,4.199999999999989,26
+5495,1996,10,silverstone,True,False,False,False,False,fisichella,Italian,minardi,18,11,0,0,17,0,0,10,4.5,23
+5500,1996,10,silverstone,True,False,False,False,False,lamy,Portuguese,minardi,19,16,0,0,18,0,0,10,4.599999999999994,24
+5501,1996,10,silverstone,True,False,False,False,False,rosset,Brazilian,footwork,20,17,0,0,19,1,0,9,4.599999999999994,27

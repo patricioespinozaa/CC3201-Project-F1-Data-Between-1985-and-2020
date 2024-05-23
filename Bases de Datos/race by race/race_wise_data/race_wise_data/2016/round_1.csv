@@ -1,0 +1,23 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+12865,2016,1,albert_park,False,False,False,False,False,hamilton,British,mercedes,1,2,0,0,0,0,0,0,0.0,31
+12864,2016,1,albert_park,False,False,False,False,False,rosberg,German,mercedes,2,1,0,0,0,0,0,0,0.4000000000000057,30
+12866,2016,1,albert_park,False,False,False,False,False,vettel,German,ferrari,3,3,0,0,0,0,0,0,0.9000000000000057,28
+12881,2016,1,albert_park,False,False,False,False,False,raikkonen,Finnish,ferrari,4,18,0,0,0,0,0,0,1.2000000000000028,36
+12873,2016,1,albert_park,False,False,False,False,False,max_verstappen,Dutch,toro_rosso,5,10,0,0,0,0,0,0,1.6000000000000083,18
+12868,2016,1,albert_park,False,False,False,False,False,massa,Brazilian,williams,6,5,0,0,0,0,0,0,1.7000000000000028,34
+12872,2016,1,albert_park,False,False,False,False,False,sainz,Spanish,toro_rosso,7,9,0,0,0,0,0,0,1.7999999999999972,21
+12867,2016,1,albert_park,False,False,False,False,False,ricciardo,Australian,red_bull,8,4,0,0,0,0,0,0,1.7999999999999972,26
+12876,2016,1,albert_park,False,False,False,False,False,perez,Mexican,force_india,9,13,0,0,0,0,0,0,2.0,26
+12870,2016,1,albert_park,False,False,False,False,False,hulkenberg,German,force_india,10,7,0,0,0,0,0,0,2.1000000000000085,28
+12884,2016,1,albert_park,False,False,False,False,False,alonso,Spanish,mclaren,11,21,0,0,0,0,0,0,2.299999999999997,34
+12877,2016,1,albert_park,False,False,False,False,False,button,British,mclaren,12,14,0,0,0,0,0,0,2.5,36
+12874,2016,1,albert_park,False,False,False,False,False,jolyon_palmer,British,renault,13,11,0,0,0,0,0,0,3.799999999999997,25
+12875,2016,1,albert_park,False,False,False,False,False,kevin_magnussen,Danish,renault,14,12,0,0,0,0,0,0,3.9000000000000057,23
+12880,2016,1,albert_park,False,False,False,False,False,ericsson,Swedish,sauber,15,17,0,0,0,0,0,0,3.6000000000000085,25
+12871,2016,1,albert_park,False,False,False,False,False,bottas,Finnish,williams,16,8,0,0,0,0,0,0,2.200000000000003,26
+12878,2016,1,albert_park,False,False,False,False,False,nasr,Brazilian,sauber,17,15,0,0,0,0,0,0,4.200000000000003,23
+12885,2016,1,albert_park,False,False,False,False,False,kvyat,Russian,red_bull,18,22,0,0,0,0,0,0,4.200000000000003,21
+12869,2016,1,albert_park,False,False,False,False,False,grosjean,French,haas,19,6,0,0,0,0,0,0,4.5,29
+12883,2016,1,albert_park,False,False,False,False,False,gutierrez,Mexican,haas,20,20,0,0,0,0,0,0,5.799999999999997,24
+12879,2016,1,albert_park,False,False,False,False,False,wehrlein,German,manor,21,16,0,0,0,0,0,0,5.799999999999997,21
+12882,2016,1,albert_park,False,False,False,False,False,haryanto,Indonesian,manor,22,19,0,0,0,0,0,0,5.799999999999997,23

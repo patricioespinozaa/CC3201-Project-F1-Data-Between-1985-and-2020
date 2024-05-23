@@ -1,0 +1,26 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+920,1985,7,ricard,False,False,False,False,False,keke_rosberg,Finnish,williams,1,2,12,1,5,17,1,4,0.0,36
+935,1985,7,ricard,False,False,False,False,False,senna,Brazilian,team_lotus,2,18,9,1,7,33,2,2,0.2999999999999971,25
+940,1985,7,ricard,False,False,False,False,False,alboreto,Italian,ferrari,3,23,31,1,1,47,1,1,0.7999999999999972,28
+921,1985,7,ricard,False,False,False,False,False,prost,French,mclaren,4,3,22,2,3,25,2,3,0.7999999999999972,30
+919,1985,7,ricard,False,False,False,False,False,piquet,Brazilian,brabham,5,1,1,0,16,1,0,9,1.2999999999999972,32
+934,1985,7,ricard,False,False,False,False,False,lauda,Austrian,mclaren,6,17,3,0,12,25,2,3,1.4000000000000057,36
+923,1985,7,ricard,False,False,False,False,False,angelis,Italian,team_lotus,7,5,24,1,2,33,2,2,1.5,27
+943,1985,7,ricard,False,False,False,False,False,mansell,British,williams,8,26,5,0,9,17,1,4,2.200000000000003,31
+936,1985,7,ricard,False,False,False,False,False,berger,Austrian,arrows,9,19,0,0,23,6,0,6,2.200000000000003,25
+924,1985,7,ricard,False,False,False,False,False,tambay,French,renault,10,6,10,0,6,12,0,5,2.5,36
+925,1985,7,ricard,False,False,False,False,False,warwick,British,renault,11,7,2,0,14,12,0,5,3.0,30
+927,1985,7,ricard,False,False,False,False,False,boutsen,Belgian,arrows,12,9,6,0,8,6,0,6,3.0999999999999943,27
+941,1985,7,ricard,False,False,False,False,False,cesaris,Italian,ligier,13,24,3,0,11,5,0,7,3.0999999999999943,26
+926,1985,7,ricard,False,False,False,False,False,surer,Swiss,brabham,14,8,0,0,18,1,0,9,3.5999999999999943,33
+942,1985,7,ricard,False,False,False,False,False,laffite,French,ligier,15,25,2,0,15,5,0,7,3.5999999999999943,41
+922,1985,7,ricard,False,False,False,False,False,johansson,Swedish,ferrari,16,4,13,0,4,47,1,1,4.200000000000003,28
+929,1985,7,ricard,False,False,False,False,False,patrese,Italian,alfa,17,11,0,0,22,0,0,10,4.400000000000006,31
+928,1985,7,ricard,False,False,False,False,False,cheever,American,alfa,18,10,0,0,20,0,0,10,4.599999999999994,27
+931,1985,7,ricard,False,False,False,False,False,fabi,Italian,toleman,19,14,0,0,26,0,0,14,5.200000000000003,30
+930,1985,7,ricard,False,False,False,False,False,manfred_winkelhock,German,ram,20,12,0,0,25,0,0,12,7.5,33
+933,1985,7,ricard,False,False,False,False,False,brundle,British,tyrrell,21,16,0,0,17,4,0,8,7.799999999999997,26
+939,1985,7,ricard,False,False,False,False,False,palmer,British,zakspeed,22,22,0,0,24,0,0,13,9.099999999999994,28
+938,1985,7,ricard,False,False,False,False,False,alliot,French,ram,23,21,0,0,21,0,0,12,9.599999999999994,30
+932,1985,7,ricard,False,False,False,False,False,ghinzani,Italian,osella,24,15,0,0,19,0,0,11,11.799999999999995,33
+937,1985,7,ricard,False,False,False,False,False,martini,Italian,minardi,25,20,0,0,27,0,0,15,11.900000000000006,24

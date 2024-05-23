@@ -1,0 +1,27 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+1933,1987,15,suzuka,False,False,True,False,False,berger,Austrian,ferrari,1,1,18,0,6,26,0,4,0.0,28
+1939,1987,15,suzuka,False,False,True,False,False,prost,French,mclaren,2,7,46,3,4,72,3,2,0.7000000000000028,32
+1937,1987,15,suzuka,False,False,True,False,False,boutsen,Belgian,benetton,3,5,10,0,8,22,0,5,0.9000000000000057,30
+1936,1987,15,suzuka,False,False,True,False,False,alboreto,Italian,ferrari,4,4,8,0,9,26,0,4,1.0,30
+1947,1987,15,suzuka,False,False,True,False,False,piquet,Brazilian,williams,5,15,73,3,1,137,9,1,1.0999999999999943,35
+1954,1987,15,suzuka,False,False,True,False,False,fabi,Italian,benetton,6,22,12,0,7,22,0,5,1.7000000000000028,32
+1934,1987,15,suzuka,False,False,True,False,False,senna,Brazilian,team_lotus,7,2,51,2,3,57,2,3,2.5999999999999943,27
+1943,1987,15,suzuka,False,False,True,False,False,patrese,Italian,brabham,8,11,6,0,11,10,0,7,2.700000000000003,33
+1935,1987,15,suzuka,False,False,True,False,False,johansson,Swedish,mclaren,9,3,26,0,5,72,3,2,3.299999999999997,31
+1953,1987,15,suzuka,False,False,True,False,False,cesaris,Italian,brabham,10,21,4,0,13,10,0,7,3.4000000000000057,28
+1938,1987,15,suzuka,False,False,True,False,False,satoru_nakajima,Japanese,team_lotus,11,6,6,0,12,57,2,3,3.5999999999999943,34
+1941,1987,15,suzuka,False,False,True,False,False,cheever,American,arrows,12,9,8,0,10,11,0,6,3.700000000000003,29
+1942,1987,15,suzuka,False,False,True,False,False,warwick,British,arrows,13,10,3,0,16,11,0,6,4.299999999999997,33
+1951,1987,15,suzuka,False,False,True,False,False,nannini,Italian,minardi,14,19,0,0,25,0,0,14,4.599999999999994,28
+1952,1987,15,suzuka,False,False,True,False,False,brundle,British,zakspeed,15,20,2,0,18,2,0,10,5.599999999999994,28
+1955,1987,15,suzuka,False,False,True,False,False,danner,German,zakspeed,16,23,0,0,22,2,0,10,6.0,29
+1948,1987,15,suzuka,False,False,True,False,False,arnoux,French,ligier,17,16,1,0,20,1,0,11,6.099999999999994,39
+1958,1987,15,suzuka,False,False,True,False,False,alliot,French,larrousse,18,26,3,0,17,3,0,9,6.200000000000003,33
+1940,1987,15,suzuka,False,False,True,False,False,palmer,British,tyrrell,19,8,4,0,15,8,0,8,7.400000000000006,30
+1956,1987,15,suzuka,False,False,True,False,False,capelli,Italian,march,20,24,1,0,19,1,0,12,7.799999999999997,24
+1957,1987,15,suzuka,False,False,True,False,False,campos,Spanish,minardi,21,25,0,0,27,0,0,14,8.200000000000003,27
+1946,1987,15,suzuka,False,False,True,False,False,dalmas,French,larrousse,22,14,0,0,24,3,0,9,8.299999999999997,26
+1949,1987,15,suzuka,False,False,True,False,False,caffi,Italian,osella,23,17,0,0,26,0,0,15,8.900000000000006,23
+1945,1987,15,suzuka,False,False,True,False,False,ghinzani,Italian,ligier,24,13,0,0,21,1,0,11,9.0,35
+1944,1987,15,suzuka,False,False,True,False,False,streiff,French,tyrrell,25,12,4,0,14,8,0,8,9.599999999999994,32
+1950,1987,15,suzuka,False,False,True,False,False,moreno,Brazilian,ags,26,18,0,0,0,0,0,13,9.700000000000005,28

@@ -1,0 +1,23 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+6671,1999,16,suzuka,False,False,True,False,False,michael_schumacher,German,ferrari,1,2,38,2,5,118,6,1,0.0,30
+6670,1999,16,suzuka,False,False,True,False,False,hakkinen,Finnish,mclaren,2,1,66,4,2,114,6,2,0.2999999999999971,31
+6687,1999,16,suzuka,False,False,True,False,False,coulthard,British,mclaren,3,17,48,2,4,114,6,2,0.7000000000000028,28
+6673,1999,16,suzuka,False,False,True,False,False,frentzen,German,jordan,4,4,51,2,3,58,2,3,1.2000000000000028,32
+6672,1999,16,suzuka,False,False,True,False,False,irvine,British,ferrari,5,3,70,4,1,118,6,1,1.5,33
+6690,1999,16,suzuka,False,False,True,False,False,panis,French,prost,6,20,2,0,15,9,0,7,2.0999999999999943,33
+6691,1999,16,suzuka,False,False,True,False,False,trulli,Italian,prost,7,21,7,0,11,9,0,7,2.0999999999999943,25
+6676,1999,16,suzuka,False,False,True,False,False,herbert,British,stewart,8,7,15,1,8,36,1,4,2.200000000000003,35
+6677,1999,16,suzuka,False,False,True,False,False,zanardi,Italian,williams,8,22,0,0,19,33,0,5,2.200000000000003,33
+6674,1999,16,suzuka,False,False,True,False,False,ralf_schumacher,German,williams,9,5,33,0,6,33,0,5,2.200000000000003,24
+6675,1999,16,suzuka,False,False,True,False,False,alesi,French,sauber,10,6,1,0,16,4,0,8,2.200000000000003,35
+6679,1999,16,suzuka,False,False,True,False,False,villeneuve,Canadian,bar,11,9,0,0,23,0,0,11,2.200000000000003,28
+6689,1999,16,suzuka,False,False,True,False,False,damon_hill,British,jordan,12,19,7,0,12,58,2,3,2.5999999999999943,39
+6678,1999,16,suzuka,False,False,True,False,False,barrichello,Brazilian,stewart,13,8,21,0,7,36,1,4,2.5999999999999943,27
+6684,1999,16,suzuka,False,False,True,False,False,fisichella,Italian,benetton,14,14,13,0,9,16,0,6,2.799999999999997,26
+6680,1999,16,suzuka,False,False,True,False,False,wurz,Austrian,benetton,15,10,3,0,13,16,0,6,2.799999999999997,25
+6681,1999,16,suzuka,False,False,True,False,False,diniz,Brazilian,sauber,17,11,3,0,14,4,0,8,3.200000000000003,29
+6682,1999,16,suzuka,False,False,True,False,False,zonta,Brazilian,bar,18,12,0,0,21,0,0,11,3.4000000000000057,23
+6685,1999,16,suzuka,False,False,True,False,False,takagi,Japanese,arrows,19,15,0,0,20,1,0,9,3.5999999999999943,25
+6688,1999,16,suzuka,False,False,True,False,False,gene,Spanish,minardi,20,18,1,0,17,1,0,10,4.0,25
+6683,1999,16,suzuka,False,False,True,False,False,rosa,Spanish,arrows,21,13,1,0,18,1,0,9,4.200000000000003,28
+6686,1999,16,suzuka,False,False,True,False,False,badoer,Italian,minardi,22,16,0,0,22,1,0,10,5.0,28

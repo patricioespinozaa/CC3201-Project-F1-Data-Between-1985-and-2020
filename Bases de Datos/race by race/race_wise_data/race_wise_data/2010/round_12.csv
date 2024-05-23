@@ -1,0 +1,25 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+10560,2010,12,hungaroring,False,False,False,False,False,vettel,German,red_bull,1,3,136,2,4,272,5,2,0.0,23
+10558,2010,12,hungaroring,False,False,False,False,False,webber,Australian,red_bull,2,1,136,3,3,272,5,2,0.4000000000000057,33
+10559,2010,12,hungaroring,False,False,False,False,False,alonso,Spanish,ferrari,3,2,123,2,5,208,2,3,1.2000000000000028,29
+10561,2010,12,hungaroring,False,False,False,False,False,massa,Brazilian,ferrari,4,4,85,0,8,208,2,3,1.5,29
+10577,2010,12,hungaroring,False,False,False,False,False,hamilton,British,mclaren,5,20,157,2,1,300,4,1,1.7000000000000028,25
+10579,2010,12,hungaroring,False,False,False,False,False,rosberg,German,mercedes,6,22,94,0,6,132,0,4,2.299999999999997,25
+10562,2010,12,hungaroring,False,False,False,False,False,petrov,Russian,renault,7,5,7,0,14,96,0,5,2.4000000000000057,25
+10578,2010,12,hungaroring,False,False,False,False,False,kubica,Polish,renault,8,21,89,0,7,96,0,5,2.5,25
+10564,2010,12,hungaroring,False,False,False,False,False,rosa,Spanish,sauber,9,7,0,0,18,15,0,8,2.6000000000000085,39
+10563,2010,12,hungaroring,False,False,False,False,False,hulkenberg,German,williams,10,6,2,0,17,31,0,7,2.9000000000000057,22
+10565,2010,12,hungaroring,False,False,False,False,False,button,British,mclaren,11,8,143,2,2,300,4,1,2.5,30
+10567,2010,12,hungaroring,False,False,False,False,False,barrichello,Brazilian,williams,12,10,29,0,11,31,0,7,2.5,38
+10580,2010,12,hungaroring,False,False,False,False,False,sutil,German,force_india,13,23,35,0,10,47,0,6,2.700000000000003,27
+10568,2010,12,hungaroring,False,False,False,False,False,michael_schumacher,German,mercedes,14,11,38,0,9,132,0,4,2.799999999999997,41
+10569,2010,12,hungaroring,False,False,False,False,False,buemi,Swiss,toro_rosso,15,12,7,0,15,10,0,9,3.1000000000000085,21
+10570,2010,12,hungaroring,False,False,False,False,False,liuzzi,Italian,force_india,16,13,12,0,13,47,0,6,3.1000000000000085,29
+10581,2010,12,hungaroring,False,False,False,False,False,alguersuari,Spanish,toro_rosso,17,24,3,0,16,10,0,9,3.200000000000003,20
+10573,2010,12,hungaroring,False,False,False,False,False,glock,German,virgin,18,16,0,0,24,0,0,12,5.299999999999997,28
+10571,2010,12,hungaroring,False,False,False,False,False,kovalainen,Finnish,lotus_racing,19,14,0,0,19,0,0,10,5.299999999999997,28
+10572,2010,12,hungaroring,False,False,False,False,False,trulli,Italian,lotus_racing,20,15,0,0,22,0,0,10,5.400000000000006,36
+10575,2010,12,hungaroring,False,False,False,False,False,grassi,Brazilian,virgin,21,18,0,0,21,0,0,12,6.299999999999997,25
+10574,2010,12,hungaroring,False,False,False,False,False,bruno_senna,Brazilian,hrt,22,17,0,0,23,0,0,11,7.600000000000008,26
+10566,2010,12,hungaroring,False,False,False,False,False,kobayashi,Japanese,sauber,23,9,15,0,12,15,0,8,3.4000000000000057,23
+10576,2010,12,hungaroring,False,False,False,False,False,yamamoto,Japanese,hrt,24,19,0,0,25,0,0,11,7.700000000000003,28

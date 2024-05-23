@@ -1,0 +1,27 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+2661,1989,11,spa,False,True,False,False,False,senna,Brazilian,mclaren,1,1,42,4,2,98,7,1,0.0,29
+2662,1989,11,spa,False,True,False,False,False,prost,French,mclaren,2,2,56,3,1,98,7,1,0.5999999999999943,34
+2683,1989,11,spa,False,True,False,False,False,berger,Austrian,ferrari,3,23,0,0,0,34,2,3,1.5,30
+2664,1989,11,spa,False,True,False,False,False,boutsen,Belgian,williams,4,4,17,1,5,42,1,2,1.8999999999999917,32
+2679,1989,11,spa,False,True,False,False,False,patrese,Italian,williams,5,19,25,0,4,42,1,2,2.0,35
+2663,1989,11,spa,False,True,False,False,False,mansell,British,ferrari,6,3,34,2,3,34,2,3,2.0,36
+2665,1989,11,spa,False,True,False,False,False,nannini,Italian,benetton,7,5,12,0,6,17,0,4,4.199999999999989,30
+2684,1989,11,spa,False,True,False,False,False,modena,Italian,brabham,8,24,4,0,13,5,0,9,4.699999999999989,26
+2667,1989,11,spa,False,True,False,False,False,gugelmin,Brazilian,march,9,7,4,0,14,4,0,10,4.799999999999997,26
+2666,1989,11,spa,False,True,False,False,False,warwick,British,arrows,10,6,5,0,11,11,0,5,5.0,35
+2676,1989,11,spa,False,True,False,False,False,alliot,French,larrousse,11,16,0,0,0,0,0,16,5.0,35
+2681,1989,11,spa,False,True,False,False,False,caffi,Italian,dallara,12,21,4,0,15,8,0,8,5.0,25
+2670,1989,11,spa,False,True,False,False,False,pirro,Italian,benetton,13,10,0,0,27,17,0,4,5.0,27
+2669,1989,11,spa,False,True,False,False,False,martini,Italian,minardi,14,9,2,0,18,3,0,13,5.199999999999989,28
+2668,1989,11,spa,False,True,False,False,False,johansson,Swedish,onyx,15,8,2,0,20,2,0,14,5.199999999999989,32
+2686,1989,11,spa,False,True,False,False,False,herbert,British,tyrrell,16,26,5,0,10,10,0,6,5.299999999999997,25
+2685,1989,11,spa,False,True,False,False,False,arnoux,French,ligier,17,25,2,0,19,3,0,12,5.399999999999992,41
+2671,1989,11,spa,False,True,False,False,False,cesaris,Italian,dallara,18,11,4,0,12,8,0,8,5.399999999999992,30
+2672,1989,11,spa,False,True,False,False,False,capelli,Italian,march,19,12,0,0,28,4,0,10,5.399999999999992,26
+2682,1989,11,spa,False,True,False,False,False,brundle,British,brabham,20,22,1,0,24,5,0,9,5.399999999999992,30
+2674,1989,11,spa,False,True,False,False,False,palmer,British,tyrrell,21,14,1,0,23,10,0,6,5.699999999999989,32
+2680,1989,11,spa,False,True,False,False,False,alboreto,Italian,larrousse,22,20,6,0,9,0,0,16,5.699999999999989,32
+2678,1989,11,spa,False,True,False,False,False,gachot,Belgian,onyx,23,18,0,0,30,2,0,14,5.799999999999997,26
+2677,1989,11,spa,False,True,False,False,False,cheever,American,arrows,24,17,6,0,8,11,0,5,5.799999999999997,31
+2675,1989,11,spa,False,True,False,False,False,sala,Spanish,minardi,25,15,1,0,25,3,0,13,6.099999999999994,30
+2673,1989,11,spa,False,True,False,False,False,grouillard,French,ligier,26,13,1,0,21,3,0,12,6.099999999999994,30
